@@ -1,0 +1,31 @@
+{
+  "slug": "2026-10-05-film-session-phi-nyk",
+  "title": "Film Session: PHI @ NYK",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_color": "#D97706",
+  "author_role": "Point Guard Expert",
+  "date": "2026-10-05",
+  "type": "daily",
+  "tag": "Preview",
+  "tag_color": "#D97706",
+  "read_time": "3 min",
+  "summary": "A point guard's read on PHI @ NYK on 2026-10-20 — where the matchup is actually won, possession by possession, with the Knicks' net rating edge and home floor setting the table for New York.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Reading the Floor\n\nPHI @ NYK on 2026-10-20. Forget the final number for a second — here's where it actually comes from."
+    },
+    {
+      "type": "text",
+      "value": "- **Net Rating Diff**: +5.6 pts — New York Knicks +5.0 vs Philadelphia 76ers -0.7, proj. 98.5 possessions\n\nAlright, let's break down the tape. New York's running a +5.0 net rating this season — that means they're outscoring opponents by 5 points per 100 possessions, which is legit. Philadelphia, on the other hand, sitting at -0.7. That's basically break-even basketball, maybe a tick below. Over the projected 98.5 possessions we're expecting in this one, that gap translates to about 5.6 points of separation before we even factor in anything else. That's your baseline — the talent and execution gap between these two squads right now.\n\n- **Home Advantage**: +2.3 pts — League-measured average\n\nThen you add the Garden factor. Home court is real, and the league average tells us it's worth about 2.3 points. Familiar rims, your bed the night before, the crowd energy when you make a run — it all adds up. New York gets that bump here.\n\n- **Back-to-Back**: +0.0 pts — Both teams rested\n\nNo fatigue angle to work tonight. Both teams are coming in fresh, legs under them, no second night of a back-to-back grinding anybody down. Clean slate on the conditioning front.\n\n- **Absences**: +0.0 pts — No absences for either team\n\nAnd everybody's suited up. No rotation holes to exploit, no missing pieces changing the matchup calculus. This is both teams at full strength."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#D97706",
+      "title": "ACE'S READ",
+      "value": "NYK in the driver's seat",
+      "sub": "Model margin: {:+.1f} (home − away). Doesn't mean the game is played that way — means that's who should be."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "2026-10-04-the-numbers-going-into-2026-10-20",
+  "title": "The Numbers Going Into 2026-10-20",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_color": "#0EA5E9",
+  "author_role": "Data Analyst",
+  "date": "2026-10-04",
+  "type": "daily",
+  "tag": "Data",
+  "tag_color": "#0EA5E9",
+  "read_time": "3 min",
+  "summary": "No narrative here. No hot takes, no storylines about streaks or revenge games. Just the model's current read on the slate — win probabilities and projected margins derived from team ratings as they stand right now. These numbers reflect underlying strength, not who's riding momentum or playing with a chip on their shoulder. The probabilities are what they are because that's what the data supports given current form and matchup dynamics. If a team is favored by 8.7 points, that's the spread the model generates from its efficiency differentials and pace adjustments, not because 8.7 feels right or makes for a clean betting line. This is the baseline. Everything else is noise.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## What the Model Sees\n\n3 game(s) on the board for 2026-10-20. Here's the read, straight from the ratings."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "BOS @ DET",
+          "value": "55.6%"
+        },
+        {
+          "label": "PHI @ NYK",
+          "value": "69.7%"
+        },
+        {
+          "label": "OKC @ SAS",
+          "value": "52.6%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Slate Breakdown",
+      "headers": [
+        "Matchup",
+        "Favored",
+        "Projected Margin (home − away)"
+      ],
+      "rows": [
+        [
+          "BOS @ DET",
+          "DET, 55.6%",
+          "+2.1"
+        ],
+        [
+          "PHI @ NYK",
+          "NYK, 69.7%",
+          "+7.9"
+        ],
+        [
+          "OKC @ SAS",
+          "SAS, 52.6%",
+          "+1.0"
+        ]
+      ]
+    }
+  ]
+}

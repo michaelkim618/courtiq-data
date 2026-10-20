@@ -1,0 +1,64 @@
+{
+  "slug": "2026-10-16-the-numbers-going-into-2026-10-20",
+  "title": "The Numbers Going Into 2026-10-20",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_color": "#0EA5E9",
+  "author_role": "Data Analyst",
+  "date": "2026-10-16",
+  "type": "daily",
+  "tag": "Data",
+  "tag_color": "#0EA5E9",
+  "read_time": "3 min",
+  "summary": "No narrative here — just the model's current assessment of tonight's slate. Win probabilities are derived from our Elo-based ratings system, updated through yesterday's results. Projected margins follow from the same inputs. These aren't predictions in the crystal ball sense; they're probability distributions. A 65% win expectancy means the favorite wins roughly two out of every three times in that matchup scenario, not that they're guaranteed anything. The numbers reflect team strength as of this moment, filtered through home court adjustment and recent performance decay. Context—injuries, rest, rotation changes—lives outside the model until it shows up in actual results. What you're seeing below is the baseline: where the math stands before the ball goes up.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## What the Model Sees\n\n3 game(s) on the board for 2026-10-20. Here's the read, straight from the ratings."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "BOS @ DET",
+          "value": "55.6%"
+        },
+        {
+          "label": "PHI @ NYK",
+          "value": "69.7%"
+        },
+        {
+          "label": "OKC @ SAS",
+          "value": "52.6%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Slate Breakdown",
+      "headers": [
+        "Matchup",
+        "Favored",
+        "Projected Margin (home − away)"
+      ],
+      "rows": [
+        [
+          "BOS @ DET",
+          "DET, 55.6%",
+          "+2.1"
+        ],
+        [
+          "PHI @ NYK",
+          "NYK, 69.7%",
+          "+7.9"
+        ],
+        [
+          "OKC @ SAS",
+          "SAS, 52.6%",
+          "+1.0"
+        ]
+      ]
+    }
+  ],
+  "post_kind": "feature"
+}

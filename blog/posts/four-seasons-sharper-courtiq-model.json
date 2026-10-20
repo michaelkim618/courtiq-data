@@ -1,0 +1,63 @@
+{
+  "slug": "four-seasons-sharper-courtiq-model",
+  "title": "Four Seasons In: How CourtIQ's Model Has Gotten Sharper Every Year",
+  "author": "Doc",
+  "author_emoji": "🧠",
+  "author_color": "#7C3AED",
+  "author_role": "Analytics Guru",
+  "date": "2026-09-28",
+  "type": "weekly",
+  "tag": "Analysis",
+  "tag_color": "#7C3AED",
+  "read_time": "5 min",
+  "summary": "Four full seasons of graded picks are in the book. Doc walks through the accuracy trend season by season — and previews the data behind night one of 2026-27.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Number That Matters\n\nFour full seasons of graded picks are now in the record book. The question worth asking isn't whether the model called more games right than wrong — at this sample size, 68.8% last season, that's not in doubt. It's whether the model is actually *improving*, or just running hot."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        { "label": "2022-23", "value": "62.1%" },
+        { "label": "2023-24", "value": "65.8%" },
+        { "label": "2024-25", "value": "66.3%" },
+        { "label": "2025-26", "value": "68.8%" }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "Hit Rate by Season",
+      "data": [
+        { "season": "2022-23", "hit_rate": 62.1 },
+        { "season": "2023-24", "hit_rate": 65.8 },
+        { "season": "2024-25", "hit_rate": 66.3 },
+        { "season": "2025-26", "hit_rate": 68.8 }
+      ],
+      "x_key": "season",
+      "lines": [
+        { "key": "hit_rate", "color": "#7C3AED", "label": "Hit Rate %" }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "### Why It's Climbing, Not Just Varying\n\nFour points in a row, every one higher than the last, isn't what noise usually looks like. The likelier explanation is the less exciting one: more seasons of net-rating and pace data to carry forward, better-calibrated absence handling, and four years of graded games to check the calibration curve against instead of one.\n\nThat doesn't mean next season lands above 70% — it means the model has earned a little more benefit of the doubt than it had a year ago."
+    },
+    {
+      "type": "text",
+      "value": "### Night One, By the Numbers\n\n2026-27 doesn't have a graded game yet, but the opening slate is already on the board."
+    },
+    {
+      "type": "table",
+      "title": "Opening Night — Oct 20, 2026",
+      "headers": ["Matchup", "Model Favors", "Projected Margin"],
+      "rows": [
+        ["BOS @ DET", "DET, 55.6%", "DET by 2.2"],
+        ["PHI @ NYK", "NYK, 69.7%", "NYK by 7.9"],
+        ["OKC @ SAS", "SAS, 52.6%", "SAS by 1.0"]
+      ]
+    }
+  ],
+  "editor_note": "These opening-night numbers are current team ratings carried over from last season — they'll move once rosters are set and the first injury reports of 2026-27 land."
+}

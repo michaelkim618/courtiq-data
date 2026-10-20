@@ -1,0 +1,33 @@
+{
+ "generated": "2026-10-20T17:49-04:00",
+ "live_from": "2026-10-20",
+ "days": [
+  {
+   "date": "2026-10-20",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 1,
+   "cum_games": 1,
+   "cum_pct": 100.0,
+   "picks": [
+    {
+     "away": "BOS",
+     "home": "DET",
+     "pick": "DET",
+     "prob": 55.3,
+     "correct": true,
+     "updated": true
+    }
+   ]
+  }
+ ],
+ "total": {
+  "games": 1,
+  "wins": 1,
+  "losses": 0,
+  "pct": 100.0
+ },
+ "unscored": 0
+}

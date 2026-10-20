@@ -1,0 +1,37 @@
+{
+  "slug": "nba-offseason-wrap-shead-mitchell-adidas",
+  "title": "Extensions, Sneaker Deals, and Preseason Buzz: This Week Off the Court",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_color": "#16A34A",
+  "author_role": "Senior Reporter",
+  "date": "2026-09-29",
+  "type": "daily",
+  "tag": "Recap",
+  "tag_color": "#16A34A",
+  "read_time": "3 min",
+  "summary": "A Raptors extension, a Cavaliers sneaker deal, and the rest of what ESPN's preseason buzz tracker picked up this week — a quick business-of-basketball rundown.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Shead Locks In North of the Border\n\nJamal Shead and the Raptors agreed to a three-year, $24 million extension running through the 2029-30 season, Shams Charania reported. It's a modest number for a starting-caliber point guard — a sign Toronto wanted certainty at the position more than it wanted leverage in the negotiation."
+    },
+    {
+      "type": "text",
+      "value": "## Mitchell Re-Ups With Adidas\n\nSeparately, Cavaliers guard Donovan Mitchell signed a new multiyear deal with Adidas, extending a partnership that's now outlasted three different coaching staffs in Cleveland."
+    },
+    {
+      "type": "text",
+      "value": "## What Else ESPN Is Tracking\n\nESPN's running preseason buzz file has more where that came from — extensions, signings, and trade intel updating through the start of the regular season. Expect more line items like these before opening night."
+    },
+    {
+      "type": "table",
+      "title": "This Week's Business",
+      "headers": ["Player", "Team", "Deal"],
+      "rows": [
+        ["Jamal Shead", "Raptors", "3 yr / $24M extension through 2029-30"],
+        ["Donovan Mitchell", "Cavaliers", "New multiyear Adidas deal"]
+      ]
+    }
+  ]
+}

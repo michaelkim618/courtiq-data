@@ -1,0 +1,32 @@
+{
+  "slug": "2026-10-17-film-session-okc-sas",
+  "title": "Film Session: OKC @ SAS",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_color": "#D97706",
+  "author_role": "Point Guard Expert",
+  "date": "2026-10-17",
+  "type": "daily",
+  "tag": "Preview",
+  "tag_color": "#D97706",
+  "read_time": "3 min",
+  "summary": "A point guard's read on OKC @ SAS on 2026-10-20 — where the matchup is actually won, possession by possession.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Reading the Floor\n\nOKC @ SAS on 2026-10-20. Forget the final number for a second — here's where it actually comes from."
+    },
+    {
+      "type": "text",
+      "value": "- **Net Rating Diff**: -1.3 pts — San Antonio Spurs +5.1 vs Oklahoma City Thunder +6.5, proj. 99.9 possessions\n\nLook, Thunder are running at a +6.5 net rating while the Spurs sit at +5.1. That's a 1.3-point edge to OKC on paper, and over 99.9 possessions, that small margin tells you everything about how tight this one should be. We're not talking about a talent gap here — we're talking about two teams that can both get stops and score when they need to. This is the kind of game where one bad rotation or one guy going cold in the fourth is the difference.\n\n- **Home Advantage**: +2.3 pts — League-measured average\n\nSan Antonio gets the standard 2.3 points just for playing at home. I don't care what year it is, that home whistle and crowd energy still matters. You sleep in your own bed, you know the rims, your legs feel fresher in the second half. It's real.\n\n- **Back-to-Back**: +0.0 pts — Both teams rested\n\nClean slate for both squads — nobody's dragging from a back-to-back. Fresh legs, full game plans, no excuses. This is when you see teams at their best.\n\n- **Absences**: +0.0 pts — No absences for either team\n\nFull rosters. Everybody's healthy, everybody's available. The way it should be."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#D97706",
+      "title": "ACE'S READ",
+      "value": "SAS in the driver's seat",
+      "sub": "Model margin: {:+.1f} (home − away). Doesn't mean the game is played that way — means that's who should be."
+    }
+  ],
+  "post_kind": "feature"
+}
