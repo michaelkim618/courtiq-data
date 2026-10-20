@@ -460,18 +460,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 71.3,
-   "away": 28.7
+   "home": 72.5,
+   "away": 27.5
   },
   "win_prob_band": {
-   "low": 71.3,
-   "high": 73.7,
-   "gtd_count": 2
+   "low": 72.5,
+   "high": 72.5,
+   "gtd_count": 0
   },
-  "expected_margin": 8.61,
+  "expected_margin": 9.13,
   "expected_score": {
-   "home": 117.2,
-   "away": 108.6
+   "home": 117.5,
+   "away": 108.3
   },
   "margin_breakdown": [
    {
@@ -491,8 +491,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.73,
-    "detail": "Philadelphia 76ers 2 out (32 min) · Tacko Fall out all season, already baked into team rating"
+    "points": 1.24,
+    "detail": "Philadelphia 76ers 3 out (54 min) · Tacko Fall out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -523,6 +523,12 @@
      "no_minutes": false
     },
     {
+     "player": "Dean Wade",
+     "mpg": 22.3,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
      "player": "Ariel Hukporti",
      "mpg": 9.1,
      "nth_out": 1,
@@ -538,18 +544,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Anfernee Simons",
-     "mpg": 25.1,
-     "status": "Questionable"
-    },
-    {
-     "player": "Dean Wade",
-     "mpg": 22.3,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -726,19 +721,6 @@
      "apg": 3.9
     },
     {
-     "player": "Dean Wade",
-     "player_id": 1629731,
-     "position": "F",
-     "starter": false,
-     "games": 59,
-     "starts": 38,
-     "start_rate": 64,
-     "mpg": 22.3,
-     "ppg": 5.8,
-     "rpg": 4.2,
-     "apg": 1.5
-    },
-    {
      "player": "Kentavious Caldwell-Pope",
      "player_id": 203484,
      "position": "G",
@@ -763,6 +745,19 @@
      "ppg": 4.8,
      "rpg": 4.3,
      "apg": 0.5
+    },
+    {
+     "player": "Justin Edwards",
+     "player_id": 1642348,
+     "position": "F",
+     "starter": false,
+     "games": 64,
+     "starts": 12,
+     "start_rate": 19,
+     "mpg": 15.3,
+     "ppg": 6.0,
+     "rpg": 1.5,
+     "apg": 1.2
     }
    ]
   },
@@ -781,6 +776,12 @@
     "pick": "NYK",
     "prob": 71.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-20T18:33-04:00",
+    "pick": "NYK",
+    "prob": 72.5,
+    "reason": "Dean Wade (PHI) now out; Anfernee Simons (PHI) cleared to play"
    }
   ]
  },
