@@ -1644,7 +1644,7 @@
   "actual_winner": null,
   "model_winner": "Miami Heat",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -1664,6 +1664,12 @@
    },
    {
     "at": "2026-10-21T10:04-04:00",
+    "pick": "MIA",
+    "prob": 55.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
     "pick": "MIA",
     "prob": 55.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
@@ -1707,18 +1713,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 60.3,
-   "away": 39.7
+   "home": 58.3,
+   "away": 41.7
   },
   "win_prob_band": {
-   "low": 58.9,
-   "high": 62.0,
+   "low": 56.9,
+   "high": 60.1,
    "gtd_count": 2
   },
-  "expected_margin": 3.98,
+  "expected_margin": 3.21,
   "expected_score": {
-   "home": 116.1,
-   "away": 112.2
+   "home": 115.8,
+   "away": 112.6
   },
   "margin_breakdown": [
    {
@@ -1740,6 +1746,11 @@
     "label": "Absences",
     "points": 2.35,
     "detail": "Los Angeles Lakers 1 out (6 min), Golden State Warriors 4 out (108 min) · Cameron Carr out all season, already baked into team rating"
+   },
+   {
+    "label": "Returning Players",
+    "points": -0.77,
+    "detail": "Walker Kessler (LAL) back after missing 2025-26, valued from 2024-25"
    }
   ],
   "ratings": {
@@ -2039,7 +2050,7 @@
   "actual_winner": null,
   "model_winner": "Los Angeles Lakers",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T22:00-04:00",
   "injury_report": {
    "final_check": null
@@ -2062,6 +2073,12 @@
     "pick": "LAL",
     "prob": 60.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
+    "pick": "LAL",
+    "prob": 58.3,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Walker Kessler (LAL) back after missing 2025-26, valued from 2024-25"
    }
   ]
  },
@@ -2422,7 +2439,7 @@
   "actual_winner": null,
   "model_winner": "Orlando Magic",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:00-04:00",
   "injury_report": {
    "final_check": null
@@ -2442,6 +2459,12 @@
    },
    {
     "at": "2026-10-21T10:04-04:00",
+    "pick": "ORL",
+    "prob": 51.3,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
     "pick": "ORL",
     "prob": 51.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
@@ -2786,7 +2809,7 @@
   "actual_winner": null,
   "model_winner": "Milwaukee Bucks",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:00-04:00",
   "injury_report": {
    "final_check": null
@@ -2806,6 +2829,12 @@
    },
    {
     "at": "2026-10-21T10:04-04:00",
+    "pick": "MIL",
+    "prob": 55.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
     "pick": "MIL",
     "prob": 55.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
@@ -3163,7 +3192,7 @@
   "actual_winner": null,
   "model_winner": "Charlotte Hornets",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -3183,6 +3212,12 @@
    },
    {
     "at": "2026-10-21T10:04-04:00",
+    "pick": "CHA",
+    "prob": 51.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
     "pick": "CHA",
     "prob": 51.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
@@ -3528,7 +3563,7 @@
   "actual_winner": null,
   "model_winner": "Toronto Raptors",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -3548,6 +3583,12 @@
    },
    {
     "at": "2026-10-21T10:04-04:00",
+    "pick": "TOR",
+    "prob": 73.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
     "pick": "TOR",
     "prob": 73.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
@@ -3904,7 +3945,7 @@
   "actual_winner": null,
   "model_winner": "Memphis Grizzlies",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T20:00-04:00",
   "injury_report": {
    "final_check": null
@@ -3924,6 +3965,12 @@
    },
    {
     "at": "2026-10-21T10:04-04:00",
+    "pick": "MEM",
+    "prob": 63.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
     "pick": "MEM",
     "prob": 63.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
@@ -3967,18 +4014,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 63.6,
-   "away": 36.4
+   "home": 47.0,
+   "away": 53.0
   },
   "win_prob_band": {
-   "low": 63.6,
-   "high": 63.6,
+   "low": 47.0,
+   "high": 47.0,
    "gtd_count": 0
   },
-  "expected_margin": 5.32,
+  "expected_margin": -1.16,
   "expected_score": {
-   "home": 119.1,
-   "away": 113.8
+   "home": 115.9,
+   "away": 117.1
   },
   "margin_breakdown": [
    {
@@ -4000,6 +4047,11 @@
     "label": "Absences",
     "points": 1.48,
     "detail": "Indiana Pacers 3 out (64 min)"
+   },
+   {
+    "label": "Owner Adjustment",
+    "points": -6.48,
+    "detail": "Indiana rated at its 2024-25 level with Haliburton back (IND net rating +1.9 instead of -4.5)"
    }
   ],
   "ratings": {
@@ -4266,9 +4318,9 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "New Orleans Pelicans",
+  "model_winner": "Indiana Pacers",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T20:00-04:00",
   "injury_report": {
    "final_check": null
@@ -4291,6 +4343,12 @@
     "pick": "NOP",
     "prob": 63.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
+    "pick": "IND",
+    "prob": 53.0,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Indiana rated at its 2024-25 level with Haliburton back (IND net rating +1.9 instead of -4.5)"
    }
   ]
  },
@@ -4331,18 +4389,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 73.3,
-   "away": 26.7
+   "home": 70.9,
+   "away": 29.1
   },
   "win_prob_band": {
-   "low": 72.2,
-   "high": 73.3,
+   "low": 69.7,
+   "high": 70.9,
    "gtd_count": 1
   },
-  "expected_margin": 9.53,
+  "expected_margin": 8.43,
   "expected_score": {
-   "home": 117.9,
-   "away": 108.4
+   "home": 117.3,
+   "away": 108.9
   },
   "margin_breakdown": [
    {
@@ -4364,6 +4422,11 @@
     "label": "Absences",
     "points": 0.97,
     "detail": "Dallas Mavericks 2 out (42 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+   },
+   {
+    "label": "Returning Players",
+    "points": -1.1,
+    "detail": "Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25; Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
    }
   ],
   "ratings": {
@@ -4644,7 +4707,7 @@
   "actual_winner": null,
   "model_winner": "Houston Rockets",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T20:30-04:00",
   "injury_report": {
    "final_check": null
@@ -4667,6 +4730,12 @@
     "pick": "HOU",
     "prob": 73.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
+    "pick": "HOU",
+    "prob": 70.9,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25; Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
    }
   ]
  },
@@ -4707,18 +4776,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 52.2,
-   "away": 47.8
+   "home": 51.4,
+   "away": 48.6
   },
   "win_prob_band": {
-   "low": 50.3,
-   "high": 53.6,
+   "low": 49.5,
+   "high": 52.8,
    "gtd_count": 2
   },
-  "expected_margin": 0.84,
+  "expected_margin": 0.54,
   "expected_score": {
-   "home": 113.6,
-   "away": 112.7
+   "home": 113.4,
+   "away": 112.9
   },
   "margin_breakdown": [
    {
@@ -4740,6 +4809,11 @@
     "label": "Absences",
     "points": -0.56,
     "detail": "Portland Trail Blazers 3 out (48 min), Phoenix Suns 1 out (24 min)"
+   },
+   {
+    "label": "Returning Players",
+    "points": -0.3,
+    "detail": "Damian Lillard (POR) back after missing 2025-26, valued from 2024-25"
    }
   ],
   "ratings": {
@@ -5027,7 +5101,7 @@
   "actual_winner": null,
   "model_winner": "Portland Trail Blazers",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T22:00-04:00",
   "injury_report": {
    "final_check": null
@@ -5050,6 +5124,12 @@
     "pick": "POR",
     "prob": 52.2,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
+    "pick": "POR",
+    "prob": 51.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Damian Lillard (POR) back after missing 2025-26, valued from 2024-25"
    }
   ]
  },
@@ -5428,7 +5508,7 @@
   "actual_winner": null,
   "model_winner": "LA Clippers",
   "model_correct": null,
-  "model_version": "nba-v1.3",
+  "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T22:30-04:00",
   "injury_report": {
    "final_check": null
@@ -5448,6 +5528,12 @@
    },
    {
     "at": "2026-10-21T10:04-04:00",
+    "pick": "LAC",
+    "prob": 62.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
     "pick": "LAC",
     "prob": 62.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
