@@ -193,6 +193,11 @@
   "2026-10-21_ATL@ORL": {
    "away": "ATL",
    "date": "2026-10-21",
+   "final_check": {
+    "at": "2026-10-21T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-21T18:45-04:00"
+   },
    "home": "ORL",
    "late": false,
    "locked_at": null,
@@ -1062,6 +1067,11 @@
   "2026-10-21_MIL@WAS": {
    "away": "MIL",
    "date": "2026-10-21",
+   "final_check": {
+    "at": "2026-10-21T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-21T18:45-04:00"
+   },
    "home": "WAS",
    "late": false,
    "locked_at": null,
