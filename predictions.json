@@ -3261,18 +3261,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 73.7,
-   "away": 26.3
+   "home": 74.4,
+   "away": 25.6
   },
   "win_prob_band": {
-   "low": 73.7,
-   "high": 75.0,
+   "low": 74.4,
+   "high": 75.6,
    "gtd_count": 1
   },
-  "expected_margin": 9.69,
+  "expected_margin": 10.01,
   "expected_score": {
-   "home": 120.3,
-   "away": 110.6
+   "home": 120.5,
+   "away": 110.5
   },
   "margin_breakdown": [
    {
@@ -3292,8 +3292,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.63,
-    "detail": "Chicago Bulls 1 out (28 min) · Nate Bittle out all season, already baked into team rating"
+    "points": 0.95,
+    "detail": "Chicago Bulls 2 out (41 min) · Nate Bittle, Dailyn Swain out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3331,6 +3331,18 @@
      "mpg": 27.5,
      "nth_out": 1,
      "no_minutes": false
+    },
+    {
+     "player": "Jordan Hawkins",
+     "mpg": 13.9,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Dailyn Swain",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "no_minutes": true
     }
    ]
   },
@@ -3592,6 +3604,12 @@
     "pick": "TOR",
     "prob": 73.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T14:10-04:00",
+    "pick": "TOR",
+    "prob": 74.4,
+    "reason": "Dailyn Swain (CHI) now out; Jordan Hawkins (CHI) now out"
    }
   ]
  },
