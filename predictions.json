@@ -1647,7 +1647,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -3213,7 +3213,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -3590,7 +3590,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -4434,18 +4434,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 70.9,
-   "away": 29.1
+   "home": 71.6,
+   "away": 28.4
   },
   "win_prob_band": {
-   "low": 69.7,
-   "high": 70.9,
+   "low": 70.4,
+   "high": 71.6,
    "gtd_count": 1
   },
-  "expected_margin": 8.43,
+  "expected_margin": 8.72,
   "expected_score": {
-   "home": 117.3,
-   "away": 108.9
+   "home": 117.5,
+   "away": 108.8
   },
   "margin_breakdown": [
    {
@@ -4465,8 +4465,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.97,
-    "detail": "Dallas Mavericks 2 out (42 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 1.26,
+    "detail": "Dallas Mavericks 3 out (55 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -4506,6 +4506,12 @@
     {
      "player": "Caleb Martin",
      "mpg": 14.8,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Jett Howard",
+     "mpg": 12.7,
      "nth_out": 1,
      "no_minutes": false
     },
@@ -4781,6 +4787,12 @@
     "pick": "HOU",
     "prob": 70.9,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25; Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-10-21T19:17-04:00",
+    "pick": "HOU",
+    "prob": 71.6,
+    "reason": "Jett Howard (DAL) now out"
    }
   ]
  },

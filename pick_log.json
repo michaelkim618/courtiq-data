@@ -325,6 +325,11 @@
   "2026-10-21_CHA@BKN": {
    "away": "CHA",
    "date": "2026-10-21",
+   "final_check": {
+    "at": "2026-10-21T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-21T19:15-04:00"
+   },
    "home": "BKN",
    "late": false,
    "locked_at": null,
@@ -448,6 +453,11 @@
   "2026-10-21_CHI@TOR": {
    "away": "CHI",
    "date": "2026-10-21",
+   "final_check": {
+    "at": "2026-10-21T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-21T19:15-04:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,
@@ -739,6 +749,35 @@
      "win_prob": {
       "away": 29.1,
       "home": 70.9
+     }
+    },
+    {
+     "at": "2026-10-21T19:17-04:00",
+     "expected_margin": 8.72,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Steven Adams"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Santi Aldama",
+       "Caleb Martin",
+       "Jett Howard",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Jett Howard (DAL) now out",
+     "report": "2026-10-21T19:15-04:00",
+     "win_prob": {
+      "away": 28.4,
+      "home": 71.6
      }
     }
    ]
@@ -1183,6 +1222,11 @@
   "2026-10-21_MIN@MIA": {
    "away": "MIN",
    "date": "2026-10-21",
+   "final_check": {
+    "at": "2026-10-21T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-21T19:15-04:00"
+   },
    "home": "MIA",
    "late": false,
    "locked_at": null,
