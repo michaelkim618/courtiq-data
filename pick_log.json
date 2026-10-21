@@ -851,6 +851,40 @@
       "away": 41.7,
       "home": 58.3
      }
+    },
+    {
+     "at": "2026-10-21T14:33-04:00",
+     "expected_margin": 3.21,
+     "gtd": {
+      "away": [
+       "Stephen Curry"
+      ],
+      "home": [
+       "Collin Sexton"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Brandin Podziemski",
+       "Moses Moody",
+       "Kristaps Porzingis",
+       "Charles Bassey"
+      ],
+      "home": [
+       "Adou Thiero",
+       "Cameron Carr"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Charles Bassey (GSW) now out",
+     "report": "2026-10-21T14:30-04:00",
+     "win_prob": {
+      "away": 41.7,
+      "home": 58.3
+     }
     }
    ]
   },

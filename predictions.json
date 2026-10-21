@@ -1745,7 +1745,7 @@
    {
     "label": "Absences",
     "points": 2.35,
-    "detail": "Los Angeles Lakers 1 out (6 min), Golden State Warriors 4 out (108 min) · Cameron Carr out all season, already baked into team rating"
+    "detail": "Los Angeles Lakers 1 out (6 min), Golden State Warriors 4 out (108 min) · Cameron Carr, Charles Bassey out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -1812,6 +1812,12 @@
      "mpg": 23.7,
      "nth_out": 1,
      "no_minutes": false
+    },
+    {
+     "player": "Charles Bassey",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "no_minutes": true
     }
    ]
   },
@@ -2079,6 +2085,12 @@
     "pick": "LAL",
     "prob": 58.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Walker Kessler (LAL) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-10-21T14:33-04:00",
+    "pick": "LAL",
+    "prob": 58.3,
+    "reason": "Charles Bassey (GSW) now out"
    }
   ]
  },
