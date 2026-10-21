@@ -200,7 +200,7 @@
    },
    "home": "ORL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-21T19:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-21T19:00-04:00",
    "tip_known": true,
@@ -1074,7 +1074,7 @@
    },
    "home": "WAS",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-21T19:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-21T19:00-04:00",
    "tip_known": true,
@@ -1680,6 +1680,34 @@
      "win_prob": {
       "away": 36.3,
       "home": 63.7
+     }
+    },
+    {
+     "at": "2026-10-21T19:02-04:00",
+     "expected_margin": 4.89,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Jusuf Nurkic",
+       "Tony Bradley",
+       "Blake Hinson",
+       "Trey Alexander"
+      ],
+      "home": [
+       "Isaiah Stewart"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Isaiah Stewart (MEM) now out",
+     "report": "2026-10-21T19:00-04:00",
+     "win_prob": {
+      "away": 37.5,
+      "home": 62.5
      }
     }
    ]

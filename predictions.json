@@ -3668,18 +3668,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 63.7,
-   "away": 36.3
+   "home": 62.5,
+   "away": 37.5
   },
   "win_prob_band": {
    "low": 62.5,
-   "high": 63.7,
-   "gtd_count": 1
+   "high": 62.5,
+   "gtd_count": 0
   },
-  "expected_margin": 5.36,
+  "expected_margin": 4.89,
   "expected_score": {
-   "home": 121.9,
-   "away": 116.5
+   "home": 121.6,
+   "away": 116.7
   },
   "margin_breakdown": [
    {
@@ -3699,8 +3699,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.84,
-    "detail": "Utah Jazz 2 out (36 min) · Blake Hinson, Trey Alexander out all season, already baked into team rating"
+    "points": 0.38,
+    "detail": "Memphis Grizzlies 1 out (20 min), Utah Jazz 2 out (36 min) · Blake Hinson, Trey Alexander out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3724,7 +3724,14 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Isaiah Stewart",
+     "mpg": 20.2,
+     "nth_out": 1,
+     "no_minutes": false
+    }
+   ],
    "away": [
     {
      "player": "Jusuf Nurkic",
@@ -3753,13 +3760,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Isaiah Stewart",
-     "mpg": 20.2,
-     "status": "Doubtful"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4010,6 +4011,12 @@
     "pick": "MEM",
     "prob": 63.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T19:02-04:00",
+    "pick": "MEM",
+    "prob": 62.5,
+    "reason": "Isaiah Stewart (MEM) now out"
    }
   ]
  },
