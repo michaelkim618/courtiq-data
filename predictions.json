@@ -3284,8 +3284,8 @@
   },
   "win_prob_band": {
    "low": 74.4,
-   "high": 75.6,
-   "gtd_count": 1
+   "high": 74.4,
+   "gtd_count": 0
   },
   "expected_margin": 10.01,
   "expected_score": {
@@ -3366,13 +3366,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Isaac Okoro",
-     "mpg": 26.4,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -3628,6 +3622,12 @@
     "pick": "TOR",
     "prob": 74.4,
     "reason": "Dailyn Swain (CHI) now out; Jordan Hawkins (CHI) now out"
+   },
+   {
+    "at": "2026-10-21T17:47-04:00",
+    "pick": "TOR",
+    "prob": 74.4,
+    "reason": "Isaac Okoro (CHI) cleared to play"
    }
   ]
  },
