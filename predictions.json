@@ -1397,7 +1397,8 @@
     "def": 114.3,
     "pace": 104.1,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": 1.7,
@@ -1405,7 +1406,8 @@
     "def": 112.7,
     "pace": 101.5,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -1741,7 +1743,8 @@
     "def": 115.6,
     "pace": 98.7,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": 0.7,
@@ -1749,7 +1752,8 @@
     "def": 113.8,
     "pace": 100.0,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -2128,7 +2132,8 @@
     "def": 112.9,
     "pace": 100.2,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": 1.2,
@@ -2136,7 +2141,8 @@
     "def": 113.3,
     "pace": 102.2,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -2503,7 +2509,8 @@
     "def": 119.0,
     "pace": 102.6,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": -3.3,
@@ -2511,7 +2518,8 @@
     "def": 116.9,
     "pace": 98.2,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -2859,7 +2867,8 @@
     "def": 115.2,
     "pace": 97.5,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": 1.4,
@@ -2867,7 +2876,8 @@
     "def": 115.3,
     "pace": 97.5,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -3228,7 +3238,8 @@
     "def": 112.4,
     "pace": 99.0,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": -4.4,
@@ -3236,7 +3247,8 @@
     "def": 117.0,
     "pace": 103.3,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -3585,7 +3597,8 @@
     "def": 116.2,
     "pace": 101.8,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": -3.6,
@@ -3593,7 +3606,8 @@
     "def": 118.6,
     "pace": 103.6,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -3953,7 +3967,8 @@
     "def": 116.9,
     "pace": 101.3,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": -4.5,
@@ -3961,7 +3976,8 @@
     "def": 116.2,
     "pace": 101.8,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -4309,7 +4325,8 @@
     "def": 113.0,
     "pace": 96.6,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": -3.8,
@@ -4317,7 +4334,8 @@
     "def": 114.8,
     "pace": 102.6,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -4677,7 +4695,8 @@
     "def": 113.4,
     "pace": 101.4,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": 0.5,
@@ -4685,7 +4704,8 @@
     "def": 113.5,
     "pace": 98.0,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
@@ -5052,7 +5072,8 @@
     "def": 116.2,
     "pace": 97.3,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    },
    "away": {
     "net": -4.6,
@@ -5060,7 +5081,8 @@
     "def": 117.7,
     "pace": 100.0,
     "games": 0,
-    "carry": 1.0
+    "carry": 1.0,
+    "roster": 0.85
    }
   },
   "absences": {
