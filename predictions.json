@@ -3985,7 +3985,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T20:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
@@ -4368,7 +4368,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T20:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
@@ -4434,18 +4434,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 71.6,
-   "away": 28.4
+   "home": 70.4,
+   "away": 29.6
   },
   "win_prob_band": {
    "low": 70.4,
-   "high": 71.6,
-   "gtd_count": 1
+   "high": 70.4,
+   "gtd_count": 0
   },
-  "expected_margin": 8.72,
+  "expected_margin": 8.2,
   "expected_score": {
-   "home": 117.5,
-   "away": 108.8
+   "home": 117.2,
+   "away": 109.0
   },
   "margin_breakdown": [
    {
@@ -4465,8 +4465,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.26,
-    "detail": "Dallas Mavericks 3 out (55 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 0.74,
+    "detail": "Houston Rockets 1 out (23 min), Dallas Mavericks 3 out (55 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -4495,7 +4495,14 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Steven Adams",
+     "mpg": 22.7,
+     "nth_out": 1,
+     "no_minutes": false
+    }
+   ],
    "away": [
     {
      "player": "Santi Aldama",
@@ -4530,13 +4537,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Steven Adams",
-     "mpg": 22.7,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4621,19 +4622,6 @@
      "apg": 1.5
     },
     {
-     "player": "Steven Adams",
-     "player_id": 203500,
-     "position": "C",
-     "starter": false,
-     "games": 32,
-     "starts": 11,
-     "start_rate": 34,
-     "mpg": 22.8,
-     "ppg": 5.8,
-     "rpg": 8.6,
-     "apg": 1.5
-    },
-    {
      "player": "Reed Sheppard",
      "player_id": 1642263,
      "position": "G",
@@ -4645,6 +4633,19 @@
      "ppg": 13.5,
      "rpg": 2.9,
      "apg": 3.4
+    },
+    {
+     "player": "Oscar Tshiebwe",
+     "player_id": 1631131,
+     "position": "F",
+     "starter": false,
+     "games": 27,
+     "starts": 6,
+     "start_rate": 22,
+     "mpg": 16.6,
+     "ppg": 7.8,
+     "rpg": 6.6,
+     "apg": 1.2
     }
    ],
    "away": [
@@ -4793,6 +4794,12 @@
     "pick": "HOU",
     "prob": 71.6,
     "reason": "Jett Howard (DAL) now out"
+   },
+   {
+    "at": "2026-10-21T19:47-04:00",
+    "pick": "HOU",
+    "prob": 70.4,
+    "reason": "Steven Adams (HOU) now out"
    }
   ]
  },
