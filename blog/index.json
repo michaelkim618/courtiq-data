@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-10-21-chet-holmgren-found-his-answer-on-the-floor-in-san-antonio",
+      "title": "Chet Holmgren Found His Answer on the Floor in San Antonio",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-10-21",
+      "type": "daily",
+      "tag": "Column",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "The altercation changed less than the box score. What mattered was the performance that surrounded it.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-10-20-hot-take-how-the-knicks-celebrated-their-long-awaited-champi",
       "title": "Hot Take: How the Knicks celebrated their long-awaited championship in the offs…",
       "author": "Rico",
