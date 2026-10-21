@@ -1355,23 +1355,23 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 55.9,
-   "away": 44.1
+   "home": 55.7,
+   "away": 44.3
   },
   "win_prob_band": {
-   "low": 55.9,
-   "high": 55.9,
+   "low": 55.7,
+   "high": 55.7,
    "gtd_count": 0
   },
-  "expected_margin": 2.29,
+  "expected_margin": 2.19,
   "expected_score": {
    "home": 118.5,
-   "away": 116.2
+   "away": 116.3
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": -0.7,
+    "points": -0.79,
     "detail": "Miami Heat +1.0 vs Minnesota Timberwolves +1.7, proj. 102.8 possessions"
    },
    {
@@ -1398,7 +1398,7 @@
     "pace": 104.1,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
     "net": 1.7,
@@ -1407,7 +1407,7 @@
     "pace": 101.5,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -1644,7 +1644,7 @@
   "actual_winner": null,
   "model_winner": "Miami Heat",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -1661,6 +1661,12 @@
     "pick": "MIA",
     "prob": 55.9,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "MIA",
+    "prob": 55.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -1701,24 +1707,24 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 60.7,
-   "away": 39.3
+   "home": 60.3,
+   "away": 39.7
   },
   "win_prob_band": {
-   "low": 59.3,
-   "high": 62.4,
+   "low": 58.9,
+   "high": 62.0,
    "gtd_count": 2
   },
-  "expected_margin": 4.14,
+  "expected_margin": 3.98,
   "expected_score": {
-   "home": 116.2,
-   "away": 112.1
+   "home": 116.1,
+   "away": 112.2
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": -0.51,
-    "detail": "Los Angeles Lakers +0.2 vs Golden State Warriors +0.7, proj. 99.3 possessions"
+    "points": -0.67,
+    "detail": "Los Angeles Lakers +0.1 vs Golden State Warriors +0.8, proj. 99.3 possessions"
    },
    {
     "label": "Home Advantage",
@@ -1738,22 +1744,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 0.2,
-    "off": 115.8,
+    "net": 0.1,
+    "off": 115.7,
     "def": 115.6,
     "pace": 98.7,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": 0.7,
-    "off": 114.5,
+    "net": 0.8,
+    "off": 114.6,
     "def": 113.8,
     "pace": 100.0,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -2033,7 +2039,7 @@
   "actual_winner": null,
   "model_winner": "Los Angeles Lakers",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T22:00-04:00",
   "injury_report": {
    "final_check": null
@@ -2050,6 +2056,12 @@
     "pick": "LAL",
     "prob": 60.7,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "LAL",
+    "prob": 60.3,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -2090,24 +2102,24 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 51.5,
-   "away": 48.5
+   "home": 51.3,
+   "away": 48.7
   },
   "win_prob_band": {
-   "low": 51.5,
-   "high": 51.5,
+   "low": 51.3,
+   "high": 51.3,
    "gtd_count": 0
   },
-  "expected_margin": 0.57,
+  "expected_margin": 0.5,
   "expected_score": {
    "home": 115.1,
-   "away": 114.5
+   "away": 114.6
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": -0.88,
-    "detail": "Orlando Magic +0.4 vs Atlanta Hawks +1.2, proj. 101.2 possessions"
+    "points": -0.94,
+    "detail": "Orlando Magic +0.4 vs Atlanta Hawks +1.3, proj. 101.2 possessions"
    },
    {
     "label": "Home Advantage",
@@ -2133,16 +2145,16 @@
     "pace": 100.2,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": 1.2,
+    "net": 1.3,
     "off": 114.5,
-    "def": 113.3,
+    "def": 113.2,
     "pace": 102.2,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -2410,7 +2422,7 @@
   "actual_winner": null,
   "model_winner": "Orlando Magic",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T19:00-04:00",
   "injury_report": {
    "final_check": null
@@ -2427,6 +2439,12 @@
     "pick": "ORL",
     "prob": 51.5,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "ORL",
+    "prob": 51.3,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -2484,7 +2502,7 @@
    {
     "label": "Net Rating Diff",
     "points": -3.58,
-    "detail": "Washington Wizards -6.8 vs Milwaukee Bucks -3.3, proj. 100.4 possessions"
+    "detail": "Washington Wizards -6.8 vs Milwaukee Bucks -3.2, proj. 100.4 possessions"
    },
    {
     "label": "Home Advantage",
@@ -2505,21 +2523,21 @@
   "ratings": {
    "home": {
     "net": -6.8,
-    "off": 112.1,
+    "off": 112.2,
     "def": 119.0,
     "pace": 102.6,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": -3.3,
+    "net": -3.2,
     "off": 113.6,
-    "def": 116.9,
+    "def": 116.8,
     "pace": 98.2,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -2768,7 +2786,7 @@
   "actual_winner": null,
   "model_winner": "Milwaukee Bucks",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T19:00-04:00",
   "injury_report": {
    "final_check": null
@@ -2785,6 +2803,12 @@
     "pick": "MIL",
     "prob": 55.4,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "MIL",
+    "prob": 55.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -2825,24 +2849,24 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 47.3,
-   "away": 52.7
+   "home": 48.4,
+   "away": 51.6
   },
   "win_prob_band": {
-   "low": 47.3,
-   "high": 47.3,
+   "low": 48.4,
+   "high": 48.4,
    "gtd_count": 0
   },
-  "expected_margin": -1.05,
+  "expected_margin": -0.62,
   "expected_score": {
-   "home": 111.2,
-   "away": 112.3
+   "home": 111.5,
+   "away": 112.1
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": -5.09,
-    "detail": "Brooklyn Nets -3.8 vs Charlotte Hornets +1.4, proj. 97.5 possessions"
+    "points": -4.66,
+    "detail": "Brooklyn Nets -3.6 vs Charlotte Hornets +1.2, proj. 97.5 possessions"
    },
    {
     "label": "Home Advantage",
@@ -2862,22 +2886,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -3.8,
-    "off": 111.3,
-    "def": 115.2,
+    "net": -3.6,
+    "off": 111.5,
+    "def": 115.0,
     "pace": 97.5,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": 1.4,
-    "off": 116.7,
-    "def": 115.3,
+    "net": 1.2,
+    "off": 116.6,
+    "def": 115.4,
     "pace": 97.5,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -3139,7 +3163,7 @@
   "actual_winner": null,
   "model_winner": "Charlotte Hornets",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -3156,6 +3180,12 @@
     "pick": "CHA",
     "prob": 52.7,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "CHA",
+    "prob": 51.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -3196,24 +3226,24 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 73.3,
-   "away": 26.7
+   "home": 73.7,
+   "away": 26.3
   },
   "win_prob_band": {
-   "low": 73.3,
-   "high": 74.6,
+   "low": 73.7,
+   "high": 75.0,
    "gtd_count": 1
   },
-  "expected_margin": 9.5,
+  "expected_margin": 9.69,
   "expected_score": {
-   "home": 120.2,
-   "away": 110.7
+   "home": 120.3,
+   "away": 110.6
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 6.56,
-    "detail": "Toronto Raptors +2.1 vs Chicago Bulls -4.4, proj. 101.2 possessions"
+    "points": 6.75,
+    "detail": "Toronto Raptors +2.1 vs Chicago Bulls -4.5, proj. 101.2 possessions"
    },
    {
     "label": "Home Advantage",
@@ -3239,16 +3269,16 @@
     "pace": 99.0,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": -4.4,
-    "off": 112.6,
-    "def": 117.0,
+    "net": -4.5,
+    "off": 112.5,
+    "def": 117.1,
     "pace": 103.3,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -3498,7 +3528,7 @@
   "actual_winner": null,
   "model_winner": "Toronto Raptors",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -3515,6 +3545,12 @@
     "pick": "TOR",
     "prob": 73.3,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "TOR",
+    "prob": 73.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -3555,24 +3591,24 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 63.5,
-   "away": 36.5
+   "home": 63.7,
+   "away": 36.3
   },
   "win_prob_band": {
-   "low": 62.3,
-   "high": 63.5,
+   "low": 62.5,
+   "high": 63.7,
    "gtd_count": 1
   },
-  "expected_margin": 5.26,
+  "expected_margin": 5.36,
   "expected_score": {
-   "home": 121.8,
-   "away": 116.6
+   "home": 121.9,
+   "away": 116.5
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 2.12,
-    "detail": "Memphis Grizzlies -1.5 vs Utah Jazz -3.6, proj. 102.7 possessions"
+    "points": 2.21,
+    "detail": "Memphis Grizzlies -1.3 vs Utah Jazz -3.4, proj. 102.7 possessions"
    },
    {
     "label": "Home Advantage",
@@ -3592,22 +3628,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -1.5,
-    "off": 114.7,
-    "def": 116.2,
+    "net": -1.3,
+    "off": 114.8,
+    "def": 116.1,
     "pace": 101.8,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": -3.6,
-    "off": 114.9,
-    "def": 118.6,
+    "net": -3.4,
+    "off": 115.0,
+    "def": 118.5,
     "pace": 103.6,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -3868,7 +3904,7 @@
   "actual_winner": null,
   "model_winner": "Memphis Grizzlies",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T20:00-04:00",
   "injury_report": {
    "final_check": null
@@ -3885,6 +3921,12 @@
     "pick": "MEM",
     "prob": 63.5,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "MEM",
+    "prob": 63.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -3925,24 +3967,24 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 63.8,
-   "away": 36.2
+   "home": 63.6,
+   "away": 36.4
   },
   "win_prob_band": {
-   "low": 63.8,
-   "high": 63.8,
+   "low": 63.6,
+   "high": 63.6,
    "gtd_count": 0
   },
-  "expected_margin": 5.39,
+  "expected_margin": 5.32,
   "expected_score": {
-   "home": 119.2,
+   "home": 119.1,
    "away": 113.8
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 1.61,
-    "detail": "New Orleans Pelicans -2.9 vs Indiana Pacers -4.5, proj. 101.6 possessions"
+    "points": 1.54,
+    "detail": "New Orleans Pelicans -3.0 vs Indiana Pacers -4.5, proj. 101.6 possessions"
    },
    {
     "label": "Home Advantage",
@@ -3962,13 +4004,13 @@
   ],
   "ratings": {
    "home": {
-    "net": -2.9,
+    "net": -3.0,
     "off": 114.0,
     "def": 116.9,
     "pace": 101.3,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
     "net": -4.5,
@@ -3977,7 +4019,7 @@
     "pace": 101.8,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -4226,7 +4268,7 @@
   "actual_winner": null,
   "model_winner": "New Orleans Pelicans",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T20:00-04:00",
   "injury_report": {
    "final_check": null
@@ -4243,6 +4285,12 @@
     "pick": "NOP",
     "prob": 63.8,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "NOP",
+    "prob": 63.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -4291,7 +4339,7 @@
    "high": 73.3,
    "gtd_count": 1
   },
-  "expected_margin": 9.52,
+  "expected_margin": 9.53,
   "expected_score": {
    "home": 117.9,
    "away": 108.4
@@ -4299,8 +4347,8 @@
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 6.25,
-    "detail": "Houston Rockets +2.5 vs Dallas Mavericks -3.8, proj. 99.6 possessions"
+    "points": 6.26,
+    "detail": "Houston Rockets +2.4 vs Dallas Mavericks -3.8, proj. 99.6 possessions"
    },
    {
     "label": "Home Advantage",
@@ -4320,13 +4368,13 @@
   ],
   "ratings": {
    "home": {
-    "net": 2.5,
+    "net": 2.4,
     "off": 115.5,
     "def": 113.0,
     "pace": 96.6,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
     "net": -3.8,
@@ -4335,7 +4383,7 @@
     "pace": 102.6,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -4596,7 +4644,7 @@
   "actual_winner": null,
   "model_winner": "Houston Rockets",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T20:30-04:00",
   "injury_report": {
    "final_check": null
@@ -4613,6 +4661,12 @@
     "pick": "HOU",
     "prob": 73.3,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "HOU",
+    "prob": 73.3,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -4653,15 +4707,15 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 52.1,
-   "away": 47.9
+   "home": 52.2,
+   "away": 47.8
   },
   "win_prob_band": {
-   "low": 50.2,
-   "high": 53.5,
+   "low": 50.3,
+   "high": 53.6,
    "gtd_count": 2
   },
-  "expected_margin": 0.82,
+  "expected_margin": 0.84,
   "expected_score": {
    "home": 113.6,
    "away": 112.7
@@ -4669,8 +4723,8 @@
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": -0.92,
-    "detail": "Portland Trail Blazers -0.4 vs Phoenix Suns +0.5, proj. 99.7 possessions"
+    "points": -0.9,
+    "detail": "Portland Trail Blazers -0.3 vs Phoenix Suns +0.6, proj. 99.7 possessions"
    },
    {
     "label": "Home Advantage",
@@ -4690,22 +4744,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -0.4,
+    "net": -0.3,
     "off": 113.0,
     "def": 113.4,
     "pace": 101.4,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": 0.5,
+    "net": 0.6,
     "off": 114.0,
     "def": 113.5,
     "pace": 98.0,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -4973,7 +5027,7 @@
   "actual_winner": null,
   "model_winner": "Portland Trail Blazers",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T22:00-04:00",
   "injury_report": {
    "final_check": null
@@ -4990,6 +5044,12 @@
     "pick": "POR",
     "prob": 52.1,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "POR",
+    "prob": 52.2,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -5030,24 +5090,24 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 63.2,
-   "away": 36.8
+   "home": 62.4,
+   "away": 37.6
   },
   "win_prob_band": {
-   "low": 63.2,
-   "high": 64.4,
+   "low": 62.4,
+   "high": 63.6,
    "gtd_count": 1
   },
-  "expected_margin": 5.14,
+  "expected_margin": 4.82,
   "expected_score": {
-   "home": 116.7,
-   "away": 111.5
+   "home": 116.5,
+   "away": 111.7
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 3.88,
-    "detail": "LA Clippers -0.6 vs Sacramento Kings -4.6, proj. 98.7 possessions"
+    "points": 3.56,
+    "detail": "LA Clippers -0.8 vs Sacramento Kings -4.4, proj. 98.7 possessions"
    },
    {
     "label": "Home Advantage",
@@ -5067,22 +5127,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -0.6,
-    "off": 115.5,
-    "def": 116.2,
+    "net": -0.8,
+    "off": 115.4,
+    "def": 116.3,
     "pace": 97.3,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    },
    "away": {
-    "net": -4.6,
-    "off": 113.1,
-    "def": 117.7,
+    "net": -4.4,
+    "off": 113.2,
+    "def": 117.6,
     "pace": 100.0,
     "games": 0,
     "carry": 1.0,
-    "roster": 0.85
+    "roster": 0.95
    }
   },
   "absences": {
@@ -5368,7 +5428,7 @@
   "actual_winner": null,
   "model_winner": "LA Clippers",
   "model_correct": null,
-  "model_version": "nba-v1.2",
+  "model_version": "nba-v1.3",
   "tip_et": "2026-10-21T22:30-04:00",
   "injury_report": {
    "final_check": null
@@ -5385,6 +5445,12 @@
     "pick": "LAC",
     "prob": 63.2,
     "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "LAC",
+    "prob": 62.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  }
