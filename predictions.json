@@ -4051,6 +4051,8 @@
    {
     "label": "Owner Adjustment",
     "points": -6.48,
+    "team": "IND",
+    "net_to": 1.9,
     "detail": "Indiana rated at its 2024-25 level with Haliburton back (IND net rating +1.9 instead of -4.5)"
    }
   ],
