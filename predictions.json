@@ -1713,18 +1713,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 58.3,
-   "away": 41.7
+   "home": 56.9,
+   "away": 43.1
   },
   "win_prob_band": {
    "low": 56.9,
-   "high": 60.1,
-   "gtd_count": 2
+   "high": 58.7,
+   "gtd_count": 1
   },
-  "expected_margin": 3.21,
+  "expected_margin": 2.67,
   "expected_score": {
-   "home": 115.8,
-   "away": 112.6
+   "home": 115.5,
+   "away": 112.8
   },
   "margin_breakdown": [
    {
@@ -1744,8 +1744,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.35,
-    "detail": "Los Angeles Lakers 1 out (6 min), Golden State Warriors 4 out (108 min) · Cameron Carr, Charles Bassey out all season, already baked into team rating"
+    "points": 1.81,
+    "detail": "Los Angeles Lakers 2 out (29 min), Golden State Warriors 4 out (108 min) · Cameron Carr, Charles Bassey out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -1775,6 +1775,12 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Collin Sexton",
+     "mpg": 23.4,
+     "nth_out": 1,
+     "no_minutes": false
+    },
     {
      "player": "Adou Thiero",
      "mpg": 5.9,
@@ -1822,13 +1828,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Collin Sexton",
-     "mpg": 23.4,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Stephen Curry",
@@ -1906,19 +1906,6 @@
      "apg": 1.6
     },
     {
-     "player": "Collin Sexton",
-     "player_id": 1629012,
-     "position": "G",
-     "starter": false,
-     "games": 68,
-     "starts": 22,
-     "start_rate": 32,
-     "mpg": 23.7,
-     "ppg": 15.4,
-     "rpg": 2.3,
-     "apg": 3.3
-    },
-    {
      "player": "Quentin Grimes",
      "player_id": 1629656,
      "position": "G",
@@ -1943,6 +1930,19 @@
      "ppg": 10.2,
      "rpg": 2.4,
      "apg": 1.1
+    },
+    {
+     "player": "Sandro Mamukelashvili",
+     "player_id": 1630572,
+     "position": "F",
+     "starter": false,
+     "games": 80,
+     "starts": 13,
+     "start_rate": 16,
+     "mpg": 21.9,
+     "ppg": 11.2,
+     "rpg": 4.9,
+     "apg": 1.9
     }
    ],
    "away": [
@@ -2091,6 +2091,12 @@
     "pick": "LAL",
     "prob": 58.3,
     "reason": "Charles Bassey (GSW) now out"
+   },
+   {
+    "at": "2026-10-21T16:02-04:00",
+    "pick": "LAL",
+    "prob": 56.9,
+    "reason": "Collin Sexton (LAL) now out"
    }
   ]
  },
