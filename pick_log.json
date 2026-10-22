@@ -201,6 +201,13 @@
    "home": "ORL",
    "late": false,
    "locked_at": "2026-10-21T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 132,
+     "home": 125
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-21T19:00-04:00",
    "tip_known": true,
@@ -826,7 +833,7 @@
    },
    "home": "LAL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-21T22:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-21T22:00-04:00",
    "tip_known": true,
@@ -1419,7 +1426,7 @@
    },
    "home": "POR",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-21T22:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-21T22:00-04:00",
    "tip_known": true,

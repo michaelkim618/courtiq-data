@@ -26,6 +26,14 @@
  {
   "date": "2026-10-21",
   "season": "2026-2027",
+  "away": "ATL",
+  "home": "ORL",
+  "conf": 51.3,
+  "correct": false
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
   "away": "MIL",
   "home": "WAS",
   "conf": 55.4,
