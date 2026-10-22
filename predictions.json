@@ -5288,18 +5288,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 49.1,
-   "away": 50.9
+   "home": 47.8,
+   "away": 52.2
   },
   "win_prob_band": {
    "low": 47.8,
-   "high": 50.8,
-   "gtd_count": 2
+   "high": 47.8,
+   "gtd_count": 0
   },
-  "expected_margin": -0.33,
+  "expected_margin": -0.85,
   "expected_score": {
-   "home": 114.4,
-   "away": 114.8
+   "home": 114.2,
+   "away": 115.0
   },
   "margin_breakdown": [
    {
@@ -5319,8 +5319,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.04,
-    "detail": "Philadelphia 76ers 2 out (32 min), Cleveland Cavaliers 1 out (14 min) · Tacko Fall, Khalifa Diop out all season, already baked into team rating"
+    "points": -0.56,
+    "detail": "Philadelphia 76ers 3 out (54 min), Cleveland Cavaliers 1 out (14 min) · Tacko Fall, Khalifa Diop out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5352,6 +5352,12 @@
      "no_minutes": false
     },
     {
+     "player": "Dean Wade",
+     "mpg": 22.3,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
      "player": "Ariel Hukporti",
      "mpg": 9.1,
      "nth_out": 2,
@@ -5380,20 +5386,8 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Dean Wade",
-     "mpg": 22.3,
-     "status": "Questionable"
-    }
-   ],
-   "away": [
-    {
-     "player": "Jarrett Allen",
-     "mpg": 27.5,
-     "status": "Questionable"
-    }
-   ]
+   "home": [],
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -5464,19 +5458,6 @@
      "apg": 3.9
     },
     {
-     "player": "Dean Wade",
-     "player_id": 1629731,
-     "position": "F",
-     "starter": false,
-     "games": 59,
-     "starts": 38,
-     "start_rate": 64,
-     "mpg": 22.3,
-     "ppg": 5.8,
-     "rpg": 4.2,
-     "apg": 1.5
-    },
-    {
      "player": "Kentavious Caldwell-Pope",
      "player_id": 203484,
      "position": "G",
@@ -5501,6 +5482,19 @@
      "ppg": 4.8,
      "rpg": 4.3,
      "apg": 0.5
+    },
+    {
+     "player": "Justin Edwards",
+     "player_id": 1642348,
+     "position": "F",
+     "starter": false,
+     "games": 64,
+     "starts": 12,
+     "start_rate": 19,
+     "mpg": 15.3,
+     "ppg": 6.0,
+     "rpg": 1.5,
+     "apg": 1.2
     }
    ],
    "away": [
@@ -5625,6 +5619,12 @@
     "pick": "CLE",
     "prob": 50.9,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-22T18:32-04:00",
+    "pick": "CLE",
+    "prob": 52.2,
+    "reason": "Jarrett Allen (CLE) cleared to play; Dean Wade (PHI) now out"
    }
   ]
  },

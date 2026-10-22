@@ -2054,6 +2054,35 @@
       "away": 50.9,
       "home": 49.1
      }
+    },
+    {
+     "at": "2026-10-22T18:32-04:00",
+     "expected_margin": -0.85,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Nae'Qwan Tomlin",
+       "Khalifa Diop"
+      ],
+      "home": [
+       "Dominick Barlow",
+       "Dean Wade",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Jarrett Allen (CLE) cleared to play; Dean Wade (PHI) now out",
+     "report": "2026-10-22T18:30-04:00",
+     "win_prob": {
+      "away": 52.2,
+      "home": 47.8
+     }
     }
    ]
   },
