@@ -22,5 +22,13 @@
   "home": "NYK",
   "conf": 72.5,
   "correct": false
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
+  "away": "MIL",
+  "home": "WAS",
+  "conf": 55.4,
+  "correct": false
  }
 ]

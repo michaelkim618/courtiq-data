@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T01:13-04:00",
+ "generated": "2026-10-21T21:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -37,13 +37,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-10-21",
+   "games": 1,
+   "wins": 0,
+   "losses": 1,
+   "pct": 0.0,
+   "cum_wins": 1,
+   "cum_games": 4,
+   "cum_pct": 25.0,
+   "picks": [
+    {
+     "away": "MIL",
+     "home": "WAS",
+     "pick": "MIL",
+     "prob": 55.4,
+     "correct": false,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 3,
+  "games": 4,
   "wins": 1,
-  "losses": 2,
-  "pct": 33.3
+  "losses": 3,
+  "pct": 25.0
  },
  "unscored": 0
 }

@@ -2053,7 +2053,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T22:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "9:45 PM ET"
   },
   "pick_updates": [
    {
@@ -2491,7 +2491,7 @@
  },
  {
   "date": "2026-10-21",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Milwaukee Bucks",
   "home": "Washington Wizards",
   "away_code": "MIL",
@@ -2608,225 +2608,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2025-26",
-   "home": [
-    {
-     "player": "Anthony Davis",
-     "player_id": 203076,
-     "position": "F",
-     "starter": true,
-     "games": 20,
-     "starts": 20,
-     "start_rate": 100,
-     "mpg": 31.3,
-     "ppg": 20.4,
-     "rpg": 11.1,
-     "apg": 2.8
-    },
-    {
-     "player": "Kyshawn George",
-     "player_id": 1642273,
-     "position": "F",
-     "starter": true,
-     "games": 48,
-     "starts": 48,
-     "start_rate": 100,
-     "mpg": 29.0,
-     "ppg": 14.8,
-     "rpg": 5.1,
-     "apg": 4.5
-    },
-    {
-     "player": "Deandre Ayton",
-     "player_id": 1629028,
-     "position": "C",
-     "starter": true,
-     "games": 72,
-     "starts": 72,
-     "start_rate": 100,
-     "mpg": 27.2,
-     "ppg": 12.5,
-     "rpg": 8.0,
-     "apg": 0.8
-    },
-    {
-     "player": "Alex Sarr",
-     "player_id": 1642259,
-     "position": "C",
-     "starter": true,
-     "games": 48,
-     "starts": 48,
-     "start_rate": 100,
-     "mpg": 27.2,
-     "ppg": 16.3,
-     "rpg": 7.4,
-     "apg": 2.7
-    },
-    {
-     "player": "Bilal Coulibaly",
-     "player_id": 1641731,
-     "position": "G",
-     "starter": true,
-     "games": 56,
-     "starts": 56,
-     "start_rate": 100,
-     "mpg": 26.2,
-     "ppg": 11.7,
-     "rpg": 4.3,
-     "apg": 2.6
-    },
-    {
-     "player": "Trae Young",
-     "player_id": 1629027,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 25.6,
-     "ppg": 17.9,
-     "rpg": 2.0,
-     "apg": 8.0
-    },
-    {
-     "player": "Khris Middleton",
-     "player_id": 203114,
-     "position": "F",
-     "starter": false,
-     "games": 63,
-     "starts": 50,
-     "start_rate": 79,
-     "mpg": 22.8,
-     "ppg": 10.2,
-     "rpg": 3.7,
-     "apg": 2.8
-    },
-    {
-     "player": "Tre Johnson",
-     "player_id": 1642848,
-     "position": "G",
-     "starter": false,
-     "games": 60,
-     "starts": 42,
-     "start_rate": 70,
-     "mpg": 24.0,
-     "ppg": 12.2,
-     "rpg": 2.8,
-     "apg": 2.0
-    }
-   ],
-   "away": [
-    {
-     "player": "Myles Turner",
-     "player_id": 1626167,
-     "position": "C",
-     "starter": true,
-     "games": 71,
-     "starts": 71,
-     "start_rate": 100,
-     "mpg": 26.9,
-     "ppg": 11.9,
-     "rpg": 5.3,
-     "apg": 1.5
-    },
-    {
-     "player": "Ryan Rollins",
-     "player_id": 1631157,
-     "position": "G",
-     "starter": true,
-     "games": 74,
-     "starts": 67,
-     "start_rate": 91,
-     "mpg": 32.1,
-     "ppg": 17.3,
-     "rpg": 4.6,
-     "apg": 5.6
-    },
-    {
-     "player": "AJ Green",
-     "player_id": 1631260,
-     "position": "G",
-     "starter": true,
-     "games": 78,
-     "starts": 68,
-     "start_rate": 87,
-     "mpg": 29.1,
-     "ppg": 10.4,
-     "rpg": 2.7,
-     "apg": 1.9
-    },
-    {
-     "player": "Tyler Herro",
-     "player_id": 1629639,
-     "position": "G",
-     "starter": true,
-     "games": 33,
-     "starts": 28,
-     "start_rate": 85,
-     "mpg": 31.3,
-     "ppg": 20.5,
-     "rpg": 4.8,
-     "apg": 4.1
-    },
-    {
-     "player": "Kyle Kuzma",
-     "player_id": 1628398,
-     "position": "F",
-     "starter": true,
-     "games": 69,
-     "starts": 43,
-     "start_rate": 62,
-     "mpg": 26.2,
-     "ppg": 13.0,
-     "rpg": 4.5,
-     "apg": 2.7
-    },
-    {
-     "player": "Kel'el Ware",
-     "player_id": 1642276,
-     "position": "C",
-     "starter": false,
-     "games": 77,
-     "starts": 34,
-     "start_rate": 44,
-     "mpg": 22.1,
-     "ppg": 11.1,
-     "rpg": 9.0,
-     "apg": 0.7
-    },
-    {
-     "player": "Ousmane Dieng",
-     "player_id": 1631172,
-     "position": "F",
-     "starter": false,
-     "games": 57,
-     "starts": 20,
-     "start_rate": 35,
-     "mpg": 19.3,
-     "ppg": 7.6,
-     "rpg": 3.2,
-     "apg": 2.4
-    },
-    {
-     "player": "Gary Trent Jr.",
-     "player_id": 1629018,
-     "position": "G",
-     "starter": false,
-     "games": 65,
-     "starts": 21,
-     "start_rate": 32,
-     "mpg": 21.2,
-     "ppg": 8.1,
-     "rpg": 1.0,
-     "apg": 1.2
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 128,
+   "away": 116
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Washington Wizards",
   "model_winner": "Milwaukee Bucks",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T19:00-04:00",
   "injury_report": {
@@ -2857,7 +2646,279 @@
     "prob": 55.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Trae Young",
+     "starter": true,
+     "min": 38,
+     "pts": 20,
+     "reb": 0,
+     "ast": 13,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Anthony Davis",
+     "starter": true,
+     "min": 34,
+     "pts": 34,
+     "reb": 12,
+     "ast": 4,
+     "stl": 2,
+     "blk": 1,
+     "tov": 3,
+     "pm": 6
+    },
+    {
+     "name": "Kyshawn George",
+     "starter": true,
+     "min": 29,
+     "pts": 18,
+     "reb": 5,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "tov": 4,
+     "pm": 13
+    },
+    {
+     "name": "Bilal Coulibaly",
+     "starter": true,
+     "min": 29,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 4,
+     "blk": 2,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Alex Sarr",
+     "starter": true,
+     "min": 24,
+     "pts": 6,
+     "reb": 9,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Justin Champagnie",
+     "starter": false,
+     "min": 21,
+     "pts": 8,
+     "reb": 8,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 17
+    },
+    {
+     "name": "Bub Carrington",
+     "starter": false,
+     "min": 19,
+     "pts": 10,
+     "reb": 1,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 0
+    },
+    {
+     "name": "Tre Johnson",
+     "starter": false,
+     "min": 19,
+     "pts": 8,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Deandre Ayton",
+     "starter": false,
+     "min": 15,
+     "pts": 11,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Khris Middleton",
+     "starter": false,
+     "min": 12,
+     "pts": 2,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -2
+    }
+   ],
+   "away": [
+    {
+     "name": "Tyler Herro",
+     "starter": true,
+     "min": 32,
+     "pts": 24,
+     "reb": 2,
+     "ast": 9,
+     "stl": 1,
+     "blk": 0,
+     "tov": 4,
+     "pm": -6
+    },
+    {
+     "name": "Myles Turner",
+     "starter": true,
+     "min": 32,
+     "pts": 11,
+     "reb": 5,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 3,
+     "pm": -4
+    },
+    {
+     "name": "Jaime Jaquez Jr.",
+     "starter": true,
+     "min": 31,
+     "pts": 22,
+     "reb": 7,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 0
+    },
+    {
+     "name": "Kyle Kuzma",
+     "starter": true,
+     "min": 27,
+     "pts": 5,
+     "reb": 6,
+     "ast": 3,
+     "stl": 3,
+     "blk": 0,
+     "tov": 3,
+     "pm": -10
+    },
+    {
+     "name": "Kasparas Jakucionis",
+     "starter": false,
+     "min": 26,
+     "pts": 15,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -4
+    },
+    {
+     "name": "Ryan Rollins",
+     "starter": true,
+     "min": 24,
+     "pts": 9,
+     "reb": 6,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Ousmane Dieng",
+     "starter": false,
+     "min": 21,
+     "pts": 5,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -4
+    },
+    {
+     "name": "Brayden Burries",
+     "starter": false,
+     "min": 16,
+     "pts": 12,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -12
+    },
+    {
+     "name": "AJ Green",
+     "starter": false,
+     "min": 15,
+     "pts": 6,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -10
+    },
+    {
+     "name": "Kel'el Ware",
+     "starter": false,
+     "min": 14,
+     "pts": 7,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -10
+    },
+    {
+     "name": "Jericho Sims",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Anthony Davis",
+    "pts": 34,
+    "reb": 12,
+    "ast": 4
+   },
+   "away": {
+    "name": "Tyler Herro",
+    "pts": 24,
+    "reb": 2,
+    "ast": 9
+   }
+  }
  },
  {
   "date": "2026-10-21",
@@ -5162,7 +5223,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-21T22:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "9:45 PM ET"
   },
   "pick_updates": [
    {
