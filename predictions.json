@@ -4840,18 +4840,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 51.4,
-   "away": 48.6
+   "home": 52.8,
+   "away": 47.2
   },
   "win_prob_band": {
-   "low": 49.5,
+   "low": 50.8,
    "high": 52.8,
-   "gtd_count": 2
+   "gtd_count": 1
   },
-  "expected_margin": 0.54,
+  "expected_margin": 1.07,
   "expected_score": {
-   "home": 113.4,
-   "away": 112.9
+   "home": 113.7,
+   "away": 112.6
   },
   "margin_breakdown": [
    {
@@ -4871,8 +4871,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.56,
-    "detail": "Portland Trail Blazers 3 out (48 min), Phoenix Suns 1 out (24 min)"
+    "points": -0.04,
+    "detail": "Portland Trail Blazers 3 out (48 min), Phoenix Suns 2 out (46 min)"
    },
    {
     "label": "Returning Players",
@@ -4927,6 +4927,12 @@
      "mpg": 23.6,
      "nth_out": 1,
      "no_minutes": false
+    },
+    {
+     "player": "Luke Kennard",
+     "mpg": 22.7,
+     "nth_out": 1,
+     "no_minutes": false
     }
    ]
   },
@@ -4938,13 +4944,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Luke Kennard",
-     "mpg": 22.7,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -5194,6 +5194,12 @@
     "pick": "POR",
     "prob": 51.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Damian Lillard (POR) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-10-21T20:47-04:00",
+    "pick": "POR",
+    "prob": 52.8,
+    "reason": "Luke Kennard (PHX) now out"
    }
   ]
  },
@@ -5349,7 +5355,7 @@
     {
      "player": "Malik Monk",
      "mpg": 21.8,
-     "status": "Questionable"
+     "status": "Doubtful"
     }
    ]
   },

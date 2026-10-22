@@ -1498,6 +1498,36 @@
       "away": 48.6,
       "home": 51.4
      }
+    },
+    {
+     "at": "2026-10-21T20:47-04:00",
+     "expected_margin": 1.07,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Deni Avdija"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Mark Williams",
+       "Luke Kennard"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Branden Carlson",
+       "Chris Youngblood"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Luke Kennard (PHX) now out",
+     "report": "2026-10-21T20:45-04:00",
+     "win_prob": {
+      "away": 47.2,
+      "home": 52.8
+     }
     }
    ]
   },
