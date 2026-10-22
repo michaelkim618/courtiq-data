@@ -4735,6 +4735,516 @@
   }
  },
  {
+  "date": "2026-10-21",
+  "status": "Final",
+  "away": "Sacramento Kings",
+  "home": "LA Clippers",
+  "away_code": "SAC",
+  "home_code": "LAC",
+  "season": "2026-2027",
+  "game_type": "regular",
+  "neutral": false,
+  "home_standing": {
+   "wins": 0,
+   "losses": 0,
+   "win_pct": null,
+   "conference": "West",
+   "rank": null
+  },
+  "away_standing": {
+   "wins": 0,
+   "losses": 0,
+   "win_pct": null,
+   "conference": "West",
+   "rank": null
+  },
+  "home_recent_form": {
+   "games": [],
+   "wins": 0,
+   "losses": 0,
+   "streak": 0
+  },
+  "away_recent_form": {
+   "games": [],
+   "wins": 0,
+   "losses": 0,
+   "streak": 0
+  },
+  "win_prob": {
+   "home": 63.6,
+   "away": 36.4
+  },
+  "win_prob_band": {
+   "low": 63.6,
+   "high": 63.6,
+   "gtd_count": 0
+  },
+  "expected_margin": 5.33,
+  "expected_score": {
+   "home": 116.8,
+   "away": 111.4
+  },
+  "margin_breakdown": [
+   {
+    "label": "Net Rating Diff",
+    "points": 3.56,
+    "detail": "LA Clippers -0.8 vs Sacramento Kings -4.4, proj. 98.7 possessions"
+   },
+   {
+    "label": "Home Advantage",
+    "points": 2.3,
+    "detail": "League-measured average"
+   },
+   {
+    "label": "Back-to-Back",
+    "points": 0.0,
+    "detail": "Both teams rested"
+   },
+   {
+    "label": "Absences",
+    "points": -0.53,
+    "detail": "LA Clippers 4 out (90 min), Sacramento Kings 3 out (68 min) · Bradley Beal, Ben Simmons out all season, already baked into team rating"
+   }
+  ],
+  "ratings": {
+   "home": {
+    "net": -0.8,
+    "off": 115.4,
+    "def": 116.3,
+    "pace": 97.3,
+    "games": 0,
+    "carry": 1.0,
+    "roster": 0.95
+   },
+   "away": {
+    "net": -4.4,
+    "off": 113.2,
+    "def": 117.6,
+    "pace": 100.0,
+    "games": 0,
+    "carry": 1.0,
+    "roster": 0.95
+   }
+  },
+  "absences": {
+   "home": [
+    {
+     "player": "Brandon Ingram",
+     "mpg": 32.6,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Max Strus",
+     "mpg": 25.6,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Jordan Miller",
+     "mpg": 21.5,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Yanic Konan Niederhauser",
+     "mpg": 10.7,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Bradley Beal",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "no_minutes": true
+    }
+   ],
+   "away": [
+    {
+     "player": "Maxime Raynaud",
+     "mpg": 25.9,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Malik Monk",
+     "mpg": 21.8,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Dylan Cardwell",
+     "mpg": 19.8,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Ben Simmons",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "no_minutes": true
+    }
+   ]
+  },
+  "gtd": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "actual_score": {
+   "home": 121,
+   "away": 96
+  },
+  "actual_winner": "LA Clippers",
+  "model_winner": "LA Clippers",
+  "model_correct": true,
+  "model_version": "nba-v1.4",
+  "tip_et": "2026-10-21T22:30-04:00",
+  "injury_report": {
+   "final_check": "10:15 PM ET"
+  },
+  "pick_updates": [
+   {
+    "at": "2026-10-21T01:13-04:00",
+    "pick": "LAC",
+    "prob": 69.7,
+    "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-21T09:49-04:00",
+    "pick": "LAC",
+    "prob": 63.2,
+    "reason": "Model update: opening team ratings now weigh the current roster 85%, last season 15%"
+   },
+   {
+    "at": "2026-10-21T10:04-04:00",
+    "pick": "LAC",
+    "prob": 62.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T10:46-04:00",
+    "pick": "LAC",
+    "prob": 62.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T21:32-04:00",
+    "pick": "LAC",
+    "prob": 63.6,
+    "reason": "Malik Monk (SAC) now out"
+   }
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Darius Garland",
+     "starter": true,
+     "min": 32,
+     "pts": 30,
+     "reb": 1,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 15
+    },
+    {
+     "name": "Rui Hachimura",
+     "starter": true,
+     "min": 32,
+     "pts": 10,
+     "reb": 8,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": 13
+    },
+    {
+     "name": "Keaton Wagler",
+     "starter": false,
+     "min": 29,
+     "pts": 15,
+     "reb": 5,
+     "ast": 5,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 14
+    },
+    {
+     "name": "Brook Lopez",
+     "starter": false,
+     "min": 27,
+     "pts": 17,
+     "reb": 11,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 18
+    },
+    {
+     "name": "Kris Dunn",
+     "starter": true,
+     "min": 27,
+     "pts": 7,
+     "reb": 5,
+     "ast": 7,
+     "stl": 3,
+     "blk": 2,
+     "tov": 2,
+     "pm": 12
+    },
+    {
+     "name": "Derrick Jones Jr.",
+     "starter": true,
+     "min": 26,
+     "pts": 8,
+     "reb": 6,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 18
+    },
+    {
+     "name": "Gradey Dick",
+     "starter": false,
+     "min": 19,
+     "pts": 12,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 3
+    },
+    {
+     "name": "Kobe Sanders",
+     "starter": false,
+     "min": 19,
+     "pts": 2,
+     "reb": 0,
+     "ast": 3,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": 14
+    },
+    {
+     "name": "Isaiah Jackson",
+     "starter": true,
+     "min": 15,
+     "pts": 13,
+     "reb": 5,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 5
+    },
+    {
+     "name": "Baba Miller",
+     "starter": false,
+     "min": 9,
+     "pts": 4,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 4
+    },
+    {
+     "name": "Jalen Pickett",
+     "starter": false,
+     "min": 2,
+     "pts": 3,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Nick Martinelli",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Cam Christie",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 3
+    }
+   ],
+   "away": [
+    {
+     "name": "Darius Acuff Jr.",
+     "starter": true,
+     "min": 35,
+     "pts": 12,
+     "reb": 3,
+     "ast": 3,
+     "stl": 3,
+     "blk": 0,
+     "tov": 4,
+     "pm": -23
+    },
+    {
+     "name": "Zach LaVine",
+     "starter": true,
+     "min": 34,
+     "pts": 28,
+     "reb": 4,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -16
+    },
+    {
+     "name": "Domantas Sabonis",
+     "starter": true,
+     "min": 34,
+     "pts": 14,
+     "reb": 18,
+     "ast": 8,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -9
+    },
+    {
+     "name": "Precious Achiuwa",
+     "starter": false,
+     "min": 29,
+     "pts": 15,
+     "reb": 5,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": -3
+    },
+    {
+     "name": "Keegan Murray",
+     "starter": true,
+     "min": 28,
+     "pts": 2,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "De'Andre Hunter",
+     "starter": true,
+     "min": 20,
+     "pts": 6,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -24
+    },
+    {
+     "name": "Emanuel Sharp",
+     "starter": false,
+     "min": 17,
+     "pts": 8,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -18
+    },
+    {
+     "name": "Nique Clifford",
+     "starter": false,
+     "min": 17,
+     "pts": 6,
+     "reb": 1,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -7
+    },
+    {
+     "name": "Daeqwon Plowden",
+     "starter": false,
+     "min": 13,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Jonathan Mogbo",
+     "starter": false,
+     "min": 8,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -8
+    },
+    {
+     "name": "Alex Karaban",
+     "starter": false,
+     "min": 5,
+     "pts": 1,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Darius Garland",
+    "pts": 30,
+    "reb": 1,
+    "ast": 4
+   },
+   "away": {
+    "name": "Zach LaVine",
+    "pts": 28,
+    "reb": 4,
+    "ast": 4
+   }
+  }
+ },
+ {
   "date": "2026-10-22",
   "status": "Scheduled",
   "away": "Cleveland Cavaliers",
@@ -4749,7 +5259,7 @@
    "losses": 0,
    "win_pct": 1.0,
    "conference": "East",
-   "rank": 2
+   "rank": 3
   },
   "away_standing": {
    "wins": 0,
@@ -5133,7 +5643,7 @@
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": 1
+   "rank": 2
   },
   "away_standing": {
    "wins": 0,

@@ -98,6 +98,14 @@
  {
   "date": "2026-10-21",
   "season": "2026-2027",
+  "away": "SAC",
+  "home": "LAC",
+  "conf": 63.6,
+  "correct": true
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
   "away": "UTA",
   "home": "MEM",
   "conf": 62.5,
