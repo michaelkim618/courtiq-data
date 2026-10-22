@@ -50,6 +50,14 @@
  {
   "date": "2026-10-21",
   "season": "2026-2027",
+  "away": "DAL",
+  "home": "HOU",
+  "conf": 70.4,
+  "correct": true
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
   "away": "IND",
   "home": "NOP",
   "conf": 53.0,
