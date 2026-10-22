@@ -855,6 +855,13 @@
    "home": "LAL",
    "late": false,
    "locked_at": "2026-10-21T22:00-04:00",
+   "result": {
+    "score": {
+     "away": 105,
+     "home": 127
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-21T22:00-04:00",
    "tip_known": true,
@@ -1462,6 +1469,13 @@
    "home": "POR",
    "late": false,
    "locked_at": "2026-10-21T22:00-04:00",
+   "result": {
+    "score": {
+     "away": 83,
+     "home": 124
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-21T22:00-04:00",
    "tip_known": true,
@@ -1988,6 +2002,91 @@
      "win_prob": {
       "away": 37.5,
       "home": 62.5
+     }
+    }
+   ]
+  },
+  "2026-10-22_CLE@PHI": {
+   "away": "CLE",
+   "date": "2026-10-22",
+   "home": "PHI",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-22T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-22T00:47-04:00",
+     "expected_margin": -0.33,
+     "gtd": {
+      "away": [
+       "Jarrett Allen"
+      ],
+      "home": [
+       "Dean Wade"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Nae'Qwan Tomlin",
+       "Khalifa Diop"
+      ],
+      "home": [
+       "Dominick Barlow",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Opening pick",
+     "report": "2026-10-22T00:45-04:00",
+     "win_prob": {
+      "away": 50.9,
+      "home": 49.1
+     }
+    }
+   ]
+  },
+  "2026-10-22_DEN@OKC": {
+   "away": "DEN",
+   "date": "2026-10-22",
+   "home": "OKC",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-22T21:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-22T00:47-04:00",
+     "expected_margin": 7.61,
+     "gtd": {
+      "away": [
+       "Spencer Jones"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Nikola Topic",
+       "Otega Oweh",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Opening pick",
+     "report": "2026-10-22T00:45-04:00",
+     "win_prob": {
+      "away": 31.0,
+      "home": 69.0
      }
     }
    ]
