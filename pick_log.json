@@ -1730,6 +1730,38 @@
       "away": 37.6,
       "home": 62.4
      }
+    },
+    {
+     "at": "2026-10-21T21:32-04:00",
+     "expected_margin": 5.33,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Malik Monk",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Brandon Ingram",
+       "Max Strus",
+       "Jordan Miller",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "Malik Monk (SAC) now out",
+     "report": "2026-10-21T21:30-04:00",
+     "win_prob": {
+      "away": 36.4,
+      "home": 63.6
+     }
     }
    ]
   },

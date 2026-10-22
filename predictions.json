@@ -5240,18 +5240,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 62.4,
-   "away": 37.6
+   "home": 63.6,
+   "away": 36.4
   },
   "win_prob_band": {
-   "low": 62.4,
+   "low": 63.6,
    "high": 63.6,
-   "gtd_count": 1
+   "gtd_count": 0
   },
-  "expected_margin": 4.82,
+  "expected_margin": 5.33,
   "expected_score": {
-   "home": 116.5,
-   "away": 111.7
+   "home": 116.8,
+   "away": 111.4
   },
   "margin_breakdown": [
    {
@@ -5271,8 +5271,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.03,
-    "detail": "LA Clippers 4 out (90 min), Sacramento Kings 2 out (46 min) · Bradley Beal, Ben Simmons out all season, already baked into team rating"
+    "points": -0.53,
+    "detail": "LA Clippers 4 out (90 min), Sacramento Kings 3 out (68 min) · Bradley Beal, Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5336,6 +5336,12 @@
      "no_minutes": false
     },
     {
+     "player": "Malik Monk",
+     "mpg": 21.8,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
      "player": "Dylan Cardwell",
      "mpg": 19.8,
      "nth_out": 1,
@@ -5351,13 +5357,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Malik Monk",
-     "mpg": 21.8,
-     "status": "Doubtful"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -5607,6 +5607,12 @@
     "pick": "LAC",
     "prob": 62.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-21T21:32-04:00",
+    "pick": "LAC",
+    "prob": 63.6,
+    "reason": "Malik Monk (SAC) now out"
    }
   ]
  }
