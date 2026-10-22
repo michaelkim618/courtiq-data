@@ -50,6 +50,14 @@
  {
   "date": "2026-10-21",
   "season": "2026-2027",
+  "away": "IND",
+  "home": "NOP",
+  "conf": 53.0,
+  "correct": true
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
   "away": "MIL",
   "home": "WAS",
   "conf": 55.4,
@@ -62,5 +70,13 @@
   "home": "MIA",
   "conf": 55.7,
   "correct": false
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
+  "away": "UTA",
+  "home": "MEM",
+  "conf": 62.5,
+  "correct": true
  }
 ]
