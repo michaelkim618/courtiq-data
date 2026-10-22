@@ -4844,9 +4844,9 @@
    "away": 47.2
   },
   "win_prob_band": {
-   "low": 50.8,
+   "low": 52.8,
    "high": 52.8,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 1.07,
   "expected_score": {
@@ -4937,13 +4937,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Deni Avdija",
-     "mpg": 32.2,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5200,6 +5194,12 @@
     "pick": "POR",
     "prob": 52.8,
     "reason": "Luke Kennard (PHX) now out"
+   },
+   {
+    "at": "2026-10-21T21:17-04:00",
+    "pick": "POR",
+    "prob": 52.8,
+    "reason": "Deni Avdija (POR) cleared to play"
    }
   ]
  },

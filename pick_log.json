@@ -1559,6 +1559,34 @@
       "away": 47.2,
       "home": 52.8
      }
+    },
+    {
+     "at": "2026-10-21T21:17-04:00",
+     "expected_margin": 1.07,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Mark Williams",
+       "Luke Kennard"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Branden Carlson",
+       "Chris Youngblood"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Deni Avdija (POR) cleared to play",
+     "report": "2026-10-21T21:15-04:00",
+     "win_prob": {
+      "away": 47.2,
+      "home": 52.8
+     }
     }
    ]
   },
