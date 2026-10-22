@@ -34,6 +34,14 @@
  {
   "date": "2026-10-21",
   "season": "2026-2027",
+  "away": "CHA",
+  "home": "BKN",
+  "conf": 51.6,
+  "correct": true
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
   "away": "MIL",
   "home": "WAS",
   "conf": 55.4,
