@@ -1718,8 +1718,8 @@
   },
   "win_prob_band": {
    "low": 56.9,
-   "high": 58.7,
-   "gtd_count": 1
+   "high": 56.9,
+   "gtd_count": 0
   },
   "expected_margin": 2.67,
   "expected_score": {
@@ -1829,13 +1829,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Stephen Curry",
-     "mpg": 30.4,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -2097,6 +2091,12 @@
     "pick": "LAL",
     "prob": 56.9,
     "reason": "Collin Sexton (LAL) now out"
+   },
+   {
+    "at": "2026-10-21T21:02-04:00",
+    "pick": "LAL",
+    "prob": 56.9,
+    "reason": "Stephen Curry (GSW) cleared to play"
    }
   ]
  },
