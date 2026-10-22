@@ -42,9 +42,25 @@
  {
   "date": "2026-10-21",
   "season": "2026-2027",
+  "away": "CHI",
+  "home": "TOR",
+  "conf": 74.4,
+  "correct": true
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
   "away": "MIL",
   "home": "WAS",
   "conf": 55.4,
+  "correct": false
+ },
+ {
+  "date": "2026-10-21",
+  "season": "2026-2027",
+  "away": "MIN",
+  "home": "MIA",
+  "conf": 55.7,
   "correct": false
  }
 ]
