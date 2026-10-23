@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T01:44-04:00",
+ "generated": "2026-10-22T22:02-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -137,13 +137,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-10-22",
+   "games": 1,
+   "wins": 0,
+   "losses": 1,
+   "pct": 0.0,
+   "cum_wins": 9,
+   "cum_games": 15,
+   "cum_pct": 60.0,
+   "picks": [
+    {
+     "away": "CLE",
+     "home": "PHI",
+     "pick": "CLE",
+     "prob": 52.2,
+     "correct": false,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 14,
+  "games": 15,
   "wins": 9,
-  "losses": 5,
-  "pct": 64.3
+  "losses": 6,
+  "pct": 60.0
  },
  "unscored": 0
 }

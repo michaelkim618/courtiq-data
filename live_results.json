@@ -110,5 +110,13 @@
   "home": "MEM",
   "conf": 62.5,
   "correct": true
+ },
+ {
+  "date": "2026-10-22",
+  "season": "2026-2027",
+  "away": "CLE",
+  "home": "PHI",
+  "conf": 52.2,
+  "correct": false
  }
 ]
