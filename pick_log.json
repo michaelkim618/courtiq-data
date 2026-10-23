@@ -2182,6 +2182,11 @@
   "2026-10-23_ATL@CHA": {
    "away": "ATL",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-23T18:45-04:00"
+   },
    "home": "CHA",
    "late": false,
    "locked_at": null,
@@ -2318,6 +2323,13 @@
    "home": "MIL",
    "late": false,
    "locked_at": "2026-10-23T16:00-04:00",
+   "result": {
+    "score": {
+     "away": 132,
+     "home": 125
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-23T16:00-04:00",
    "tip_known": true,
@@ -2450,6 +2462,11 @@
   "2026-10-23_DAL@IND": {
    "away": "DAL",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-23T18:45-04:00"
+   },
    "home": "IND",
    "late": false,
    "locked_at": null,
@@ -2801,6 +2818,11 @@
   "2026-10-23_MIN@ORL": {
    "away": "MIN",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-23T18:45-04:00"
+   },
    "home": "ORL",
    "late": false,
    "locked_at": null,
@@ -2960,6 +2982,11 @@
   "2026-10-23_NYK@BOS": {
    "away": "NYK",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-23T18:45-04:00"
+   },
    "home": "BOS",
    "late": false,
    "locked_at": null,
@@ -3067,6 +3094,11 @@
   "2026-10-23_TOR@WAS": {
    "away": "TOR",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-23T18:45-04:00"
+   },
    "home": "WAS",
    "late": false,
    "locked_at": null,
