@@ -2518,6 +2518,37 @@
       "away": 49.4,
       "home": 50.6
      }
+    },
+    {
+     "at": "2026-10-23T18:02-04:00",
+     "expected_margin": 0.54,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Santi Aldama",
+       "Caleb Martin",
+       "Jett Howard",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Ben Sheppard",
+       "Johnny Furphy",
+       "T.J. McConnell"
+      ]
+     },
+     "pick": "Indiana Pacers",
+     "pick_code": "IND",
+     "reason": "Jett Howard (DAL) now out",
+     "report": "2026-10-23T18:00-04:00",
+     "win_prob": {
+      "away": 48.6,
+      "home": 51.4
+     }
     }
    ]
   },

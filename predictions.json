@@ -2115,18 +2115,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 50.6,
-   "away": 49.4
+   "home": 51.4,
+   "away": 48.6
   },
   "win_prob_band": {
-   "low": 50.6,
-   "high": 50.6,
+   "low": 51.4,
+   "high": 51.4,
    "gtd_count": 0
   },
-  "expected_margin": 0.25,
+  "expected_margin": 0.54,
   "expected_score": {
-   "home": 116.0,
-   "away": 115.8
+   "home": 116.1,
+   "away": 115.6
   },
   "margin_breakdown": [
    {
@@ -2146,8 +2146,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.34,
-    "detail": "Indiana Pacers 3 out (56 min), Dallas Mavericks 2 out (42 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": -0.04,
+    "detail": "Indiana Pacers 3 out (56 min), Dallas Mavericks 3 out (55 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -2206,6 +2206,12 @@
     {
      "player": "Caleb Martin",
      "mpg": 14.8,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
+     "player": "Jett Howard",
+     "mpg": 12.7,
      "nth_out": 1,
      "no_minutes": false
     },
@@ -2465,6 +2471,12 @@
     "pick": "IND",
     "prob": 50.6,
     "reason": "Ben Sheppard (IND) now out; Aaron Nesmith (IND) cleared to play"
+   },
+   {
+    "at": "2026-10-23T18:02-04:00",
+    "pick": "IND",
+    "prob": 51.4,
+    "reason": "Jett Howard (DAL) now out"
    }
   ]
  },
