@@ -1328,9 +1328,9 @@
    "away": 40.2
   },
   "win_prob_band": {
-   "low": 56.7,
+   "low": 59.8,
    "high": 62.7,
-   "gtd_count": 4
+   "gtd_count": 2
   },
   "expected_margin": 3.81,
   "expected_score": {
@@ -1402,18 +1402,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "De'Aaron Fox",
-     "mpg": 30.7,
-     "status": "Questionable"
-    },
-    {
-     "player": "Keldon Johnson",
-     "mpg": 21.9,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Reed Sheppard",
@@ -1658,6 +1647,12 @@
     "pick": "SAS",
     "prob": 59.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-23T19:47-04:00",
+    "pick": "SAS",
+    "prob": 59.8,
+    "reason": "De'Aaron Fox (SAS) cleared to play; Keldon Johnson (SAS) cleared to play"
    }
   ]
  },
@@ -3604,7 +3599,7 @@
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-23T20:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {

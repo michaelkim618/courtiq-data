@@ -2572,6 +2572,11 @@
   "2026-10-23_DET@MIA": {
    "away": "DET",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-23T19:45-04:00"
+   },
    "home": "MIA",
    "late": false,
    "locked_at": null,
@@ -2660,6 +2665,33 @@
      "pick_code": "SAS",
      "reason": "Opening pick",
      "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 40.2,
+      "home": 59.8
+     }
+    },
+    {
+     "at": "2026-10-23T19:47-04:00",
+     "expected_margin": 3.81,
+     "gtd": {
+      "away": [
+       "Reed Sheppard",
+       "Steven Adams"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "De'Aaron Fox (SAS) cleared to play; Keldon Johnson (SAS) cleared to play",
+     "report": "2026-10-23T19:45-04:00",
      "win_prob": {
       "away": 40.2,
       "home": 59.8
