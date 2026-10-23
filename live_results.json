@@ -118,5 +118,13 @@
   "home": "PHI",
   "conf": 52.2,
   "correct": false
+ },
+ {
+  "date": "2026-10-22",
+  "season": "2026-2027",
+  "away": "DEN",
+  "home": "OKC",
+  "conf": 70.2,
+  "correct": true
  }
 ]

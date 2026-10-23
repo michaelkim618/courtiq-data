@@ -2109,6 +2109,13 @@
    "home": "OKC",
    "late": false,
    "locked_at": "2026-10-22T21:30-04:00",
+   "result": {
+    "score": {
+     "away": 84,
+     "home": 96
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-22T21:30-04:00",
    "tip_known": true,
@@ -2168,6 +2175,592 @@
      "win_prob": {
       "away": 29.8,
       "home": 70.2
+     }
+    }
+   ]
+  },
+  "2026-10-23_ATL@CHA": {
+   "away": "ATL",
+   "date": "2026-10-23",
+   "home": "CHA",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 1.49,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Coby White",
+       "Grant Williams",
+       "Kylan Boswell"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 46.1,
+      "home": 53.9
+     }
+    },
+    {
+     "at": "2026-10-23T00:32-04:00",
+     "expected_margin": 0.81,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Coby White",
+       "Grant Williams",
+       "Kylan Boswell"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-23T00:30-04:00",
+     "win_prob": {
+      "away": 47.9,
+      "home": 52.1
+     }
+    }
+   ]
+  },
+  "2026-10-23_CHI@MIL": {
+   "away": "CHI",
+   "date": "2026-10-23",
+   "home": "MIL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T16:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 3.95,
+     "gtd": {
+      "away": [
+       "Josh Giddey"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Nic Claxton"
+      ],
+      "home": []
+     },
+     "pick": "Milwaukee Bucks",
+     "pick_code": "MIL",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 39.8,
+      "home": 60.2
+     }
+    },
+    {
+     "at": "2026-10-23T00:32-04:00",
+     "expected_margin": 4.26,
+     "gtd": {
+      "away": [
+       "Josh Giddey"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Nic Claxton"
+      ],
+      "home": []
+     },
+     "pick": "Milwaukee Bucks",
+     "pick_code": "MIL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-23T00:30-04:00",
+     "win_prob": {
+      "away": 39.0,
+      "home": 61.0
+     }
+    }
+   ]
+  },
+  "2026-10-23_DAL@IND": {
+   "away": "DAL",
+   "date": "2026-10-23",
+   "home": "IND",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 0.74,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Aaron Nesmith",
+       "Ben Sheppard"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Santi Aldama",
+       "Caleb Martin",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Johnny Furphy",
+       "T.J. McConnell"
+      ]
+     },
+     "pick": "Indiana Pacers",
+     "pick_code": "IND",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 48.1,
+      "home": 51.9
+     }
+    }
+   ]
+  },
+  "2026-10-23_DET@MIA": {
+   "away": "DET",
+   "date": "2026-10-23",
+   "home": "MIA",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T20:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": -1.04,
+     "gtd": {
+      "away": [
+       "Taurean Prince"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 52.7,
+      "home": 47.3
+     }
+    }
+   ]
+  },
+  "2026-10-23_HOU@SAS": {
+   "away": "HOU",
+   "date": "2026-10-23",
+   "home": "SAS",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T21:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 3.81,
+     "gtd": {
+      "away": [
+       "Reed Sheppard",
+       "Steven Adams"
+      ],
+      "home": [
+       "De'Aaron Fox",
+       "Keldon Johnson"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 40.2,
+      "home": 59.8
+     }
+    }
+   ]
+  },
+  "2026-10-23_LAC@LAL": {
+   "away": "LAC",
+   "date": "2026-10-23",
+   "home": "LAL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T22:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 4.42,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jake LaRavia"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Max Strus",
+       "Jordan Miller",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Adou Thiero",
+       "Cameron Carr"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 38.6,
+      "home": 61.4
+     }
+    }
+   ]
+  },
+  "2026-10-23_MEM@GSW": {
+   "away": "MEM",
+   "date": "2026-10-23",
+   "home": "GSW",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T22:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 2.59,
+     "gtd": {
+      "away": [
+       "Cedric Coward",
+       "Isaiah Stewart"
+      ],
+      "home": [
+       "Brandin Podziemski"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [],
+      "home": [
+       "Jimmy Butler III",
+       "Moses Moody",
+       "Kristaps Porzingis"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 43.3,
+      "home": 56.7
+     }
+    }
+   ]
+  },
+  "2026-10-23_MIN@ORL": {
+   "away": "MIN",
+   "date": "2026-10-23",
+   "home": "ORL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 0.67,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Donte DiVincenzo"
+      ],
+      "home": [
+       "Anthony Black",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 48.3,
+      "home": 51.7
+     }
+    },
+    {
+     "at": "2026-10-23T00:32-04:00",
+     "expected_margin": 0.42,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Donte DiVincenzo"
+      ],
+      "home": [
+       "Anthony Black",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-23T00:30-04:00",
+     "win_prob": {
+      "away": 48.9,
+      "home": 51.1
+     }
+    }
+   ]
+  },
+  "2026-10-23_NOP@UTA": {
+   "away": "NOP",
+   "date": "2026-10-23",
+   "home": "UTA",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T21:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 1.22,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [],
+      "home": [
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Utah Jazz",
+     "pick_code": "UTA",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 46.8,
+      "home": 53.2
+     }
+    }
+   ]
+  },
+  "2026-10-23_NYK@BOS": {
+   "away": "NYK",
+   "date": "2026-10-23",
+   "home": "BOS",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": 3.22,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [],
+      "home": [
+       "Devin Carter"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 41.7,
+      "home": 58.3
+     }
+    }
+   ]
+  },
+  "2026-10-23_POR@SAC": {
+   "away": "POR",
+   "date": "2026-10-23",
+   "home": "SAC",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T22:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": -1.43,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Malik Monk"
+      ]
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Branden Carlson",
+       "Chris Youngblood"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 53.7,
+      "home": 46.3
+     }
+    }
+   ]
+  },
+  "2026-10-23_TOR@WAS": {
+   "away": "TOR",
+   "date": "2026-10-23",
+   "home": "WAS",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-23T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-23T00:06-04:00",
+     "expected_margin": -7.1,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Nate Bittle"
+      ],
+      "home": [
+       "Jamir Watkins",
+       "Tristan Vukcevic",
+       "AJ Dybantsa"
+      ]
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "Opening pick",
+     "report": "2026-10-23T00:00-04:00",
+     "win_prob": {
+      "away": 67.9,
+      "home": 32.1
+     }
+    },
+    {
+     "at": "2026-10-23T00:32-04:00",
+     "expected_margin": -7.48,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Nate Bittle"
+      ],
+      "home": [
+       "Jamir Watkins",
+       "Tristan Vukcevic",
+       "AJ Dybantsa"
+      ]
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-23T00:30-04:00",
+     "win_prob": {
+      "away": 68.8,
+      "home": 31.2
      }
     }
    ]
