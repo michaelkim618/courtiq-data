@@ -2115,18 +2115,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 51.9,
-   "away": 48.1
+   "home": 50.6,
+   "away": 49.4
   },
   "win_prob_band": {
-   "low": 48.9,
-   "high": 51.9,
-   "gtd_count": 2
+   "low": 50.6,
+   "high": 50.6,
+   "gtd_count": 0
   },
-  "expected_margin": 0.74,
+  "expected_margin": 0.25,
   "expected_score": {
-   "home": 116.2,
-   "away": 115.5
+   "home": 116.0,
+   "away": 115.8
   },
   "margin_breakdown": [
    {
@@ -2146,8 +2146,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.15,
-    "detail": "Indiana Pacers 2 out (35 min), Dallas Mavericks 2 out (42 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": -0.34,
+    "detail": "Indiana Pacers 3 out (56 min), Dallas Mavericks 2 out (42 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -2177,6 +2177,12 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Ben Sheppard",
+     "mpg": 21.2,
+     "nth_out": 1,
+     "no_minutes": false
+    },
     {
      "player": "Johnny Furphy",
      "mpg": 18.2,
@@ -2218,18 +2224,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Aaron Nesmith",
-     "mpg": 28.9,
-     "status": "Questionable"
-    },
-    {
-     "player": "Ben Sheppard",
-     "mpg": 21.2,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -2464,6 +2459,12 @@
     "pick": "IND",
     "prob": 51.9,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-23T17:47-04:00",
+    "pick": "IND",
+    "prob": 50.6,
+    "reason": "Ben Sheppard (IND) now out; Aaron Nesmith (IND) cleared to play"
    }
   ]
  },

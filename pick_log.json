@@ -2488,6 +2488,36 @@
       "away": 48.1,
       "home": 51.9
      }
+    },
+    {
+     "at": "2026-10-23T17:47-04:00",
+     "expected_margin": 0.25,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Santi Aldama",
+       "Caleb Martin",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Ben Sheppard",
+       "Johnny Furphy",
+       "T.J. McConnell"
+      ]
+     },
+     "pick": "Indiana Pacers",
+     "pick_code": "IND",
+     "reason": "Ben Sheppard (IND) now out; Aaron Nesmith (IND) cleared to play",
+     "report": "2026-10-23T17:45-04:00",
+     "win_prob": {
+      "away": 49.4,
+      "home": 50.6
+     }
     }
    ]
   },
