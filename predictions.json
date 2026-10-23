@@ -1288,14 +1288,14 @@
    "losses": 1,
    "win_pct": 0.0,
    "conference": "West",
-   "rank": 5
+   "rank": 8
   },
   "away_standing": {
    "wins": 1,
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": 1
+   "rank": 3
   },
   "home_recent_form": {
    "games": [
@@ -1683,7 +1683,7 @@
    "losses": 0,
    "win_pct": 1.0,
    "conference": "East",
-   "rank": 2
+   "rank": 3
   },
   "home_recent_form": {
    "games": [
@@ -2049,6 +2049,18 @@
     "pick": "CHA",
     "prob": 52.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T01:40-04:00",
+    "pick": "CHA",
+    "prob": 53.9,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T10:30-04:00",
+    "pick": "CHA",
+    "prob": 52.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -2074,7 +2086,7 @@
    "losses": 1,
    "win_pct": 0.0,
    "conference": "West",
-   "rank": 6
+   "rank": 9
   },
   "home_recent_form": {
    "games": [
@@ -2477,7 +2489,7 @@
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": 4
+   "rank": 7
   },
   "home_recent_form": {
    "games": [
@@ -2837,6 +2849,18 @@
     "pick": "ORL",
     "prob": 51.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T01:40-04:00",
+    "pick": "ORL",
+    "prob": 51.7,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T10:30-04:00",
+    "pick": "ORL",
+    "prob": 51.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -2882,7 +2906,7 @@
     {
      "date": "2026-10-21",
      "result": "W",
-     "score": "135-92",
+     "score": "131-86",
      "home": true
     }
    ],
@@ -3216,6 +3240,18 @@
     "pick": "TOR",
     "prob": 68.8,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T01:40-04:00",
+    "pick": "TOR",
+    "prob": 67.9,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T10:30-04:00",
+    "pick": "TOR",
+    "prob": 68.8,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -3234,14 +3270,14 @@
    "losses": 1,
    "win_pct": 0.0,
    "conference": "East",
-   "rank": 14
+   "rank": 15
   },
   "away_standing": {
    "wins": 1,
    "losses": 0,
    "win_pct": 1.0,
    "conference": "East",
-   "rank": 1
+   "rank": 2
   },
   "home_recent_form": {
    "games": [
@@ -3587,14 +3623,14 @@
    "losses": 1,
    "win_pct": 0.0,
    "conference": "East",
-   "rank": 12
+   "rank": 13
   },
   "away_standing": {
    "wins": 0,
    "losses": 1,
    "win_pct": 0.0,
    "conference": "East",
-   "rank": 13
+   "rank": 14
   },
   "home_recent_form": {
    "games": [
@@ -3614,7 +3650,7 @@
     {
      "date": "2026-10-21",
      "result": "L",
-     "score": "92-135",
+     "score": "86-131",
      "home": false
     }
    ],
@@ -3936,6 +3972,18 @@
     "pick": "MIL",
     "prob": 61.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T01:40-04:00",
+    "pick": "MIL",
+    "prob": 60.2,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-23T10:30-04:00",
+    "pick": "MIL",
+    "prob": 61.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -3954,14 +4002,14 @@
    "losses": 1,
    "win_pct": 0.0,
    "conference": "West",
-   "rank": 7
+   "rank": 10
   },
   "away_standing": {
    "wins": 0,
    "losses": 1,
    "win_pct": 0.0,
    "conference": "West",
-   "rank": 8
+   "rank": 14
   },
   "home_recent_form": {
    "games": [
@@ -4309,14 +4357,14 @@
    "losses": 1,
    "win_pct": 0.0,
    "conference": "West",
-   "rank": null
+   "rank": 11
   },
   "away_standing": {
    "wins": 1,
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": 3
+   "rank": 5
   },
   "home_recent_form": {
    "games": [
@@ -4693,14 +4741,14 @@
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": null
+   "rank": 4
   },
   "away_standing": {
    "wins": 1,
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": null
+   "rank": 2
   },
   "home_recent_form": {
    "games": [
@@ -5095,14 +5143,14 @@
    "losses": 1,
    "win_pct": 0.0,
    "conference": "West",
-   "rank": null
+   "rank": 12
   },
   "away_standing": {
    "wins": 1,
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": null
+   "rank": 1
   },
   "home_recent_form": {
    "games": [
