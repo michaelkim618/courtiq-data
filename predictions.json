@@ -3311,8 +3311,8 @@
   },
   "win_prob_band": {
    "low": 47.3,
-   "high": 48.6,
-   "gtd_count": 1
+   "high": 47.3,
+   "gtd_count": 0
   },
   "expected_margin": -1.04,
   "expected_score": {
@@ -3367,13 +3367,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Taurean Prince",
-     "mpg": 22.2,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -3605,6 +3599,12 @@
     "pick": "DET",
     "prob": 52.7,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-23T13:02-04:00",
+    "pick": "DET",
+    "prob": 52.7,
+    "reason": "Taurean Prince (DET) cleared to play"
    }
   ]
  },

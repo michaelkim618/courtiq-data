@@ -2495,6 +2495,27 @@
       "away": 52.7,
       "home": 47.3
      }
+    },
+    {
+     "at": "2026-10-23T13:02-04:00",
+     "expected_margin": -1.04,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Taurean Prince (DET) cleared to play",
+     "report": "2026-10-23T13:00-04:00",
+     "win_prob": {
+      "away": 52.7,
+      "home": 47.3
+     }
     }
    ]
   },
