@@ -2129,6 +2129,34 @@
       "away": 31.0,
       "home": 69.0
      }
+    },
+    {
+     "at": "2026-10-22T20:32-04:00",
+     "expected_margin": 8.1,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.4",
+     "out": {
+      "away": [
+       "Spencer Jones",
+       "Julian Strawther"
+      ],
+      "home": [
+       "Nikola Topic",
+       "Otega Oweh",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Spencer Jones (DEN) now out",
+     "report": "2026-10-22T20:30-04:00",
+     "win_prob": {
+      "away": 29.8,
+      "home": 70.2
+     }
     }
    ]
   }

@@ -5672,18 +5672,18 @@
    "streak": 0
   },
   "win_prob": {
-   "home": 69.0,
-   "away": 31.0
+   "home": 70.2,
+   "away": 29.8
   },
   "win_prob_band": {
-   "low": 69.0,
+   "low": 70.2,
    "high": 70.2,
-   "gtd_count": 1
+   "gtd_count": 0
   },
-  "expected_margin": 7.61,
+  "expected_margin": 8.1,
   "expected_score": {
-   "home": 118.6,
-   "away": 111.0
+   "home": 118.8,
+   "away": 110.7
   },
   "margin_breakdown": [
    {
@@ -5703,8 +5703,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.1,
-    "detail": "Oklahoma City Thunder 1 out (11 min), Denver Nuggets 1 out (15 min) · Otega Oweh, Thomas Sorber out all season, already baked into team rating"
+    "points": 0.6,
+    "detail": "Oklahoma City Thunder 1 out (11 min), Denver Nuggets 2 out (36 min) · Otega Oweh, Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5750,6 +5750,12 @@
    ],
    "away": [
     {
+     "player": "Spencer Jones",
+     "mpg": 21.6,
+     "nth_out": 1,
+     "no_minutes": false
+    },
+    {
      "player": "Julian Strawther",
      "mpg": 14.9,
      "nth_out": 1,
@@ -5759,13 +5765,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Spencer Jones",
-     "mpg": 21.6,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -5955,19 +5955,6 @@
      "apg": 2.7
     },
     {
-     "player": "Spencer Jones",
-     "player_id": 1642461,
-     "position": "F",
-     "starter": false,
-     "games": 64,
-     "starts": 37,
-     "start_rate": 58,
-     "mpg": 22.1,
-     "ppg": 5.5,
-     "rpg": 3.3,
-     "apg": 0.8
-    },
-    {
      "player": "Ryan Nembhard",
      "player_id": 1642948,
      "position": "G",
@@ -5979,6 +5966,19 @@
      "ppg": 6.6,
      "rpg": 2.2,
      "apg": 5.3
+    },
+    {
+     "player": "DaRon Holmes II",
+     "player_id": 1641747,
+     "position": "F",
+     "starter": false,
+     "games": 25,
+     "starts": 6,
+     "start_rate": 24,
+     "mpg": 8.4,
+     "ppg": 3.7,
+     "rpg": 1.4,
+     "apg": 0.6
     }
    ]
   },
@@ -5997,6 +5997,12 @@
     "pick": "OKC",
     "prob": 69.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-22T20:32-04:00",
+    "pick": "OKC",
+    "prob": 70.2,
+    "reason": "Spencer Jones (DEN) now out"
    }
   ]
  }
