@@ -7341,7 +7341,7 @@
   "win_prob_band": {
    "low": 63.4,
    "high": 63.4,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 5.25,
   "expected_score": {
@@ -7367,7 +7367,7 @@
    {
     "label": "Absences",
     "points": 0.63,
-    "detail": "Chicago Bulls 1 out (28 min), Washington Wizards 2 out (34 min) costing 0.6 pts · AJ Dybantsa out all season, already baked into team rating"
+    "detail": "Chicago Bulls 2 out (48 min), Washington Wizards 2 out (34 min) costing 0.6 pts · Noa Essengue, AJ Dybantsa out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7399,6 +7399,22 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Patrick Williams",
+     "mpg": 20.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Noa Essengue",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ],
    "away": [
@@ -7429,14 +7445,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Patrick Williams",
-     "mpg": 20.5,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -7694,6 +7703,12 @@
     "pick": "CHI",
     "prob": 63.4,
     "reason": "Patrick Williams (CHI) now questionable"
+   },
+   {
+    "at": "2026-10-24T18:47-04:00",
+    "pick": "CHI",
+    "prob": 63.4,
+    "reason": "Noa Essengue (CHI) now out; Patrick Williams (CHI) now out"
    }
   ]
  },
@@ -7760,18 +7775,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 33.7,
-   "away": 66.3
+   "home": 29.9,
+   "away": 70.1
   },
   "win_prob_band": {
-   "low": 33.7,
-   "high": 33.7,
-   "gtd_count": 2
+   "low": 29.9,
+   "high": 29.9,
+   "gtd_count": 1
   },
-  "expected_margin": -6.42,
+  "expected_margin": -8.07,
   "expected_score": {
-   "home": 111.5,
-   "away": 117.9
+   "home": 110.6,
+   "away": 118.7
   },
   "margin_breakdown": [
    {
@@ -7792,12 +7807,7 @@
    {
     "label": "Absences",
     "points": -1.24,
-    "detail": "Dallas Mavericks 3 out (75 min) costing 1.5 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Dereck Lively II, Tarik Biberovic, Jayden Quaintance out all season, already baked into team rating"
-   },
-   {
-    "label": "Returning Players",
-    "points": 1.65,
-    "detail": "Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
+    "detail": "Dallas Mavericks 3 out (75 min) costing 1.5 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Dereck Lively II, Kyrie Irving, Tarik Biberovic, Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7855,6 +7865,14 @@
      "no_minutes": true
     },
     {
+     "player": "Kyrie Irving",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    },
+    {
      "player": "Tarik Biberovic",
      "mpg": 0.0,
      "nth_out": 1,
@@ -7889,12 +7907,6 @@
      "mpg": 28.6,
      "value": 0.0,
      "status": "Questionable"
-    },
-    {
-     "player": "Zaccharie Risacher",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Probable"
     }
    ],
    "away": []
@@ -7902,20 +7914,6 @@
   "lineups": {
    "season": "2025-26",
    "home": [
-    {
-     "player": "Kyrie Irving",
-     "player_id": 202681,
-     "position": "G",
-     "starter": true,
-     "games": 0,
-     "starts": 0,
-     "start_rate": null,
-     "mpg": null,
-     "ppg": null,
-     "rpg": null,
-     "apg": null,
-     "projection": "returning"
-    },
     {
      "player": "P.J. Washington",
      "player_id": 1629023,
@@ -7972,7 +7970,7 @@
      "player": "Naji Marshall",
      "player_id": 1630230,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 74,
      "starts": 47,
      "start_rate": 64,
@@ -8006,6 +8004,19 @@
      "ppg": 7.8,
      "rpg": 2.0,
      "apg": 4.0
+    },
+    {
+     "player": "Moussa Cissé",
+     "player_id": 1630619,
+     "position": "C",
+     "starter": false,
+     "games": 38,
+     "starts": 1,
+     "start_rate": 3,
+     "mpg": 13.9,
+     "ppg": 4.5,
+     "rpg": 5.7,
+     "apg": 0.2
     }
    ],
    "away": [
@@ -8142,6 +8153,12 @@
     "pick": "SAS",
     "prob": 66.3,
     "reason": "Jayden Quaintance (SAS) now out; Tobias Harris (SAS) now out; Caleb Martin (DAL) now out; Cooper Flagg (DAL) now out; Dereck Lively II (DAL) now out; Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out; Max Christie (DAL) now questionable; Zaccharie Risacher (DAL) now questionable"
+   },
+   {
+    "at": "2026-10-24T18:47-04:00",
+    "pick": "SAS",
+    "prob": 70.1,
+    "reason": "Kyrie Irving (DAL) now out; Zaccharie Risacher (DAL) cleared to play"
    }
   ]
  },

@@ -4118,6 +4118,39 @@
       "away": 66.3,
       "home": 33.7
      }
+    },
+    {
+     "at": "2026-10-24T18:47-04:00",
+     "expected_margin": -8.07,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Max Christie"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Cooper Flagg",
+       "Santi Aldama",
+       "Caleb Martin",
+       "Dereck Lively II",
+       "Kyrie Irving",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Kyrie Irving (DAL) now out; Zaccharie Risacher (DAL) cleared to play",
+     "report": "2026-10-24T18:45-04:00",
+     "win_prob": {
+      "away": 70.1,
+      "home": 29.9
+     }
     }
    ]
   },
@@ -4247,6 +4280,35 @@
      "pick_code": "CHI",
      "reason": "Patrick Williams (CHI) now questionable",
      "report": "2026-10-24T17:15-04:00",
+     "win_prob": {
+      "away": 36.6,
+      "home": 63.4
+     }
+    },
+    {
+     "at": "2026-10-24T18:47-04:00",
+     "expected_margin": 5.25,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Jamir Watkins",
+       "AJ Dybantsa"
+      ],
+      "home": [
+       "Nic Claxton",
+       "Patrick Williams",
+       "Noa Essengue"
+      ]
+     },
+     "pick": "Chicago Bulls",
+     "pick_code": "CHI",
+     "reason": "Noa Essengue (CHI) now out; Patrick Williams (CHI) now out",
+     "report": "2026-10-24T18:45-04:00",
      "win_prob": {
       "away": 36.6,
       "home": 63.4
