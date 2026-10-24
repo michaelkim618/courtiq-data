@@ -162,6 +162,14 @@
  {
   "date": "2026-10-23",
   "season": "2026-2027",
+  "away": "NYK",
+  "home": "BOS",
+  "conf": 58.3,
+  "correct": true
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
   "away": "TOR",
   "home": "WAS",
   "conf": 68.8,
