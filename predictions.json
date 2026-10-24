@@ -1324,18 +1324,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 59.8,
-   "away": 40.2
+   "home": 61.4,
+   "away": 38.6
   },
   "win_prob_band": {
-   "low": 59.8,
+   "low": 61.4,
    "high": 62.7,
-   "gtd_count": 2
+   "gtd_count": 1
   },
-  "expected_margin": 3.81,
+  "expected_margin": 4.42,
   "expected_score": {
-   "home": 113.9,
-   "away": 110.1
+   "home": 114.2,
+   "away": 109.8
   },
   "margin_breakdown": [
    {
@@ -1355,8 +1355,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.66,
-    "detail": "San Antonio Spurs 1 out (29 min) · Jayden Quaintance out all season, already baked into team rating"
+    "points": -0.05,
+    "detail": "San Antonio Spurs 1 out (29 min), Houston Rockets 1 out (26 min) · Jayden Quaintance out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -1399,16 +1399,18 @@
      "no_minutes": true
     }
    ],
-   "away": []
-  },
-  "gtd": {
-   "home": [],
    "away": [
     {
      "player": "Reed Sheppard",
      "mpg": 26.4,
-     "status": "Questionable"
-    },
+     "nth_out": 1,
+     "no_minutes": false
+    }
+   ]
+  },
+  "gtd": {
+   "home": [],
+   "away": [
     {
      "player": "Steven Adams",
      "mpg": 22.7,
@@ -1653,6 +1655,12 @@
     "pick": "SAS",
     "prob": 59.8,
     "reason": "De'Aaron Fox (SAS) cleared to play; Keldon Johnson (SAS) cleared to play"
+   },
+   {
+    "at": "2026-10-23T20:17-04:00",
+    "pick": "SAS",
+    "prob": 61.4,
+    "reason": "Reed Sheppard (HOU) now out"
    }
   ]
  },
