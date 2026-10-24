@@ -2477,6 +2477,13 @@
    "home": "IND",
    "late": false,
    "locked_at": "2026-10-23T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 121,
+     "home": 105
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-23T19:00-04:00",
    "tip_known": true,
@@ -2768,6 +2775,11 @@
   "2026-10-23_LAC@LAL": {
    "away": "LAC",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T21:47-04:00",
+    "label": "9:45 PM ET",
+    "report": "2026-10-23T21:45-04:00"
+   },
    "home": "LAL",
    "late": false,
    "locked_at": null,
@@ -2843,6 +2855,11 @@
   "2026-10-23_MEM@GSW": {
    "away": "MEM",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T21:47-04:00",
+    "label": "9:45 PM ET",
+    "report": "2026-10-23T21:45-04:00"
+   },
    "home": "GSW",
    "late": false,
    "locked_at": null,
@@ -2952,6 +2969,13 @@
    "home": "ORL",
    "late": false,
    "locked_at": "2026-10-23T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 115,
+     "home": 93
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-23T19:00-04:00",
    "tip_known": true,
@@ -3153,6 +3177,11 @@
   "2026-10-23_POR@SAC": {
    "away": "POR",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T21:47-04:00",
+    "label": "9:45 PM ET",
+    "report": "2026-10-23T21:45-04:00"
+   },
    "home": "SAC",
    "late": false,
    "locked_at": null,
@@ -3233,6 +3262,13 @@
    "home": "WAS",
    "late": false,
    "locked_at": "2026-10-23T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 112,
+     "home": 102
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-23T19:00-04:00",
    "tip_known": true,

@@ -142,5 +142,29 @@
   "home": "MIL",
   "conf": 61.0,
   "correct": false
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
+  "away": "DAL",
+  "home": "IND",
+  "conf": 51.4,
+  "correct": false
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
+  "away": "MIN",
+  "home": "ORL",
+  "conf": 51.1,
+  "correct": false
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
+  "away": "TOR",
+  "home": "WAS",
+  "conf": 68.8,
+  "correct": true
  }
 ]
