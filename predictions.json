@@ -5699,18 +5699,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 51.1,
-   "away": 48.9
+   "home": 48.5,
+   "away": 51.5
   },
   "win_prob_band": {
-   "low": 51.1,
-   "high": 51.1,
+   "low": 48.5,
+   "high": 48.5,
    "gtd_count": 1
   },
-  "expected_margin": 0.42,
+  "expected_margin": -0.58,
   "expected_score": {
-   "home": 116.5,
-   "away": 116.1
+   "home": 116.0,
+   "away": 116.6
   },
   "margin_breakdown": [
    {
@@ -5732,6 +5732,12 @@
     "label": "Absences",
     "points": -2.13,
     "detail": "Charlotte Hornets 3 out (76 min) costing 2.1 pts · Kylan Boswell out all season, already baked into team rating"
+   },
+   {
+    "label": "Owner Adjustment",
+    "points": -1.0,
+    "toward": "MIA",
+    "detail": "With LaMelo Ball traded to Minnesota, Charlotte has no guard to anchor the team; its three-point shooting is thinner and Knueppel is out, so Brandon Miller alone cannot carry it. (margin moved +1.0 toward MIA)"
    }
   ],
   "ratings": {
@@ -6019,7 +6025,7 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Charlotte Hornets",
+  "model_winner": "Miami Heat",
   "model_correct": null,
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-24T18:00-04:00",
@@ -6044,6 +6050,12 @@
     "pick": "CHA",
     "prob": 51.1,
     "reason": "Pelle Larsson (MIA) now questionable; Coby White (CHA) now out; Grant Williams (CHA) now out; Kon Knueppel (CHA) now out; Kylan Boswell (CHA) now out"
+   },
+   {
+    "at": "2026-10-24T14:11-04:00",
+    "pick": "MIA",
+    "prob": 51.5,
+    "reason": "pick flipped to MIA"
    }
   ]
  },

@@ -3722,6 +3722,34 @@
       "away": 48.9,
       "home": 51.1
      }
+    },
+    {
+     "at": "2026-10-24T14:11-04:00",
+     "expected_margin": -0.58,
+     "gtd": {
+      "away": [
+       "Pelle Larsson"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [],
+      "home": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams",
+       "Kylan Boswell"
+      ]
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "pick flipped to MIA",
+     "report": "2026-10-24T14:00-04:00",
+     "win_prob": {
+      "away": 51.5,
+      "home": 48.5
+     }
     }
    ]
   },
