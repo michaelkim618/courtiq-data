@@ -5705,7 +5705,7 @@
   "win_prob_band": {
    "low": 48.5,
    "high": 48.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -0.58,
   "expected_score": {
@@ -5799,14 +5799,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Pelle Larsson",
-     "mpg": 25.9,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -6056,6 +6049,12 @@
     "pick": "MIA",
     "prob": 51.5,
     "reason": "pick flipped to MIA"
+   },
+   {
+    "at": "2026-10-24T17:32-04:00",
+    "pick": "MIA",
+    "prob": 51.5,
+    "reason": "Pelle Larsson (MIA) cleared to play"
    }
   ]
  },
