@@ -6420,7 +6420,7 @@
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-24T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -6818,7 +6818,7 @@
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-24T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -7780,7 +7780,7 @@
   "win_prob_band": {
    "low": 29.9,
    "high": 29.9,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -8.07,
   "expected_score": {
@@ -7900,14 +7900,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Max Christie",
-     "mpg": 28.6,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -8158,6 +8151,12 @@
     "pick": "SAS",
     "prob": 70.1,
     "reason": "Kyrie Irving (DAL) now out; Zaccharie Risacher (DAL) cleared to play"
+   },
+   {
+    "at": "2026-10-24T19:17-04:00",
+    "pick": "SAS",
+    "prob": 70.1,
+    "reason": "Max Christie (DAL) cleared to play"
    }
   ]
  },

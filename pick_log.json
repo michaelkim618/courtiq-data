@@ -3435,6 +3435,11 @@
   "2026-10-24_BKN@CLE": {
    "away": "BKN",
    "date": "2026-10-24",
+   "final_check": {
+    "at": "2026-10-24T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-24T19:15-04:00"
+   },
    "home": "CLE",
    "late": false,
    "locked_at": null,
@@ -3852,6 +3857,11 @@
   "2026-10-24_MIL@PHI": {
    "away": "MIL",
    "date": "2026-10-24",
+   "final_check": {
+    "at": "2026-10-24T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-24T19:15-04:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
@@ -4173,6 +4183,37 @@
      "pick_code": "SAS",
      "reason": "Kyrie Irving (DAL) now out; Zaccharie Risacher (DAL) cleared to play",
      "report": "2026-10-24T18:45-04:00",
+     "win_prob": {
+      "away": 70.1,
+      "home": 29.9
+     }
+    },
+    {
+     "at": "2026-10-24T19:17-04:00",
+     "expected_margin": -8.07,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Cooper Flagg",
+       "Santi Aldama",
+       "Caleb Martin",
+       "Dereck Lively II",
+       "Kyrie Irving",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Max Christie (DAL) cleared to play",
+     "report": "2026-10-24T19:15-04:00",
      "win_prob": {
       "away": 70.1,
       "home": 29.9
