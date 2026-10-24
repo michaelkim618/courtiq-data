@@ -130,6 +130,14 @@
  {
   "date": "2026-10-23",
   "season": "2026-2027",
+  "away": "ATL",
+  "home": "CHA",
+  "conf": 52.1,
+  "correct": false
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
   "away": "CHI",
   "home": "MIL",
   "conf": 61.0,

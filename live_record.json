@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:47-04:00",
+ "generated": "2026-10-23T21:32-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -168,14 +168,22 @@
   },
   {
    "date": "2026-10-23",
-   "games": 1,
+   "games": 2,
    "wins": 0,
-   "losses": 1,
+   "losses": 2,
    "pct": 0.0,
    "cum_wins": 10,
-   "cum_games": 17,
-   "cum_pct": 58.8,
+   "cum_games": 18,
+   "cum_pct": 55.6,
    "picks": [
+    {
+     "away": "ATL",
+     "home": "CHA",
+     "pick": "CHA",
+     "prob": 52.1,
+     "correct": false,
+     "updated": true
+    },
     {
      "away": "CHI",
      "home": "MIL",
@@ -188,10 +196,10 @@
   }
  ],
  "total": {
-  "games": 17,
+  "games": 18,
   "wins": 10,
-  "losses": 7,
-  "pct": 58.8
+  "losses": 8,
+  "pct": 55.6
  },
  "unscored": 0
 }
