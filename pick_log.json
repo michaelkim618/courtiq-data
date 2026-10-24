@@ -3942,6 +3942,32 @@
       "away": 32.2,
       "home": 67.8
      }
+    },
+    {
+     "at": "2026-10-24T19:02-04:00",
+     "expected_margin": 7.09,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [],
+      "home": [
+       "LeBron James",
+       "Dominick Barlow",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Dean Wade (PHI) cleared to play",
+     "report": "2026-10-24T19:00-04:00",
+     "win_prob": {
+      "away": 32.2,
+      "home": 67.8
+     }
     }
    ]
   },

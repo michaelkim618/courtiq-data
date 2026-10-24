@@ -6506,7 +6506,7 @@
   "win_prob_band": {
    "low": 67.8,
    "high": 67.8,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 7.09,
   "expected_score": {
@@ -6593,14 +6593,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Dean Wade",
-     "mpg": 22.3,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6845,6 +6838,12 @@
     "pick": "PHI",
     "prob": 67.8,
     "reason": "LeBron James (PHI) now out"
+   },
+   {
+    "at": "2026-10-24T19:02-04:00",
+    "pick": "PHI",
+    "prob": 67.8,
+    "reason": "Dean Wade (PHI) cleared to play"
    }
   ]
  },
