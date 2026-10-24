@@ -154,6 +154,14 @@
  {
   "date": "2026-10-23",
   "season": "2026-2027",
+  "away": "DET",
+  "home": "MIA",
+  "conf": 52.7,
+  "correct": true
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
   "away": "MIN",
   "home": "ORL",
   "conf": 51.1,
