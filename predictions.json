@@ -4284,7 +4284,7 @@
  },
  {
   "date": "2026-10-23",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Memphis Grizzlies",
   "home": "Golden State Warriors",
   "away_code": "MEM",
@@ -4428,226 +4428,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2025-26",
-   "home": [
-    {
-     "player": "Draymond Green",
-     "player_id": 203110,
-     "position": "F",
-     "starter": true,
-     "games": 68,
-     "starts": 68,
-     "start_rate": 100,
-     "mpg": 27.5,
-     "ppg": 8.4,
-     "rpg": 5.5,
-     "apg": 5.5
-    },
-    {
-     "player": "Stephen Curry",
-     "player_id": 201939,
-     "position": "G",
-     "starter": true,
-     "games": 43,
-     "starts": 41,
-     "start_rate": 95,
-     "mpg": 30.9,
-     "ppg": 26.6,
-     "rpg": 3.6,
-     "apg": 4.7
-    },
-    {
-     "player": "Brandin Podziemski",
-     "player_id": 1641764,
-     "position": "G",
-     "starter": true,
-     "games": 82,
-     "starts": 43,
-     "start_rate": 52,
-     "mpg": 28.4,
-     "ppg": 13.8,
-     "rpg": 5.1,
-     "apg": 3.7
-    },
-    {
-     "player": "De'Anthony Melton",
-     "player_id": 1629001,
-     "position": "G",
-     "starter": true,
-     "games": 49,
-     "starts": 24,
-     "start_rate": 49,
-     "mpg": 23.0,
-     "ppg": 12.3,
-     "rpg": 3.2,
-     "apg": 2.6
-    },
-    {
-     "player": "Gui Santos",
-     "player_id": 1630611,
-     "position": "F",
-     "starter": true,
-     "games": 68,
-     "starts": 30,
-     "start_rate": 44,
-     "mpg": 20.5,
-     "ppg": 9.2,
-     "rpg": 3.9,
-     "apg": 2.3
-    },
-    {
-     "player": "Will Richard",
-     "player_id": 1642954,
-     "position": "G",
-     "starter": false,
-     "games": 69,
-     "starts": 21,
-     "start_rate": 30,
-     "mpg": 20.0,
-     "ppg": 6.4,
-     "rpg": 2.5,
-     "apg": 1.3
-    },
-    {
-     "player": "Al Horford",
-     "player_id": 201143,
-     "position": "C",
-     "starter": false,
-     "games": 45,
-     "starts": 13,
-     "start_rate": 29,
-     "mpg": 21.5,
-     "ppg": 8.3,
-     "rpg": 4.9,
-     "apg": 2.6
-    },
-    {
-     "player": "Brandon Williams",
-     "player_id": 1630314,
-     "position": "G",
-     "starter": false,
-     "games": 66,
-     "starts": 15,
-     "start_rate": 23,
-     "mpg": 22.2,
-     "ppg": 13.0,
-     "rpg": 2.9,
-     "apg": 3.9
-    }
-   ],
-   "away": [
-    {
-     "player": "Cameron Boozer",
-     "player_id": 1643409,
-     "position": "F",
-     "starter": true,
-     "games": 0,
-     "starts": 0,
-     "start_rate": null,
-     "mpg": null,
-     "ppg": null,
-     "rpg": null,
-     "apg": null,
-     "projection": "rookie"
-    },
-    {
-     "player": "Jaylen Wells",
-     "player_id": 1642377,
-     "position": "F",
-     "starter": true,
-     "games": 69,
-     "starts": 69,
-     "start_rate": 100,
-     "mpg": 26.4,
-     "ppg": 12.5,
-     "rpg": 3.2,
-     "apg": 1.6
-    },
-    {
-     "player": "Zach Edey",
-     "player_id": 1641744,
-     "position": "C",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 25.8,
-     "ppg": 13.6,
-     "rpg": 11.1,
-     "apg": 1.1
-    },
-    {
-     "player": "Ty Jerome",
-     "player_id": 1629660,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 22.6,
-     "ppg": 19.7,
-     "rpg": 2.8,
-     "apg": 5.7
-    },
-    {
-     "player": "Jerami Grant",
-     "player_id": 203924,
-     "position": "F",
-     "starter": true,
-     "games": 57,
-     "starts": 38,
-     "start_rate": 67,
-     "mpg": 29.7,
-     "ppg": 18.6,
-     "rpg": 3.5,
-     "apg": 2.1
-    },
-    {
-     "player": "Scotty Pippen Jr.",
-     "player_id": 1630590,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 6,
-     "start_rate": 60,
-     "mpg": 21.2,
-     "ppg": 11.4,
-     "rpg": 2.2,
-     "apg": 4.7
-    },
-    {
-     "player": "Quinten Post",
-     "player_id": 1642366,
-     "position": "C",
-     "starter": false,
-     "games": 67,
-     "starts": 35,
-     "start_rate": 52,
-     "mpg": 17.3,
-     "ppg": 7.7,
-     "rpg": 4.0,
-     "apg": 1.4
-    },
-    {
-     "player": "GG Jackson",
-     "player_id": 1641713,
-     "position": "F",
-     "starter": false,
-     "games": 55,
-     "starts": 28,
-     "start_rate": 51,
-     "mpg": 21.4,
-     "ppg": 12.5,
-     "rpg": 4.3,
-     "apg": 1.5
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 108,
+   "away": 111
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Memphis Grizzlies",
   "model_winner": "Golden State Warriors",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-23T22:00-04:00",
   "injury_report": {
@@ -4672,7 +4460,303 @@
     "prob": 58.2,
     "reason": "Cedric Coward (MEM) now out; Isaiah Stewart (MEM) cleared to play; Brandin Podziemski (GSW) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Yaxel Lendeborg",
+     "starter": true,
+     "min": 37,
+     "pts": 18,
+     "reb": 13,
+     "ast": 6,
+     "stl": 3,
+     "blk": 0,
+     "tov": 6,
+     "pm": -9
+    },
+    {
+     "name": "Brandin Podziemski",
+     "starter": true,
+     "min": 33,
+     "pts": 18,
+     "reb": 2,
+     "ast": 3,
+     "stl": 3,
+     "blk": 1,
+     "tov": 4,
+     "pm": 0
+    },
+    {
+     "name": "Draymond Green",
+     "starter": true,
+     "min": 31,
+     "pts": 5,
+     "reb": 4,
+     "ast": 6,
+     "stl": 0,
+     "blk": 1,
+     "tov": 5,
+     "pm": -5
+    },
+    {
+     "name": "Stephen Curry",
+     "starter": true,
+     "min": 30,
+     "pts": 24,
+     "reb": 3,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "De'Anthony Melton",
+     "starter": false,
+     "min": 20,
+     "pts": 10,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": -17
+    },
+    {
+     "name": "Gui Santos",
+     "starter": false,
+     "min": 20,
+     "pts": 5,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 14
+    },
+    {
+     "name": "Al Horford",
+     "starter": false,
+     "min": 19,
+     "pts": 3,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Georges Niang",
+     "starter": false,
+     "min": 13,
+     "pts": 4,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 5
+    },
+    {
+     "name": "Graham Ike",
+     "starter": true,
+     "min": 12,
+     "pts": 10,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -16
+    },
+    {
+     "name": "Gary Payton II",
+     "starter": false,
+     "min": 11,
+     "pts": 7,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Brandon Williams",
+     "starter": false,
+     "min": 9,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 8
+    },
+    {
+     "name": "Will Richard",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    }
+   ],
+   "away": [
+    {
+     "name": "Cameron Boozer",
+     "starter": true,
+     "min": 37,
+     "pts": 25,
+     "reb": 13,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 6,
+     "pm": 12
+    },
+    {
+     "name": "Ty Jerome",
+     "starter": true,
+     "min": 32,
+     "pts": 28,
+     "reb": 2,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 4,
+     "pm": 10
+    },
+    {
+     "name": "Jerami Grant",
+     "starter": false,
+     "min": 26,
+     "pts": 6,
+     "reb": 0,
+     "ast": 3,
+     "stl": 2,
+     "blk": 1,
+     "tov": 2,
+     "pm": -7
+    },
+    {
+     "name": "Jaylen Wells",
+     "starter": true,
+     "min": 25,
+     "pts": 17,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Zach Edey",
+     "starter": true,
+     "min": 22,
+     "pts": 8,
+     "reb": 10,
+     "ast": 3,
+     "stl": 1,
+     "blk": 2,
+     "tov": 0,
+     "pm": 25
+    },
+    {
+     "name": "Quinten Post",
+     "starter": false,
+     "min": 20,
+     "pts": 2,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "tov": 2,
+     "pm": -15
+    },
+    {
+     "name": "Cam Spencer",
+     "starter": false,
+     "min": 17,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -7
+    },
+    {
+     "name": "Scotty Pippen Jr.",
+     "starter": false,
+     "min": 17,
+     "pts": 8,
+     "reb": 6,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 5,
+     "pm": -6
+    },
+    {
+     "name": "Isaiah Stewart",
+     "starter": false,
+     "min": 16,
+     "pts": 4,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -16
+    },
+    {
+     "name": "GG Jackson",
+     "starter": true,
+     "min": 15,
+     "pts": 2,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 5
+    },
+    {
+     "name": "Kris Murray",
+     "starter": false,
+     "min": 13,
+     "pts": 0,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 2
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Stephen Curry",
+    "pts": 24,
+    "reb": 3,
+    "ast": 4
+   },
+   "away": {
+    "name": "Ty Jerome",
+    "pts": 28,
+    "reb": 2,
+    "ast": 5
+   }
+  }
  },
  {
   "date": "2026-10-23",
