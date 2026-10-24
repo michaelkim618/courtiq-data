@@ -2633,6 +2633,11 @@
   "2026-10-23_HOU@SAS": {
    "away": "HOU",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T21:17-04:00",
+    "label": "9:15 PM ET",
+    "report": "2026-10-23T21:15-04:00"
+   },
    "home": "SAS",
    "late": false,
    "locked_at": null,
@@ -3033,6 +3038,11 @@
   "2026-10-23_NOP@UTA": {
    "away": "NOP",
    "date": "2026-10-23",
+   "final_check": {
+    "at": "2026-10-23T21:17-04:00",
+    "label": "9:15 PM ET",
+    "report": "2026-10-23T21:15-04:00"
+   },
    "home": "UTA",
    "late": false,
    "locked_at": null,
