@@ -6915,8 +6915,8 @@
   },
   "win_prob_band": {
    "low": 53.1,
-   "high": 54.0,
-   "gtd_count": 2
+   "high": 53.1,
+   "gtd_count": 0
   },
   "expected_margin": 1.18,
   "expected_score": {
@@ -6942,7 +6942,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Atlanta Hawks 1 out (15 min), Houston Rockets 1 out (23 min) · Henri Veesaar, Fred VanVleet out all season, already baked into team rating"
+    "detail": "Atlanta Hawks 1 out (15 min), Houston Rockets 2 out (52 min) · Henri Veesaar, Fred VanVleet out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6986,6 +6986,14 @@
    ],
    "away": [
     {
+     "player": "Marcus Smart",
+     "mpg": 29.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Steven Adams",
      "mpg": 22.7,
      "nth_out": 1,
@@ -7005,20 +7013,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Reed Sheppard",
-     "mpg": 26.4,
-     "value": 1.7,
-     "status": "Questionable"
-    },
-    {
-     "player": "Marcus Smart",
-     "mpg": 29.2,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -7182,23 +7177,10 @@
      "apg": 6.2
     },
     {
-     "player": "Marcus Smart",
-     "player_id": 203935,
-     "position": "G",
-     "starter": true,
-     "games": 62,
-     "starts": 54,
-     "start_rate": 87,
-     "mpg": 28.5,
-     "ppg": 9.3,
-     "rpg": 2.8,
-     "apg": 3.0
-    },
-    {
      "player": "Tari Eason",
      "player_id": 1631106,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 60,
      "starts": 34,
      "start_rate": 57,
@@ -7232,6 +7214,19 @@
      "ppg": 7.8,
      "rpg": 6.6,
      "apg": 1.2
+    },
+    {
+     "player": "Bogdan Bogdanović",
+     "player_id": 203992,
+     "position": "G",
+     "starter": false,
+     "games": 23,
+     "starts": 3,
+     "start_rate": 13,
+     "mpg": 19.7,
+     "ppg": 7.4,
+     "rpg": 2.6,
+     "apg": 2.2
     }
    ]
   },
@@ -7268,6 +7263,12 @@
     "pick": "ATL",
     "prob": 53.1,
     "reason": "Marcus Smart (HOU) now questionable"
+   },
+   {
+    "at": "2026-10-24T19:47-04:00",
+    "pick": "ATL",
+    "prob": 53.1,
+    "reason": "Marcus Smart (HOU) now out; Reed Sheppard (HOU) cleared to play"
    }
   ]
  },
@@ -7670,7 +7671,7 @@
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-24T20:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
@@ -8125,7 +8126,7 @@
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-24T20:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
