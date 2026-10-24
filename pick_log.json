@@ -3557,6 +3557,41 @@
       "away": 38.9,
       "home": 61.1
      }
+    },
+    {
+     "at": "2026-10-24T16:02-04:00",
+     "expected_margin": 9.8,
+     "gtd": {
+      "away": [
+       "Draymond Green"
+      ],
+      "home": [
+       "Luke Kennard"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandin Podziemski",
+       "Moses Moody",
+       "Al Horford"
+      ],
+      "home": [
+       "Mark Williams",
+       "Oso Ighodaro"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Al Horford (GSW) now out; Brandin Podziemski (GSW) now out; Jimmy Butler III (GSW) now out; Kristaps Porzingis (GSW) now out; Moses Moody (GSW) now out; Stephen Curry (GSW) now out; Draymond Green (GSW) now questionable; Oso Ighodaro (PHX) now out",
+     "report": "2026-10-24T16:00-04:00",
+     "win_prob": {
+      "away": 26.1,
+      "home": 73.9
+     }
     }
    ]
   },
@@ -3636,6 +3671,36 @@
      "pick_code": "ATL",
      "reason": "Fred VanVleet (HOU) now out; Steven Adams (HOU) now out; Reed Sheppard (HOU) now questionable; Henri Veesaar (ATL) now out; Mouhamed Gueye (ATL) now out",
      "report": "2026-10-24T13:00-04:00",
+     "win_prob": {
+      "away": 46.9,
+      "home": 53.1
+     }
+    },
+    {
+     "at": "2026-10-24T16:02-04:00",
+     "expected_margin": 1.18,
+     "gtd": {
+      "away": [
+       "Reed Sheppard",
+       "Marcus Smart"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Steven Adams",
+       "Fred VanVleet"
+      ],
+      "home": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Marcus Smart (HOU) now questionable",
+     "report": "2026-10-24T16:00-04:00",
      "win_prob": {
       "away": 46.9,
       "home": 53.1
