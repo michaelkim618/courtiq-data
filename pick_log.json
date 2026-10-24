@@ -2579,7 +2579,7 @@
    },
    "home": "MIA",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-23T20:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-23T20:00-04:00",
    "tip_known": true,
