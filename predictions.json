@@ -7342,7 +7342,7 @@
   "win_prob_band": {
    "low": 63.4,
    "high": 63.4,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": 5.25,
   "expected_score": {
@@ -7430,7 +7430,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Patrick Williams",
+     "mpg": 20.5,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -7682,6 +7689,12 @@
     "pick": "CHI",
     "prob": 63.4,
     "reason": "AJ Dybantsa (WAS) now out; Jamir Watkins (WAS) now out; Tristan Vukcevic (WAS) now out"
+   },
+   {
+    "at": "2026-10-24T17:17-04:00",
+    "pick": "CHI",
+    "prob": 63.4,
+    "reason": "Patrick Williams (CHI) now questionable"
    }
   ]
  },

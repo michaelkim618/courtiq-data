@@ -4191,6 +4191,35 @@
       "away": 36.6,
       "home": 63.4
      }
+    },
+    {
+     "at": "2026-10-24T17:17-04:00",
+     "expected_margin": 5.25,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Patrick Williams"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Jamir Watkins",
+       "AJ Dybantsa"
+      ],
+      "home": [
+       "Nic Claxton"
+      ]
+     },
+     "pick": "Chicago Bulls",
+     "pick_code": "CHI",
+     "reason": "Patrick Williams (CHI) now questionable",
+     "report": "2026-10-24T17:15-04:00",
+     "win_prob": {
+      "away": 36.6,
+      "home": 63.4
+     }
     }
    ]
   }
