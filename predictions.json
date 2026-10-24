@@ -428,7 +428,7 @@
  },
  {
   "date": "2026-10-23",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Houston Rockets",
   "home": "San Antonio Spurs",
   "away_code": "HOU",
@@ -565,226 +565,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2025-26",
-   "home": [
-    {
-     "player": "De'Aaron Fox",
-     "player_id": 1628368,
-     "position": "G",
-     "starter": true,
-     "games": 72,
-     "starts": 72,
-     "start_rate": 100,
-     "mpg": 31.0,
-     "ppg": 18.6,
-     "rpg": 3.8,
-     "apg": 6.2
-    },
-    {
-     "player": "Stephon Castle",
-     "player_id": 1642264,
-     "position": "G",
-     "starter": true,
-     "games": 68,
-     "starts": 67,
-     "start_rate": 99,
-     "mpg": 30.0,
-     "ppg": 16.7,
-     "rpg": 5.3,
-     "apg": 7.4
-    },
-    {
-     "player": "Devin Vassell",
-     "player_id": 1630170,
-     "position": "G",
-     "starter": true,
-     "games": 67,
-     "starts": 65,
-     "start_rate": 97,
-     "mpg": 30.5,
-     "ppg": 13.9,
-     "rpg": 4.0,
-     "apg": 2.5
-    },
-    {
-     "player": "Victor Wembanyama",
-     "player_id": 1641705,
-     "position": "F",
-     "starter": true,
-     "games": 64,
-     "starts": 55,
-     "start_rate": 86,
-     "mpg": 29.2,
-     "ppg": 25.0,
-     "rpg": 11.5,
-     "apg": 3.1
-    },
-    {
-     "player": "Julian Champagnie",
-     "player_id": 1630577,
-     "position": "F",
-     "starter": true,
-     "games": 82,
-     "starts": 68,
-     "start_rate": 83,
-     "mpg": 27.6,
-     "ppg": 11.1,
-     "rpg": 5.8,
-     "apg": 1.5
-    },
-    {
-     "player": "Harrison Barnes",
-     "player_id": 203084,
-     "position": "F",
-     "starter": false,
-     "games": 77,
-     "starts": 52,
-     "start_rate": 68,
-     "mpg": 25.8,
-     "ppg": 9.9,
-     "rpg": 2.8,
-     "apg": 1.9
-    },
-    {
-     "player": "Luke Kornet",
-     "player_id": 1628436,
-     "position": "C",
-     "starter": false,
-     "games": 68,
-     "starts": 25,
-     "start_rate": 37,
-     "mpg": 21.0,
-     "ppg": 6.5,
-     "rpg": 6.1,
-     "apg": 1.9
-    },
-    {
-     "player": "Dylan Harper",
-     "player_id": 1642844,
-     "position": "G",
-     "starter": false,
-     "games": 69,
-     "starts": 4,
-     "start_rate": 6,
-     "mpg": 22.6,
-     "ppg": 11.8,
-     "rpg": 3.4,
-     "apg": 3.9
-    }
-   ],
-   "away": [
-    {
-     "player": "Amen Thompson",
-     "player_id": 1641708,
-     "position": "G",
-     "starter": true,
-     "games": 79,
-     "starts": 79,
-     "start_rate": 100,
-     "mpg": 37.4,
-     "ppg": 18.3,
-     "rpg": 7.8,
-     "apg": 5.3
-    },
-    {
-     "player": "Kevin Durant",
-     "player_id": 201142,
-     "position": "F",
-     "starter": true,
-     "games": 78,
-     "starts": 78,
-     "start_rate": 100,
-     "mpg": 36.4,
-     "ppg": 26.0,
-     "rpg": 5.5,
-     "apg": 4.8
-    },
-    {
-     "player": "Fred VanVleet",
-     "player_id": 1627832,
-     "position": "G",
-     "starter": true,
-     "games": 0,
-     "starts": 0,
-     "start_rate": null,
-     "mpg": null,
-     "ppg": null,
-     "rpg": null,
-     "apg": null,
-     "projection": "returning"
-    },
-    {
-     "player": "Jabari Smith Jr.",
-     "player_id": 1631095,
-     "position": "F",
-     "starter": true,
-     "games": 77,
-     "starts": 77,
-     "start_rate": 100,
-     "mpg": 35.1,
-     "ppg": 15.8,
-     "rpg": 6.9,
-     "apg": 1.9
-    },
-    {
-     "player": "Alperen Sengun",
-     "player_id": 1630578,
-     "position": "C",
-     "starter": true,
-     "games": 72,
-     "starts": 72,
-     "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 20.4,
-     "rpg": 8.9,
-     "apg": 6.2
-    },
-    {
-     "player": "Marcus Smart",
-     "player_id": 203935,
-     "position": "G",
-     "starter": false,
-     "games": 62,
-     "starts": 54,
-     "start_rate": 87,
-     "mpg": 28.5,
-     "ppg": 9.3,
-     "rpg": 2.8,
-     "apg": 3.0
-    },
-    {
-     "player": "Tari Eason",
-     "player_id": 1631106,
-     "position": "F",
-     "starter": false,
-     "games": 60,
-     "starts": 34,
-     "start_rate": 57,
-     "mpg": 25.8,
-     "ppg": 10.4,
-     "rpg": 6.3,
-     "apg": 1.5
-    },
-    {
-     "player": "Steven Adams",
-     "player_id": 203500,
-     "position": "C",
-     "starter": false,
-     "games": 32,
-     "starts": 11,
-     "start_rate": 34,
-     "mpg": 22.8,
-     "ppg": 5.8,
-     "rpg": 8.6,
-     "apg": 1.5
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 110,
+   "away": 114
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Houston Rockets",
   "model_winner": "San Antonio Spurs",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.4",
   "tip_et": "2026-10-23T21:30-04:00",
   "injury_report": {
@@ -815,7 +603,255 @@
     "prob": 61.4,
     "reason": "Steven Adams (HOU) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Dylan Harper",
+     "starter": true,
+     "min": 36,
+     "pts": 20,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    },
+    {
+     "name": "Devin Vassell",
+     "starter": true,
+     "min": 36,
+     "pts": 10,
+     "reb": 4,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 5,
+     "pm": 1
+    },
+    {
+     "name": "De'Aaron Fox",
+     "starter": true,
+     "min": 34,
+     "pts": 19,
+     "reb": 4,
+     "ast": 9,
+     "stl": 2,
+     "blk": 0,
+     "tov": 5,
+     "pm": -14
+    },
+    {
+     "name": "Stephon Castle",
+     "starter": true,
+     "min": 33,
+     "pts": 15,
+     "reb": 7,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -3
+    },
+    {
+     "name": "Victor Wembanyama",
+     "starter": true,
+     "min": 32,
+     "pts": 25,
+     "reb": 13,
+     "ast": 2,
+     "stl": 0,
+     "blk": 2,
+     "tov": 2,
+     "pm": 3
+    },
+    {
+     "name": "Julian Champagnie",
+     "starter": false,
+     "min": 25,
+     "pts": 6,
+     "reb": 0,
+     "ast": 0,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": 7
+    },
+    {
+     "name": "Keldon Johnson",
+     "starter": false,
+     "min": 19,
+     "pts": 8,
+     "reb": 6,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Luke Kornet",
+     "starter": false,
+     "min": 16,
+     "pts": 7,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Harrison Barnes",
+     "starter": false,
+     "min": 5,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Carter Bryant",
+     "starter": false,
+     "min": 4,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    }
+   ],
+   "away": [
+    {
+     "name": "Kevin Durant",
+     "starter": true,
+     "min": 37,
+     "pts": 20,
+     "reb": 7,
+     "ast": 6,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 6
+    },
+    {
+     "name": "Alperen Sengun",
+     "starter": true,
+     "min": 36,
+     "pts": 29,
+     "reb": 7,
+     "ast": 7,
+     "stl": 0,
+     "blk": 1,
+     "tov": 3,
+     "pm": 3
+    },
+    {
+     "name": "Amen Thompson",
+     "starter": true,
+     "min": 36,
+     "pts": 20,
+     "reb": 10,
+     "ast": 4,
+     "stl": 2,
+     "blk": 2,
+     "tov": 2,
+     "pm": -12
+    },
+    {
+     "name": "Fred VanVleet",
+     "starter": true,
+     "min": 32,
+     "pts": 14,
+     "reb": 3,
+     "ast": 5,
+     "stl": 3,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Jabari Smith Jr.",
+     "starter": true,
+     "min": 31,
+     "pts": 7,
+     "reb": 5,
+     "ast": 1,
+     "stl": 1,
+     "blk": 2,
+     "tov": 2,
+     "pm": 12
+    },
+    {
+     "name": "Tari Eason",
+     "starter": false,
+     "min": 27,
+     "pts": 12,
+     "reb": 6,
+     "ast": 0,
+     "stl": 4,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Marcus Smart",
+     "starter": false,
+     "min": 21,
+     "pts": 5,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 6
+    },
+    {
+     "name": "Bogdan Bogdanovic",
+     "starter": false,
+     "min": 12,
+     "pts": 3,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Steven Adams",
+     "starter": false,
+     "min": 9,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Victor Wembanyama",
+    "pts": 25,
+    "reb": 13,
+    "ast": 2
+   },
+   "away": {
+    "name": "Alperen Sengun",
+    "pts": 29,
+    "reb": 7,
+    "ast": 7
+   }
+  }
  },
  {
   "date": "2026-10-23",

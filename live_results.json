@@ -162,6 +162,14 @@
  {
   "date": "2026-10-23",
   "season": "2026-2027",
+  "away": "HOU",
+  "home": "SAS",
+  "conf": 61.4,
+  "correct": false
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
   "away": "MIN",
   "home": "ORL",
   "conf": 51.1,
