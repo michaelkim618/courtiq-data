@@ -1329,8 +1329,8 @@
   },
   "win_prob_band": {
    "low": 61.4,
-   "high": 62.7,
-   "gtd_count": 1
+   "high": 61.4,
+   "gtd_count": 0
   },
   "expected_margin": 4.42,
   "expected_score": {
@@ -1410,13 +1410,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Steven Adams",
-     "mpg": 22.7,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -1661,6 +1655,12 @@
     "pick": "SAS",
     "prob": 61.4,
     "reason": "Reed Sheppard (HOU) now out"
+   },
+   {
+    "at": "2026-10-23T20:47-04:00",
+    "pick": "SAS",
+    "prob": 61.4,
+    "reason": "Steven Adams (HOU) cleared to play"
    }
   ]
  },
