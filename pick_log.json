@@ -3711,6 +3711,11 @@
   "2026-10-24_MIA@CHA": {
    "away": "MIA",
    "date": "2026-10-24",
+   "final_check": {
+    "at": "2026-10-24T17:47-04:00",
+    "label": "5:45 PM ET",
+    "report": "2026-10-24T17:45-04:00"
+   },
    "home": "CHA",
    "late": false,
    "locked_at": null,
