@@ -7736,18 +7736,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 36.7,
-   "away": 63.3
+   "home": 33.7,
+   "away": 66.3
   },
   "win_prob_band": {
-   "low": 36.7,
-   "high": 36.7,
-   "gtd_count": 0
+   "low": 33.7,
+   "high": 33.7,
+   "gtd_count": 2
   },
-  "expected_margin": -5.18,
+  "expected_margin": -6.42,
   "expected_score": {
-   "home": 112.1,
-   "away": 117.3
+   "home": 111.5,
+   "away": 117.9
   },
   "margin_breakdown": [
    {
@@ -7767,8 +7767,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": -1.24,
+    "detail": "Dallas Mavericks 3 out (75 min) costing 1.5 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Dereck Lively II, Tarik Biberovic, Jayden Quaintance out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -7797,11 +7797,82 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Cooper Flagg",
+     "mpg": 32.8,
+     "nth_out": 1,
+     "value": 5.9,
+     "cost": -1.24,
+     "no_minutes": false
+    },
+    {
+     "player": "Santi Aldama",
+     "mpg": 27.2,
+     "nth_out": 1,
+     "value": 1.4,
+     "cost": -0.29,
+     "no_minutes": false
+    },
+    {
+     "player": "Caleb Martin",
+     "mpg": 14.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Dereck Lively II",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    },
+    {
+     "player": "Tarik Biberovic",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
+   "away": [
+    {
+     "player": "Tobias Harris",
+     "mpg": 28.7,
+     "nth_out": 1,
+     "value": 1.4,
+     "cost": -0.29,
+     "no_minutes": false
+    },
+    {
+     "player": "Jayden Quaintance",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Max Christie",
+     "mpg": 28.6,
+     "value": 0.0,
+     "status": "Questionable"
+    },
+    {
+     "player": "Zaccharie Risacher",
+     "mpg": 21.9,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -7820,19 +7891,6 @@
      "rpg": null,
      "apg": null,
      "projection": "returning"
-    },
-    {
-     "player": "Cooper Flagg",
-     "player_id": 1642843,
-     "position": "F",
-     "starter": true,
-     "games": 70,
-     "starts": 70,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 21.0,
-     "rpg": 6.7,
-     "apg": 4.5
     },
     {
      "player": "P.J. Washington",
@@ -7877,7 +7935,7 @@
      "player": "Zaccharie Risacher",
      "player_id": 1642258,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 67,
      "starts": 46,
      "start_rate": 69,
@@ -7900,17 +7958,30 @@
      "apg": 3.3
     },
     {
-     "player": "Dereck Lively II",
-     "player_id": 1641726,
-     "position": "C",
+     "player": "Marcus Sasser",
+     "player_id": 1631204,
+     "position": "G",
      "starter": false,
-     "games": 7,
-     "starts": 4,
-     "start_rate": 57,
-     "mpg": 16.5,
-     "ppg": 4.3,
-     "rpg": 5.3,
-     "apg": 1.9
+     "games": 38,
+     "starts": 5,
+     "start_rate": 13,
+     "mpg": 12.0,
+     "ppg": 5.2,
+     "rpg": 1.0,
+     "apg": 2.0
+    },
+    {
+     "player": "Walter Clayton Jr.",
+     "player_id": 1642383,
+     "position": "G",
+     "starter": false,
+     "games": 69,
+     "starts": 6,
+     "start_rate": 9,
+     "mpg": 20.4,
+     "ppg": 7.8,
+     "rpg": 2.0,
+     "apg": 4.0
     }
    ],
    "away": [
@@ -7926,19 +7997,6 @@
      "ppg": 18.6,
      "rpg": 3.8,
      "apg": 6.2
-    },
-    {
-     "player": "Tobias Harris",
-     "player_id": 202699,
-     "position": "F",
-     "starter": true,
-     "games": 63,
-     "starts": 63,
-     "start_rate": 100,
-     "mpg": 27.7,
-     "ppg": 13.3,
-     "rpg": 5.1,
-     "apg": 2.5
     },
     {
      "player": "Stephon Castle",
@@ -7983,7 +8041,7 @@
      "player": "Julian Champagnie",
      "player_id": 1630577,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 82,
      "starts": 68,
      "start_rate": 83,
@@ -8017,6 +8075,19 @@
      "ppg": 6.5,
      "rpg": 6.1,
      "apg": 1.9
+    },
+    {
+     "player": "Dylan Harper",
+     "player_id": 1642844,
+     "position": "G",
+     "starter": false,
+     "games": 69,
+     "starts": 4,
+     "start_rate": 6,
+     "mpg": 22.6,
+     "ppg": 11.8,
+     "rpg": 3.4,
+     "apg": 3.9
     }
    ]
   },
@@ -8041,6 +8112,12 @@
     "pick": "SAS",
     "prob": 63.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-10-24T15:02-04:00",
+    "pick": "SAS",
+    "prob": 66.3,
+    "reason": "Jayden Quaintance (SAS) now out; Tobias Harris (SAS) now out; Caleb Martin (DAL) now out; Cooper Flagg (DAL) now out; Dereck Lively II (DAL) now out; Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out; Max Christie (DAL) now questionable; Zaccharie Risacher (DAL) now questionable"
    }
   ]
  },
@@ -8133,7 +8210,7 @@
    {
     "label": "Absences",
     "points": -0.12,
-    "detail": "Denver Nuggets 3 out (66 min) costing 0.1 pts"
+    "detail": "Denver Nuggets 3 out (66 min) costing 0.1 pts, New Orleans Pelicans 1 out (20 min)"
    }
   ],
   "ratings": {
@@ -8183,7 +8260,16 @@
      "no_minutes": false
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Yves Missi",
+     "mpg": 19.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
@@ -8425,6 +8511,12 @@
     "pick": "DEN",
     "prob": 73.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-24T15:02-04:00",
+    "pick": "DEN",
+    "prob": 73.4,
+    "reason": "Yves Missi (NOP) now out"
    }
   ]
  },

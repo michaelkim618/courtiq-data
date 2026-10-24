@@ -3908,6 +3908,33 @@
       "away": 26.6,
       "home": 73.4
      }
+    },
+    {
+     "at": "2026-10-24T15:02-04:00",
+     "expected_margin": 9.55,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Yves Missi"
+      ],
+      "home": [
+       "Julian Strawther",
+       "Cameron Johnson",
+       "Spencer Jones"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Yves Missi (NOP) now out",
+     "report": "2026-10-24T15:00-04:00",
+     "win_prob": {
+      "away": 26.6,
+      "home": 73.4
+     }
     }
    ]
   },
@@ -3961,6 +3988,39 @@
      "win_prob": {
       "away": 63.3,
       "home": 36.7
+     }
+    },
+    {
+     "at": "2026-10-24T15:02-04:00",
+     "expected_margin": -6.42,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Max Christie",
+       "Zaccharie Risacher"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Cooper Flagg",
+       "Santi Aldama",
+       "Caleb Martin",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Jayden Quaintance (SAS) now out; Tobias Harris (SAS) now out; Caleb Martin (DAL) now out; Cooper Flagg (DAL) now out; Dereck Lively II (DAL) now out; Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out; Max Christie (DAL) now questionable; Zaccharie Risacher (DAL) now questionable",
+     "report": "2026-10-24T15:00-04:00",
+     "win_prob": {
+      "away": 66.3,
+      "home": 33.7
      }
     }
    ]
