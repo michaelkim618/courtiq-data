@@ -170,6 +170,14 @@
  {
   "date": "2026-10-23",
   "season": "2026-2027",
+  "away": "NOP",
+  "home": "UTA",
+  "conf": 53.2,
+  "correct": true
+ },
+ {
+  "date": "2026-10-23",
+  "season": "2026-2027",
   "away": "NYK",
   "home": "BOS",
   "conf": 58.3,

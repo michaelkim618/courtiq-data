@@ -3112,6 +3112,13 @@
    "home": "UTA",
    "late": false,
    "locked_at": "2026-10-23T21:30-04:00",
+   "result": {
+    "score": {
+     "away": 119,
+     "home": 120
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-23T21:30-04:00",
    "tip_known": true,
@@ -3393,6 +3400,291 @@
      "win_prob": {
       "away": 68.8,
       "home": 31.2
+     }
+    }
+   ]
+  },
+  "2026-10-24_BKN@CLE": {
+   "away": "BKN",
+   "date": "2026-10-24",
+   "home": "CLE",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T19:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": 8.73,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [
+       "Tyler Bilodeau"
+      ],
+      "home": [
+       "Nae'Qwan Tomlin",
+       "Khalifa Diop"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 28.4,
+      "home": 71.6
+     }
+    }
+   ]
+  },
+  "2026-10-24_GSW@PHX": {
+   "away": "GSW",
+   "date": "2026-10-24",
+   "home": "PHX",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T22:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": 1.14,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Luke Kennard",
+       "Oso Ighodaro"
+      ]
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [],
+      "home": [
+       "Mark Williams"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 47.0,
+      "home": 53.0
+     }
+    }
+   ]
+  },
+  "2026-10-24_HOU@ATL": {
+   "away": "HOU",
+   "date": "2026-10-24",
+   "home": "ATL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T20:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": 0.66,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 48.3,
+      "home": 51.7
+     }
+    }
+   ]
+  },
+  "2026-10-24_MIA@CHA": {
+   "away": "MIA",
+   "date": "2026-10-24",
+   "home": "CHA",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T18:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": 2.55,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 43.4,
+      "home": 56.6
+     }
+    }
+   ]
+  },
+  "2026-10-24_MIL@PHI": {
+   "away": "MIL",
+   "date": "2026-10-24",
+   "home": "PHI",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T19:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": 5.85,
+     "gtd": {
+      "away": [],
+      "home": [
+       "LeBron James",
+       "Dean Wade"
+      ]
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [],
+      "home": [
+       "Dominick Barlow",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 35.1,
+      "home": 64.9
+     }
+    }
+   ]
+  },
+  "2026-10-24_NOP@DEN": {
+   "away": "NOP",
+   "date": "2026-10-24",
+   "home": "DEN",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T21:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": 7.16,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [],
+      "home": [
+       "Cameron Johnson",
+       "Spencer Jones",
+       "Julian Strawther"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 32.0,
+      "home": 68.0
+     }
+    }
+   ]
+  },
+  "2026-10-24_SAS@DAL": {
+   "away": "SAS",
+   "date": "2026-10-24",
+   "home": "DAL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T20:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": -5.18,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 63.3,
+      "home": 36.7
+     }
+    }
+   ]
+  },
+  "2026-10-24_WAS@CHI": {
+   "away": "WAS",
+   "date": "2026-10-24",
+   "home": "CHI",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-24T20:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-24T00:03-04:00",
+     "expected_margin": 4.62,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.5",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Chicago Bulls",
+     "pick_code": "CHI",
+     "reason": "Opening pick",
+     "report": "2026-10-24T00:00-04:00",
+     "win_prob": {
+      "away": 38.1,
+      "home": 61.9
      }
     }
    ]
