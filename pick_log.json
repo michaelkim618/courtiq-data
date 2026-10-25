@@ -4895,7 +4895,7 @@
    },
    "home": "OKC",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-25T19:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-25T19:00-04:00",
    "tip_known": true,
@@ -5046,6 +5046,36 @@
       "away": 52.5,
       "home": 47.5
      }
+    },
+    {
+     "at": "2026-10-25T19:02-04:00",
+     "expected_margin": -0.98,
+     "gtd": {
+      "away": [
+       "Cedric Coward"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Zach Edey"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Keegan Murray (SAC) now out",
+     "report": "2026-10-25T19:00-04:00",
+     "win_prob": {
+      "away": 52.5,
+      "home": 47.5
+     }
     }
    ]
   },
@@ -5059,7 +5089,7 @@
    },
    "home": "NYK",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-25T19:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-25T19:00-04:00",
    "tip_known": true,
@@ -5132,7 +5162,7 @@
    },
    "home": "MIN",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-25T19:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-25T19:00-04:00",
    "tip_known": true,

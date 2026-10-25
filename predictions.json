@@ -6430,7 +6430,7 @@
   "win_prob_band": {
    "low": 47.5,
    "high": 48.5,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -0.98,
   "expected_score": {
@@ -6456,7 +6456,7 @@
    {
     "label": "Absences",
     "points": -0.12,
-    "detail": "Sacramento Kings 2 out (46 min) costing 0.1 pts · Ben Simmons, Zach Edey out all season, already baked into team rating"
+    "detail": "Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons, Zach Edey out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6490,6 +6490,14 @@
      "no_minutes": false
     },
     {
+     "player": "Keegan Murray",
+     "mpg": 33.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Dylan Cardwell",
      "mpg": 19.8,
      "nth_out": 1,
@@ -6518,14 +6526,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Keegan Murray",
-     "mpg": 33.3,
-     "value": 0.0,
-     "status": "Doubtful"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Cedric Coward",
@@ -6538,19 +6539,6 @@
   "lineups": {
    "season": "2025-26",
    "home": [
-    {
-     "player": "Keegan Murray",
-     "player_id": 1631099,
-     "position": "F",
-     "starter": true,
-     "games": 23,
-     "starts": 22,
-     "start_rate": 96,
-     "mpg": 34.5,
-     "ppg": 14.0,
-     "rpg": 5.7,
-     "apg": 1.7
-    },
     {
      "player": "Zach LaVine",
      "player_id": 203897,
@@ -6607,7 +6595,7 @@
      "player": "De'Andre Hunter",
      "player_id": 1629631,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 45,
      "starts": 25,
      "start_rate": 56,
@@ -6641,6 +6629,19 @@
      "ppg": 10.8,
      "rpg": 3.0,
      "apg": 1.3
+    },
+    {
+     "player": "Malik Monk",
+     "player_id": 1628370,
+     "position": "G",
+     "starter": false,
+     "games": 62,
+     "starts": 3,
+     "start_rate": 5,
+     "mpg": 22.0,
+     "ppg": 12.5,
+     "rpg": 1.9,
+     "apg": 3.0
     }
    ],
    "away": [
@@ -6766,6 +6767,12 @@
     "pick": "MEM",
     "prob": 52.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-25T19:02-04:00",
+    "pick": "MEM",
+    "prob": 52.5,
+    "reason": "Keegan Murray (SAC) now out"
    }
   ]
  }
