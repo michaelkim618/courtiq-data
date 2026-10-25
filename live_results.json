@@ -230,5 +230,13 @@
   "home": "CHA",
   "conf": 51.5,
   "correct": false
+ },
+ {
+  "date": "2026-10-24",
+  "season": "2026-2027",
+  "away": "MIL",
+  "home": "PHI",
+  "conf": 67.8,
+  "correct": true
  }
 ]
