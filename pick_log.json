@@ -4687,6 +4687,38 @@
       "away": 57.8,
       "home": 42.2
      }
+    },
+    {
+     "at": "2026-10-25T18:02-04:00",
+     "expected_margin": -3.03,
+     "gtd": {
+      "away": [],
+      "home": [
+       "VJ Edgecombe"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Ausar Thompson"
+      ],
+      "home": [
+       "Joel Embiid",
+       "Dominick Barlow",
+       "Jabari Walker",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Ausar Thompson (DET) now out; Elijah Harkless (DET) cleared to play",
+     "report": "2026-10-25T18:00-04:00",
+     "win_prob": {
+      "away": 57.8,
+      "home": 42.2
+     }
     }
    ]
   },
@@ -4700,7 +4732,7 @@
    },
    "home": "BKN",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-25T18:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-25T18:00-04:00",
    "tip_known": true,
@@ -5082,6 +5114,32 @@
      "win_prob": {
       "away": 45.1,
       "home": 54.9
+     }
+    },
+    {
+     "at": "2026-10-25T18:02-04:00",
+     "expected_margin": 4.62,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ],
+      "home": [
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Kawhi Leonard (TOR) now out",
+     "report": "2026-10-25T18:00-04:00",
+     "win_prob": {
+      "away": 38.1,
+      "home": 61.9
      }
     }
    ]

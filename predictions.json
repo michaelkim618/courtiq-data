@@ -5161,18 +5161,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 54.9,
-   "away": 45.1
+   "home": 61.9,
+   "away": 38.1
   },
   "win_prob_band": {
-   "low": 54.9,
-   "high": 54.9,
+   "low": 61.9,
+   "high": 61.9,
    "gtd_count": 0
   },
-  "expected_margin": 1.9,
+  "expected_margin": 4.62,
   "expected_score": {
-   "home": 114.7,
-   "away": 112.8
+   "home": 116.1,
+   "away": 111.5
   },
   "margin_breakdown": [
    {
@@ -5192,8 +5192,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "Minnesota Timberwolves 1 out (30 min) · Nate Bittle out all season, already baked into team rating"
+    "points": 2.72,
+    "detail": "Minnesota Timberwolves 1 out (30 min), Toronto Raptors 1 out (31 min) costing 2.7 pts · Nate Bittle out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5228,6 +5228,14 @@
     }
    ],
    "away": [
+    {
+     "player": "Kawhi Leonard",
+     "mpg": 30.9,
+     "nth_out": 1,
+     "value": 12.9,
+     "cost": -2.72,
+     "no_minutes": false
+    },
     {
      "player": "Nate Bittle",
      "mpg": 0.0,
@@ -5365,19 +5373,6 @@
      "apg": 5.9
     },
     {
-     "player": "Kawhi Leonard",
-     "player_id": 202695,
-     "position": "F",
-     "starter": true,
-     "games": 65,
-     "starts": 65,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 27.9,
-     "rpg": 6.4,
-     "apg": 3.6
-    },
-    {
      "player": "Immanuel Quickley",
      "player_id": 1630193,
      "position": "G",
@@ -5420,7 +5415,7 @@
      "player": "Collin Murray-Boyles",
      "player_id": 1642867,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 57,
      "starts": 22,
      "start_rate": 39,
@@ -5454,6 +5449,19 @@
      "ppg": 7.5,
      "rpg": 2.6,
      "apg": 1.2
+    },
+    {
+     "player": "Jamal Shead",
+     "player_id": 1642347,
+     "position": "G",
+     "starter": false,
+     "games": 82,
+     "starts": 12,
+     "start_rate": 15,
+     "mpg": 22.6,
+     "ppg": 6.6,
+     "rpg": 1.7,
+     "apg": 5.4
     }
    ]
   },
@@ -5472,6 +5480,12 @@
     "pick": "MIN",
     "prob": 54.9,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-25T18:02-04:00",
+    "pick": "MIN",
+    "prob": 61.9,
+    "reason": "Kawhi Leonard (TOR) now out"
    }
   ]
  },
@@ -5967,7 +5981,7 @@
   "win_prob_band": {
    "low": 42.1,
    "high": 42.2,
-   "gtd_count": 3
+   "gtd_count": 1
   },
   "expected_margin": -3.03,
   "expected_score": {
@@ -5993,7 +6007,7 @@
    {
     "label": "Absences",
     "points": -1.45,
-    "detail": "Philadelphia 76ers 4 out (75 min) costing 2.5 pts, Detroit Pistons 1 out (28 min) costing 1.1 pts · Tacko Fall out all season, already baked into team rating"
+    "detail": "Philadelphia 76ers 4 out (75 min) costing 2.5 pts, Detroit Pistons 2 out (54 min) costing 1.1 pts · Tacko Fall out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6067,6 +6081,14 @@
      "value": 5.2,
      "cost": -1.09,
      "no_minutes": false
+    },
+    {
+     "player": "Ausar Thompson",
+     "mpg": 26.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ]
   },
@@ -6079,20 +6101,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Ausar Thompson",
-     "mpg": 26.5,
-     "value": 0.0,
-     "status": "Questionable"
-    },
-    {
-     "player": "Elijah Harkless",
-     "mpg": 20.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -6230,19 +6239,6 @@
      "apg": 2.1
     },
     {
-     "player": "Ausar Thompson",
-     "player_id": 1641709,
-     "position": "G",
-     "starter": true,
-     "games": 73,
-     "starts": 72,
-     "start_rate": 99,
-     "mpg": 26.0,
-     "ppg": 9.9,
-     "rpg": 5.7,
-     "apg": 3.1
-    },
-    {
      "player": "John Collins",
      "player_id": 1628381,
      "position": "F",
@@ -6272,7 +6268,7 @@
      "player": "Taurean Prince",
      "player_id": 1627752,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 26,
      "starts": 7,
      "start_rate": 27,
@@ -6306,6 +6302,19 @@
      "ppg": 10.0,
      "rpg": 3.5,
      "apg": 2.6
+    },
+    {
+     "player": "Paul Reed",
+     "player_id": 1630194,
+     "position": "F",
+     "starter": false,
+     "games": 65,
+     "starts": 11,
+     "start_rate": 17,
+     "mpg": 13.9,
+     "ppg": 7.8,
+     "rpg": 4.5,
+     "apg": 1.2
     }
    ]
   },
@@ -6336,6 +6345,12 @@
     "pick": "DET",
     "prob": 57.8,
     "reason": "VJ Edgecombe (PHI) now questionable"
+   },
+   {
+    "at": "2026-10-25T18:02-04:00",
+    "pick": "DET",
+    "prob": 57.8,
+    "reason": "Ausar Thompson (DET) now out; Elijah Harkless (DET) cleared to play"
    }
   ]
  },
