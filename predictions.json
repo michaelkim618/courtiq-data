@@ -4328,8 +4328,8 @@
   },
   "win_prob_band": {
    "low": 52.6,
-   "high": 53.1,
-   "gtd_count": 1
+   "high": 52.6,
+   "gtd_count": 0
   },
   "expected_margin": 1.0,
   "expected_score": {
@@ -4437,14 +4437,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Aaron Nesmith",
-     "mpg": 28.9,
-     "value": 0.8,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -4689,6 +4682,12 @@
     "pick": "BKN",
     "prob": 52.6,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-25T17:17-04:00",
+    "pick": "BKN",
+    "prob": 52.6,
+    "reason": "Aaron Nesmith (IND) cleared to play"
    }
   ]
  },
