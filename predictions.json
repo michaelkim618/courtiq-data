@@ -4323,18 +4323,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 57.8,
-   "away": 42.2
+   "home": 52.6,
+   "away": 47.4
   },
   "win_prob_band": {
-   "low": 57.8,
-   "high": 58.2,
+   "low": 52.6,
+   "high": 53.1,
    "gtd_count": 1
   },
-  "expected_margin": 3.0,
+  "expected_margin": 1.0,
   "expected_score": {
-   "home": 114.7,
-   "away": 111.7
+   "home": 113.7,
+   "away": 112.7
   },
   "margin_breakdown": [
    {
@@ -4361,6 +4361,12 @@
     "label": "Returning Players",
     "points": -0.59,
     "detail": "Tyrese Haliburton (IND) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "label": "Owner Adjustment",
+    "points": -2.0,
+    "toward": "IND",
+    "detail": "Haliburton is a top-tier player (2023-24 RAPM +4.5, top five in the league) and the model's return credit of +0.6 undervalues him. (margin moved +2.0 toward IND)"
    }
   ],
   "ratings": {
@@ -4677,6 +4683,12 @@
     "pick": "BKN",
     "prob": 57.8,
     "reason": "Mikel Brown Jr. (BKN) now out; Tyler Bilodeau (BKN) now out"
+   },
+   {
+    "at": "2026-10-25T14:33-04:00",
+    "pick": "BKN",
+    "prob": 52.6,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6469,7 +6481,7 @@
      "player": "Keegan Murray",
      "mpg": 33.3,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Doubtful"
     }
    ],
    "away": [

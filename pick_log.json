@@ -4722,6 +4722,36 @@
       "away": 42.2,
       "home": 57.8
      }
+    },
+    {
+     "at": "2026-10-25T14:33-04:00",
+     "expected_margin": 1.0,
+     "gtd": {
+      "away": [
+       "Aaron Nesmith"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Mikel Brown Jr.",
+       "Tyler Bilodeau"
+      ]
+     },
+     "pick": "Brooklyn Nets",
+     "pick_code": "BKN",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-25T14:30-04:00",
+     "win_prob": {
+      "away": 47.4,
+      "home": 52.6
+     }
     }
    ]
   },
