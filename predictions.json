@@ -5958,9 +5958,9 @@
    "away": 57.8
   },
   "win_prob_band": {
-   "low": 42.2,
+   "low": 42.1,
    "high": 42.2,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": -3.03,
   "expected_score": {
@@ -6064,7 +6064,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "VJ Edgecombe",
+     "mpg": 35.1,
+     "value": 0.2,
+     "status": "Questionable"
+    }
+   ],
    "away": [
     {
      "player": "Ausar Thompson",
@@ -6316,6 +6323,12 @@
     "pick": "DET",
     "prob": 57.8,
     "reason": "Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Jabari Walker (PHI) now out; Joel Embiid (PHI) now out; Tacko Fall (PHI) now out"
+   },
+   {
+    "at": "2026-10-25T17:02-04:00",
+    "pick": "DET",
+    "prob": 57.8,
+    "reason": "VJ Edgecombe (PHI) now questionable"
    }
   ]
  },

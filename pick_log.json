@@ -4653,6 +4653,40 @@
       "away": 57.8,
       "home": 42.2
      }
+    },
+    {
+     "at": "2026-10-25T17:02-04:00",
+     "expected_margin": -3.03,
+     "gtd": {
+      "away": [
+       "Ausar Thompson",
+       "Elijah Harkless"
+      ],
+      "home": [
+       "VJ Edgecombe"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Jalen Duren"
+      ],
+      "home": [
+       "Joel Embiid",
+       "Dominick Barlow",
+       "Jabari Walker",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "VJ Edgecombe (PHI) now questionable",
+     "report": "2026-10-25T17:00-04:00",
+     "win_prob": {
+      "away": 57.8,
+      "home": 42.2
+     }
     }
    ]
   },
@@ -4838,7 +4872,7 @@
    },
    "home": "UTA",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-25T17:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-25T17:00-04:00",
    "tip_known": true,
