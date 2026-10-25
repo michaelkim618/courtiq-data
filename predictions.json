@@ -5921,18 +5921,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 48.7,
-   "away": 51.3
+   "home": 42.2,
+   "away": 57.8
   },
   "win_prob_band": {
-   "low": 48.7,
-   "high": 48.7,
+   "low": 42.2,
+   "high": 42.2,
    "gtd_count": 2
   },
-  "expected_margin": -0.48,
+  "expected_margin": -3.03,
   "expected_score": {
-   "home": 112.4,
-   "away": 112.9
+   "home": 111.1,
+   "away": 114.1
   },
   "margin_breakdown": [
    {
@@ -5952,8 +5952,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.09,
-    "detail": "Detroit Pistons 1 out (28 min) costing 1.1 pts"
+    "points": -1.45,
+    "detail": "Philadelphia 76ers 4 out (75 min) costing 2.5 pts, Detroit Pistons 1 out (28 min) costing 1.1 pts · Tacko Fall out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5977,7 +5977,48 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Joel Embiid",
+     "mpg": 31.6,
+     "nth_out": 1,
+     "value": 12.1,
+     "cost": -2.54,
+     "no_minutes": false
+    },
+    {
+     "player": "Dominick Barlow",
+     "mpg": 22.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Jabari Walker",
+     "mpg": 11.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Ariel Hukporti",
+     "mpg": 9.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Tacko Fall",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
    "away": [
     {
      "player": "Jalen Duren",
@@ -6062,36 +6103,10 @@
      "apg": 7.2
     },
     {
-     "player": "Joel Embiid",
-     "player_id": 203954,
-     "position": "C",
-     "starter": true,
-     "games": 38,
-     "starts": 38,
-     "start_rate": 100,
-     "mpg": 31.6,
-     "ppg": 26.9,
-     "rpg": 7.7,
-     "apg": 3.9
-    },
-    {
-     "player": "Dominick Barlow",
-     "player_id": 1631230,
-     "position": "F",
-     "starter": false,
-     "games": 71,
-     "starts": 59,
-     "start_rate": 83,
-     "mpg": 23.8,
-     "ppg": 7.7,
-     "rpg": 4.8,
-     "apg": 1.2
-    },
-    {
      "player": "Dean Wade",
      "player_id": 1629731,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 59,
      "starts": 38,
      "start_rate": 64,
@@ -6112,6 +6127,32 @@
      "ppg": 8.4,
      "rpg": 2.5,
      "apg": 2.7
+    },
+    {
+     "player": "Adem Bona",
+     "player_id": 1641737,
+     "position": "F",
+     "starter": false,
+     "games": 71,
+     "starts": 18,
+     "start_rate": 25,
+     "mpg": 17.4,
+     "ppg": 4.8,
+     "rpg": 4.3,
+     "apg": 0.5
+    },
+    {
+     "player": "Justin Edwards",
+     "player_id": 1642348,
+     "position": "F",
+     "starter": false,
+     "games": 64,
+     "starts": 12,
+     "start_rate": 19,
+     "mpg": 15.3,
+     "ppg": 6.0,
+     "rpg": 1.5,
+     "apg": 1.2
     }
    ],
    "away": [
@@ -6236,6 +6277,12 @@
     "pick": "DET",
     "prob": 51.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-25T13:02-04:00",
+    "pick": "DET",
+    "prob": 57.8,
+    "reason": "Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Jabari Walker (PHI) now out; Joel Embiid (PHI) now out; Tacko Fall (PHI) now out"
    }
   ]
  },

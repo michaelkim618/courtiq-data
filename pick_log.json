@@ -4621,6 +4621,38 @@
       "away": 51.3,
       "home": 48.7
      }
+    },
+    {
+     "at": "2026-10-25T13:02-04:00",
+     "expected_margin": -3.03,
+     "gtd": {
+      "away": [
+       "Ausar Thompson",
+       "Elijah Harkless"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Jalen Duren"
+      ],
+      "home": [
+       "Joel Embiid",
+       "Dominick Barlow",
+       "Jabari Walker",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Jabari Walker (PHI) now out; Joel Embiid (PHI) now out; Tacko Fall (PHI) now out",
+     "report": "2026-10-25T13:00-04:00",
+     "win_prob": {
+      "away": 57.8,
+      "home": 42.2
+     }
     }
    ]
   },
