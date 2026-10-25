@@ -4589,6 +4589,11 @@
   "2026-10-25_DET@PHI": {
    "away": "DET",
    "date": "2026-10-25",
+   "final_check": {
+    "at": "2026-10-25T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-25T19:15-04:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
