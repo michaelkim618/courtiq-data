@@ -3877,7 +3877,7 @@
  },
  {
   "date": "2026-10-25",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Los Angeles Lakers",
   "home": "Utah Jazz",
   "away_code": "LAL",
@@ -4032,226 +4032,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2025-26",
-   "home": [
-    {
-     "player": "Lauri Markkanen",
-     "player_id": 1628374,
-     "position": "F",
-     "starter": true,
-     "games": 42,
-     "starts": 42,
-     "start_rate": 100,
-     "mpg": 34.3,
-     "ppg": 26.7,
-     "rpg": 6.9,
-     "apg": 2.1
-    },
-    {
-     "player": "Keyonte George",
-     "player_id": 1641718,
-     "position": "G",
-     "starter": true,
-     "games": 54,
-     "starts": 54,
-     "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 23.6,
-     "rpg": 3.7,
-     "apg": 6.1
-    },
-    {
-     "player": "Darryn Peterson",
-     "player_id": 1643408,
-     "position": "G",
-     "starter": true,
-     "games": 0,
-     "starts": 0,
-     "start_rate": null,
-     "mpg": null,
-     "ppg": null,
-     "rpg": null,
-     "apg": null,
-     "projection": "rookie"
-    },
-    {
-     "player": "Jaren Jackson Jr.",
-     "player_id": 1628991,
-     "position": "F",
-     "starter": true,
-     "games": 48,
-     "starts": 48,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 19.4,
-     "rpg": 5.7,
-     "apg": 2.0
-    },
-    {
-     "player": "Ace Bailey",
-     "player_id": 1642846,
-     "position": "F",
-     "starter": true,
-     "games": 72,
-     "starts": 61,
-     "start_rate": 85,
-     "mpg": 27.6,
-     "ppg": 13.8,
-     "rpg": 4.2,
-     "apg": 1.8
-    },
-    {
-     "player": "Svi Mykhailiuk",
-     "player_id": 1629004,
-     "position": "G",
-     "starter": false,
-     "games": 50,
-     "starts": 41,
-     "start_rate": 82,
-     "mpg": 23.1,
-     "ppg": 9.4,
-     "rpg": 2.5,
-     "apg": 1.9
-    },
-    {
-     "player": "Kyle Filipowski",
-     "player_id": 1642271,
-     "position": "C",
-     "starter": false,
-     "games": 77,
-     "starts": 41,
-     "start_rate": 53,
-     "mpg": 23.4,
-     "ppg": 11.4,
-     "rpg": 7.2,
-     "apg": 2.6
-    },
-    {
-     "player": "Josh Okogie",
-     "player_id": 1629006,
-     "position": "G",
-     "starter": false,
-     "games": 78,
-     "starts": 32,
-     "start_rate": 41,
-     "mpg": 17.4,
-     "ppg": 4.5,
-     "rpg": 2.6,
-     "apg": 0.9
-    }
-   ],
-   "away": [
-    {
-     "player": "Luka Dončić",
-     "player_id": 1629029,
-     "position": "F",
-     "starter": true,
-     "games": 64,
-     "starts": 64,
-     "start_rate": 100,
-     "mpg": 35.8,
-     "ppg": 33.5,
-     "rpg": 7.7,
-     "apg": 8.3
-    },
-    {
-     "player": "Walker Kessler",
-     "player_id": 1631117,
-     "position": "C",
-     "starter": true,
-     "games": 5,
-     "starts": 5,
-     "start_rate": 100,
-     "mpg": 30.8,
-     "ppg": 14.4,
-     "rpg": 10.8,
-     "apg": 3.0
-    },
-    {
-     "player": "Austin Reaves",
-     "player_id": 1630559,
-     "position": "G",
-     "starter": true,
-     "games": 51,
-     "starts": 45,
-     "start_rate": 88,
-     "mpg": 34.5,
-     "ppg": 23.3,
-     "rpg": 4.7,
-     "apg": 5.5
-    },
-    {
-     "player": "Jake LaRavia",
-     "player_id": 1631222,
-     "position": "F",
-     "starter": true,
-     "games": 82,
-     "starts": 43,
-     "start_rate": 52,
-     "mpg": 25.1,
-     "ppg": 8.2,
-     "rpg": 4.0,
-     "apg": 1.8
-    },
-    {
-     "player": "Kevon Looney",
-     "player_id": 1626172,
-     "position": "F",
-     "starter": true,
-     "games": 21,
-     "starts": 8,
-     "start_rate": 38,
-     "mpg": 14.6,
-     "ppg": 2.8,
-     "rpg": 5.6,
-     "apg": 1.6
-    },
-    {
-     "player": "Collin Sexton",
-     "player_id": 1629012,
-     "position": "G",
-     "starter": false,
-     "games": 68,
-     "starts": 22,
-     "start_rate": 32,
-     "mpg": 23.7,
-     "ppg": 15.4,
-     "rpg": 2.3,
-     "apg": 3.3
-    },
-    {
-     "player": "Quentin Grimes",
-     "player_id": 1629656,
-     "position": "G",
-     "starter": false,
-     "games": 75,
-     "starts": 19,
-     "start_rate": 25,
-     "mpg": 29.4,
-     "ppg": 13.4,
-     "rpg": 3.6,
-     "apg": 3.3
-    },
-    {
-     "player": "Ziaire Williams",
-     "player_id": 1630533,
-     "position": "F",
-     "starter": false,
-     "games": 56,
-     "starts": 13,
-     "start_rate": 23,
-     "mpg": 22.9,
-     "ppg": 10.2,
-     "rpg": 2.4,
-     "apg": 1.1
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 123,
+   "away": 132
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Los Angeles Lakers",
   "model_winner": "Los Angeles Lakers",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-25T17:00-04:00",
   "injury_report": {
@@ -4264,7 +4052,279 @@
     "prob": 51.4,
     "reason": "Opening pick"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Lauri Markkanen",
+     "starter": true,
+     "min": 38,
+     "pts": 28,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Keyonte George",
+     "starter": true,
+     "min": 33,
+     "pts": 24,
+     "reb": 9,
+     "ast": 10,
+     "stl": 1,
+     "blk": 0,
+     "tov": 6,
+     "pm": -12
+    },
+    {
+     "name": "Jaren Jackson Jr.",
+     "starter": true,
+     "min": 33,
+     "pts": 20,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -11
+    },
+    {
+     "name": "Darryn Peterson",
+     "starter": true,
+     "min": 30,
+     "pts": 8,
+     "reb": 3,
+     "ast": 2,
+     "stl": 3,
+     "blk": 1,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Ace Bailey",
+     "starter": true,
+     "min": 29,
+     "pts": 17,
+     "reb": 12,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -3
+    },
+    {
+     "name": "Jaxson Hayes",
+     "starter": false,
+     "min": 19,
+     "pts": 9,
+     "reb": 5,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Brice Sensabaugh",
+     "starter": false,
+     "min": 17,
+     "pts": 7,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Svi Mykhailiuk",
+     "starter": false,
+     "min": 14,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -16
+    },
+    {
+     "name": "Isaiah Collier",
+     "starter": false,
+     "min": 13,
+     "pts": 6,
+     "reb": 3,
+     "ast": 6,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 3
+    },
+    {
+     "name": "Josh Okogie",
+     "starter": false,
+     "min": 10,
+     "pts": 2,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 5
+    },
+    {
+     "name": "Josh Green",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    }
+   ],
+   "away": [
+    {
+     "name": "Luka Doncic",
+     "starter": true,
+     "min": 38,
+     "pts": 52,
+     "reb": 8,
+     "ast": 10,
+     "stl": 2,
+     "blk": 0,
+     "tov": 4,
+     "pm": 3
+    },
+    {
+     "name": "Austin Reaves",
+     "starter": true,
+     "min": 36,
+     "pts": 29,
+     "reb": 1,
+     "ast": 4,
+     "stl": 1,
+     "blk": 2,
+     "tov": 3,
+     "pm": 14
+    },
+    {
+     "name": "Ziaire Williams",
+     "starter": true,
+     "min": 30,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Walker Kessler",
+     "starter": true,
+     "min": 28,
+     "pts": 2,
+     "reb": 7,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Matisse Thybulle",
+     "starter": true,
+     "min": 26,
+     "pts": 11,
+     "reb": 1,
+     "ast": 1,
+     "stl": 3,
+     "blk": 1,
+     "tov": 0,
+     "pm": 12
+    },
+    {
+     "name": "Sandro Mamukelashvili",
+     "starter": false,
+     "min": 21,
+     "pts": 9,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -3
+    },
+    {
+     "name": "Collin Sexton",
+     "starter": false,
+     "min": 20,
+     "pts": 13,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 1
+    },
+    {
+     "name": "Quentin Grimes",
+     "starter": false,
+     "min": 20,
+     "pts": 3,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Jake LaRavia",
+     "starter": false,
+     "min": 15,
+     "pts": 0,
+     "reb": 4,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": 14
+    },
+    {
+     "name": "Kevon Looney",
+     "starter": false,
+     "min": 5,
+     "pts": 2,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Lauri Markkanen",
+    "pts": 28,
+    "reb": 6,
+    "ast": 1
+   },
+   "away": {
+    "name": "Luka Doncic",
+    "pts": 52,
+    "reb": 8,
+    "ast": 10
+   }
+  }
  },
  {
   "date": "2026-10-25",
