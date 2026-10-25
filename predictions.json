@@ -4759,8 +4759,8 @@
   },
   "win_prob_band": {
    "low": 65.3,
-   "high": 65.8,
-   "gtd_count": 1
+   "high": 65.3,
+   "gtd_count": 0
   },
   "expected_margin": 6.03,
   "expected_score": {
@@ -4786,7 +4786,7 @@
    {
     "label": "Absences",
     "points": 1.42,
-    "detail": "Orlando Magic 3 out (58 min) costing 1.4 pts · Izaiyah Nelson out all season, already baked into team rating"
+    "detail": "New York Knicks 1 out (18 min), Orlando Magic 3 out (58 min) costing 1.4 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4810,7 +4810,16 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Jose Alvarado",
+     "mpg": 17.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
    "away": [
     {
      "player": "Paolo Banchero",
@@ -4848,14 +4857,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Anthony Black",
-     "mpg": 29.1,
-     "value": 1.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -5087,6 +5089,12 @@
     "pick": "NYK",
     "prob": 65.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-25T17:32-04:00",
+    "pick": "NYK",
+    "prob": 65.3,
+    "reason": "Anthony Black (ORL) cleared to play; Jose Alvarado (NYK) now out"
    }
   ]
  },
