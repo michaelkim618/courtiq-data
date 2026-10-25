@@ -4124,6 +4124,13 @@
    "home": "DEN",
    "late": false,
    "locked_at": "2026-10-24T21:00-04:00",
+   "result": {
+    "score": {
+     "away": 135,
+     "home": 141
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-24T21:00-04:00",
    "tip_known": true,
@@ -4568,6 +4575,284 @@
      "win_prob": {
       "away": 36.6,
       "home": 63.4
+     }
+    }
+   ]
+  },
+  "2026-10-25_DET@PHI": {
+   "away": "DET",
+   "date": "2026-10-25",
+   "home": "PHI",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-25T19:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-25T00:02-04:00",
+     "expected_margin": -0.48,
+     "gtd": {
+      "away": [
+       "Ausar Thompson",
+       "Elijah Harkless"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Jalen Duren"
+      ],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Opening pick",
+     "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 51.3,
+      "home": 48.7
+     }
+    }
+   ]
+  },
+  "2026-10-25_IND@BKN": {
+   "away": "IND",
+   "date": "2026-10-25",
+   "home": "BKN",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-25T18:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-25T00:02-04:00",
+     "expected_margin": 3.0,
+     "gtd": {
+      "away": [
+       "Aaron Nesmith"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": []
+     },
+     "pick": "Brooklyn Nets",
+     "pick_code": "BKN",
+     "reason": "Opening pick",
+     "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 42.2,
+      "home": 57.8
+     }
+    }
+   ]
+  },
+  "2026-10-25_LAC@OKC": {
+   "away": "LAC",
+   "date": "2026-10-25",
+   "home": "OKC",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-25T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-25T00:02-04:00",
+     "expected_margin": 11.35,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Nikola Topic",
+       "Otega Oweh",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Opening pick",
+     "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 22.9,
+      "home": 77.1
+     }
+    }
+   ]
+  },
+  "2026-10-25_LAL@UTA": {
+   "away": "LAL",
+   "date": "2026-10-25",
+   "home": "UTA",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-25T17:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-25T00:02-04:00",
+     "expected_margin": -0.53,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Adou Thiero",
+       "Cameron Carr"
+      ],
+      "home": [
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Opening pick",
+     "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 51.4,
+      "home": 48.6
+     }
+    }
+   ]
+  },
+  "2026-10-25_MEM@SAC": {
+   "away": "MEM",
+   "date": "2026-10-25",
+   "home": "SAC",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-25T21:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-25T00:02-04:00",
+     "expected_margin": -0.98,
+     "gtd": {
+      "away": [
+       "Cedric Coward"
+      ],
+      "home": [
+       "Keegan Murray"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Zach Edey"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Opening pick",
+     "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 52.5,
+      "home": 47.5
+     }
+    }
+   ]
+  },
+  "2026-10-25_ORL@NYK": {
+   "away": "ORL",
+   "date": "2026-10-25",
+   "home": "NYK",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-25T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-25T00:02-04:00",
+     "expected_margin": 6.03,
+     "gtd": {
+      "away": [
+       "Anthony Black"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Opening pick",
+     "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 34.7,
+      "home": 65.3
+     }
+    }
+   ]
+  },
+  "2026-10-25_TOR@MIN": {
+   "away": "TOR",
+   "date": "2026-10-25",
+   "home": "MIN",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-25T19:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-25T00:02-04:00",
+     "expected_margin": 1.9,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Nate Bittle"
+      ],
+      "home": [
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Opening pick",
+     "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 45.1,
+      "home": 54.9
      }
     }
    ]

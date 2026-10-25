@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T23:17-04:00",
+ "generated": "2026-10-25T00:02-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -276,13 +276,13 @@
   },
   {
    "date": "2026-10-24",
-   "games": 6,
-   "wins": 3,
+   "games": 7,
+   "wins": 4,
    "losses": 3,
-   "pct": 50.0,
-   "cum_wins": 19,
-   "cum_games": 34,
-   "cum_pct": 55.9,
+   "pct": 57.1,
+   "cum_wins": 20,
+   "cum_games": 35,
+   "cum_pct": 57.1,
    "picks": [
     {
      "away": "BKN",
@@ -317,6 +317,14 @@
      "updated": true
     },
     {
+     "away": "NOP",
+     "home": "DEN",
+     "pick": "DEN",
+     "prob": 73.4,
+     "correct": true,
+     "updated": true
+    },
+    {
      "away": "SAS",
      "home": "DAL",
      "pick": "SAS",
@@ -336,10 +344,10 @@
   }
  ],
  "total": {
-  "games": 34,
-  "wins": 19,
+  "games": 35,
+  "wins": 20,
   "losses": 15,
-  "pct": 55.9
+  "pct": 57.1
  },
  "unscored": 0
 }
