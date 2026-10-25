@@ -3791,6 +3791,13 @@
    "home": "CHA",
    "late": false,
    "locked_at": "2026-10-24T18:00-04:00",
+   "result": {
+    "score": {
+     "away": 110,
+     "home": 115
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-24T18:00-04:00",
    "tip_known": true,
@@ -4051,6 +4058,11 @@
   "2026-10-24_NOP@DEN": {
    "away": "NOP",
    "date": "2026-10-24",
+   "final_check": {
+    "at": "2026-10-24T20:47-04:00",
+    "label": "8:45 PM ET",
+    "report": "2026-10-24T20:45-04:00"
+   },
    "home": "DEN",
    "late": false,
    "locked_at": null,

@@ -222,5 +222,13 @@
   "home": "WAS",
   "conf": 68.8,
   "correct": true
+ },
+ {
+  "date": "2026-10-24",
+  "season": "2026-2027",
+  "away": "MIA",
+  "home": "CHA",
+  "conf": 51.5,
+  "correct": false
  }
 ]

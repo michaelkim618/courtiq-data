@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:02-04:00",
+ "generated": "2026-10-24T20:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -273,13 +273,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-10-24",
+   "games": 1,
+   "wins": 0,
+   "losses": 1,
+   "pct": 0.0,
+   "cum_wins": 16,
+   "cum_games": 29,
+   "cum_pct": 55.2,
+   "picks": [
+    {
+     "away": "MIA",
+     "home": "CHA",
+     "pick": "MIA",
+     "prob": 51.5,
+     "correct": false,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 28,
+  "games": 29,
   "wins": 16,
-  "losses": 12,
-  "pct": 57.1
+  "losses": 13,
+  "pct": 55.2
  },
  "unscored": 0
 }
