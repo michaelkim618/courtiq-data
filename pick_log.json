@@ -4831,6 +4831,11 @@
   "2026-10-25_LAL@UTA": {
    "away": "LAL",
    "date": "2026-10-25",
+   "final_check": {
+    "at": "2026-10-25T16:47-04:00",
+    "label": "4:45 PM ET",
+    "report": "2026-10-25T16:45-04:00"
+   },
    "home": "UTA",
    "late": false,
    "locked_at": null,
