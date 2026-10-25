@@ -226,6 +226,14 @@
  {
   "date": "2026-10-24",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "CLE",
+  "conf": 71.6,
+  "correct": true
+ },
+ {
+  "date": "2026-10-24",
+  "season": "2026-2027",
   "away": "MIA",
   "home": "CHA",
   "conf": 51.5,
@@ -237,6 +245,14 @@
   "away": "MIL",
   "home": "PHI",
   "conf": 67.8,
+  "correct": true
+ },
+ {
+  "date": "2026-10-24",
+  "season": "2026-2027",
+  "away": "SAS",
+  "home": "DAL",
+  "conf": 70.1,
   "correct": true
  }
 ]
