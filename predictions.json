@@ -4355,7 +4355,7 @@
    {
     "label": "Absences",
     "points": 0.37,
-    "detail": "Indiana Pacers 3 out (56 min) costing 0.4 pts"
+    "detail": "Indiana Pacers 3 out (56 min) costing 0.4 pts · Mikel Brown Jr., Tyler Bilodeau out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -4384,7 +4384,24 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Mikel Brown Jr.",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    },
+    {
+     "player": "Tyler Bilodeau",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
    "away": [
     {
      "player": "T.J. McConnell",
@@ -4654,6 +4671,12 @@
     "pick": "BKN",
     "prob": 57.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-25T13:46-04:00",
+    "pick": "BKN",
+    "prob": 57.8,
+    "reason": "Mikel Brown Jr. (BKN) now out; Tyler Bilodeau (BKN) now out"
    }
   ]
  },
@@ -5528,7 +5551,7 @@
    {
     "label": "Absences",
     "points": 1.25,
-    "detail": "Oklahoma City Thunder 1 out (11 min), LA Clippers 4 out (90 min) costing 1.3 pts · Otega Oweh, Thomas Sorber, Bradley Beal out all season, already baked into team rating"
+    "detail": "Oklahoma City Thunder 1 out (11 min), LA Clippers 4 out (90 min) costing 1.3 pts · Thomas Sorber, Bradley Beal out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5560,14 +5583,6 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
-    },
-    {
-     "player": "Otega Oweh",
-     "mpg": 0.0,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": true
     },
     {
      "player": "Thomas Sorber",
@@ -5855,6 +5870,12 @@
     "pick": "OKC",
     "prob": 77.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-25T13:46-04:00",
+    "pick": "OKC",
+    "prob": 77.1,
+    "reason": "Otega Oweh (OKC) no longer out"
    }
   ]
  },

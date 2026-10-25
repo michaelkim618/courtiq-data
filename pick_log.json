@@ -4692,6 +4692,36 @@
       "away": 42.2,
       "home": 57.8
      }
+    },
+    {
+     "at": "2026-10-25T13:46-04:00",
+     "expected_margin": 3.0,
+     "gtd": {
+      "away": [
+       "Aaron Nesmith"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Mikel Brown Jr.",
+       "Tyler Bilodeau"
+      ]
+     },
+     "pick": "Brooklyn Nets",
+     "pick_code": "BKN",
+     "reason": "Mikel Brown Jr. (BKN) now out; Tyler Bilodeau (BKN) now out",
+     "report": "2026-10-25T13:45-04:00",
+     "win_prob": {
+      "away": 42.2,
+      "home": 57.8
+     }
     }
    ]
   },
@@ -4731,6 +4761,36 @@
      "pick_code": "OKC",
      "reason": "Opening pick",
      "report": "2026-10-25T00:00-04:00",
+     "win_prob": {
+      "away": 22.9,
+      "home": 77.1
+     }
+    },
+    {
+     "at": "2026-10-25T13:46-04:00",
+     "expected_margin": 11.35,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Otega Oweh (OKC) no longer out",
+     "report": "2026-10-25T13:45-04:00",
      "win_prob": {
       "away": 22.9,
       "home": 77.1
