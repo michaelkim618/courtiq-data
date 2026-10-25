@@ -254,5 +254,13 @@
   "home": "DAL",
   "conf": 70.1,
   "correct": true
+ },
+ {
+  "date": "2026-10-24",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "CHI",
+  "conf": 63.4,
+  "correct": false
  }
 ]

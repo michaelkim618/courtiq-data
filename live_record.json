@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T22:32-04:00",
+ "generated": "2026-10-24T22:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -276,13 +276,13 @@
   },
   {
    "date": "2026-10-24",
-   "games": 4,
+   "games": 5,
    "wins": 3,
-   "losses": 1,
-   "pct": 75.0,
+   "losses": 2,
+   "pct": 60.0,
    "cum_wins": 19,
-   "cum_games": 32,
-   "cum_pct": 59.4,
+   "cum_games": 33,
+   "cum_pct": 57.6,
    "picks": [
     {
      "away": "BKN",
@@ -315,15 +315,23 @@
      "prob": 70.1,
      "correct": true,
      "updated": true
+    },
+    {
+     "away": "WAS",
+     "home": "CHI",
+     "pick": "CHI",
+     "prob": 63.4,
+     "correct": false,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 32,
+  "games": 33,
   "wins": 19,
-  "losses": 13,
-  "pct": 59.4
+  "losses": 14,
+  "pct": 57.6
  },
  "unscored": 0
 }
