@@ -234,6 +234,14 @@
  {
   "date": "2026-10-24",
   "season": "2026-2027",
+  "away": "HOU",
+  "home": "ATL",
+  "conf": 53.1,
+  "correct": false
+ },
+ {
+  "date": "2026-10-24",
+  "season": "2026-2027",
   "away": "MIA",
   "home": "CHA",
   "conf": 51.5,
