@@ -8637,7 +8637,7 @@
   "win_prob_band": {
    "low": 73.9,
    "high": 73.9,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": 9.8,
   "expected_score": {
@@ -8663,7 +8663,7 @@
    {
     "label": "Absences",
     "points": 5.28,
-    "detail": "Phoenix Suns 2 out (46 min) costing 0.2 pts, Golden State Warriors 6 out (159 min) costing 5.5 pts"
+    "detail": "Phoenix Suns 2 out (46 min) costing 0.2 pts, Golden State Warriors 7 out (187 min) costing 5.5 pts"
    }
   ],
   "ratings": {
@@ -8747,6 +8747,14 @@
      "no_minutes": false
     },
     {
+     "player": "Draymond Green",
+     "mpg": 27.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Al Horford",
      "mpg": 21.3,
      "nth_out": 1,
@@ -8765,14 +8773,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Draymond Green",
-     "mpg": 27.2,
-     "value": 0.0,
-     "status": "Doubtful"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -8884,19 +8885,6 @@
    ],
    "away": [
     {
-     "player": "Draymond Green",
-     "player_id": 203110,
-     "position": "F",
-     "starter": true,
-     "games": 68,
-     "starts": 68,
-     "start_rate": 100,
-     "mpg": 27.5,
-     "ppg": 8.4,
-     "rpg": 5.5,
-     "apg": 5.5
-    },
-    {
      "player": "De'Anthony Melton",
      "player_id": 1629001,
      "position": "G",
@@ -8952,7 +8940,7 @@
      "player": "Malevy Leons",
      "player_id": 1642502,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 25,
      "starts": 2,
      "start_rate": 8,
@@ -8986,6 +8974,19 @@
      "ppg": 7.5,
      "rpg": 3.6,
      "apg": 1.7
+    },
+    {
+     "player": "Charles Bassey",
+     "player_id": 1629646,
+     "position": "F",
+     "starter": false,
+     "games": 13,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 11.7,
+     "ppg": 5.8,
+     "rpg": 4.4,
+     "apg": 0.5
     }
    ]
   },
@@ -9016,6 +9017,12 @@
     "pick": "PHX",
     "prob": 73.9,
     "reason": "Al Horford (GSW) now out; Brandin Podziemski (GSW) now out; Jimmy Butler III (GSW) now out; Kristaps Porzingis (GSW) now out; Moses Moody (GSW) now out; Stephen Curry (GSW) now out; Draymond Green (GSW) now questionable; Oso Ighodaro (PHX) now out"
+   },
+   {
+    "at": "2026-10-24T20:32-04:00",
+    "pick": "PHX",
+    "prob": 73.9,
+    "reason": "Draymond Green (GSW) now out"
    }
   ]
  }

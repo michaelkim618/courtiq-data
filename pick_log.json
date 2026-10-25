@@ -3597,6 +3597,40 @@
       "away": 26.1,
       "home": 73.9
      }
+    },
+    {
+     "at": "2026-10-24T20:32-04:00",
+     "expected_margin": 9.8,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Luke Kennard"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandin Podziemski",
+       "Moses Moody",
+       "Draymond Green",
+       "Al Horford"
+      ],
+      "home": [
+       "Mark Williams",
+       "Oso Ighodaro"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Draymond Green (GSW) now out",
+     "report": "2026-10-24T20:30-04:00",
+     "win_prob": {
+      "away": 26.1,
+      "home": 73.9
+     }
     }
    ]
   },
@@ -3610,7 +3644,7 @@
    },
    "home": "ATL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-24T20:30-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-24T20:30-04:00",
    "tip_known": true,
