@@ -8250,7 +8250,7 @@
    {
     "label": "Absences",
     "points": -0.12,
-    "detail": "Denver Nuggets 3 out (66 min) costing 0.1 pts, New Orleans Pelicans 1 out (20 min)"
+    "detail": "Denver Nuggets 3 out (66 min) costing 0.1 pts, New Orleans Pelicans 1 out (20 min) · Alpha Diallo out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -8298,6 +8298,14 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Alpha Diallo",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ],
    "away": [
@@ -8557,6 +8565,12 @@
     "pick": "DEN",
     "prob": 73.4,
     "reason": "Yves Missi (NOP) now out"
+   },
+   {
+    "at": "2026-10-24T20:02-04:00",
+    "pick": "DEN",
+    "prob": 73.4,
+    "reason": "Alpha Diallo (DEN) now out"
    }
   ]
  },
