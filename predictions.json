@@ -8686,7 +8686,7 @@
   "win_prob_band": {
    "low": 73.9,
    "high": 73.9,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 9.8,
   "expected_score": {
@@ -8814,14 +8814,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Luke Kennard",
-     "mpg": 22.7,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -9072,6 +9065,12 @@
     "pick": "PHX",
     "prob": 73.9,
     "reason": "Draymond Green (GSW) now out"
+   },
+   {
+    "at": "2026-10-24T21:02-04:00",
+    "pick": "PHX",
+    "prob": 73.9,
+    "reason": "Luke Kennard (PHX) cleared to play"
    }
   ]
  }
