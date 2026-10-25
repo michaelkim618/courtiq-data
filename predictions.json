@@ -5081,7 +5081,7 @@
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-25T19:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -5472,7 +5472,7 @@
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-25T19:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -5895,7 +5895,7 @@
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-25T19:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -5975,18 +5975,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 42.2,
-   "away": 57.8
+   "home": 42.1,
+   "away": 57.9
   },
   "win_prob_band": {
    "low": 42.1,
-   "high": 42.2,
-   "gtd_count": 1
+   "high": 42.1,
+   "gtd_count": 0
   },
-  "expected_margin": -3.03,
+  "expected_margin": -3.06,
   "expected_score": {
    "home": 111.1,
-   "away": 114.1
+   "away": 114.2
   },
   "margin_breakdown": [
    {
@@ -6006,8 +6006,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.45,
-    "detail": "Philadelphia 76ers 4 out (75 min) costing 2.5 pts, Detroit Pistons 2 out (54 min) costing 1.1 pts · Tacko Fall out all season, already baked into team rating"
+    "points": -1.49,
+    "detail": "Philadelphia 76ers 5 out (110 min) costing 2.6 pts, Detroit Pistons 2 out (54 min) costing 1.1 pts · Tacko Fall out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6038,6 +6038,14 @@
      "nth_out": 1,
      "value": 12.1,
      "cost": -2.54,
+     "no_minutes": false
+    },
+    {
+     "player": "VJ Edgecombe",
+     "mpg": 35.1,
+     "nth_out": 1,
+     "value": 0.2,
+     "cost": -0.04,
      "no_minutes": false
     },
     {
@@ -6093,14 +6101,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "VJ Edgecombe",
-     "mpg": 35.1,
-     "value": 0.2,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6118,19 +6119,6 @@
      "ppg": 28.3,
      "rpg": 4.1,
      "apg": 6.6
-    },
-    {
-     "player": "VJ Edgecombe",
-     "player_id": 1642845,
-     "position": "G",
-     "starter": true,
-     "games": 75,
-     "starts": 75,
-     "start_rate": 100,
-     "mpg": 35.0,
-     "ppg": 16.0,
-     "rpg": 5.6,
-     "apg": 4.2
     },
     {
      "player": "Jaylen Brown",
@@ -6175,7 +6163,7 @@
      "player": "Kentavious Caldwell-Pope",
      "player_id": 203484,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 51,
      "starts": 14,
      "start_rate": 27,
@@ -6209,6 +6197,19 @@
      "ppg": 6.0,
      "rpg": 1.5,
      "apg": 1.2
+    },
+    {
+     "player": "Rayan Rupert",
+     "player_id": 1641712,
+     "position": "G",
+     "starter": false,
+     "games": 64,
+     "starts": 8,
+     "start_rate": 12,
+     "mpg": 16.8,
+     "ppg": 5.2,
+     "rpg": 2.9,
+     "apg": 1.1
     }
    ],
    "away": [
@@ -6351,6 +6352,12 @@
     "pick": "DET",
     "prob": 57.8,
     "reason": "Ausar Thompson (DET) now out; Elijah Harkless (DET) cleared to play"
+   },
+   {
+    "at": "2026-10-25T18:47-04:00",
+    "pick": "DET",
+    "prob": 57.9,
+    "reason": "VJ Edgecombe (PHI) now out"
    }
   ]
  },

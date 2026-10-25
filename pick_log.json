@@ -4719,6 +4719,37 @@
       "away": 57.8,
       "home": 42.2
      }
+    },
+    {
+     "at": "2026-10-25T18:47-04:00",
+     "expected_margin": -3.06,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Ausar Thompson"
+      ],
+      "home": [
+       "Joel Embiid",
+       "VJ Edgecombe",
+       "Dominick Barlow",
+       "Jabari Walker",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "VJ Edgecombe (PHI) now out",
+     "report": "2026-10-25T18:45-04:00",
+     "win_prob": {
+      "away": 57.9,
+      "home": 42.1
+     }
     }
    ]
   },
@@ -4857,6 +4888,11 @@
   "2026-10-25_LAC@OKC": {
    "away": "LAC",
    "date": "2026-10-25",
+   "final_check": {
+    "at": "2026-10-25T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-25T18:45-04:00"
+   },
    "home": "OKC",
    "late": false,
    "locked_at": null,
@@ -5016,6 +5052,11 @@
   "2026-10-25_ORL@NYK": {
    "away": "ORL",
    "date": "2026-10-25",
+   "final_check": {
+    "at": "2026-10-25T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-25T18:45-04:00"
+   },
    "home": "NYK",
    "late": false,
    "locked_at": null,
@@ -5084,6 +5125,11 @@
   "2026-10-25_TOR@MIN": {
    "away": "TOR",
    "date": "2026-10-25",
+   "final_check": {
+    "at": "2026-10-25T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-25T18:45-04:00"
+   },
    "home": "MIN",
    "late": false,
    "locked_at": null,
