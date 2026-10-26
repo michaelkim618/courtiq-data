@@ -4358,7 +4358,7 @@
   "win_prob_band": {
    "low": 79.3,
    "high": 79.3,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 11.86,
   "expected_score": {
@@ -4384,7 +4384,7 @@
    {
     "label": "Absences",
     "points": -0.1,
-    "detail": "Boston Celtics 1 out (18 min) costing 0.1 pts, Chicago Bulls 1 out (28 min)"
+    "detail": "Boston Celtics 1 out (18 min) costing 0.1 pts, Chicago Bulls 2 out (48 min)"
    }
   ],
   "ratings": {
@@ -4426,19 +4426,20 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Patrick Williams",
+     "mpg": 20.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Patrick Williams",
-     "mpg": 20.5,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -4685,6 +4686,12 @@
     "pick": "BOS",
     "prob": 79.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-26T17:32-04:00",
+    "pick": "BOS",
+    "prob": 79.3,
+    "reason": "Patrick Williams (CHI) now out"
    }
   ]
  },
