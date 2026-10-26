@@ -5723,6 +5723,37 @@
       "away": 29.3,
       "home": 70.7
      }
+    },
+    {
+     "at": "2026-10-26T15:02-04:00",
+     "expected_margin": 7.9,
+     "gtd": {
+      "away": [
+       "Gui Santos"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Julian Strawther",
+       "Spencer Jones",
+       "Alpha Diallo"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Alpha Diallo (DEN) now out",
+     "report": "2026-10-26T15:00-04:00",
+     "win_prob": {
+      "away": 29.3,
+      "home": 70.7
+     }
     }
    ]
   },
@@ -5798,6 +5829,35 @@
       "away": 44.6,
       "home": 55.4
      }
+    },
+    {
+     "at": "2026-10-26T15:02-04:00",
+     "expected_margin": 2.56,
+     "gtd": {
+      "away": [
+       "Aaron Nesmith",
+       "Andrew Nembhard"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "T.J. McConnell",
+       "Ivica Zubac",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": []
+     },
+     "pick": "Milwaukee Bucks",
+     "pick_code": "MIL",
+     "reason": "Ben Sheppard (IND) now out; Ivica Zubac (IND) now out; Johnny Furphy (IND) now out; T.J. McConnell (IND) now out; Aaron Nesmith (IND) now questionable; Andrew Nembhard (IND) now questionable",
+     "report": "2026-10-26T15:00-04:00",
+     "win_prob": {
+      "away": 43.0,
+      "home": 57.0
+     }
     }
    ]
   },
@@ -5869,6 +5929,31 @@
      "pick_code": "MEM",
      "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
      "report": "2026-10-26T12:15-04:00",
+     "win_prob": {
+      "away": 61.5,
+      "home": 38.5
+     }
+    },
+    {
+     "at": "2026-10-26T15:02-04:00",
+     "expected_margin": -4.22,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jaxson Hayes"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Jusuf Nurkic (UTA) now out; Jaxson Hayes (UTA) now questionable",
+     "report": "2026-10-26T15:00-04:00",
      "win_prob": {
       "away": 61.5,
       "home": 38.5
@@ -6071,6 +6156,34 @@
      "win_prob": {
       "away": 25.2,
       "home": 74.8
+     }
+    },
+    {
+     "at": "2026-10-26T15:02-04:00",
+     "expected_margin": 7.85,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mark Williams",
+       "Oso Ighodaro"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Oso Ighodaro (PHX) now out; Cason Wallace (OKC) now out; Chet Holmgren (OKC) now out; Jalen Williams (OKC) now out",
+     "report": "2026-10-26T15:00-04:00",
+     "win_prob": {
+      "away": 29.4,
+      "home": 70.6
      }
     }
    ]
