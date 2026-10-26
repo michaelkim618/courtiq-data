@@ -322,6 +322,14 @@
  {
   "date": "2026-10-25",
   "season": "2026-2027",
+  "away": "MEM",
+  "home": "SAC",
+  "conf": 52.5,
+  "correct": true
+ },
+ {
+  "date": "2026-10-25",
+  "season": "2026-2027",
   "away": "ORL",
   "home": "NYK",
   "conf": 65.3,
