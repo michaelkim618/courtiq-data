@@ -6123,6 +6123,32 @@
       "away": 49.1,
       "home": 50.9
      }
+    },
+    {
+     "at": "2026-10-26T17:47-04:00",
+     "expected_margin": 0.33,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Donte DiVincenzo"
+      ],
+      "home": [
+       "Nae'Qwan Tomlin",
+       "Khalifa Diop"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Anthony Edwards (MIN) cleared to play",
+     "report": "2026-10-26T17:45-04:00",
+     "win_prob": {
+      "away": 49.1,
+      "home": 50.9
+     }
     }
    ]
   },

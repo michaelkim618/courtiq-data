@@ -3941,8 +3941,8 @@
   },
   "win_prob_band": {
    "low": 50.9,
-   "high": 57.6,
-   "gtd_count": 1
+   "high": 50.9,
+   "gtd_count": 0
   },
   "expected_margin": 0.33,
   "expected_score": {
@@ -4023,14 +4023,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Anthony Edwards",
-     "mpg": 26.1,
-     "value": 11.6,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -4280,6 +4273,12 @@
     "pick": "CLE",
     "prob": 50.9,
     "reason": "Donte DiVincenzo (MIN) now out; Anthony Edwards (MIN) now questionable"
+   },
+   {
+    "at": "2026-10-26T17:47-04:00",
+    "pick": "CLE",
+    "prob": 50.9,
+    "reason": "Anthony Edwards (MIN) cleared to play"
    }
   ]
  },
