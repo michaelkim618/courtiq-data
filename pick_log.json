@@ -5345,6 +5345,34 @@
       "away": 39.8,
       "home": 60.2
      }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 2.61,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Marcus Smart"
+      ]
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": [
+       "Steven Adams"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 43.2,
+      "home": 56.8
+     }
     }
    ]
   },
@@ -5383,6 +5411,33 @@
      "win_prob": {
       "away": 24.5,
       "home": 75.5
+     }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 11.86,
+     "gtd": {
+      "away": [
+       "Patrick Williams"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Nic Claxton"
+      ],
+      "home": [
+       "Devin Carter"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 21.9,
+      "home": 78.1
      }
     }
    ]
@@ -5423,6 +5478,34 @@
      "win_prob": {
       "away": 34.0,
       "home": 66.0
+     }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 2.72,
+     "gtd": {
+      "away": [
+       "Cooper Flagg"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Naji Marshall",
+       "Santi Aldama",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 42.9,
+      "home": 57.1
      }
     }
    ]
@@ -5469,6 +5552,36 @@
       "away": 35.0,
       "home": 65.0
      }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 7.9,
+     "gtd": {
+      "away": [
+       "Gui Santos"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Julian Strawther",
+       "Spencer Jones"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Brandon Williams (GSW) cleared to play; Cameron Johnson (DEN) cleared to play",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 30.3,
+      "home": 69.7
+     }
     }
    ]
   },
@@ -5502,6 +5615,27 @@
       "away": 36.0,
       "home": 64.0
      }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 1.96,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Milwaukee Bucks",
+     "pick_code": "MIL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 44.9,
+      "home": 55.1
+     }
     }
    ]
   },
@@ -5534,6 +5668,27 @@
      "win_prob": {
       "away": 49.8,
       "home": 50.2
+     }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": -4.22,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "pick flipped to MEM",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 60.9,
+      "home": 39.1
      }
     }
    ]
@@ -5571,6 +5726,30 @@
       "away": 34.7,
       "home": 65.3
      }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 0.33,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [],
+      "home": [
+       "Nae'Qwan Tomlin",
+       "Khalifa Diop"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 49.1,
+      "home": 50.9
+     }
     }
    ]
   },
@@ -5607,6 +5786,31 @@
      "win_prob": {
       "away": 33.5,
       "home": 66.5
+     }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 9.7,
+     "gtd": {
+      "away": [
+       "Oso Ighodaro"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": []
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 26.3,
+      "home": 73.7
      }
     }
    ]
@@ -5648,6 +5852,35 @@
      "win_prob": {
       "away": 28.2,
       "home": 71.8
+     }
+    },
+    {
+     "at": "2026-10-26T10:36-04:00",
+     "expected_margin": 3.89,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.7",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Jamir Watkins",
+       "AJ Dybantsa"
+      ],
+      "home": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-26T10:30-04:00",
+     "win_prob": {
+      "away": 40.0,
+      "home": 60.0
      }
     }
    ]

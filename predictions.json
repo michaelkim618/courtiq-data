@@ -3502,24 +3502,24 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 71.8,
-   "away": 28.2
+   "home": 60.0,
+   "away": 40.0
   },
   "win_prob_band": {
-   "low": 71.8,
-   "high": 71.8,
+   "low": 60.0,
+   "high": 60.0,
    "gtd_count": 0
   },
-  "expected_margin": 8.82,
+  "expected_margin": 3.89,
   "expected_score": {
-   "home": 120.2,
-   "away": 111.4
+   "home": 117.0,
+   "away": 113.1
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 8.02,
-    "detail": "Charlotte Hornets +1.2 vs Washington Wizards -6.8, proj. 100.0 possessions"
+    "points": 3.09,
+    "detail": "Charlotte Hornets -1.7 vs Washington Wizards -4.8, proj. 100.8 possessions"
    },
    {
     "label": "Home Advantage",
@@ -3539,22 +3539,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 1.2,
-    "off": 116.6,
-    "def": 115.4,
-    "pace": 97.5,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -1.7,
+    "off": 113.0,
+    "def": 114.7,
+    "pace": 98.3,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    },
    "away": {
-    "net": -6.8,
-    "off": 112.2,
-    "def": 119.0,
-    "pace": 102.6,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -4.8,
+    "off": 112.1,
+    "def": 116.9,
+    "pace": 103.2,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -3845,6 +3845,12 @@
     "pick": "CHA",
     "prob": 71.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "CHA",
+    "prob": 60.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -3917,24 +3923,24 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 65.3,
-   "away": 34.7
+   "home": 50.9,
+   "away": 49.1
   },
   "win_prob_band": {
-   "low": 65.3,
-   "high": 65.3,
+   "low": 50.9,
+   "high": 50.9,
    "gtd_count": 0
   },
-  "expected_margin": 6.03,
+  "expected_margin": 0.33,
   "expected_score": {
-   "home": 118.3,
-   "away": 112.3
+   "home": 114.9,
+   "away": 114.6
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 1.23,
-    "detail": "Cleveland Cavaliers +3.0 vs Minnesota Timberwolves +1.7, proj. 100.7 possessions"
+    "points": -4.47,
+    "detail": "Cleveland Cavaliers +2.2 vs Minnesota Timberwolves +6.6, proj. 101.4 possessions"
    },
    {
     "label": "Home Advantage",
@@ -3954,22 +3960,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 3.0,
-    "off": 117.0,
-    "def": 114.1,
-    "pace": 99.8,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": 2.2,
+    "off": 115.3,
+    "def": 113.1,
+    "pace": 101.2,
+    "games": 2,
+    "carry": 0.833,
+    "roster": 0.792
    },
    "away": {
-    "net": 1.7,
-    "off": 114.4,
-    "def": 112.7,
+    "net": 6.6,
+    "off": 115.5,
+    "def": 108.8,
     "pace": 101.5,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -4227,6 +4233,12 @@
     "pick": "CLE",
     "prob": 65.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "CLE",
+    "prob": 50.9,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -4299,24 +4311,24 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 75.5,
-   "away": 24.5
+   "home": 78.1,
+   "away": 21.9
   },
   "win_prob_band": {
-   "low": 75.5,
-   "high": 75.5,
+   "low": 78.1,
+   "high": 78.1,
    "gtd_count": 1
   },
-  "expected_margin": 10.58,
+  "expected_margin": 11.86,
   "expected_score": {
-   "home": 119.7,
-   "away": 109.1
+   "home": 120.8,
+   "away": 108.9
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 8.38,
-    "detail": "Boston Celtics +3.9 vs Chicago Bulls -4.5, proj. 99.3 possessions"
+    "points": 9.67,
+    "detail": "Boston Celtics +3.1 vs Chicago Bulls -6.6, proj. 100.1 possessions"
    },
    {
     "label": "Home Advantage",
@@ -4336,22 +4348,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 3.9,
-    "off": 117.5,
-    "def": 113.6,
-    "pace": 95.4,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": 3.1,
+    "off": 117.0,
+    "def": 113.9,
+    "pace": 95.5,
+    "games": 2,
+    "carry": 0.833,
+    "roster": 0.792
    },
    "away": {
-    "net": -4.5,
-    "off": 112.5,
-    "def": 117.1,
-    "pace": 103.3,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -6.6,
+    "off": 110.8,
+    "def": 117.3,
+    "pace": 104.7,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -4618,6 +4630,12 @@
     "pick": "BOS",
     "prob": 75.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "BOS",
+    "prob": 78.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -4696,24 +4714,24 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 66.0,
-   "away": 34.0
+   "home": 57.1,
+   "away": 42.9
   },
   "win_prob_band": {
-   "low": 66.0,
-   "high": 68.9,
+   "low": 57.1,
+   "high": 60.2,
    "gtd_count": 1
   },
-  "expected_margin": 6.31,
+  "expected_margin": 2.72,
   "expected_score": {
-   "home": 120.8,
-   "away": 114.5
+   "home": 118.7,
+   "away": 116.0
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 4.97,
-    "detail": "Miami Heat +1.0 vs Dallas Mavericks -3.8, proj. 103.3 possessions"
+    "points": 1.37,
+    "detail": "Miami Heat -3.0 vs Dallas Mavericks -4.3, proj. 103.0 possessions"
    },
    {
     "label": "Home Advantage",
@@ -4727,33 +4745,33 @@
    },
    {
     "label": "Absences",
-    "points": 0.72,
-    "detail": "Dallas Mavericks 2 out (56 min) costing 0.7 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 0.73,
+    "detail": "Dallas Mavericks 2 out (50 min) costing 0.7 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
-    "points": -1.68,
+    "points": -1.67,
     "detail": "Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
    }
   ],
   "ratings": {
    "home": {
-    "net": 1.0,
-    "off": 115.3,
-    "def": 114.3,
-    "pace": 104.1,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -3.0,
+    "off": 113.0,
+    "def": 116.0,
+    "pace": 104.0,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    },
    "away": {
-    "net": -3.8,
-    "off": 111.0,
-    "def": 114.8,
-    "pace": 102.6,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -4.3,
+    "off": 111.2,
+    "def": 115.5,
+    "pace": 102.0,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -4761,10 +4779,10 @@
    "away": [
     {
      "player": "Naji Marshall",
-     "mpg": 29.0,
+     "mpg": 23.0,
      "nth_out": 1,
      "value": 2.1,
-     "cost": -0.43,
+     "cost": -0.44,
      "no_minutes": false
     },
     {
@@ -5035,6 +5053,12 @@
     "pick": "MIA",
     "prob": 66.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "MIA",
+    "prob": 57.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5113,24 +5137,24 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 64.0,
-   "away": 36.0
+   "home": 55.1,
+   "away": 44.9
   },
   "win_prob_band": {
-   "low": 64.0,
-   "high": 64.0,
+   "low": 55.1,
+   "high": 55.1,
    "gtd_count": 0
   },
-  "expected_margin": 5.47,
+  "expected_margin": 1.96,
   "expected_score": {
-   "home": 117.3,
-   "away": 111.9
+   "home": 117.2,
+   "away": 115.2
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 1.26,
-    "detail": "Milwaukee Bucks -3.2 vs Indiana Pacers -4.5, proj. 100.0 possessions"
+    "points": -2.24,
+    "detail": "Milwaukee Bucks -4.6 vs Indiana Pacers -2.4, proj. 101.3 possessions"
    },
    {
     "label": "Home Advantage",
@@ -5149,28 +5173,28 @@
    },
    {
     "label": "Returning Players",
-    "points": -0.59,
+    "points": -0.6,
     "detail": "Tyrese Haliburton (IND) back after missing 2025-26, valued from 2024-25"
    }
   ],
   "ratings": {
    "home": {
-    "net": -3.2,
-    "off": 113.6,
-    "def": 116.8,
-    "pace": 98.2,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -4.6,
+    "off": 112.8,
+    "def": 117.4,
+    "pace": 100.5,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    },
    "away": {
-    "net": -4.5,
-    "off": 111.7,
-    "def": 116.2,
-    "pace": 101.8,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -2.4,
+    "off": 113.0,
+    "def": 115.4,
+    "pace": 102.1,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -5412,6 +5436,12 @@
     "pick": "MIL",
     "prob": 64.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "MIL",
+    "prob": 55.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5484,24 +5514,24 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 66.5,
-   "away": 33.5
+   "home": 73.7,
+   "away": 26.3
   },
   "win_prob_band": {
-   "low": 66.5,
-   "high": 66.5,
+   "low": 73.7,
+   "high": 73.7,
    "gtd_count": 1
   },
-  "expected_margin": 6.5,
+  "expected_margin": 9.7,
   "expected_score": {
-   "home": 115.1,
-   "away": 108.6
+   "home": 115.7,
+   "away": 106.0
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 6.48,
-    "detail": "Oklahoma City Thunder +7.1 vs Phoenix Suns +0.6, proj. 98.9 possessions"
+    "points": 9.68,
+    "detail": "Oklahoma City Thunder +7.9 vs Phoenix Suns -1.9, proj. 98.9 possessions"
    },
    {
     "label": "Home Advantage",
@@ -5521,22 +5551,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 7.1,
-    "off": 115.9,
-    "def": 108.8,
-    "pace": 99.8,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": 7.9,
+    "off": 113.9,
+    "def": 106.1,
+    "pace": 99.7,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    },
    "away": {
-    "net": 0.6,
-    "off": 114.0,
-    "def": 113.5,
-    "pace": 98.0,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -1.9,
+    "off": 113.1,
+    "def": 115.1,
+    "pace": 98.1,
+    "games": 2,
+    "carry": 0.833,
+    "roster": 0.792
    }
   },
   "absences": {
@@ -5793,6 +5823,12 @@
     "pick": "OKC",
     "prob": 66.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "OKC",
+    "prob": 73.7,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5871,24 +5907,24 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 60.2,
-   "away": 39.8
+   "home": 56.8,
+   "away": 43.2
   },
   "win_prob_band": {
-   "low": 60.2,
-   "high": 60.2,
+   "low": 56.8,
+   "high": 56.8,
    "gtd_count": 1
   },
-  "expected_margin": 3.94,
+  "expected_margin": 2.61,
   "expected_score": {
    "home": 115.4,
-   "away": 111.4
+   "away": 112.8
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 1.12,
-    "detail": "Houston Rockets +2.4 vs Atlanta Hawks +1.3, proj. 99.4 possessions"
+    "points": -0.21,
+    "detail": "Houston Rockets +4.2 vs Atlanta Hawks +4.4, proj. 99.8 possessions"
    },
    {
     "label": "Home Advantage",
@@ -5913,22 +5949,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 2.4,
-    "off": 115.5,
-    "def": 113.0,
-    "pace": 96.6,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": 4.2,
+    "off": 117.1,
+    "def": 112.9,
+    "pace": 97.1,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    },
    "away": {
-    "net": 1.3,
-    "off": 114.5,
-    "def": 113.2,
-    "pace": 102.2,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": 4.4,
+    "off": 116.0,
+    "def": 111.5,
+    "pace": 102.4,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -6203,6 +6239,12 @@
     "pick": "HOU",
     "prob": 60.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "HOU",
+    "prob": 56.8,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6281,24 +6323,24 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 50.2,
-   "away": 49.8
+   "home": 39.1,
+   "away": 60.9
   },
   "win_prob_band": {
-   "low": 50.2,
-   "high": 50.2,
+   "low": 39.1,
+   "high": 39.1,
    "gtd_count": 0
   },
-  "expected_margin": 0.09,
+  "expected_margin": -4.22,
   "expected_score": {
-   "home": 119.2,
-   "away": 119.1
+   "home": 116.5,
+   "away": 120.8
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": -2.21,
-    "detail": "Utah Jazz -3.4 vs Memphis Grizzlies -1.3, proj. 102.7 possessions"
+    "points": -6.52,
+    "detail": "Utah Jazz -4.8 vs Memphis Grizzlies +1.5, proj. 102.5 possessions"
    },
    {
     "label": "Home Advantage",
@@ -6318,22 +6360,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -3.4,
-    "off": 115.0,
-    "def": 118.5,
-    "pace": 103.6,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -4.8,
+    "off": 114.4,
+    "def": 119.3,
+    "pace": 103.4,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    },
    "away": {
-    "net": -1.3,
-    "off": 114.8,
-    "def": 116.1,
-    "pace": 101.8,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": 1.5,
+    "off": 115.4,
+    "def": 113.9,
+    "pace": 101.7,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -6563,7 +6605,7 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Utah Jazz",
+  "model_winner": "Memphis Grizzlies",
   "model_correct": null,
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-26T21:00-04:00",
@@ -6576,6 +6618,12 @@
     "pick": "UTA",
     "prob": 50.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "MEM",
+    "prob": 60.9,
+    "reason": "pick flipped to MEM"
    }
   ]
  },
@@ -6648,24 +6696,24 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 65.0,
-   "away": 35.0
+   "home": 69.7,
+   "away": 30.3
   },
   "win_prob_band": {
-   "low": 65.0,
-   "high": 66.6,
-   "gtd_count": 3
+   "low": 69.7,
+   "high": 69.7,
+   "gtd_count": 1
   },
-  "expected_margin": 5.91,
+  "expected_margin": 7.9,
   "expected_score": {
-   "home": 118.7,
-   "away": 112.8
+   "home": 119.4,
+   "away": 111.5
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 1.05,
-    "detail": "Denver Nuggets +1.9 vs Golden State Warriors +0.8, proj. 99.7 possessions"
+    "points": 3.04,
+    "detail": "Denver Nuggets +0.9 vs Golden State Warriors -2.1, proj. 100.0 possessions"
    },
    {
     "label": "Home Advantage",
@@ -6685,22 +6733,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 1.9,
-    "off": 119.0,
-    "def": 117.1,
-    "pace": 99.4,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": 0.9,
+    "off": 116.9,
+    "def": 116.0,
+    "pace": 99.7,
+    "games": 2,
+    "carry": 0.833,
+    "roster": 0.792
    },
    "away": {
-    "net": 0.8,
-    "off": 114.6,
-    "def": 113.8,
-    "pace": 100.0,
-    "games": 0,
-    "carry": 1.0,
-    "roster": 0.95
+    "net": -2.1,
+    "off": 113.6,
+    "def": 115.7,
+    "pace": 100.3,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    }
   },
   "absences": {
@@ -6750,24 +6798,11 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Cameron Johnson",
-     "mpg": 29.8,
-     "value": 0.0,
-     "status": "Doubtful"
-    }
-   ],
+   "home": [],
    "away": [
     {
-     "player": "Brandon Williams",
-     "mpg": 21.9,
-     "value": 3.2,
-     "status": "Probable"
-    },
-    {
      "player": "Gui Santos",
-     "mpg": 20.7,
+     "mpg": 21.7,
      "value": 0.0,
      "status": "Questionable"
     }
@@ -7003,6 +7038,12 @@
     "pick": "DEN",
     "prob": 65.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-26T10:36-04:00",
+    "pick": "DEN",
+    "prob": 69.7,
+    "reason": "Brandon Williams (GSW) cleared to play; Cameron Johnson (DEN) cleared to play"
    }
   ]
  }
