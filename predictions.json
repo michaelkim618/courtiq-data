@@ -3941,8 +3941,8 @@
   },
   "win_prob_band": {
    "low": 50.9,
-   "high": 50.9,
-   "gtd_count": 0
+   "high": 57.6,
+   "gtd_count": 1
   },
   "expected_margin": 0.33,
   "expected_score": {
@@ -3968,7 +3968,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Cleveland Cavaliers 1 out (14 min) · Khalifa Diop out all season, already baked into team rating"
+    "detail": "Cleveland Cavaliers 1 out (14 min), Minnesota Timberwolves 1 out (30 min) · Khalifa Diop out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4010,11 +4010,27 @@
      "no_minutes": true
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Donte DiVincenzo",
+     "mpg": 29.5,
+     "nth_out": 4,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Anthony Edwards",
+     "mpg": 26.1,
+     "value": 11.6,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2025-26",
@@ -4152,19 +4168,6 @@
      "apg": 1.7
     },
     {
-     "player": "Donte DiVincenzo",
-     "player_id": 1628978,
-     "position": "G",
-     "starter": true,
-     "games": 82,
-     "starts": 82,
-     "start_rate": 100,
-     "mpg": 30.4,
-     "ppg": 12.2,
-     "rpg": 4.1,
-     "apg": 3.8
-    },
-    {
      "player": "Anthony Edwards",
      "player_id": 1630162,
      "position": "G",
@@ -4194,7 +4197,7 @@
      "player": "Cody Williams",
      "player_id": 1642262,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 67,
      "starts": 41,
      "start_rate": 61,
@@ -4228,6 +4231,19 @@
      "ppg": 14.8,
      "rpg": 3.4,
      "apg": 3.6
+    },
+    {
+     "player": "Joan Beringer",
+     "player_id": 1642866,
+     "position": "F",
+     "starter": false,
+     "games": 40,
+     "starts": 3,
+     "start_rate": 8,
+     "mpg": 7.9,
+     "ppg": 3.9,
+     "rpg": 2.3,
+     "apg": 0.3
     }
    ]
   },
@@ -4258,6 +4274,12 @@
     "pick": "CLE",
     "prob": 50.9,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-26T13:18-04:00",
+    "pick": "CLE",
+    "prob": 50.9,
+    "reason": "Donte DiVincenzo (MIN) now out; Anthony Edwards (MIN) now questionable"
    }
   ]
  },
@@ -4771,7 +4793,7 @@
    {
     "label": "Absences",
     "points": 0.73,
-    "detail": "Dallas Mavericks 2 out (50 min) costing 0.7 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "detail": "Dallas Mavericks 3 out (65 min) costing 0.7 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -4819,6 +4841,14 @@
      "no_minutes": false
     },
     {
+     "player": "Caleb Martin",
+     "mpg": 14.8,
+     "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Dereck Lively II",
      "mpg": 0.0,
      "nth_out": 2,
@@ -4843,7 +4873,7 @@
      "player": "Cooper Flagg",
      "mpg": 32.8,
      "value": 5.9,
-     "status": "Questionable"
+     "status": "Probable"
     }
    ]
   },
@@ -5036,19 +5066,6 @@
      "apg": 1.1
     },
     {
-     "player": "Caleb Martin",
-     "player_id": 1628997,
-     "position": "F",
-     "starter": false,
-     "games": 58,
-     "starts": 12,
-     "start_rate": 21,
-     "mpg": 14.8,
-     "ppg": 3.9,
-     "rpg": 2.5,
-     "apg": 1.4
-    },
-    {
      "player": "Marcus Sasser",
      "player_id": 1631204,
      "position": "G",
@@ -5060,6 +5077,19 @@
      "ppg": 5.2,
      "rpg": 1.0,
      "apg": 2.0
+    },
+    {
+     "player": "Walter Clayton Jr.",
+     "player_id": 1642383,
+     "position": "G",
+     "starter": false,
+     "games": 69,
+     "starts": 6,
+     "start_rate": 9,
+     "mpg": 20.4,
+     "ppg": 7.8,
+     "rpg": 2.0,
+     "apg": 4.0
     }
    ]
   },
@@ -5090,6 +5120,12 @@
     "pick": "MIA",
     "prob": 57.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-10-26T13:18-04:00",
+    "pick": "MIA",
+    "prob": 57.4,
+    "reason": "Caleb Martin (DAL) now out"
    }
   ]
  },

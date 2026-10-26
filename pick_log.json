@@ -5589,6 +5589,35 @@
       "away": 42.6,
       "home": 57.4
      }
+    },
+    {
+     "at": "2026-10-26T13:18-04:00",
+     "expected_margin": 2.72,
+     "gtd": {
+      "away": [
+       "Cooper Flagg"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Naji Marshall",
+       "Santi Aldama",
+       "Caleb Martin",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Caleb Martin (DAL) now out",
+     "report": "2026-10-26T13:15-04:00",
+     "win_prob": {
+      "away": 42.6,
+      "home": 57.4
+     }
     }
    ]
   },
@@ -5924,6 +5953,34 @@
      "pick_code": "CLE",
      "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
      "report": "2026-10-26T12:15-04:00",
+     "win_prob": {
+      "away": 49.1,
+      "home": 50.9
+     }
+    },
+    {
+     "at": "2026-10-26T13:18-04:00",
+     "expected_margin": 0.33,
+     "gtd": {
+      "away": [
+       "Anthony Edwards"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Donte DiVincenzo"
+      ],
+      "home": [
+       "Nae'Qwan Tomlin",
+       "Khalifa Diop"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Donte DiVincenzo (MIN) now out; Anthony Edwards (MIN) now questionable",
+     "report": "2026-10-26T13:15-04:00",
      "win_prob": {
       "away": 49.1,
       "home": 50.9
