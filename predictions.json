@@ -5212,18 +5212,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 57.0,
-   "away": 43.0
+   "home": 57.4,
+   "away": 42.6
   },
   "win_prob_band": {
-   "low": 57.0,
-   "high": 57.9,
-   "gtd_count": 2
+   "low": 57.4,
+   "high": 57.4,
+   "gtd_count": 0
   },
-  "expected_margin": 2.56,
+  "expected_margin": 2.71,
   "expected_score": {
    "home": 117.5,
-   "away": 114.9
+   "away": 114.8
   },
   "margin_breakdown": [
    {
@@ -5243,8 +5243,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.6,
-    "detail": "Indiana Pacers 4 out (79 min) costing 0.6 pts"
+    "points": 0.74,
+    "detail": "Indiana Pacers 5 out (104 min) costing 0.7 pts"
    },
    {
     "label": "Returning Players",
@@ -5292,6 +5292,14 @@
      "no_minutes": false
     },
     {
+     "player": "Andrew Nembhard",
+     "mpg": 25.0,
+     "nth_out": 1,
+     "value": 0.7,
+     "cost": -0.14,
+     "no_minutes": false
+    },
+    {
      "player": "Ben Sheppard",
      "mpg": 21.2,
      "nth_out": 2,
@@ -5311,20 +5319,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Aaron Nesmith",
-     "mpg": 28.9,
-     "value": 0.8,
-     "status": "Probable"
-    },
-    {
-     "player": "Andrew Nembhard",
-     "mpg": 25.0,
-     "value": 0.7,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -5465,19 +5460,6 @@
      "apg": 3.8
     },
     {
-     "player": "Andrew Nembhard",
-     "player_id": 1629614,
-     "position": "G",
-     "starter": true,
-     "games": 57,
-     "starts": 57,
-     "start_rate": 100,
-     "mpg": 31.3,
-     "ppg": 16.9,
-     "rpg": 2.8,
-     "apg": 7.7
-    },
-    {
      "player": "Aaron Nesmith",
      "player_id": 1630174,
      "position": "G",
@@ -5507,7 +5489,7 @@
      "player": "Jay Huff",
      "player_id": 1630643,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 82,
      "starts": 47,
      "start_rate": 57,
@@ -5541,6 +5523,19 @@
      "ppg": 7.3,
      "rpg": 4.4,
      "apg": 2.8
+    },
+    {
+     "player": "Quenton Jackson",
+     "player_id": 1631245,
+     "position": "G",
+     "starter": false,
+     "games": 49,
+     "starts": 19,
+     "start_rate": 39,
+     "mpg": 18.3,
+     "ppg": 9.1,
+     "rpg": 2.3,
+     "apg": 2.9
     }
    ]
   },
@@ -5577,6 +5572,12 @@
     "pick": "MIL",
     "prob": 57.0,
     "reason": "Ben Sheppard (IND) now out; Ivica Zubac (IND) now out; Johnny Furphy (IND) now out; T.J. McConnell (IND) now out; Aaron Nesmith (IND) now questionable; Andrew Nembhard (IND) now questionable"
+   },
+   {
+    "at": "2026-10-26T19:02-04:00",
+    "pick": "MIL",
+    "prob": 57.4,
+    "reason": "Andrew Nembhard (IND) now out; Aaron Nesmith (IND) cleared to play"
    }
   ]
  },
