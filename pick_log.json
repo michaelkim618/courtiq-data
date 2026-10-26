@@ -6395,6 +6395,35 @@
       "away": 39.4,
       "home": 60.6
      }
+    },
+    {
+     "at": "2026-10-26T18:02-04:00",
+     "expected_margin": 3.89,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Jamir Watkins",
+       "AJ Dybantsa"
+      ],
+      "home": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Naz Reid (CHA) cleared to play",
+     "report": "2026-10-26T18:00-04:00",
+     "win_prob": {
+      "away": 39.4,
+      "home": 60.6
+     }
     }
    ]
   }

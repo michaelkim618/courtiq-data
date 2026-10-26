@@ -3506,9 +3506,9 @@
    "away": 39.4
   },
   "win_prob_band": {
-   "low": 58.2,
+   "low": 60.6,
    "high": 60.6,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 3.89,
   "expected_score": {
@@ -3612,14 +3612,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Naz Reid",
-     "mpg": 24.1,
-     "value": 4.3,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -3864,6 +3857,12 @@
     "pick": "CHA",
     "prob": 60.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-10-26T18:02-04:00",
+    "pick": "CHA",
+    "prob": 60.6,
+    "reason": "Naz Reid (CHA) cleared to play"
    }
   ]
  },
