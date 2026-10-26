@@ -4908,6 +4908,13 @@
    "home": "OKC",
    "late": false,
    "locked_at": "2026-10-25T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 101,
+     "home": 108
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-25T19:00-04:00",
    "tip_known": true,
@@ -5035,7 +5042,7 @@
    },
    "home": "SAC",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-25T21:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-25T21:00-04:00",
    "tip_known": true,
