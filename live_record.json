@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T21:32-04:00",
+ "generated": "2026-10-25T21:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -352,13 +352,13 @@
   },
   {
    "date": "2026-10-25",
-   "games": 3,
-   "wins": 2,
-   "losses": 1,
-   "pct": 66.7,
-   "cum_wins": 23,
-   "cum_games": 39,
-   "cum_pct": 59.0,
+   "games": 5,
+   "wins": 3,
+   "losses": 2,
+   "pct": 60.0,
+   "cum_wins": 24,
+   "cum_games": 41,
+   "cum_pct": 58.5,
    "picks": [
     {
      "away": "IND",
@@ -383,15 +383,31 @@
      "prob": 51.4,
      "correct": true,
      "updated": false
+    },
+    {
+     "away": "ORL",
+     "home": "NYK",
+     "pick": "NYK",
+     "prob": 65.3,
+     "correct": false,
+     "updated": true
+    },
+    {
+     "away": "TOR",
+     "home": "MIN",
+     "pick": "MIN",
+     "prob": 61.9,
+     "correct": true,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 39,
-  "wins": 23,
-  "losses": 16,
-  "pct": 59.0
+  "games": 41,
+  "wins": 24,
+  "losses": 17,
+  "pct": 58.5
  },
  "unscored": 0
 }
