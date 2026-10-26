@@ -5823,6 +5823,11 @@
   "2026-10-26_IND@MIL": {
    "away": "IND",
    "date": "2026-10-26",
+   "final_check": {
+    "at": "2026-10-26T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-26T19:45-04:00"
+   },
    "home": "MIL",
    "late": false,
    "locked_at": null,
@@ -6224,6 +6229,11 @@
   "2026-10-26_PHX@OKC": {
    "away": "PHX",
    "date": "2026-10-26",
+   "final_check": {
+    "at": "2026-10-26T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-26T19:45-04:00"
+   },
    "home": "OKC",
    "late": false,
    "locked_at": null,
