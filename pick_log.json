@@ -5406,6 +5406,11 @@
   "2026-10-26_CHI@BOS": {
    "away": "CHI",
    "date": "2026-10-26",
+   "final_check": {
+    "at": "2026-10-26T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-26T19:15-04:00"
+   },
    "home": "BOS",
    "late": false,
    "locked_at": null,
@@ -5525,6 +5530,11 @@
   "2026-10-26_DAL@MIA": {
    "away": "DAL",
    "date": "2026-10-26",
+   "final_check": {
+    "at": "2026-10-26T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-26T19:15-04:00"
+   },
    "home": "MIA",
    "late": false,
    "locked_at": null,
