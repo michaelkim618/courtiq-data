@@ -5644,6 +5644,33 @@
       "away": 42.6,
       "home": 57.4
      }
+    },
+    {
+     "at": "2026-10-26T18:47-04:00",
+     "expected_margin": 2.72,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Naji Marshall",
+       "Santi Aldama",
+       "Caleb Martin",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Cooper Flagg (DAL) cleared to play",
+     "report": "2026-10-26T18:45-04:00",
+     "win_prob": {
+      "away": 42.6,
+      "home": 57.4
+     }
     }
    ]
   },
@@ -6017,6 +6044,11 @@
   "2026-10-26_MIN@CLE": {
    "away": "MIN",
    "date": "2026-10-26",
+   "final_check": {
+    "at": "2026-10-26T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-26T18:45-04:00"
+   },
    "home": "CLE",
    "late": false,
    "locked_at": null,
@@ -6300,6 +6332,11 @@
   "2026-10-26_WAS@CHA": {
    "away": "WAS",
    "date": "2026-10-26",
+   "final_check": {
+    "at": "2026-10-26T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-26T18:45-04:00"
+   },
    "home": "CHA",
    "late": false,
    "locked_at": null,
