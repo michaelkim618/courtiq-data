@@ -6349,7 +6349,7 @@
  },
  {
   "date": "2026-10-25",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Detroit Pistons",
   "home": "Philadelphia 76ers",
   "away_code": "DET",
@@ -6539,225 +6539,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2025-26",
-   "home": [
-    {
-     "player": "Tyrese Maxey",
-     "player_id": 1630178,
-     "position": "G",
-     "starter": true,
-     "games": 70,
-     "starts": 70,
-     "start_rate": 100,
-     "mpg": 38.0,
-     "ppg": 28.3,
-     "rpg": 4.1,
-     "apg": 6.6
-    },
-    {
-     "player": "Jaylen Brown",
-     "player_id": 1627759,
-     "position": "G",
-     "starter": true,
-     "games": 71,
-     "starts": 71,
-     "start_rate": 100,
-     "mpg": 34.4,
-     "ppg": 28.7,
-     "rpg": 6.9,
-     "apg": 5.1
-    },
-    {
-     "player": "LeBron James",
-     "player_id": 2544,
-     "position": "F",
-     "starter": true,
-     "games": 60,
-     "starts": 60,
-     "start_rate": 100,
-     "mpg": 33.2,
-     "ppg": 20.9,
-     "rpg": 6.1,
-     "apg": 7.2
-    },
-    {
-     "player": "Dean Wade",
-     "player_id": 1629731,
-     "position": "F",
-     "starter": true,
-     "games": 59,
-     "starts": 38,
-     "start_rate": 64,
-     "mpg": 22.3,
-     "ppg": 5.8,
-     "rpg": 4.2,
-     "apg": 1.5
-    },
-    {
-     "player": "Kentavious Caldwell-Pope",
-     "player_id": 203484,
-     "position": "G",
-     "starter": true,
-     "games": 51,
-     "starts": 14,
-     "start_rate": 27,
-     "mpg": 21.3,
-     "ppg": 8.4,
-     "rpg": 2.5,
-     "apg": 2.7
-    },
-    {
-     "player": "Adem Bona",
-     "player_id": 1641737,
-     "position": "F",
-     "starter": false,
-     "games": 71,
-     "starts": 18,
-     "start_rate": 25,
-     "mpg": 17.4,
-     "ppg": 4.8,
-     "rpg": 4.3,
-     "apg": 0.5
-    },
-    {
-     "player": "Justin Edwards",
-     "player_id": 1642348,
-     "position": "F",
-     "starter": false,
-     "games": 64,
-     "starts": 12,
-     "start_rate": 19,
-     "mpg": 15.3,
-     "ppg": 6.0,
-     "rpg": 1.5,
-     "apg": 1.2
-    },
-    {
-     "player": "Rayan Rupert",
-     "player_id": 1641712,
-     "position": "G",
-     "starter": false,
-     "games": 64,
-     "starts": 8,
-     "start_rate": 12,
-     "mpg": 16.8,
-     "ppg": 5.2,
-     "rpg": 2.9,
-     "apg": 1.1
-    }
-   ],
-   "away": [
-    {
-     "player": "Cade Cunningham",
-     "player_id": 1630595,
-     "position": "G",
-     "starter": true,
-     "games": 64,
-     "starts": 64,
-     "start_rate": 100,
-     "mpg": 33.9,
-     "ppg": 23.9,
-     "rpg": 5.5,
-     "apg": 9.9
-    },
-    {
-     "player": "Duncan Robinson",
-     "player_id": 1629130,
-     "position": "F",
-     "starter": true,
-     "games": 77,
-     "starts": 77,
-     "start_rate": 100,
-     "mpg": 27.4,
-     "ppg": 12.2,
-     "rpg": 2.7,
-     "apg": 2.1
-    },
-    {
-     "player": "John Collins",
-     "player_id": 1628381,
-     "position": "F",
-     "starter": true,
-     "games": 69,
-     "starts": 56,
-     "start_rate": 81,
-     "mpg": 27.1,
-     "ppg": 13.6,
-     "rpg": 5.3,
-     "apg": 1.0
-    },
-    {
-     "player": "Elijah Harkless",
-     "player_id": 1641989,
-     "position": "G",
-     "starter": true,
-     "games": 26,
-     "starts": 9,
-     "start_rate": 35,
-     "mpg": 21.0,
-     "ppg": 6.8,
-     "rpg": 2.0,
-     "apg": 2.9
-    },
-    {
-     "player": "Taurean Prince",
-     "player_id": 1627752,
-     "position": "F",
-     "starter": true,
-     "games": 26,
-     "starts": 7,
-     "start_rate": 27,
-     "mpg": 23.5,
-     "ppg": 9.2,
-     "rpg": 3.1,
-     "apg": 1.8
-    },
-    {
-     "player": "Daniss Jenkins",
-     "player_id": 1642450,
-     "position": "G",
-     "starter": false,
-     "games": 72,
-     "starts": 19,
-     "start_rate": 26,
-     "mpg": 20.2,
-     "ppg": 9.3,
-     "rpg": 2.3,
-     "apg": 3.9
-    },
-    {
-     "player": "Kevin Huerter",
-     "player_id": 1628989,
-     "position": "G",
-     "starter": false,
-     "games": 69,
-     "starts": 14,
-     "start_rate": 20,
-     "mpg": 22.5,
-     "ppg": 10.0,
-     "rpg": 3.5,
-     "apg": 2.6
-    },
-    {
-     "player": "Paul Reed",
-     "player_id": 1630194,
-     "position": "F",
-     "starter": false,
-     "games": 65,
-     "starts": 11,
-     "start_rate": 17,
-     "mpg": 13.9,
-     "ppg": 7.8,
-     "rpg": 4.5,
-     "apg": 1.2
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 93,
+   "away": 106
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Detroit Pistons",
   "model_winner": "Detroit Pistons",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.7",
   "tip_et": "2026-10-25T19:30-04:00",
   "injury_report": {
@@ -6794,7 +6583,255 @@
     "prob": 57.9,
     "reason": "VJ Edgecombe (PHI) now out"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jaylen Brown",
+     "starter": true,
+     "min": 40,
+     "pts": 16,
+     "reb": 4,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -19
+    },
+    {
+     "name": "Dean Wade",
+     "starter": true,
+     "min": 37,
+     "pts": 7,
+     "reb": 5,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Tyrese Maxey",
+     "starter": true,
+     "min": 34,
+     "pts": 29,
+     "reb": 5,
+     "ast": 4,
+     "stl": 3,
+     "blk": 1,
+     "tov": 1,
+     "pm": -9
+    },
+    {
+     "name": "LeBron James",
+     "starter": true,
+     "min": 33,
+     "pts": 18,
+     "reb": 2,
+     "ast": 5,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": -22
+    },
+    {
+     "name": "Kentavious Caldwell-Pope",
+     "starter": true,
+     "min": 31,
+     "pts": 7,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -18
+    },
+    {
+     "name": "Anfernee Simons",
+     "starter": false,
+     "min": 27,
+     "pts": 5,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 2,
+     "tov": 1,
+     "pm": 3
+    },
+    {
+     "name": "Adem Bona",
+     "starter": false,
+     "min": 25,
+     "pts": 6,
+     "reb": 13,
+     "ast": 1,
+     "stl": 1,
+     "blk": 3,
+     "tov": 3,
+     "pm": -8
+    },
+    {
+     "name": "Labaron Philon Jr.",
+     "starter": false,
+     "min": 13,
+     "pts": 5,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 9
+    }
+   ],
+   "away": [
+    {
+     "name": "Daniss Jenkins",
+     "starter": true,
+     "min": 38,
+     "pts": 18,
+     "reb": 8,
+     "ast": 6,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "John Collins",
+     "starter": true,
+     "min": 34,
+     "pts": 16,
+     "reb": 11,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "tov": 2,
+     "pm": 17
+    },
+    {
+     "name": "Cade Cunningham",
+     "starter": true,
+     "min": 33,
+     "pts": 26,
+     "reb": 8,
+     "ast": 8,
+     "stl": 2,
+     "blk": 2,
+     "tov": 4,
+     "pm": 20
+    },
+    {
+     "name": "Duncan Robinson",
+     "starter": true,
+     "min": 32,
+     "pts": 21,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 22
+    },
+    {
+     "name": "Kevin Huerter",
+     "starter": false,
+     "min": 26,
+     "pts": 9,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -7
+    },
+    {
+     "name": "Paul Reed",
+     "starter": true,
+     "min": 23,
+     "pts": 8,
+     "reb": 8,
+     "ast": 2,
+     "stl": 0,
+     "blk": 3,
+     "tov": 3,
+     "pm": 6
+    },
+    {
+     "name": "Ronald Holland II",
+     "starter": false,
+     "min": 23,
+     "pts": 2,
+     "reb": 9,
+     "ast": 4,
+     "stl": 1,
+     "blk": 2,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Javonte Green",
+     "starter": false,
+     "min": 22,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Isaiah Joe",
+     "starter": false,
+     "min": 4,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Tolu Smith",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Ebuka Okorie",
+     "starter": false,
+     "min": 2,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Tyrese Maxey",
+    "pts": 29,
+    "reb": 5,
+    "ast": 4
+   },
+   "away": {
+    "name": "Cade Cunningham",
+    "pts": 26,
+    "reb": 8,
+    "ast": 8
+   }
+  }
  },
  {
   "date": "2026-10-25",
