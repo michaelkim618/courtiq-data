@@ -6489,8 +6489,8 @@
   },
   "win_prob_band": {
    "low": 47.5,
-   "high": 48.5,
-   "gtd_count": 1
+   "high": 47.5,
+   "gtd_count": 0
   },
   "expected_margin": -0.98,
   "expected_score": {
@@ -6516,7 +6516,7 @@
    {
     "label": "Absences",
     "points": -0.12,
-    "detail": "Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons, Zach Edey out all season, already baked into team rating"
+    "detail": "Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons, Karim López, Zach Edey out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6576,6 +6576,14 @@
    ],
    "away": [
     {
+     "player": "Karim López",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    },
+    {
      "player": "Zach Edey",
      "mpg": 0.0,
      "nth_out": 1,
@@ -6587,14 +6595,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Cedric Coward",
-     "mpg": 25.6,
-     "value": 2.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -6833,6 +6834,12 @@
     "pick": "MEM",
     "prob": 52.5,
     "reason": "Keegan Murray (SAC) now out"
+   },
+   {
+    "at": "2026-10-25T20:17-04:00",
+    "pick": "MEM",
+    "prob": 52.5,
+    "reason": "Karim López (MEM) now out; Cedric Coward (MEM) cleared to play"
    }
   ]
  }
