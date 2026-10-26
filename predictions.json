@@ -3502,13 +3502,13 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 60.0,
-   "away": 40.0
+   "home": 60.6,
+   "away": 39.4
   },
   "win_prob_band": {
-   "low": 60.0,
-   "high": 60.0,
-   "gtd_count": 0
+   "low": 58.2,
+   "high": 60.6,
+   "gtd_count": 1
   },
   "expected_margin": 3.89,
   "expected_score": {
@@ -3562,7 +3562,7 @@
     {
      "player": "Coby White",
      "mpg": 24.9,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 6.1,
      "cost": -1.28,
      "no_minutes": false
@@ -3570,7 +3570,7 @@
     {
      "player": "Kon Knueppel",
      "mpg": 31.1,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 4.1,
      "cost": -0.85,
      "no_minutes": false
@@ -3578,7 +3578,7 @@
     {
      "player": "Grant Williams",
      "mpg": 19.6,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3588,7 +3588,7 @@
     {
      "player": "Tristan Vukcevic",
      "mpg": 13.7,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 3.0,
      "cost": -0.63,
      "no_minutes": false
@@ -3596,7 +3596,7 @@
     {
      "player": "Jamir Watkins",
      "mpg": 20.1,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3604,7 +3604,7 @@
     {
      "player": "AJ Dybantsa",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -3612,7 +3612,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Naz Reid",
+     "mpg": 24.1,
+     "value": 4.3,
+     "status": "Probable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -3834,7 +3841,7 @@
   "actual_winner": null,
   "model_winner": "Charlotte Hornets",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T19:00-04:00",
   "injury_report": {
    "final_check": null
@@ -3851,6 +3858,12 @@
     "pick": "CHA",
     "prob": 60.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "CHA",
+    "prob": 60.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -3983,7 +3996,7 @@
     {
      "player": "Nae'Qwan Tomlin",
      "mpg": 14.5,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3991,7 +4004,7 @@
     {
      "player": "Khalifa Diop",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -4222,7 +4235,7 @@
   "actual_winner": null,
   "model_winner": "Cleveland Cavaliers",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T19:00-04:00",
   "injury_report": {
    "final_check": null
@@ -4239,6 +4252,12 @@
     "pick": "CLE",
     "prob": 50.9,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "CLE",
+    "prob": 50.9,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -4311,12 +4330,12 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 78.1,
-   "away": 21.9
+   "home": 79.3,
+   "away": 20.7
   },
   "win_prob_band": {
-   "low": 78.1,
-   "high": 78.1,
+   "low": 79.3,
+   "high": 79.3,
    "gtd_count": 1
   },
   "expected_margin": 11.86,
@@ -4371,7 +4390,7 @@
     {
      "player": "Devin Carter",
      "mpg": 18.1,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.5,
      "cost": -0.1,
      "no_minutes": false
@@ -4381,7 +4400,7 @@
     {
      "player": "Nic Claxton",
      "mpg": 27.5,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4619,7 +4638,7 @@
   "actual_winner": null,
   "model_winner": "Boston Celtics",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -4636,6 +4655,12 @@
     "pick": "BOS",
     "prob": 78.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "BOS",
+    "prob": 79.3,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -4714,12 +4739,12 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 57.1,
-   "away": 42.9
+   "home": 57.4,
+   "away": 42.6
   },
   "win_prob_band": {
-   "low": 57.1,
-   "high": 60.2,
+   "low": 57.4,
+   "high": 60.8,
    "gtd_count": 1
   },
   "expected_margin": 2.72,
@@ -4788,7 +4813,7 @@
     {
      "player": "Santi Aldama",
      "mpg": 27.2,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 1.4,
      "cost": -0.29,
      "no_minutes": false
@@ -4796,7 +4821,7 @@
     {
      "player": "Dereck Lively II",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -4804,7 +4829,7 @@
     {
      "player": "Tarik Biberovic",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -5042,7 +5067,7 @@
   "actual_winner": null,
   "model_winner": "Miami Heat",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T19:30-04:00",
   "injury_report": {
    "final_check": null
@@ -5059,6 +5084,12 @@
     "pick": "MIA",
     "prob": 57.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "MIA",
+    "prob": 57.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
    }
   ]
  },
@@ -5137,12 +5168,12 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 55.1,
-   "away": 44.9
+   "home": 55.4,
+   "away": 44.6
   },
   "win_prob_band": {
-   "low": 55.1,
-   "high": 55.1,
+   "low": 55.4,
+   "high": 55.4,
    "gtd_count": 0
   },
   "expected_margin": 1.96,
@@ -5425,7 +5456,7 @@
   "actual_winner": null,
   "model_winner": "Milwaukee Bucks",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T20:00-04:00",
   "injury_report": {
    "final_check": null
@@ -5442,6 +5473,12 @@
     "pick": "MIL",
     "prob": 55.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "MIL",
+    "prob": 55.4,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Tyrese Haliburton (IND) back after missing 2025-26, valued from 2024-25"
    }
   ]
  },
@@ -5514,12 +5551,12 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 73.7,
-   "away": 26.3
+   "home": 74.8,
+   "away": 25.2
   },
   "win_prob_band": {
-   "low": 73.7,
-   "high": 73.7,
+   "low": 74.8,
+   "high": 74.8,
    "gtd_count": 1
   },
   "expected_margin": 9.7,
@@ -5812,7 +5849,7 @@
   "actual_winner": null,
   "model_winner": "Oklahoma City Thunder",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T20:00-04:00",
   "injury_report": {
    "final_check": null
@@ -5829,6 +5866,12 @@
     "pick": "OKC",
     "prob": 73.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "OKC",
+    "prob": 74.8,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -5907,13 +5950,13 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 56.8,
-   "away": 43.2
+   "home": 57.1,
+   "away": 42.9
   },
   "win_prob_band": {
-   "low": 56.8,
-   "high": 56.8,
-   "gtd_count": 1
+   "low": 57.1,
+   "high": 57.1,
+   "gtd_count": 0
   },
   "expected_margin": 2.61,
   "expected_score": {
@@ -5939,7 +5982,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Houston Rockets 1 out (23 min), Atlanta Hawks 1 out (15 min) · Henri Veesaar out all season, already baked into team rating"
+    "detail": "Houston Rockets 2 out (52 min), Atlanta Hawks 1 out (15 min) · Henri Veesaar out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -5970,6 +6013,14 @@
   "absences": {
    "home": [
     {
+     "player": "Marcus Smart",
+     "mpg": 29.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Steven Adams",
      "mpg": 22.7,
      "nth_out": 1,
@@ -5982,7 +6033,7 @@
     {
      "player": "Mouhamed Gueye",
      "mpg": 14.7,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -5990,7 +6041,7 @@
     {
      "player": "Henri Veesaar",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -5998,14 +6049,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Marcus Smart",
-     "mpg": 29.2,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6078,19 +6122,6 @@
      "apg": 6.2
     },
     {
-     "player": "Marcus Smart",
-     "player_id": 203935,
-     "position": "G",
-     "starter": false,
-     "games": 62,
-     "starts": 54,
-     "start_rate": 87,
-     "mpg": 28.5,
-     "ppg": 9.3,
-     "rpg": 2.8,
-     "apg": 3.0
-    },
-    {
      "player": "Tari Eason",
      "player_id": 1631106,
      "position": "F",
@@ -6115,6 +6146,19 @@
      "ppg": 13.5,
      "rpg": 2.9,
      "apg": 3.4
+    },
+    {
+     "player": "Oscar Tshiebwe",
+     "player_id": 1631131,
+     "position": "F",
+     "starter": false,
+     "games": 27,
+     "starts": 6,
+     "start_rate": 22,
+     "mpg": 16.6,
+     "ppg": 7.8,
+     "rpg": 6.6,
+     "apg": 1.2
     }
    ],
    "away": [
@@ -6228,7 +6272,7 @@
   "actual_winner": null,
   "model_winner": "Houston Rockets",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T20:30-04:00",
   "injury_report": {
    "final_check": null
@@ -6245,6 +6289,12 @@
     "pick": "HOU",
     "prob": 56.8,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "HOU",
+    "prob": 57.1,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
    }
   ]
  },
@@ -6323,12 +6373,12 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 39.1,
-   "away": 60.9
+   "home": 38.5,
+   "away": 61.5
   },
   "win_prob_band": {
-   "low": 39.1,
-   "high": 39.1,
+   "low": 38.5,
+   "high": 38.5,
    "gtd_count": 0
   },
   "expected_margin": -4.22,
@@ -6607,7 +6657,7 @@
   "actual_winner": null,
   "model_winner": "Memphis Grizzlies",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T21:00-04:00",
   "injury_report": {
    "final_check": null
@@ -6624,6 +6674,12 @@
     "pick": "MEM",
     "prob": 60.9,
     "reason": "pick flipped to MEM"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "MEM",
+    "prob": 61.5,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  },
@@ -6696,12 +6752,12 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 69.7,
-   "away": 30.3
+   "home": 70.7,
+   "away": 29.3
   },
   "win_prob_band": {
-   "low": 69.7,
-   "high": 69.7,
+   "low": 70.7,
+   "high": 70.7,
    "gtd_count": 1
   },
   "expected_margin": 7.9,
@@ -7027,7 +7083,7 @@
   "actual_winner": null,
   "model_winner": "Denver Nuggets",
   "model_correct": null,
-  "model_version": "nba-v1.7",
+  "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T22:00-04:00",
   "injury_report": {
    "final_check": null
@@ -7044,6 +7100,12 @@
     "pick": "DEN",
     "prob": 69.7,
     "reason": "Brandon Williams (GSW) cleared to play; Cameron Johnson (DEN) cleared to play"
+   },
+   {
+    "at": "2026-10-26T12:16-04:00",
+    "pick": "DEN",
+    "prob": 70.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
  }
