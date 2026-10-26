@@ -5958,6 +5958,33 @@
       "away": 61.5,
       "home": 38.5
      }
+    },
+    {
+     "at": "2026-10-26T16:02-04:00",
+     "expected_margin": -4.22,
+     "gtd": {
+      "away": [
+       "Isaiah Stewart"
+      ],
+      "home": [
+       "Jaxson Hayes"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Isaiah Stewart (MEM) now questionable",
+     "report": "2026-10-26T16:00-04:00",
+     "win_prob": {
+      "away": 61.5,
+      "home": 38.5
+     }
     }
    ]
   },
@@ -6181,6 +6208,36 @@
      "pick_code": "OKC",
      "reason": "Oso Ighodaro (PHX) now out; Cason Wallace (OKC) now out; Chet Holmgren (OKC) now out; Jalen Williams (OKC) now out",
      "report": "2026-10-26T15:00-04:00",
+     "win_prob": {
+      "away": 29.4,
+      "home": 70.6
+     }
+    },
+    {
+     "at": "2026-10-26T16:02-04:00",
+     "expected_margin": 7.85,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mark Williams",
+       "Oso Ighodaro"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Nikola Topic (OKC) now out; Thomas Sorber (OKC) now out",
+     "report": "2026-10-26T16:00-04:00",
      "win_prob": {
       "away": 29.4,
       "home": 70.6

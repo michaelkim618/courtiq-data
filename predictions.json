@@ -5677,7 +5677,7 @@
    {
     "label": "Absences",
     "points": -1.63,
-    "detail": "Oklahoma City Thunder 3 out (80 min) costing 1.9 pts, Phoenix Suns 2 out (46 min) costing 0.2 pts"
+    "detail": "Oklahoma City Thunder 4 out (91 min) costing 1.9 pts, Phoenix Suns 2 out (46 min) costing 0.2 pts · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5725,6 +5725,22 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Nikola Topic",
+     "mpg": 10.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Thomas Sorber",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ],
    "away": [
@@ -5793,19 +5809,6 @@
      "apg": 3.6
     },
     {
-     "player": "Nikola Topić",
-     "player_id": 1642260,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 2,
-     "start_rate": 20,
-     "mpg": 16.0,
-     "ppg": 5.2,
-     "rpg": 1.9,
-     "apg": 4.4
-    },
-    {
      "player": "Jaylin Williams",
      "player_id": 1631119,
      "position": "F",
@@ -5822,7 +5825,7 @@
      "player": "Micah Peavy",
      "player_id": 1642877,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 61,
      "starts": 4,
      "start_rate": 7,
@@ -5856,6 +5859,19 @@
      "ppg": 6.5,
      "rpg": 3.3,
      "apg": 1.4
+    },
+    {
+     "player": "Alex Caruso",
+     "player_id": 1627936,
+     "position": "G",
+     "starter": false,
+     "games": 56,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.2,
+     "ppg": 6.2,
+     "rpg": 2.8,
+     "apg": 2.0
     }
    ],
    "away": [
@@ -5998,6 +6014,12 @@
     "pick": "OKC",
     "prob": 70.6,
     "reason": "Oso Ighodaro (PHX) now out; Cason Wallace (OKC) now out; Chet Holmgren (OKC) now out; Jalen Williams (OKC) now out"
+   },
+   {
+    "at": "2026-10-26T16:02-04:00",
+    "pick": "OKC",
+    "prob": 70.6,
+    "reason": "Nikola Topic (OKC) now out; Thomas Sorber (OKC) now out"
    }
   ]
  },
@@ -6507,7 +6529,7 @@
   "win_prob_band": {
    "low": 38.5,
    "high": 38.5,
-   "gtd_count": 1
+   "gtd_count": 2
   },
   "expected_margin": -4.22,
   "expected_score": {
@@ -6578,7 +6600,14 @@
      "status": "Questionable"
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Isaiah Stewart",
+     "mpg": 20.2,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2025-26",
@@ -6834,6 +6863,12 @@
     "pick": "MEM",
     "prob": 61.5,
     "reason": "Jusuf Nurkic (UTA) now out; Jaxson Hayes (UTA) now questionable"
+   },
+   {
+    "at": "2026-10-26T16:02-04:00",
+    "pick": "MEM",
+    "prob": 61.5,
+    "reason": "Isaiah Stewart (MEM) now questionable"
    }
   ]
  },
