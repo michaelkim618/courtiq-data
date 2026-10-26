@@ -4769,6 +4769,13 @@
    "home": "BKN",
    "late": false,
    "locked_at": "2026-10-25T18:00-04:00",
+   "result": {
+    "score": {
+     "away": 136,
+     "home": 109
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-25T18:00-04:00",
    "tip_known": true,
@@ -5021,6 +5028,11 @@
   "2026-10-25_MEM@SAC": {
    "away": "MEM",
    "date": "2026-10-25",
+   "final_check": {
+    "at": "2026-10-25T20:47-04:00",
+    "label": "8:45 PM ET",
+    "report": "2026-10-25T20:45-04:00"
+   },
    "home": "SAC",
    "late": false,
    "locked_at": null,

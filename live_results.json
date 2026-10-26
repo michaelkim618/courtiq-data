@@ -290,6 +290,14 @@
  {
   "date": "2026-10-25",
   "season": "2026-2027",
+  "away": "IND",
+  "home": "BKN",
+  "conf": 52.6,
+  "correct": false
+ },
+ {
+  "date": "2026-10-25",
+  "season": "2026-2027",
   "away": "LAL",
   "home": "UTA",
   "conf": 51.4,

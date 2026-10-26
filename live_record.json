@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T19:47-04:00",
+ "generated": "2026-10-25T20:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -352,14 +352,22 @@
   },
   {
    "date": "2026-10-25",
-   "games": 1,
+   "games": 2,
    "wins": 1,
-   "losses": 0,
-   "pct": 100.0,
+   "losses": 1,
+   "pct": 50.0,
    "cum_wins": 22,
-   "cum_games": 37,
-   "cum_pct": 59.5,
+   "cum_games": 38,
+   "cum_pct": 57.9,
    "picks": [
+    {
+     "away": "IND",
+     "home": "BKN",
+     "pick": "BKN",
+     "prob": 52.6,
+     "correct": false,
+     "updated": true
+    },
     {
      "away": "LAL",
      "home": "UTA",
@@ -372,10 +380,10 @@
   }
  ],
  "total": {
-  "games": 37,
+  "games": 38,
   "wins": 22,
-  "losses": 15,
-  "pct": 59.5
+  "losses": 16,
+  "pct": 57.9
  },
  "unscored": 0
 }
