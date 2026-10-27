@@ -346,6 +346,22 @@
  {
   "date": "2026-10-26",
   "season": "2026-2027",
+  "away": "CHI",
+  "home": "BOS",
+  "conf": 79.3,
+  "correct": true
+ },
+ {
+  "date": "2026-10-26",
+  "season": "2026-2027",
+  "away": "MIN",
+  "home": "CLE",
+  "conf": 50.9,
+  "correct": true
+ },
+ {
+  "date": "2026-10-26",
+  "season": "2026-2027",
   "away": "WAS",
   "home": "CHA",
   "conf": 60.6,
