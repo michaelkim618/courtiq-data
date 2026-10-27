@@ -4702,9 +4702,9 @@
   "game_type": "regular",
   "neutral": false,
   "home_standing": {
-   "wins": 1,
+   "wins": 2,
    "losses": 1,
-   "win_pct": 0.5,
+   "win_pct": 0.667,
    "conference": "East",
    "rank": 5
   },
@@ -4728,11 +4728,17 @@
      "result": "W",
      "score": "107-103",
      "home": true
+    },
+    {
+     "date": "2026-10-26",
+     "result": "W",
+     "score": "134-99",
+     "home": true
     }
    ],
-   "wins": 1,
+   "wins": 2,
    "losses": 1,
-   "streak": 1
+   "streak": 2
   },
   "away_recent_form": {
    "games": [
@@ -4768,16 +4774,16 @@
    "high": 76.8,
    "gtd_count": 0
   },
-  "expected_margin": 10.61,
+  "expected_margin": 10.64,
   "expected_score": {
-   "home": 116.5,
-   "away": 105.8
+   "home": 116.7,
+   "away": 106.0
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 8.31,
-    "detail": "Boston Celtics +3.1 vs Brooklyn Nets -5.4, proj. 97.3 possessions"
+    "points": 10.84,
+    "detail": "Boston Celtics +5.6 vs Brooklyn Nets -5.4, proj. 97.7 possessions"
    },
    {
     "label": "Home Advantage",
@@ -4786,8 +4792,8 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 0.0,
-    "detail": "Both teams rested"
+    "points": -2.5,
+    "detail": "Boston Celtics on no rest"
    },
    {
     "label": "Absences",
@@ -4797,13 +4803,13 @@
   ],
   "ratings": {
    "home": {
-    "net": 3.1,
-    "off": 117.0,
-    "def": 113.9,
-    "pace": 95.5,
-    "games": 2,
-    "carry": 0.833,
-    "roster": 0.792
+    "net": 5.6,
+    "off": 117.8,
+    "def": 112.2,
+    "pace": 96.3,
+    "games": 3,
+    "carry": 0.769,
+    "roster": 0.731
    },
    "away": {
     "net": -5.4,
