@@ -5311,6 +5311,11 @@
   "2026-10-26_ATL@HOU": {
    "away": "ATL",
    "date": "2026-10-26",
+   "final_check": {
+    "at": "2026-10-26T20:17-04:00",
+    "label": "8:15 PM ET",
+    "report": "2026-10-26T20:15-04:00"
+   },
    "home": "HOU",
    "late": false,
    "locked_at": null,
