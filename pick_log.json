@@ -6701,6 +6701,11 @@
   "2026-10-27_BKN@BOS": {
    "away": "BKN",
    "date": "2026-10-27",
+   "final_check": {
+    "at": "2026-10-27T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-27T19:15-04:00"
+   },
    "home": "BOS",
    "late": false,
    "locked_at": null,
@@ -6815,6 +6820,32 @@
      "win_prob": {
       "away": 56.1,
       "home": 43.9
+     }
+    },
+    {
+     "at": "2026-10-27T19:17-04:00",
+     "expected_margin": -1.94,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": [
+       "Jose Alvarado"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Isaiah Joe (DET) now out; Ausar Thompson (DET) cleared to play; Elijah Harkless (DET) cleared to play",
+     "report": "2026-10-27T19:15-04:00",
+     "win_prob": {
+      "away": 55.3,
+      "home": 44.7
      }
     }
    ]

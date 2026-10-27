@@ -5064,7 +5064,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-27T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -5162,18 +5162,18 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 43.9,
-   "away": 56.1
+   "home": 44.7,
+   "away": 55.3
   },
   "win_prob_band": {
-   "low": 43.9,
-   "high": 43.9,
-   "gtd_count": 2
+   "low": 44.7,
+   "high": 44.7,
+   "gtd_count": 0
   },
-  "expected_margin": -2.22,
+  "expected_margin": -1.94,
   "expected_score": {
-   "home": 109.9,
-   "away": 112.1
+   "home": 110.0,
+   "away": 112.0
   },
   "margin_breakdown": [
    {
@@ -5193,8 +5193,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.09,
-    "detail": "New York Knicks 1 out (15 min), Detroit Pistons 1 out (28 min) costing 1.1 pts"
+    "points": 1.37,
+    "detail": "New York Knicks 1 out (15 min), Detroit Pistons 2 out (45 min) costing 1.4 pts"
    }
   ],
   "ratings": {
@@ -5236,25 +5236,20 @@
      "value": 5.2,
      "cost": -1.09,
      "no_minutes": false
+    },
+    {
+     "player": "Isaiah Joe",
+     "mpg": 17.2,
+     "nth_out": 1,
+     "value": 1.3,
+     "cost": -0.28,
+     "no_minutes": false
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Ausar Thompson",
-     "mpg": 21.4,
-     "value": 0.0,
-     "status": "Questionable"
-    },
-    {
-     "player": "Elijah Harkless",
-     "mpg": 20.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5490,6 +5485,12 @@
     "pick": "DET",
     "prob": 56.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-27T19:17-04:00",
+    "pick": "DET",
+    "prob": 55.3,
+    "reason": "Isaiah Joe (DET) now out; Ausar Thompson (DET) cleared to play; Elijah Harkless (DET) cleared to play"
    }
   ]
  },
