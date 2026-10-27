@@ -5721,6 +5721,13 @@
    "home": "DEN",
    "late": false,
    "locked_at": "2026-10-26T22:00-04:00",
+   "result": {
+    "score": {
+     "away": 134,
+     "home": 114
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-26T22:00-04:00",
    "tip_known": true,
@@ -6687,6 +6694,158 @@
      "win_prob": {
       "away": 39.4,
       "home": 60.6
+     }
+    }
+   ]
+  },
+  "2026-10-27_BKN@BOS": {
+   "away": "BKN",
+   "date": "2026-10-27",
+   "home": "BOS",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-27T19:30-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-27T00:32-04:00",
+     "expected_margin": 10.61,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Opening pick",
+     "report": "2026-10-27T00:30-04:00",
+     "win_prob": {
+      "away": 23.2,
+      "home": 76.8
+     }
+    }
+   ]
+  },
+  "2026-10-27_DET@NYK": {
+   "away": "DET",
+   "date": "2026-10-27",
+   "home": "NYK",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-27T20:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-27T00:32-04:00",
+     "expected_margin": -2.22,
+     "gtd": {
+      "away": [
+       "Ausar Thompson",
+       "Elijah Harkless"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Duren"
+      ],
+      "home": [
+       "Jose Alvarado"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Opening pick",
+     "report": "2026-10-27T00:30-04:00",
+     "win_prob": {
+      "away": 56.1,
+      "home": 43.9
+     }
+    }
+   ]
+  },
+  "2026-10-27_POR@LAL": {
+   "away": "POR",
+   "date": "2026-10-27",
+   "home": "LAL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-27T23:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-27T00:32-04:00",
+     "expected_margin": 2.97,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Shaedon Sharpe"
+      ],
+      "home": [
+       "Adou Thiero",
+       "Cameron Carr"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Opening pick",
+     "report": "2026-10-27T00:30-04:00",
+     "win_prob": {
+      "away": 41.9,
+      "home": 58.1
+     }
+    }
+   ]
+  },
+  "2026-10-27_SAC@SAS": {
+   "away": "SAC",
+   "date": "2026-10-27",
+   "home": "SAS",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-27T20:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-27T00:32-04:00",
+     "expected_margin": 12.59,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Opening pick",
+     "report": "2026-10-27T00:30-04:00",
+     "win_prob": {
+      "away": 19.3,
+      "home": 80.7
      }
     }
    ]

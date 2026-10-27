@@ -370,6 +370,14 @@
  {
   "date": "2026-10-26",
   "season": "2026-2027",
+  "away": "GSW",
+  "home": "DEN",
+  "conf": 69.7,
+  "correct": false
+ },
+ {
+  "date": "2026-10-26",
+  "season": "2026-2027",
   "away": "IND",
   "home": "MIL",
   "conf": 57.4,
