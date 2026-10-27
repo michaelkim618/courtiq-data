@@ -4947,7 +4947,7 @@
  },
  {
   "date": "2026-10-26",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Dallas Mavericks",
   "home": "Miami Heat",
   "away_code": "DAL",
@@ -5129,228 +5129,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2025-26",
-   "home": [
-    {
-     "player": "Bam Adebayo",
-     "player_id": 1628389,
-     "position": "C",
-     "starter": true,
-     "games": 73,
-     "starts": 73,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 20.1,
-     "rpg": 10.0,
-     "apg": 3.2
-    },
-    {
-     "player": "Andrew Wiggins",
-     "player_id": 203952,
-     "position": "F",
-     "starter": true,
-     "games": 68,
-     "starts": 68,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 15.4,
-     "rpg": 4.8,
-     "apg": 2.7
-    },
-    {
-     "player": "Giannis Antetokounmpo",
-     "player_id": 203507,
-     "position": "F",
-     "starter": true,
-     "games": 36,
-     "starts": 36,
-     "start_rate": 100,
-     "mpg": 28.9,
-     "ppg": 27.6,
-     "rpg": 9.8,
-     "apg": 5.4
-    },
-    {
-     "player": "Davion Mitchell",
-     "player_id": 1630558,
-     "position": "G",
-     "starter": true,
-     "games": 70,
-     "starts": 70,
-     "start_rate": 100,
-     "mpg": 28.6,
-     "ppg": 9.3,
-     "rpg": 2.7,
-     "apg": 6.5
-    },
-    {
-     "player": "Pelle Larsson",
-     "player_id": 1641796,
-     "position": "G",
-     "starter": true,
-     "games": 70,
-     "starts": 54,
-     "start_rate": 77,
-     "mpg": 26.4,
-     "ppg": 11.4,
-     "rpg": 3.5,
-     "apg": 3.4
-    },
-    {
-     "player": "Myron Gardner",
-     "player_id": 1642066,
-     "position": "F",
-     "starter": false,
-     "games": 45,
-     "starts": 7,
-     "start_rate": 16,
-     "mpg": 9.1,
-     "ppg": 3.6,
-     "rpg": 2.7,
-     "apg": 1.0
-    },
-    {
-     "player": "Bobby Portis Jr.",
-     "player_id": 1626171,
-     "position": "F",
-     "starter": false,
-     "games": 67,
-     "starts": 9,
-     "start_rate": 13,
-     "mpg": 24.2,
-     "ppg": 13.7,
-     "rpg": 6.4,
-     "apg": 1.6
-    },
-    {
-     "player": "Simone Fontecchio",
-     "player_id": 1631323,
-     "position": "F",
-     "starter": false,
-     "games": 70,
-     "starts": 9,
-     "start_rate": 13,
-     "mpg": 16.7,
-     "ppg": 8.5,
-     "rpg": 3.0,
-     "apg": 1.4
-    }
-   ],
-   "away": [
-    {
-     "player": "Kyrie Irving",
-     "player_id": 202681,
-     "position": "G",
-     "starter": true,
-     "games": 2,
-     "starts": 0,
-     "start_rate": null,
-     "mpg": 24.3,
-     "ppg": 19.5,
-     "rpg": 2.5,
-     "apg": 2.5,
-     "projection": "returning",
-     "stats_season": "2026-27",
-     "stats_games": 2
-    },
-    {
-     "player": "Cooper Flagg",
-     "player_id": 1642843,
-     "position": "F",
-     "starter": true,
-     "games": 70,
-     "starts": 70,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 21.0,
-     "rpg": 6.7,
-     "apg": 4.5
-    },
-    {
-     "player": "P.J. Washington",
-     "player_id": 1629023,
-     "position": "F",
-     "starter": true,
-     "games": 56,
-     "starts": 53,
-     "start_rate": 95,
-     "mpg": 31.0,
-     "ppg": 14.2,
-     "rpg": 7.0,
-     "apg": 1.8
-    },
-    {
-     "player": "Max Christie",
-     "player_id": 1631108,
-     "position": "G",
-     "starter": true,
-     "games": 77,
-     "starts": 68,
-     "start_rate": 88,
-     "mpg": 29.1,
-     "ppg": 12.3,
-     "rpg": 3.2,
-     "apg": 2.0
-    },
-    {
-     "player": "Daniel Gafford",
-     "player_id": 1629655,
-     "position": "F",
-     "starter": true,
-     "games": 55,
-     "starts": 44,
-     "start_rate": 80,
-     "mpg": 21.7,
-     "ppg": 9.5,
-     "rpg": 6.9,
-     "apg": 1.1
-    },
-    {
-     "player": "Zaccharie Risacher",
-     "player_id": 1642258,
-     "position": "F",
-     "starter": false,
-     "games": 67,
-     "starts": 46,
-     "start_rate": 69,
-     "mpg": 22.4,
-     "ppg": 9.6,
-     "rpg": 3.8,
-     "apg": 1.1
-    },
-    {
-     "player": "Marcus Sasser",
-     "player_id": 1631204,
-     "position": "G",
-     "starter": false,
-     "games": 38,
-     "starts": 5,
-     "start_rate": 13,
-     "mpg": 12.0,
-     "ppg": 5.2,
-     "rpg": 1.0,
-     "apg": 2.0
-    },
-    {
-     "player": "Walter Clayton Jr.",
-     "player_id": 1642383,
-     "position": "G",
-     "starter": false,
-     "games": 69,
-     "starts": 6,
-     "start_rate": 9,
-     "mpg": 20.4,
-     "ppg": 7.8,
-     "rpg": 2.0,
-     "apg": 4.0
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 109,
+   "away": 113
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Dallas Mavericks",
   "model_winner": "Miami Heat",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-26T19:30-04:00",
   "injury_report": {
@@ -5387,7 +5173,255 @@
     "prob": 57.4,
     "reason": "Cooper Flagg (DAL) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Giannis Antetokounmpo",
+     "starter": true,
+     "min": 39,
+     "pts": 29,
+     "reb": 15,
+     "ast": 11,
+     "stl": 0,
+     "blk": 1,
+     "tov": 5,
+     "pm": -1
+    },
+    {
+     "name": "Andrew Wiggins",
+     "starter": true,
+     "min": 34,
+     "pts": 12,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -10
+    },
+    {
+     "name": "Pelle Larsson",
+     "starter": false,
+     "min": 34,
+     "pts": 12,
+     "reb": 0,
+     "ast": 4,
+     "stl": 3,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Davion Mitchell",
+     "starter": true,
+     "min": 33,
+     "pts": 21,
+     "reb": 0,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 4,
+     "pm": -10
+    },
+    {
+     "name": "Bam Adebayo",
+     "starter": true,
+     "min": 30,
+     "pts": 8,
+     "reb": 8,
+     "ast": 3,
+     "stl": 2,
+     "blk": 2,
+     "tov": 1,
+     "pm": -8
+    },
+    {
+     "name": "Bobby Portis",
+     "starter": false,
+     "min": 24,
+     "pts": 10,
+     "reb": 12,
+     "ast": 2,
+     "stl": 0,
+     "blk": 2,
+     "tov": 3,
+     "pm": 8
+    },
+    {
+     "name": "Tim Hardaway Jr.",
+     "starter": false,
+     "min": 16,
+     "pts": 5,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 7
+    },
+    {
+     "name": "Klay Thompson",
+     "starter": true,
+     "min": 15,
+     "pts": 6,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Dru Smith",
+     "starter": false,
+     "min": 15,
+     "pts": 6,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    }
+   ],
+   "away": [
+    {
+     "name": "P.J. Washington",
+     "starter": true,
+     "min": 41,
+     "pts": 20,
+     "reb": 9,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "tov": 3,
+     "pm": 5
+    },
+    {
+     "name": "Cooper Flagg",
+     "starter": true,
+     "min": 40,
+     "pts": 29,
+     "reb": 6,
+     "ast": 11,
+     "stl": 5,
+     "blk": 2,
+     "tov": 5,
+     "pm": 8
+    },
+    {
+     "name": "Kyrie Irving",
+     "starter": true,
+     "min": 33,
+     "pts": 18,
+     "reb": 6,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": -6
+    },
+    {
+     "name": "Zaccharie Risacher",
+     "starter": false,
+     "min": 30,
+     "pts": 6,
+     "reb": 9,
+     "ast": 1,
+     "stl": 1,
+     "blk": 3,
+     "tov": 0,
+     "pm": 9
+    },
+    {
+     "name": "Max Christie",
+     "starter": true,
+     "min": 26,
+     "pts": 11,
+     "reb": 5,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 4
+    },
+    {
+     "name": "Daniel Gafford",
+     "starter": true,
+     "min": 26,
+     "pts": 8,
+     "reb": 8,
+     "ast": 3,
+     "stl": 1,
+     "blk": 3,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Walter Clayton Jr.",
+     "starter": false,
+     "min": 17,
+     "pts": 15,
+     "reb": 4,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 22
+    },
+    {
+     "name": "Morez Johnson Jr.",
+     "starter": false,
+     "min": 15,
+     "pts": 6,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Marcus Sasser",
+     "starter": false,
+     "min": 8,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -10
+    },
+    {
+     "name": "Sergio de Larrea",
+     "starter": false,
+     "min": 6,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -12
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Giannis Antetokounmpo",
+    "pts": 29,
+    "reb": 15,
+    "ast": 11
+   },
+   "away": {
+    "name": "Cooper Flagg",
+    "pts": 29,
+    "reb": 6,
+    "ast": 11
+   }
+  }
  },
  {
   "date": "2026-10-26",

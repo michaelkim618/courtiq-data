@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T22:02-04:00",
+ "generated": "2026-10-26T22:17-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -420,13 +420,13 @@
   },
   {
    "date": "2026-10-26",
-   "games": 3,
+   "games": 4,
    "wins": 3,
-   "losses": 0,
-   "pct": 100.0,
+   "losses": 1,
+   "pct": 75.0,
    "cum_wins": 29,
-   "cum_games": 46,
-   "cum_pct": 63.0,
+   "cum_games": 47,
+   "cum_pct": 61.7,
    "picks": [
     {
      "away": "CHI",
@@ -434,6 +434,14 @@
      "pick": "BOS",
      "prob": 79.3,
      "correct": true,
+     "updated": true
+    },
+    {
+     "away": "DAL",
+     "home": "MIA",
+     "pick": "MIA",
+     "prob": 57.4,
+     "correct": false,
      "updated": true
     },
     {
@@ -456,10 +464,10 @@
   }
  ],
  "total": {
-  "games": 46,
+  "games": 47,
   "wins": 29,
-  "losses": 17,
-  "pct": 63.0
+  "losses": 18,
+  "pct": 61.7
  },
  "unscored": 0
 }
