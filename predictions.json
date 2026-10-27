@@ -4706,14 +4706,14 @@
    "losses": 1,
    "win_pct": 0.5,
    "conference": "East",
-   "rank": 8
+   "rank": 5
   },
   "away_standing": {
    "wins": 0,
    "losses": 3,
    "win_pct": 0.0,
    "conference": "East",
-   "rank": 15
+   "rank": 14
   },
   "home_recent_form": {
    "games": [
@@ -5473,7 +5473,7 @@
    "losses": 2,
    "win_pct": 0.333,
    "conference": "West",
-   "rank": 9
+   "rank": 8
   },
   "away_standing": {
    "wins": 0,
@@ -5894,14 +5894,14 @@
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": 2
+   "rank": 4
   },
   "away_standing": {
    "wins": 2,
    "losses": 0,
    "win_pct": 1.0,
    "conference": "West",
-   "rank": 6
+   "rank": 5
   },
   "home_recent_form": {
    "games": [
