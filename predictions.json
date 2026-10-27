@@ -4770,9 +4770,9 @@
    "away": 23.4
   },
   "win_prob_band": {
-   "low": 76.1,
+   "low": 76.6,
    "high": 76.6,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 10.53,
   "expected_score": {
@@ -4835,14 +4835,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Derrick White",
-     "mpg": 34.0,
-     "value": 1.1,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5085,6 +5078,12 @@
     "pick": "BOS",
     "prob": 76.6,
     "reason": "Devin Carter (BOS) now out; Derrick White (BOS) now questionable"
+   },
+   {
+    "at": "2026-10-27T19:02-04:00",
+    "pick": "BOS",
+    "prob": 76.6,
+    "reason": "Derrick White (BOS) cleared to play"
    }
   ]
  },

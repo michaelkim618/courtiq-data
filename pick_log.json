@@ -6753,6 +6753,29 @@
       "away": 23.4,
       "home": 76.6
      }
+    },
+    {
+     "at": "2026-10-27T19:02-04:00",
+     "expected_margin": 10.53,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Devin Carter"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Derrick White (BOS) cleared to play",
+     "report": "2026-10-27T19:00-04:00",
+     "win_prob": {
+      "away": 23.4,
+      "home": 76.6
+     }
     }
    ]
   },
