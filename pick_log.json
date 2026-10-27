@@ -6787,6 +6787,11 @@
   "2026-10-27_DET@NYK": {
    "away": "DET",
    "date": "2026-10-27",
+   "final_check": {
+    "at": "2026-10-27T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-27T19:45-04:00"
+   },
    "home": "NYK",
    "late": false,
    "locked_at": null,
@@ -6891,6 +6896,11 @@
   "2026-10-27_SAC@SAS": {
    "away": "SAC",
    "date": "2026-10-27",
+   "final_check": {
+    "at": "2026-10-27T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-27T19:45-04:00"
+   },
    "home": "SAS",
    "late": false,
    "locked_at": null,
