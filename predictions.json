@@ -6952,18 +6952,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 70.7,
-   "away": 29.3
+   "home": 69.7,
+   "away": 30.3
   },
   "win_prob_band": {
-   "low": 70.7,
-   "high": 70.7,
+   "low": 69.7,
+   "high": 69.7,
    "gtd_count": 0
   },
-  "expected_margin": 7.9,
+  "expected_margin": 7.46,
   "expected_score": {
-   "home": 119.4,
-   "away": 111.5
+   "home": 119.2,
+   "away": 111.8
   },
   "margin_breakdown": [
    {
@@ -6983,8 +6983,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.56,
-    "detail": "Denver Nuggets 3 out (53 min) costing 0.1 pts, Golden State Warriors 3 out (79 min) costing 2.7 pts"
+    "points": 2.12,
+    "detail": "Denver Nuggets 4 out (71 min) costing 0.6 pts, Golden State Warriors 3 out (79 min) costing 2.7 pts"
    }
   ],
   "ratings": {
@@ -7009,6 +7009,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Cameron Johnson",
+     "mpg": 17.8,
+     "nth_out": 1,
+     "value": 2.1,
+     "cost": -0.44,
+     "no_minutes": false
+    },
     {
      "player": "Julian Strawther",
      "mpg": 14.9,
@@ -7121,23 +7129,10 @@
      "apg": 4.1
     },
     {
-     "player": "Cameron Johnson",
-     "player_id": 1629661,
-     "position": "F",
-     "starter": true,
-     "games": 54,
-     "starts": 54,
-     "start_rate": 100,
-     "mpg": 30.5,
-     "ppg": 12.2,
-     "rpg": 3.8,
-     "apg": 2.4
-    },
-    {
      "player": "Aaron Gordon",
      "player_id": 203932,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 36,
      "starts": 33,
      "start_rate": 92,
@@ -7171,6 +7166,19 @@
      "ppg": 3.7,
      "rpg": 1.4,
      "apg": 0.6
+    },
+    {
+     "player": "Marvin Bagley III",
+     "player_id": 1628963,
+     "position": "F",
+     "starter": false,
+     "games": 60,
+     "starts": 12,
+     "start_rate": 20,
+     "mpg": 20.0,
+     "ppg": 10.4,
+     "rpg": 6.1,
+     "apg": 1.4
     }
    ],
    "away": [
@@ -7319,6 +7327,12 @@
     "pick": "DEN",
     "prob": 70.7,
     "reason": "Gui Santos (GSW) cleared to play"
+   },
+   {
+    "at": "2026-10-26T21:17-04:00",
+    "pick": "DEN",
+    "prob": 69.7,
+    "reason": "Cameron Johnson (DEN) now out"
    }
   ]
  }

@@ -5851,6 +5851,36 @@
       "away": 29.3,
       "home": 70.7
      }
+    },
+    {
+     "at": "2026-10-26T21:17-04:00",
+     "expected_margin": 7.46,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Cameron Johnson",
+       "Julian Strawther",
+       "Spencer Jones",
+       "Alpha Diallo"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Cameron Johnson (DEN) now out",
+     "report": "2026-10-26T21:15-04:00",
+     "win_prob": {
+      "away": 30.3,
+      "home": 69.7
+     }
     }
    ]
   },
