@@ -5830,7 +5830,7 @@
    },
    "home": "MIL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-26T20:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-26T20:00-04:00",
    "tip_known": true,
@@ -6080,6 +6080,32 @@
       "away": 61.5,
       "home": 38.5
      }
+    },
+    {
+     "at": "2026-10-26T20:02-04:00",
+     "expected_margin": -4.22,
+     "gtd": {
+      "away": [
+       "Isaiah Stewart"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jusuf Nurkic",
+       "Jaxson Hayes"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Jaxson Hayes (UTA) now out",
+     "report": "2026-10-26T20:00-04:00",
+     "win_prob": {
+      "away": 61.5,
+      "home": 38.5
+     }
     }
    ]
   },
@@ -6236,7 +6262,7 @@
    },
    "home": "OKC",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-26T20:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-26T20:00-04:00",
    "tip_known": true,

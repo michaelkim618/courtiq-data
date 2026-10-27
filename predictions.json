@@ -6534,7 +6534,7 @@
   "win_prob_band": {
    "low": 38.5,
    "high": 38.5,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -4.22,
   "expected_score": {
@@ -6560,7 +6560,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Utah Jazz 1 out (26 min)"
+    "detail": "Utah Jazz 2 out (47 min)"
    }
   ],
   "ratings": {
@@ -6592,19 +6592,20 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Jaxson Hayes",
+     "mpg": 20.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ],
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jaxson Hayes",
-     "mpg": 20.8,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Isaiah Stewart",
@@ -6874,6 +6875,12 @@
     "pick": "MEM",
     "prob": 61.5,
     "reason": "Isaiah Stewart (MEM) now questionable"
+   },
+   {
+    "at": "2026-10-26T20:02-04:00",
+    "pick": "MEM",
+    "prob": 61.5,
+    "reason": "Jaxson Hayes (UTA) now out"
    }
   ]
  },
