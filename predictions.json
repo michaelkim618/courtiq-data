@@ -6534,7 +6534,7 @@
   "win_prob_band": {
    "low": 38.5,
    "high": 38.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -4.22,
   "expected_score": {
@@ -6606,14 +6606,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Isaiah Stewart",
-     "mpg": 20.2,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -6881,6 +6874,12 @@
     "pick": "MEM",
     "prob": 61.5,
     "reason": "Jaxson Hayes (UTA) now out"
+   },
+   {
+    "at": "2026-10-26T20:32-04:00",
+    "pick": "MEM",
+    "prob": 61.5,
+    "reason": "Isaiah Stewart (MEM) cleared to play"
    }
   ]
  },
@@ -6959,7 +6958,7 @@
   "win_prob_band": {
    "low": 70.7,
    "high": 70.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 7.9,
   "expected_score": {
@@ -7064,14 +7063,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Gui Santos",
-     "mpg": 21.7,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2025-26",
@@ -7321,6 +7313,12 @@
     "pick": "DEN",
     "prob": 70.7,
     "reason": "Alpha Diallo (DEN) now out"
+   },
+   {
+    "at": "2026-10-26T20:32-04:00",
+    "pick": "DEN",
+    "prob": 70.7,
+    "reason": "Gui Santos (GSW) cleared to play"
    }
   ]
  }

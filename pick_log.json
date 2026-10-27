@@ -5318,7 +5318,7 @@
    },
    "home": "HOU",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-26T20:30-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-26T20:30-04:00",
    "tip_known": true,
@@ -5822,6 +5822,35 @@
       "away": 29.3,
       "home": 70.7
      }
+    },
+    {
+     "at": "2026-10-26T20:32-04:00",
+     "expected_margin": 7.9,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Julian Strawther",
+       "Spencer Jones",
+       "Alpha Diallo"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Gui Santos (GSW) cleared to play",
+     "report": "2026-10-26T20:30-04:00",
+     "win_prob": {
+      "away": 29.3,
+      "home": 70.7
+     }
     }
    ]
   },
@@ -6107,6 +6136,30 @@
      "pick_code": "MEM",
      "reason": "Jaxson Hayes (UTA) now out",
      "report": "2026-10-26T20:00-04:00",
+     "win_prob": {
+      "away": 61.5,
+      "home": 38.5
+     }
+    },
+    {
+     "at": "2026-10-26T20:32-04:00",
+     "expected_margin": -4.22,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jusuf Nurkic",
+       "Jaxson Hayes"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Isaiah Stewart (MEM) cleared to play",
+     "report": "2026-10-26T20:30-04:00",
      "win_prob": {
       "away": 61.5,
       "home": 38.5
