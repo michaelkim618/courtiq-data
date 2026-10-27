@@ -6506,6 +6506,13 @@
    "home": "CHA",
    "late": false,
    "locked_at": "2026-10-26T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 103,
+     "home": 110
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-26T19:00-04:00",
    "tip_known": true,
