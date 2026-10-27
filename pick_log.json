@@ -6064,6 +6064,13 @@
    "home": "UTA",
    "late": false,
    "locked_at": "2026-10-26T21:00-04:00",
+   "result": {
+    "score": {
+     "away": 110,
+     "home": 105
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-26T21:00-04:00",
    "tip_known": true,
