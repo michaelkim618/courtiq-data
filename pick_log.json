@@ -6728,6 +6728,31 @@
       "away": 23.2,
       "home": 76.8
      }
+    },
+    {
+     "at": "2026-10-27T13:03-04:00",
+     "expected_margin": 10.53,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Derrick White"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Devin Carter"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Devin Carter (BOS) now out; Derrick White (BOS) now questionable",
+     "report": "2026-10-27T13:00-04:00",
+     "win_prob": {
+      "away": 23.4,
+      "home": 76.6
+     }
     }
    ]
   },

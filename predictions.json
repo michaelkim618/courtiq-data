@@ -4766,18 +4766,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 76.8,
-   "away": 23.2
+   "home": 76.6,
+   "away": 23.4
   },
   "win_prob_band": {
-   "low": 76.8,
-   "high": 76.8,
-   "gtd_count": 0
+   "low": 76.1,
+   "high": 76.6,
+   "gtd_count": 1
   },
-  "expected_margin": 10.64,
+  "expected_margin": 10.53,
   "expected_score": {
-   "home": 116.7,
-   "away": 106.0
+   "home": 116.6,
+   "away": 106.1
   },
   "margin_breakdown": [
    {
@@ -4797,8 +4797,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": -0.1,
+    "detail": "Boston Celtics 1 out (18 min) costing 0.1 pts"
    }
   ],
   "ratings": {
@@ -4822,11 +4822,27 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Devin Carter",
+     "mpg": 18.1,
+     "nth_out": 4,
+     "value": 0.5,
+     "cost": -0.1,
+     "no_minutes": false
+    }
+   ],
    "away": []
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Derrick White",
+     "mpg": 34.0,
+     "value": 1.1,
+     "status": "Probable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -4924,17 +4940,17 @@
      "apg": 0.8
     },
     {
-     "player": "Devin Carter",
-     "player_id": 1642269,
+     "player": "Mike Conley",
+     "player_id": 201144,
      "position": "G",
      "starter": false,
-     "games": 38,
-     "starts": 12,
-     "start_rate": 32,
+     "games": 54,
+     "starts": 15,
+     "start_rate": 28,
      "mpg": 18.4,
-     "ppg": 8.9,
-     "rpg": 3.3,
-     "apg": 2.7
+     "ppg": 4.5,
+     "rpg": 1.7,
+     "apg": 2.9
     }
    ],
    "away": [
@@ -5059,6 +5075,12 @@
     "pick": "BOS",
     "prob": 76.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-27T13:03-04:00",
+    "pick": "BOS",
+    "prob": 76.6,
+    "reason": "Devin Carter (BOS) now out; Derrick White (BOS) now questionable"
    }
   ]
  },
