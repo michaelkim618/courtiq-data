@@ -5097,7 +5097,7 @@
   "win_prob_band": {
    "low": 73.5,
    "high": 73.5,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": 9.1,
   "expected_score": {
@@ -5194,7 +5194,14 @@
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Gui Santos",
+     "mpg": 21.9,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -5436,6 +5443,12 @@
     "pick": "MIN",
     "prob": 73.5,
     "reason": "Yaxel Lendeborg (GSW) cleared to play"
+   },
+   {
+    "at": "2026-10-28T18:32-04:00",
+    "pick": "MIN",
+    "prob": 73.5,
+    "reason": "Gui Santos (GSW) now questionable"
    }
   ]
  },

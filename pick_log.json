@@ -7225,6 +7225,36 @@
       "away": 26.5,
       "home": 73.5
      }
+    },
+    {
+     "at": "2026-10-28T18:32-04:00",
+     "expected_margin": 9.1,
+     "gtd": {
+      "away": [
+       "Gui Santos"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Gui Santos (GSW) now questionable",
+     "report": "2026-10-28T18:30-04:00",
+     "win_prob": {
+      "away": 26.5,
+      "home": 73.5
+     }
     }
    ]
   },
