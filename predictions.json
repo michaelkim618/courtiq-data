@@ -2054,9 +2054,9 @@
    "away": 25.9
   },
   "win_prob_band": {
-   "low": 72.1,
+   "low": 74.1,
    "high": 74.1,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 9.37,
   "expected_score": {
@@ -2136,14 +2136,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Aaron Wiggins",
-     "mpg": 22.7,
-     "value": 4.2,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -2386,6 +2379,12 @@
     "pick": "ATL",
     "prob": 74.1,
     "reason": "Simone Fontecchio (MIA) now out; Pelle Larsson (MIA) cleared to play"
+   },
+   {
+    "at": "2026-10-28T17:02-04:00",
+    "pick": "ATL",
+    "prob": 74.1,
+    "reason": "Aaron Wiggins (ATL) cleared to play"
    }
   ]
  },
