@@ -2892,18 +2892,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 67.7,
-   "away": 32.3
+   "home": 64.2,
+   "away": 35.8
   },
   "win_prob_band": {
-   "low": 67.7,
-   "high": 67.7,
-   "gtd_count": 0
+   "low": 64.2,
+   "high": 64.2,
+   "gtd_count": 1
   },
-  "expected_margin": 6.66,
+  "expected_margin": 5.29,
   "expected_score": {
-   "home": 114.6,
-   "away": 108.0
+   "home": 114.0,
+   "away": 108.7
   },
   "margin_breakdown": [
    {
@@ -2923,8 +2923,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.13,
-    "detail": "Charlotte Hornets 3 out (76 min) costing 2.1 pts"
+    "points": 0.76,
+    "detail": "Detroit Pistons 2 out (45 min) costing 1.4 pts, Charlotte Hornets 3 out (76 min) costing 2.1 pts"
    },
    {
     "label": "Owner Adjustment",
@@ -2954,7 +2954,24 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Jalen Duren",
+     "mpg": 27.5,
+     "nth_out": 3,
+     "value": 5.2,
+     "cost": -1.09,
+     "no_minutes": false
+    },
+    {
+     "player": "Isaiah Joe",
+     "mpg": 17.2,
+     "nth_out": 1,
+     "value": 1.3,
+     "cost": -0.28,
+     "no_minutes": false
+    }
+   ],
    "away": [
     {
      "player": "Coby White",
@@ -2983,7 +3000,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Ausar Thompson",
+     "mpg": 21.0,
+     "value": 0.0,
+     "status": "Probable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -3046,23 +3070,10 @@
      "apg": 4.0
     },
     {
-     "player": "Jalen Duren",
-     "player_id": 1631105,
-     "position": "C",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 19.1,
-     "ppg": 13.0,
-     "rpg": 7.5,
-     "apg": 2.0
-    },
-    {
      "player": "Paul Reed",
      "player_id": 1630194,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 2,
      "start_rate": 50,
@@ -3096,6 +3107,19 @@
      "ppg": 6.0,
      "rpg": 3.2,
      "apg": 1.5
+    },
+    {
+     "player": "Javonte Green",
+     "player_id": 1629750,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.3,
+     "ppg": 7.2,
+     "rpg": 2.8,
+     "apg": 0.0
     }
    ],
    "away": [
@@ -3232,6 +3256,12 @@
     "pick": "DET",
     "prob": 67.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-28T12:48-04:00",
+    "pick": "DET",
+    "prob": 64.2,
+    "reason": "Isaiah Joe (DET) now out; Jalen Duren (DET) now out; Ausar Thompson (DET) now questionable"
    }
   ]
  },
