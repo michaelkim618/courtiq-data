@@ -4664,7 +4664,7 @@
   "win_prob_band": {
    "low": 36.2,
    "high": 36.2,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -5.13,
   "expected_score": {
@@ -4690,7 +4690,7 @@
    {
     "label": "Absences",
     "points": 1.46,
-    "detail": "Houston Rockets 2 out (52 min) costing 1.5 pts"
+    "detail": "Houston Rockets 3 out (81 min) costing 1.5 pts"
    },
    {
     "label": "Returning Players",
@@ -4730,6 +4730,14 @@
      "no_minutes": false
     },
     {
+     "player": "Marcus Smart",
+     "mpg": 29.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Steven Adams",
      "mpg": 22.7,
      "nth_out": 1,
@@ -4741,14 +4749,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Marcus Smart",
-     "mpg": 29.2,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4929,19 +4930,6 @@
      "apg": 5.0
     },
     {
-     "player": "Marcus Smart",
-     "player_id": 203935,
-     "position": "G",
-     "starter": false,
-     "games": 2,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.9,
-     "ppg": 7.5,
-     "rpg": 2.5,
-     "apg": 1.5
-    },
-    {
      "player": "Tari Eason",
      "player_id": 1631106,
      "position": "F",
@@ -4984,6 +4972,12 @@
     "pick": "HOU",
     "prob": 63.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-28T13:33-04:00",
+    "pick": "HOU",
+    "prob": 63.8,
+    "reason": "Marcus Smart (HOU) now out"
    }
   ]
  },

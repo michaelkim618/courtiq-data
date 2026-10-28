@@ -7205,6 +7205,31 @@
       "away": 63.8,
       "home": 36.2
      }
+    },
+    {
+     "at": "2026-10-28T13:33-04:00",
+     "expected_margin": -5.13,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Alperen Sengun",
+       "Marcus Smart",
+       "Steven Adams"
+      ],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Marcus Smart (HOU) now out",
+     "report": "2026-10-28T13:30-04:00",
+     "win_prob": {
+      "away": 63.8,
+      "home": 36.2
+     }
     }
    ]
   },
