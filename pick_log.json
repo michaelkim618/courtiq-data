@@ -7815,6 +7815,11 @@
   "2026-10-28_ORL@TOR": {
    "away": "ORL",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-28T19:15-04:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,
