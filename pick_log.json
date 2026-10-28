@@ -7298,6 +7298,39 @@
       "away": 47.8,
       "home": 52.2
      }
+    },
+    {
+     "at": "2026-10-28T16:02-04:00",
+     "expected_margin": 4.29,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Luka Doncic",
+       "Ziaire Williams",
+       "Adou Thiero",
+       "Cameron Carr"
+      ],
+      "home": [
+       "Brandon Ingram",
+       "Rui Hachimura",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "Adou Thiero (LAL) now out; Cameron Carr (LAL) now out; Luka Doncic (LAL) now out; Ziaire Williams (LAL) now out",
+     "report": "2026-10-28T16:00-04:00",
+     "win_prob": {
+      "away": 38.4,
+      "home": 61.6
+     }
     }
    ]
   },
