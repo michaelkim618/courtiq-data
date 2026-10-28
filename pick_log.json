@@ -6975,6 +6975,11 @@
   "2026-10-28_CHA@DET": {
    "away": "CHA",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-28T18:45-04:00"
+   },
    "home": "DET",
    "late": false,
    "locked_at": null,
@@ -7116,6 +7121,34 @@
       "away": 33.0,
       "home": 67.0
      }
+    },
+    {
+     "at": "2026-10-28T18:47-04:00",
+     "expected_margin": 6.37,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Ausar Thompson (DET) cleared to play",
+     "report": "2026-10-28T18:45-04:00",
+     "win_prob": {
+      "away": 33.0,
+      "home": 67.0
+     }
     }
    ]
   },
@@ -7251,6 +7284,35 @@
      "pick_code": "MIN",
      "reason": "Gui Santos (GSW) now questionable",
      "report": "2026-10-28T18:30-04:00",
+     "win_prob": {
+      "away": 26.5,
+      "home": 73.5
+     }
+    },
+    {
+     "at": "2026-10-28T18:47-04:00",
+     "expected_margin": 9.1,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Gui Santos"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Gui Santos (GSW) now out",
+     "report": "2026-10-28T18:45-04:00",
      "win_prob": {
       "away": 26.5,
       "home": 73.5
@@ -7425,6 +7487,11 @@
   "2026-10-28_MIA@ATL": {
    "away": "MIA",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-28T18:45-04:00"
+   },
    "home": "ATL",
    "late": false,
    "locked_at": null,
@@ -7797,6 +7864,11 @@
   "2026-10-28_PHI@IND": {
    "away": "PHI",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-28T18:45-04:00"
+   },
    "home": "IND",
    "late": false,
    "locked_at": null,
@@ -8006,6 +8078,11 @@
   "2026-10-28_WAS@CLE": {
    "away": "WAS",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-28T18:45-04:00"
+   },
    "home": "CLE",
    "late": false,
    "locked_at": null,

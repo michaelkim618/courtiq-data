@@ -2365,7 +2365,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-28T19:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -2801,7 +2801,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-28T19:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -2911,7 +2911,7 @@
   "win_prob_band": {
    "low": 67.0,
    "high": 67.0,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 6.37,
   "expected_score": {
@@ -3007,14 +3007,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Ausar Thompson",
-     "mpg": 21.0,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -3243,7 +3236,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-28T19:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -3275,6 +3268,12 @@
     "pick": "DET",
     "prob": 67.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-28T18:47-04:00",
+    "pick": "DET",
+    "prob": 67.0,
+    "reason": "Ausar Thompson (DET) cleared to play"
    }
   ]
  },
@@ -3728,7 +3727,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-28T19:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -5097,7 +5096,7 @@
   "win_prob_band": {
    "low": 73.5,
    "high": 73.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 9.1,
   "expected_score": {
@@ -5123,7 +5122,7 @@
    {
     "label": "Absences",
     "points": 0.18,
-    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Golden State Warriors 3 out (79 min) costing 2.7 pts"
+    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Golden State Warriors 4 out (101 min) costing 2.7 pts"
    }
   ],
   "ratings": {
@@ -5189,19 +5188,20 @@
      "value": 0.9,
      "cost": -0.19,
      "no_minutes": false
+    },
+    {
+     "player": "Gui Santos",
+     "mpg": 21.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Gui Santos",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5369,23 +5369,10 @@
      "apg": 2.7
     },
     {
-     "player": "Gui Santos",
-     "player_id": 1630611,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 3,
-     "start_rate": 75,
-     "mpg": 23.9,
-     "ppg": 9.2,
-     "rpg": 4.0,
-     "apg": 1.5
-    },
-    {
      "player": "Graham Ike",
      "player_id": 1643633,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 2,
      "start_rate": 50,
@@ -5419,6 +5406,19 @@
      "ppg": 11.0,
      "rpg": 3.0,
      "apg": 3.0
+    },
+    {
+     "player": "Will Richard",
+     "player_id": 1642954,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 1,
+     "start_rate": 25,
+     "mpg": 14.4,
+     "ppg": 4.8,
+     "rpg": 1.2,
+     "apg": 0.5
     }
    ]
   },
@@ -5449,6 +5449,12 @@
     "pick": "MIN",
     "prob": 73.5,
     "reason": "Gui Santos (GSW) now questionable"
+   },
+   {
+    "at": "2026-10-28T18:47-04:00",
+    "pick": "MIN",
+    "prob": 73.5,
+    "reason": "Gui Santos (GSW) now out"
    }
   ]
  },
