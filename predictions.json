@@ -1940,7 +1940,7 @@
    "losses": 4,
    "win_pct": 0.0,
    "conference": "East",
-   "rank": 15
+   "rank": 14
   },
   "home_recent_form": {
    "games": [
@@ -2924,7 +2924,7 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 3,
+    "home": 4,
     "away": 4
    },
    "home": [
@@ -3650,7 +3650,7 @@
    "losses": 1,
    "win_pct": 0.667,
    "conference": "East",
-   "rank": 4
+   "rank": 5
   },
   "away_standing": {
    "wins": 1,
@@ -4206,7 +4206,7 @@
    "season": "2026-27",
    "games": {
     "home": 4,
-    "away": 3
+    "away": 4
    },
    "home": [
     {
@@ -5722,7 +5722,7 @@
    "losses": 2,
    "win_pct": 0.333,
    "conference": "West",
-   "rank": 8
+   "rank": 7
   },
   "home_recent_form": {
    "games": [
@@ -5878,7 +5878,7 @@
    "season": "2026-27",
    "games": {
     "home": 4,
-    "away": 3
+    "away": 4
    },
    "home": [
     {
@@ -6126,7 +6126,7 @@
    "losses": 2,
    "win_pct": 0.5,
    "conference": "West",
-   "rank": 7
+   "rank": 8
   },
   "away_standing": {
    "wins": 4,
