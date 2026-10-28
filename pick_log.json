@@ -6865,6 +6865,11 @@
   "2026-10-27_POR@LAL": {
    "away": "POR",
    "date": "2026-10-27",
+   "final_check": {
+    "at": "2026-10-27T22:47-04:00",
+    "label": "10:45 PM ET",
+    "report": "2026-10-27T22:45-04:00"
+   },
    "home": "LAL",
    "late": false,
    "locked_at": null,
