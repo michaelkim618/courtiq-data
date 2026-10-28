@@ -7428,6 +7428,33 @@
       "away": 64.1,
       "home": 35.9
      }
+    },
+    {
+     "at": "2026-10-28T15:02-04:00",
+     "expected_margin": -5.22,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Patrick Williams"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jose Alvarado"
+      ],
+      "home": [
+       "Nic Claxton"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Jose Alvarado (NYK) now out",
+     "report": "2026-10-28T15:00-04:00",
+     "win_prob": {
+      "away": 64.1,
+      "home": 35.9
+     }
     }
    ]
   },
@@ -7475,6 +7502,43 @@
      "win_prob": {
       "away": 66.0,
       "home": 34.0
+     }
+    },
+    {
+     "at": "2026-10-28T15:02-04:00",
+     "expected_margin": -6.28,
+     "gtd": {
+      "away": [
+       "Ajay Mitchell"
+      ],
+      "home": [
+       "Naji Marshall"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Santi Aldama",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out",
+     "report": "2026-10-28T15:00-04:00",
+     "win_prob": {
+      "away": 66.7,
+      "home": 33.3
      }
     }
    ]
@@ -7662,6 +7726,36 @@
      "win_prob": {
       "away": 67.6,
       "home": 32.4
+     }
+    },
+    {
+     "at": "2026-10-28T15:02-04:00",
+     "expected_margin": -6.33,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Lauri Markkanen",
+       "Jaxson Hayes"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Jayden Quaintance (SAS) now out; Tobias Harris (SAS) now out",
+     "report": "2026-10-28T15:00-04:00",
+     "win_prob": {
+      "away": 66.9,
+      "home": 33.1
      }
     }
    ]
