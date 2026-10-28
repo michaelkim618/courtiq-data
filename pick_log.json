@@ -7006,6 +7006,31 @@
       "away": 21.1,
       "home": 78.9
      }
+    },
+    {
+     "at": "2026-10-28T10:03-04:00",
+     "expected_margin": 7.74,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-28T10:00-04:00",
+     "win_prob": {
+      "away": 29.7,
+      "home": 70.3
+     }
     }
    ]
   },
@@ -7165,6 +7190,34 @@
       "away": 56.1,
       "home": 43.9
      }
+    },
+    {
+     "at": "2026-10-28T10:03-04:00",
+     "expected_margin": 0.8,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Brandon Ingram",
+       "Rui Hachimura",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "pick flipped to LAC",
+     "report": "2026-10-28T10:00-04:00",
+     "win_prob": {
+      "away": 47.8,
+      "home": 52.2
+     }
     }
    ]
   },
@@ -7241,6 +7294,31 @@
      "win_prob": {
       "away": 67.9,
       "home": 32.1
+     }
+    },
+    {
+     "at": "2026-10-28T10:03-04:00",
+     "expected_margin": -5.22,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Patrick Williams"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Nic Claxton"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-28T10:00-04:00",
+     "win_prob": {
+      "away": 64.1,
+      "home": 35.9
      }
     }
    ]
@@ -7417,6 +7495,33 @@
      "win_prob": {
       "away": 69.6,
       "home": 30.4
+     }
+    },
+    {
+     "at": "2026-10-28T10:03-04:00",
+     "expected_margin": -6.61,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Lauri Markkanen",
+       "Jaxson Hayes"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-28T10:00-04:00",
+     "win_prob": {
+      "away": 67.6,
+      "home": 32.4
      }
     }
    ]
