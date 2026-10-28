@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T00:32-04:00",
+ "generated": "2026-10-27T22:29-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -501,13 +501,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-10-27",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 34,
+   "cum_games": 53,
+   "cum_pct": 64.2,
+   "picks": [
+    {
+     "away": "SAC",
+     "home": "SAS",
+     "pick": "SAS",
+     "prob": 80.7,
+     "correct": true,
+     "updated": false
+    }
+   ]
   }
  ],
  "total": {
-  "games": 52,
-  "wins": 33,
+  "games": 53,
+  "wins": 34,
   "losses": 19,
-  "pct": 63.5
+  "pct": 64.2
  },
  "unscored": 0
 }

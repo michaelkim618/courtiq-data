@@ -414,5 +414,13 @@
   "home": "CHA",
   "conf": 60.6,
   "correct": true
+ },
+ {
+  "date": "2026-10-27",
+  "season": "2026-2027",
+  "away": "SAC",
+  "home": "SAS",
+  "conf": 80.7,
+  "correct": true
  }
 ]
