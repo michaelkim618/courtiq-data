@@ -2905,18 +2905,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 64.2,
-   "away": 35.8
+   "home": 67.0,
+   "away": 33.0
   },
   "win_prob_band": {
-   "low": 64.2,
-   "high": 64.2,
+   "low": 67.0,
+   "high": 67.0,
    "gtd_count": 1
   },
-  "expected_margin": 5.29,
+  "expected_margin": 6.37,
   "expected_score": {
-   "home": 114.0,
-   "away": 108.7
+   "home": 114.5,
+   "away": 108.1
   },
   "margin_breakdown": [
    {
@@ -2938,12 +2938,6 @@
     "label": "Absences",
     "points": 0.76,
     "detail": "Detroit Pistons 2 out (45 min) costing 1.4 pts, Charlotte Hornets 3 out (76 min) costing 2.1 pts"
-   },
-   {
-    "label": "Owner Adjustment",
-    "points": -1.08,
-    "toward": "CHA",
-    "detail": "Jalen Duren (DET) is out with a right hamstring strain, re-evaluation in about two weeks; Detroit has not filed its report yet. Priced at the model's own cost for his minutes. (margin moved +1.1 toward CHA)"
    }
   ],
   "ratings": {
@@ -3275,6 +3269,12 @@
     "pick": "DET",
     "prob": 64.2,
     "reason": "Isaiah Joe (DET) now out; Jalen Duren (DET) now out; Ausar Thompson (DET) now questionable"
+   },
+   {
+    "at": "2026-10-28T18:30-04:00",
+    "pick": "DET",
+    "prob": 67.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
