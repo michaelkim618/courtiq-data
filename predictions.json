@@ -2469,18 +2469,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 75.5,
-   "away": 24.5
+   "home": 76.6,
+   "away": 23.4
   },
   "win_prob_band": {
-   "low": 75.5,
-   "high": 75.5,
+   "low": 76.6,
+   "high": 76.6,
    "gtd_count": 0
   },
-  "expected_margin": 10.0,
+  "expected_margin": 10.52,
   "expected_score": {
-   "home": 121.4,
-   "away": 111.4
+   "home": 121.7,
+   "away": 111.1
   },
   "margin_breakdown": [
    {
@@ -2500,8 +2500,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.68,
-    "detail": "Cleveland Cavaliers 1 out (14 min), Washington Wizards 3 out (52 min) costing 0.7 pts"
+    "points": 1.2,
+    "detail": "Cleveland Cavaliers 1 out (14 min), Washington Wizards 4 out (72 min) costing 1.2 pts"
    }
   ],
   "ratings": {
@@ -2542,6 +2542,14 @@
      "nth_out": 4,
      "value": 3.0,
      "cost": -0.63,
+     "no_minutes": false
+    },
+    {
+     "player": "Tre Johnson",
+     "mpg": 20.4,
+     "nth_out": 1,
+     "value": 2.5,
+     "cost": -0.52,
      "no_minutes": false
     },
     {
@@ -2759,19 +2767,6 @@
      "apg": 2.8
     },
     {
-     "player": "Tre Johnson",
-     "player_id": 1642848,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.6,
-     "ppg": 12.0,
-     "rpg": 2.0,
-     "apg": 1.0
-    },
-    {
      "player": "Bub Carrington",
      "player_id": 1642267,
      "position": "G",
@@ -2783,6 +2778,19 @@
      "ppg": 7.0,
      "rpg": 1.0,
      "apg": 2.0
+    },
+    {
+     "player": "Deandre Ayton",
+     "player_id": 1629028,
+     "position": "C",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.4,
+     "ppg": 5.2,
+     "rpg": 4.8,
+     "apg": 0.8
     }
    ]
   },
@@ -2801,6 +2809,12 @@
     "pick": "CLE",
     "prob": 75.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-28T18:17-04:00",
+    "pick": "CLE",
+    "prob": 76.6,
+    "reason": "Tre Johnson (WAS) now out"
    }
   ]
  },
@@ -5082,8 +5096,8 @@
   },
   "win_prob_band": {
    "low": 73.5,
-   "high": 75.6,
-   "gtd_count": 1
+   "high": 73.5,
+   "gtd_count": 0
   },
   "expected_margin": 9.1,
   "expected_score": {
@@ -5180,14 +5194,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Yaxel Lendeborg",
-     "mpg": 27.3,
-     "value": 4.6,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5423,6 +5430,12 @@
     "pick": "MIN",
     "prob": 73.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-28T18:17-04:00",
+    "pick": "MIN",
+    "prob": 73.5,
+    "reason": "Yaxel Lendeborg (GSW) cleared to play"
    }
   ]
  },

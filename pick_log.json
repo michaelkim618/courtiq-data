@@ -7167,6 +7167,34 @@
       "away": 26.5,
       "home": 73.5
      }
+    },
+    {
+     "at": "2026-10-28T18:17-04:00",
+     "expected_margin": 9.1,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Yaxel Lendeborg (GSW) cleared to play",
+     "report": "2026-10-28T18:15-04:00",
+     "win_prob": {
+      "away": 26.5,
+      "home": 73.5
+     }
     }
    ]
   },
@@ -7950,6 +7978,34 @@
      "win_prob": {
       "away": 24.5,
       "home": 75.5
+     }
+    },
+    {
+     "at": "2026-10-28T18:17-04:00",
+     "expected_margin": 10.52,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Tre Johnson",
+       "Justin Champagnie",
+       "Jamir Watkins"
+      ],
+      "home": [
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Tre Johnson (WAS) now out",
+     "report": "2026-10-28T18:15-04:00",
+     "win_prob": {
+      "away": 23.4,
+      "home": 76.6
      }
     }
    ]
