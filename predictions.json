@@ -3351,18 +3351,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 46.5,
-   "away": 53.5
+   "home": 40.6,
+   "away": 59.4
   },
   "win_prob_band": {
-   "low": 41.7,
-   "high": 46.5,
-   "gtd_count": 2
+   "low": 40.6,
+   "high": 40.6,
+   "gtd_count": 0
   },
-  "expected_margin": -1.26,
+  "expected_margin": -3.46,
   "expected_score": {
-   "home": 113.5,
-   "away": 114.7
+   "home": 112.4,
+   "away": 115.8
   },
   "margin_breakdown": [
    {
@@ -3382,13 +3382,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.28,
-    "detail": "Indiana Pacers 4 out (79 min) costing 0.6 pts, Philadelphia 76ers 3 out (46 min) costing 0.3 pts · Tacko Fall out all season, already baked into team rating"
-   },
-   {
-    "label": "Returning Players",
-    "points": 0.6,
-    "detail": "Tyrese Haliburton (IND) back after missing 2025-26, valued from 2024-25"
+    "points": -1.88,
+    "detail": "Indiana Pacers 5 out (104 min) costing 2.2 pts, Philadelphia 76ers 3 out (46 min) costing 0.3 pts · Tacko Fall out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3413,6 +3408,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Tyrese Haliburton",
+     "mpg": 25.3,
+     "nth_out": 1,
+     "value": 7.6,
+     "cost": -1.59,
+     "no_minutes": false
+    },
     {
      "player": "T.J. McConnell",
      "mpg": 17.0,
@@ -3482,20 +3485,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Tyrese Haliburton",
-     "mpg": 25.3,
-     "value": 7.6,
-     "status": "Questionable"
-    },
-    {
-     "player": "Aaron Nesmith",
-     "mpg": 28.9,
-     "value": 0.8,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -3505,19 +3495,6 @@
     "away": 4
    },
    "home": [
-    {
-     "player": "Tyrese Haliburton",
-     "player_id": 1630169,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 21.8,
-     "rpg": 4.5,
-     "apg": 9.5
-    },
     {
      "player": "Andrew Nembhard",
      "player_id": 1629614,
@@ -3574,7 +3551,7 @@
      "player": "Jay Huff",
      "player_id": 1630643,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 1,
      "start_rate": 33,
@@ -3608,6 +3585,19 @@
      "ppg": 15.8,
      "rpg": 5.0,
      "apg": 1.5
+    },
+    {
+     "player": "Quenton Jackson",
+     "player_id": 1631245,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.3,
+     "ppg": 5.8,
+     "rpg": 2.0,
+     "apg": 2.5
     }
    ],
    "away": [
@@ -3738,6 +3728,12 @@
     "pick": "PHI",
     "prob": 53.5,
     "reason": "Andrew Nembhard (IND) cleared to play"
+   },
+   {
+    "at": "2026-10-28T18:02-04:00",
+    "pick": "PHI",
+    "prob": 59.4,
+    "reason": "Tyrese Haliburton (IND) now out; Aaron Nesmith (IND) cleared to play"
    }
   ]
  },
@@ -3821,8 +3817,8 @@
   },
   "win_prob_band": {
    "low": 67.8,
-   "high": 68.4,
-   "gtd_count": 1
+   "high": 67.8,
+   "gtd_count": 0
   },
   "expected_margin": 6.72,
   "expected_score": {
@@ -3935,14 +3931,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Anthony Black",
-     "mpg": 29.1,
-     "value": 1.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4158,6 +4147,12 @@
     "pick": "TOR",
     "prob": 67.8,
     "reason": "Anthony Black (ORL) now questionable"
+   },
+   {
+    "at": "2026-10-28T18:02-04:00",
+    "pick": "TOR",
+    "prob": 67.8,
+    "reason": "Anthony Black (ORL) cleared to play"
    }
   ]
  },
