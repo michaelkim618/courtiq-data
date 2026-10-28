@@ -7155,6 +7155,11 @@
   "2026-10-28_DEN@NOP": {
    "away": "DEN",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T19:46-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-28T19:45-04:00"
+   },
    "home": "NOP",
    "late": false,
    "locked_at": null,
@@ -7222,6 +7227,11 @@
   "2026-10-28_GSW@MIN": {
    "away": "GSW",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T19:46-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-28T19:45-04:00"
+   },
    "home": "MIN",
    "late": false,
    "locked_at": null,
@@ -7351,6 +7361,11 @@
   "2026-10-28_HOU@MIL": {
    "away": "HOU",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T19:46-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-28T19:45-04:00"
+   },
    "home": "MIL",
    "late": false,
    "locked_at": null,
@@ -7614,6 +7629,11 @@
   "2026-10-28_NYK@CHI": {
    "away": "NYK",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T19:46-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-28T19:45-04:00"
+   },
    "home": "CHI",
    "late": false,
    "locked_at": null,
