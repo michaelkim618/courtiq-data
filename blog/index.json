@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-10-28-the-numbers-going-into-2026-10-28",
+      "title": "The Numbers Going Into 2026-10-28",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-28",
+      "type": "daily",
+      "tag": "Data",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "No narrative here. No momentum, no revenge-game storylines, no back-to-backs that suddenly flip everything on its head. Just the model's current read on the slate — win probabilities and projected margins derived from team ratings as they stand today. This is what the numbers say before tip-off, before any of the noise that'll get injected postgame when everyone pretends they saw it coming. Four matchups, four probability distributions, zero editorializing about which team \"wants it more.\" The model doesn't care. It just runs the math.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-10-27-yaxel-lendeborg-has-31-points-12-rebounds-as-warriors-blow-o",
       "title": "Yaxel Lendeborg has 31 points, 12 rebounds as Warriors blow out Nuggets on road",
       "author": "Hana",
