@@ -7031,6 +7031,31 @@
       "away": 29.7,
       "home": 70.3
      }
+    },
+    {
+     "at": "2026-10-28T10:30-04:00",
+     "expected_margin": 6.66,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-28T10:30-04:00",
+     "win_prob": {
+      "away": 32.3,
+      "home": 67.7
+     }
     }
    ]
   },
@@ -7406,6 +7431,38 @@
      "pick_code": "TOR",
      "reason": "Opening pick",
      "report": "2026-10-28T00:00-04:00",
+     "win_prob": {
+      "away": 32.2,
+      "home": 67.8
+     }
+    },
+    {
+     "at": "2026-10-28T10:30-04:00",
+     "expected_margin": 6.72,
+     "gtd": {
+      "away": [
+       "Anthony Black"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ]
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "Anthony Black (ORL) now questionable",
+     "report": "2026-10-28T10:30-04:00",
      "win_prob": {
       "away": 32.2,
       "home": 67.8
