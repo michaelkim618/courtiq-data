@@ -3355,9 +3355,9 @@
    "away": 53.5
   },
   "win_prob_band": {
-   "low": 41.3,
+   "low": 41.7,
    "high": 46.5,
-   "gtd_count": 3
+   "gtd_count": 2
   },
   "expected_margin": -1.26,
   "expected_score": {
@@ -3493,12 +3493,6 @@
      "player": "Aaron Nesmith",
      "mpg": 28.9,
      "value": 0.8,
-     "status": "Probable"
-    },
-    {
-     "player": "Andrew Nembhard",
-     "mpg": 25.0,
-     "value": 0.7,
      "status": "Questionable"
     }
    ],
@@ -3738,6 +3732,12 @@
     "pick": "PHI",
     "prob": 53.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-28T17:47-04:00",
+    "pick": "PHI",
+    "prob": 53.5,
+    "reason": "Andrew Nembhard (IND) cleared to play"
    }
   ]
  },

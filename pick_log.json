@@ -7720,6 +7720,40 @@
       "away": 53.5,
       "home": 46.5
      }
+    },
+    {
+     "at": "2026-10-28T17:47-04:00",
+     "expected_margin": -1.26,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Tyrese Haliburton",
+       "Aaron Nesmith"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jabari Walker",
+       "Dominick Barlow",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ],
+      "home": [
+       "T.J. McConnell",
+       "Ivica Zubac",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Andrew Nembhard (IND) cleared to play",
+     "report": "2026-10-28T17:45-04:00",
+     "win_prob": {
+      "away": 53.5,
+      "home": 46.5
+     }
     }
    ]
   },
