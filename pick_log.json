@@ -7283,6 +7283,34 @@
       "away": 26.3,
       "home": 73.7
      }
+    },
+    {
+     "at": "2026-10-28T12:19-04:00",
+     "expected_margin": 9.37,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Aaron Wiggins"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Simone Fontecchio"
+      ],
+      "home": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Simone Fontecchio (MIA) now out; Pelle Larsson (MIA) cleared to play",
+     "report": "2026-10-28T12:15-04:00",
+     "win_prob": {
+      "away": 25.9,
+      "home": 74.1
+     }
     }
    ]
   },
