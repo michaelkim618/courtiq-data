@@ -4262,7 +4262,7 @@
   "win_prob_band": {
    "low": 35.9,
    "high": 35.9,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -5.22,
   "expected_score": {
@@ -4288,7 +4288,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Chicago Bulls 1 out (28 min), New York Knicks 1 out (15 min)"
+    "detail": "Chicago Bulls 2 out (48 min), New York Knicks 1 out (15 min) · Tobe Awaka out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4320,6 +4320,22 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Patrick Williams",
+     "mpg": 20.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Tobe Awaka",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ],
    "away": [
@@ -4334,14 +4350,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Patrick Williams",
-     "mpg": 20.5,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4590,6 +4599,12 @@
     "pick": "NYK",
     "prob": 64.1,
     "reason": "Jose Alvarado (NYK) now out"
+   },
+   {
+    "at": "2026-10-28T19:02-04:00",
+    "pick": "NYK",
+    "prob": 64.1,
+    "reason": "Patrick Williams (CHI) now out; Tobe Awaka (CHI) now out"
    }
   ]
  },
@@ -5533,18 +5548,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 51.0,
-   "away": 49.0
+   "home": 52.2,
+   "away": 47.8
   },
   "win_prob_band": {
-   "low": 51.0,
-   "high": 51.0,
+   "low": 52.2,
+   "high": 52.2,
    "gtd_count": 0
   },
-  "expected_margin": 0.36,
+  "expected_margin": 0.8,
   "expected_score": {
-   "home": 117.5,
-   "away": 117.2
+   "home": 117.8,
+   "away": 117.0
   },
   "margin_breakdown": [
    {
@@ -5564,8 +5579,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.12,
-    "detail": "New Orleans Pelicans 1 out (21 min), Denver Nuggets 3 out (53 min) costing 0.1 pts"
+    "points": 0.55,
+    "detail": "New Orleans Pelicans 1 out (21 min), Denver Nuggets 4 out (71 min) costing 0.6 pts"
    }
   ],
   "ratings": {
@@ -5600,6 +5615,14 @@
     }
    ],
    "away": [
+    {
+     "player": "Cameron Johnson",
+     "mpg": 17.8,
+     "nth_out": 1,
+     "value": 2.1,
+     "cost": -0.44,
+     "no_minutes": false
+    },
     {
      "player": "Julian Strawther",
      "mpg": 14.9,
@@ -5864,6 +5887,12 @@
     "pick": "NOP",
     "prob": 51.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-28T19:02-04:00",
+    "pick": "NOP",
+    "prob": 52.2,
+    "reason": "Cameron Johnson (DEN) now out"
    }
   ]
  },
