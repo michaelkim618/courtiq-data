@@ -6642,18 +6642,18 @@
    "streak": -4
   },
   "win_prob": {
-   "home": 70.2,
-   "away": 29.8
+   "home": 69.6,
+   "away": 30.4
   },
   "win_prob_band": {
-   "low": 70.2,
-   "high": 70.2,
+   "low": 69.6,
+   "high": 69.6,
    "gtd_count": 0
   },
-  "expected_margin": 7.69,
+  "expected_margin": 7.44,
   "expected_score": {
-   "home": 120.8,
-   "away": 113.1
+   "home": 120.6,
+   "away": 113.2
   },
   "margin_breakdown": [
    {
@@ -6673,8 +6673,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.12,
-    "detail": "New Orleans Pelicans 1 out (21 min), Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons out all season, already baked into team rating"
+    "points": -0.12,
+    "detail": "New Orleans Pelicans 2 out (37 min) costing 0.2 pts, Sacramento Kings 3 out (79 min) costing 0.1 pts · Dejounte Murray, Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6700,12 +6700,28 @@
   "absences": {
    "home": [
     {
+     "player": "Jordan Poole",
+     "mpg": 16.4,
+     "nth_out": 1,
+     "value": 1.2,
+     "cost": -0.25,
+     "no_minutes": false
+    },
+    {
      "player": "Yves Missi",
      "mpg": 20.8,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Dejounte Murray",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ],
    "away": [
@@ -6768,19 +6784,6 @@
      "apg": 2.7
     },
     {
-     "player": "Dejounte Murray",
-     "player_id": 1627749,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 20.3,
-     "rpg": 5.0,
-     "apg": 6.3
-    },
-    {
      "player": "Zion Williamson",
      "player_id": 1629627,
      "position": "F",
@@ -6823,7 +6826,7 @@
      "player": "Saddiq Bey",
      "player_id": 1630180,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -6831,19 +6834,6 @@
      "ppg": 15.7,
      "rpg": 4.0,
      "apg": 1.3
-    },
-    {
-     "player": "Jordan Poole",
-     "player_id": 1629673,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.8,
-     "ppg": 7.3,
-     "rpg": 2.3,
-     "apg": 4.0
     },
     {
      "player": "Bennedict Mathurin",
@@ -6857,6 +6847,19 @@
      "ppg": 8.0,
      "rpg": 3.0,
      "apg": 2.0
+    },
+    {
+     "player": "Herbert Jones",
+     "player_id": 1630529,
+     "position": "F",
+     "starter": false,
+     "games": 3,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.1,
+     "ppg": 3.3,
+     "rpg": 2.0,
+     "apg": 0.3
     }
    ],
    "away": [
@@ -6974,6 +6977,12 @@
     "pick": "NOP",
     "prob": 70.2,
     "reason": "Yves Missi (NOP) now out"
+   },
+   {
+    "at": "2026-10-29T18:32-04:00",
+    "pick": "NOP",
+    "prob": 69.6,
+    "reason": "Dejounte Murray (NOP) now out; Jordan Poole (NOP) now out"
    }
   ]
  },

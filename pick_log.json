@@ -8610,6 +8610,36 @@
       "away": 29.8,
       "home": 70.2
      }
+    },
+    {
+     "at": "2026-10-29T18:32-04:00",
+     "expected_margin": 7.44,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Jordan Poole",
+       "Yves Missi",
+       "Dejounte Murray"
+      ]
+     },
+     "pick": "New Orleans Pelicans",
+     "pick_code": "NOP",
+     "reason": "Dejounte Murray (NOP) now out; Jordan Poole (NOP) now out",
+     "report": "2026-10-29T18:30-04:00",
+     "win_prob": {
+      "away": 30.4,
+      "home": 69.6
+     }
     }
    ]
   }
