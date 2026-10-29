@@ -7805,6 +7805,13 @@
    "home": "DAL",
    "late": false,
    "locked_at": "2026-10-28T21:30-04:00",
+   "result": {
+    "score": {
+     "away": 96,
+     "home": 120
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-28T21:30-04:00",
    "tip_known": true,
@@ -8405,6 +8412,112 @@
      "win_prob": {
       "away": 23.4,
       "home": 76.6
+     }
+    }
+   ]
+  },
+  "2026-10-29_CLE@ATL": {
+   "away": "CLE",
+   "date": "2026-10-29",
+   "home": "ATL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-29T20:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-29T00:17-04:00",
+     "expected_margin": 3.78,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Opening pick",
+     "report": "2026-10-29T00:15-04:00",
+     "win_prob": {
+      "away": 39.7,
+      "home": 60.3
+     }
+    }
+   ]
+  },
+  "2026-10-29_MEM@POR": {
+   "away": "MEM",
+   "date": "2026-10-29",
+   "home": "POR",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-29T22:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-29T00:17-04:00",
+     "expected_margin": 2.32,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Shaedon Sharpe"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Opening pick",
+     "report": "2026-10-29T00:15-04:00",
+     "win_prob": {
+      "away": 43.6,
+      "home": 56.4
+     }
+    }
+   ]
+  },
+  "2026-10-29_SAC@NOP": {
+   "away": "SAC",
+   "date": "2026-10-29",
+   "home": "NOP",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-10-29T20:00-04:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-10-29T00:17-04:00",
+     "expected_margin": 7.69,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ],
+      "home": []
+     },
+     "pick": "New Orleans Pelicans",
+     "pick_code": "NOP",
+     "reason": "Opening pick",
+     "report": "2026-10-29T00:15-04:00",
+     "win_prob": {
+      "away": 29.8,
+      "home": 70.2
      }
     }
    ]
