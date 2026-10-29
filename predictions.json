@@ -6542,7 +6542,7 @@
     "reason": "Opening pick"
    },
    {
-    "at": "2026-10-29T14:03-04:00",
+    "at": "2026-10-29T15:46-04:00",
     "pick": "ATL",
     "prob": 60.3,
     "reason": "Nae'Qwan Tomlin (CLE) now out; Jaylon Tyson (CLE) now questionable; Henri Veesaar (ATL) now out; Mouhamed Gueye (ATL) now out"
@@ -6795,23 +6795,10 @@
      "apg": 1.3
     },
     {
-     "player": "Yves Missi",
-     "player_id": 1642274,
-     "position": "C",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 19.6,
-     "ppg": 9.5,
-     "rpg": 7.5,
-     "apg": 2.5
-    },
-    {
      "player": "Derik Queen",
      "player_id": 1642852,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -6845,6 +6832,19 @@
      "ppg": 7.3,
      "rpg": 2.3,
      "apg": 4.0
+    },
+    {
+     "player": "Bennedict Mathurin",
+     "player_id": 1631097,
+     "position": "G",
+     "starter": false,
+     "games": 3,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.8,
+     "ppg": 8.0,
+     "rpg": 3.0,
+     "apg": 2.0
     }
    ],
    "away": [
@@ -6958,7 +6958,7 @@
     "reason": "Opening pick"
    },
    {
-    "at": "2026-10-29T12:48-04:00",
+    "at": "2026-10-29T15:46-04:00",
     "pick": "NOP",
     "prob": 70.2,
     "reason": "Yves Missi (NOP) now out"
