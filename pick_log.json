@@ -8426,6 +8426,11 @@
   "2026-10-29_CLE@ATL": {
    "away": "CLE",
    "date": "2026-10-29",
+   "final_check": {
+    "at": "2026-10-29T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-29T19:45-04:00"
+   },
    "home": "ATL",
    "late": false,
    "locked_at": null,
@@ -8577,6 +8582,11 @@
   "2026-10-29_SAC@NOP": {
    "away": "SAC",
    "date": "2026-10-29",
+   "final_check": {
+    "at": "2026-10-29T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-29T19:45-04:00"
+   },
    "home": "NOP",
    "late": false,
    "locked_at": null,
