@@ -482,6 +482,14 @@
  {
   "date": "2026-10-28",
   "season": "2026-2027",
+  "away": "LAL",
+  "home": "LAC",
+  "conf": 61.6,
+  "correct": false
+ },
+ {
+  "date": "2026-10-28",
+  "season": "2026-2027",
   "away": "MIA",
   "home": "ATL",
   "conf": 74.1,

@@ -7465,6 +7465,13 @@
    "home": "LAC",
    "late": false,
    "locked_at": "2026-10-28T22:30-04:00",
+   "result": {
+    "score": {
+     "away": 103,
+     "home": 87
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-28T22:30-04:00",
    "tip_known": true,
