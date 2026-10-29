@@ -7750,6 +7750,11 @@
   "2026-10-28_OKC@DAL": {
    "away": "OKC",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T21:17-04:00",
+    "label": "9:15 PM ET",
+    "report": "2026-10-28T21:15-04:00"
+   },
    "home": "DAL",
    "late": false,
    "locked_at": null,
