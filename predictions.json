@@ -6314,7 +6314,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-28T21:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "8:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6430,18 +6430,18 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 33.3,
-   "away": 66.7
+   "home": 32.2,
+   "away": 67.8
   },
   "win_prob_band": {
    "low": 32.2,
-   "high": 33.3,
-   "gtd_count": 1
+   "high": 32.2,
+   "gtd_count": 0
   },
-  "expected_margin": -6.28,
+  "expected_margin": -6.72,
   "expected_score": {
-   "home": 109.7,
-   "away": 116.0
+   "home": 109.5,
+   "away": 116.2
   },
   "margin_breakdown": [
    {
@@ -6461,8 +6461,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.56,
-    "detail": "Dallas Mavericks 2 out (48 min) costing 0.3 pts, Oklahoma City Thunder 5 out (110 min) costing 1.9 pts · Dereck Lively II, Tarik Biberovic, Thomas Sorber out all season, already baked into team rating"
+    "points": 1.12,
+    "detail": "Dallas Mavericks 3 out (71 min) costing 0.7 pts, Oklahoma City Thunder 5 out (110 min) costing 1.9 pts · Dereck Lively II, Tarik Biberovic, Thomas Sorber out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -6492,6 +6492,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Naji Marshall",
+     "mpg": 23.0,
+     "nth_out": 2,
+     "value": 2.1,
+     "cost": -0.44,
+     "no_minutes": false
+    },
     {
      "player": "Santi Aldama",
      "mpg": 27.2,
@@ -6577,14 +6585,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Naji Marshall",
-     "mpg": 23.0,
-     "value": 2.1,
-     "status": "Doubtful"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6660,19 +6661,6 @@
      "apg": 2.8
     },
     {
-     "player": "Naji Marshall",
-     "player_id": 1630230,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 27.7,
-     "ppg": 13.7,
-     "rpg": 3.3,
-     "apg": 5.7
-    },
-    {
      "player": "Zaccharie Risacher",
      "player_id": 1642258,
      "position": "F",
@@ -6697,6 +6685,19 @@
      "ppg": 8.8,
      "rpg": 1.8,
      "apg": 2.2
+    },
+    {
+     "player": "Morez Johnson Jr.",
+     "player_id": 1643516,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.4,
+     "ppg": 6.5,
+     "rpg": 3.0,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -6833,6 +6834,12 @@
     "pick": "OKC",
     "prob": 66.7,
     "reason": "Ajay Mitchell (OKC) cleared to play"
+   },
+   {
+    "at": "2026-10-28T20:47-04:00",
+    "pick": "OKC",
+    "prob": 67.8,
+    "reason": "Naji Marshall (DAL) now out"
    }
   ]
  },

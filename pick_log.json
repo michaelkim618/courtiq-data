@@ -7864,6 +7864,40 @@
       "away": 66.7,
       "home": 33.3
      }
+    },
+    {
+     "at": "2026-10-28T20:47-04:00",
+     "expected_margin": -6.72,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Naji Marshall",
+       "Santi Aldama",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Naji Marshall (DAL) now out",
+     "report": "2026-10-28T20:45-04:00",
+     "win_prob": {
+      "away": 67.8,
+      "home": 32.2
+     }
     }
    ]
   },
@@ -8097,6 +8131,11 @@
   "2026-10-28_SAS@UTA": {
    "away": "SAS",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T20:47-04:00",
+    "label": "8:45 PM ET",
+    "report": "2026-10-28T20:45-04:00"
+   },
    "home": "UTA",
    "late": false,
    "locked_at": null,
