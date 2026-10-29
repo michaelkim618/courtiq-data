@@ -446,5 +446,21 @@
   "home": "SAS",
   "conf": 80.7,
   "correct": true
+ },
+ {
+  "date": "2026-10-28",
+  "season": "2026-2027",
+  "away": "MIA",
+  "home": "ATL",
+  "conf": 74.1,
+  "correct": false
+ },
+ {
+  "date": "2026-10-28",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "CLE",
+  "conf": 76.6,
+  "correct": true
  }
 ]

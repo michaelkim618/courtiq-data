@@ -7538,6 +7538,13 @@
    "home": "ATL",
    "late": false,
    "locked_at": "2026-10-28T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 129,
+     "home": 117
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-28T19:00-04:00",
    "tip_known": true,
@@ -7757,7 +7764,7 @@
    },
    "home": "DAL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-28T21:30-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-28T21:30-04:00",
    "tip_known": true,
@@ -8273,6 +8280,13 @@
    "home": "CLE",
    "late": false,
    "locked_at": "2026-10-28T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 111,
+     "home": 121
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-28T19:00-04:00",
    "tip_known": true,
