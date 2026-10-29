@@ -466,6 +466,22 @@
  {
   "date": "2026-10-28",
   "season": "2026-2027",
+  "away": "ORL",
+  "home": "TOR",
+  "conf": 67.8,
+  "correct": true
+ },
+ {
+  "date": "2026-10-28",
+  "season": "2026-2027",
+  "away": "PHI",
+  "home": "IND",
+  "conf": 59.4,
+  "correct": true
+ },
+ {
+  "date": "2026-10-28",
+  "season": "2026-2027",
   "away": "WAS",
   "home": "CLE",
   "conf": 76.6,
