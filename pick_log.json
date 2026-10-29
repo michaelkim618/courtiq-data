@@ -8481,6 +8481,34 @@
       "away": 39.7,
       "home": 60.3
      }
+    },
+    {
+     "at": "2026-10-29T16:11-04:00",
+     "expected_margin": 1.78,
+     "gtd": {
+      "away": [
+       "Jaylon Tyson"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-10-29T16:00-04:00",
+     "win_prob": {
+      "away": 45.1,
+      "home": 54.9
+     }
     }
    ]
   },

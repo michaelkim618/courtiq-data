@@ -6210,18 +6210,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 60.3,
-   "away": 39.7
+   "home": 54.9,
+   "away": 45.1
   },
   "win_prob_band": {
-   "low": 60.3,
-   "high": 61.3,
+   "low": 54.9,
+   "high": 56.0,
    "gtd_count": 1
   },
-  "expected_margin": 3.78,
+  "expected_margin": 1.78,
   "expected_score": {
-   "home": 117.8,
-   "away": 114.1
+   "home": 116.8,
+   "away": 115.1
   },
   "margin_breakdown": [
    {
@@ -6243,6 +6243,12 @@
     "label": "Absences",
     "points": 0.0,
     "detail": "Atlanta Hawks 1 out (15 min), Cleveland Cavaliers 1 out (14 min) · Henri Veesaar out all season, already baked into team rating"
+   },
+   {
+    "label": "Owner Adjustment",
+    "points": -2.0,
+    "toward": "CLE",
+    "detail": "ATL's opening-4-game rating is inflated by one 128-81 blowout at CHA (+47 net); without it ATL is ~51%, matching the market (51.5%). Backtest does not support a model-wide cap, so this is a one-game owner call. (margin moved +2.0 toward CLE)"
    }
   ],
   "ratings": {
@@ -6546,6 +6552,12 @@
     "pick": "ATL",
     "prob": 60.3,
     "reason": "Nae'Qwan Tomlin (CLE) now out; Jaylon Tyson (CLE) now questionable; Henri Veesaar (ATL) now out; Mouhamed Gueye (ATL) now out"
+   },
+   {
+    "at": "2026-10-29T16:11-04:00",
+    "pick": "ATL",
+    "prob": 54.9,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
