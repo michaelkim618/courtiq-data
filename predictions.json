@@ -6215,8 +6215,8 @@
   },
   "win_prob_band": {
    "low": 60.3,
-   "high": 60.3,
-   "gtd_count": 0
+   "high": 61.3,
+   "gtd_count": 1
   },
   "expected_margin": 3.78,
   "expected_score": {
@@ -6242,7 +6242,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "No absences for either team"
+    "detail": "Atlanta Hawks 1 out (15 min), Cleveland Cavaliers 1 out (14 min) · Henri Veesaar out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6266,12 +6266,45 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Mouhamed Gueye",
+     "mpg": 14.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Henri Veesaar",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
+   "away": [
+    {
+     "player": "Nae'Qwan Tomlin",
+     "mpg": 14.5,
+     "nth_out": 4,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Jaylon Tyson",
+     "mpg": 21.4,
+     "value": 1.9,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -6507,6 +6540,12 @@
     "pick": "ATL",
     "prob": 60.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-29T14:03-04:00",
+    "pick": "ATL",
+    "prob": 60.3,
+    "reason": "Nae'Qwan Tomlin (CLE) now out; Jaylon Tyson (CLE) now questionable; Henri Veesaar (ATL) now out; Mouhamed Gueye (ATL) now out"
    }
   ]
  },
@@ -6623,7 +6662,7 @@
    {
     "label": "Absences",
     "points": 0.12,
-    "detail": "Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons out all season, already baked into team rating"
+    "detail": "New Orleans Pelicans 1 out (21 min), Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6647,7 +6686,16 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Yves Missi",
+     "mpg": 20.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
    "away": [
     {
      "player": "Maxime Raynaud",
@@ -6908,6 +6956,12 @@
     "pick": "NOP",
     "prob": 70.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-29T12:48-04:00",
+    "pick": "NOP",
+    "prob": 70.2,
+    "reason": "Yves Missi (NOP) now out"
    }
   ]
  },

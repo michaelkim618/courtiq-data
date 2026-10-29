@@ -8453,6 +8453,34 @@
       "away": 39.7,
       "home": 60.3
      }
+    },
+    {
+     "at": "2026-10-29T14:03-04:00",
+     "expected_margin": 3.78,
+     "gtd": {
+      "away": [
+       "Jaylon Tyson"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Nae'Qwan Tomlin (CLE) now out; Jaylon Tyson (CLE) now questionable; Henri Veesaar (ATL) now out; Mouhamed Gueye (ATL) now out",
+     "report": "2026-10-29T14:00-04:00",
+     "win_prob": {
+      "away": 39.7,
+      "home": 60.3
+     }
     }
    ]
   },
@@ -8522,6 +8550,34 @@
      "pick_code": "NOP",
      "reason": "Opening pick",
      "report": "2026-10-29T00:15-04:00",
+     "win_prob": {
+      "away": 29.8,
+      "home": 70.2
+     }
+    },
+    {
+     "at": "2026-10-29T12:48-04:00",
+     "expected_margin": 7.69,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Yves Missi"
+      ]
+     },
+     "pick": "New Orleans Pelicans",
+     "pick_code": "NOP",
+     "reason": "Yves Missi (NOP) now out",
+     "report": "2026-10-29T12:45-04:00",
      "win_prob": {
       "away": 29.8,
       "home": 70.2
