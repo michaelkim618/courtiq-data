@@ -7436,6 +7436,11 @@
   "2026-10-28_LAL@LAC": {
    "away": "LAL",
    "date": "2026-10-28",
+   "final_check": {
+    "at": "2026-10-28T22:17-04:00",
+    "label": "10:15 PM ET",
+    "report": "2026-10-28T22:15-04:00"
+   },
    "home": "LAC",
    "late": false,
    "locked_at": null,
