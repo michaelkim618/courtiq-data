@@ -6215,8 +6215,8 @@
   },
   "win_prob_band": {
    "low": 54.9,
-   "high": 56.0,
-   "gtd_count": 1
+   "high": 54.9,
+   "gtd_count": 0
   },
   "expected_margin": 1.78,
   "expected_score": {
@@ -6242,7 +6242,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Atlanta Hawks 1 out (15 min), Cleveland Cavaliers 1 out (14 min) · Henri Veesaar out all season, already baked into team rating"
+    "detail": "Atlanta Hawks 1 out (15 min), Cleveland Cavaliers 1 out (14 min) · Henri Veesaar, Meleek Thomas out all season, already baked into team rating"
    },
    {
     "label": "Owner Adjustment",
@@ -6298,19 +6298,20 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Meleek Thomas",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jaylon Tyson",
-     "mpg": 21.4,
-     "value": 1.9,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6558,6 +6559,12 @@
     "pick": "ATL",
     "prob": 54.9,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-10-29T19:32-04:00",
+    "pick": "ATL",
+    "prob": 54.9,
+    "reason": "Meleek Thomas (CLE) now out; Jaylon Tyson (CLE) cleared to play"
    }
   ]
  },

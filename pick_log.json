@@ -8509,6 +8509,33 @@
       "away": 45.1,
       "home": 54.9
      }
+    },
+    {
+     "at": "2026-10-29T19:32-04:00",
+     "expected_margin": 1.78,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nae'Qwan Tomlin",
+       "Meleek Thomas"
+      ],
+      "home": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Meleek Thomas (CLE) now out; Jaylon Tyson (CLE) cleared to play",
+     "report": "2026-10-29T19:30-04:00",
+     "win_prob": {
+      "away": 45.1,
+      "home": 54.9
+     }
     }
    ]
   },
