@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T22:47-04:00",
+ "generated": "2026-10-28T23:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -548,13 +548,13 @@
   },
   {
    "date": "2026-10-28",
-   "games": 9,
-   "wins": 6,
+   "games": 10,
+   "wins": 7,
    "losses": 3,
-   "pct": 66.7,
-   "cum_wins": 41,
-   "cum_games": 65,
-   "cum_pct": 63.1,
+   "pct": 70.0,
+   "cum_wins": 42,
+   "cum_games": 66,
+   "cum_pct": 63.6,
    "picks": [
     {
      "away": "CHA",
@@ -621,6 +621,14 @@
      "updated": true
     },
     {
+     "away": "SAS",
+     "home": "UTA",
+     "pick": "SAS",
+     "prob": 69.2,
+     "correct": true,
+     "updated": true
+    },
+    {
      "away": "WAS",
      "home": "CLE",
      "pick": "CLE",
@@ -632,10 +640,10 @@
   }
  ],
  "total": {
-  "games": 65,
-  "wins": 41,
+  "games": 66,
+  "wins": 42,
   "losses": 24,
-  "pct": 63.1
+  "pct": 63.6
  },
  "unscored": 0
 }

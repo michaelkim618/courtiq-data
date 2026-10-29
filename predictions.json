@@ -6485,7 +6485,7 @@
  },
  {
   "date": "2026-10-28",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "San Antonio Spurs",
   "home": "Utah Jazz",
   "away_code": "SAS",
@@ -6675,229 +6675,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 4,
-    "away": 4
-   },
-   "home": [
-    {
-     "player": "Keyonte George",
-     "player_id": 1641718,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 31.8,
-     "ppg": 22.8,
-     "rpg": 4.0,
-     "apg": 7.8
-    },
-    {
-     "player": "Darryn Peterson",
-     "player_id": 1643408,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 29.4,
-     "ppg": 11.5,
-     "rpg": 4.2,
-     "apg": 2.5
-    },
-    {
-     "player": "Ace Bailey",
-     "player_id": 1642846,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 3,
-     "start_rate": 75,
-     "mpg": 27.3,
-     "ppg": 13.0,
-     "rpg": 8.5,
-     "apg": 3.0
-    },
-    {
-     "player": "Jaxson Hayes",
-     "player_id": 1629637,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 23.8,
-     "ppg": 10.3,
-     "rpg": 5.0,
-     "apg": 2.0
-    },
-    {
-     "player": "Svi Mykhailiuk",
-     "player_id": 1629004,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.0,
-     "ppg": 3.8,
-     "rpg": 2.2,
-     "apg": 0.8
-    },
-    {
-     "player": "Isaiah Collier",
-     "player_id": 1642268,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.9,
-     "ppg": 7.5,
-     "rpg": 4.0,
-     "apg": 6.0
-    },
-    {
-     "player": "Brice Sensabaugh",
-     "player_id": 1641729,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.9,
-     "ppg": 7.5,
-     "rpg": 3.2,
-     "apg": 1.0
-    },
-    {
-     "player": "Josh Okogie",
-     "player_id": 1629006,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 12.7,
-     "ppg": 0.7,
-     "rpg": 1.7,
-     "apg": 0.7
-    }
-   ],
-   "away": [
-    {
-     "player": "Devin Vassell",
-     "player_id": 1630170,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 9.3,
-     "rpg": 3.7,
-     "apg": 3.0
-    },
-    {
-     "player": "Victor Wembanyama",
-     "player_id": 1641705,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 31.7,
-     "ppg": 20.0,
-     "rpg": 11.0,
-     "apg": 2.3
-    },
-    {
-     "player": "Dylan Harper",
-     "player_id": 1642844,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 31.3,
-     "ppg": 20.0,
-     "rpg": 5.0,
-     "apg": 3.0
-    },
-    {
-     "player": "De'Aaron Fox",
-     "player_id": 1628368,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 30.7,
-     "ppg": 17.3,
-     "rpg": 4.7,
-     "apg": 8.3
-    },
-    {
-     "player": "Stephon Castle",
-     "player_id": 1642264,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 19.3,
-     "rpg": 6.0,
-     "apg": 4.7
-    },
-    {
-     "player": "Julian Champagnie",
-     "player_id": 1630577,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 28.9,
-     "ppg": 8.7,
-     "rpg": 2.7,
-     "apg": 1.3
-    },
-    {
-     "player": "Keldon Johnson",
-     "player_id": 1629640,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.7,
-     "ppg": 8.3,
-     "rpg": 5.3,
-     "apg": 1.7
-    },
-    {
-     "player": "Luke Kornet",
-     "player_id": 1628436,
-     "position": "C",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 14.2,
-     "ppg": 3.7,
-     "rpg": 2.7,
-     "apg": 0.3
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 111,
+   "away": 117
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "San Antonio Spurs",
   "model_winner": "San Antonio Spurs",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-28T21:00-04:00",
   "injury_report": {
@@ -6928,7 +6713,255 @@
     "prob": 69.2,
     "reason": "Lauri Markkanen (UTA) now out; Jaxson Hayes (UTA) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Ace Bailey",
+     "starter": true,
+     "min": 40,
+     "pts": 19,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 3,
+     "pm": -6
+    },
+    {
+     "name": "Keyonte George",
+     "starter": true,
+     "min": 37,
+     "pts": 31,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 5,
+     "pm": -5
+    },
+    {
+     "name": "Jaxson Hayes",
+     "starter": true,
+     "min": 37,
+     "pts": 2,
+     "reb": 11,
+     "ast": 4,
+     "stl": 1,
+     "blk": 2,
+     "tov": 2,
+     "pm": -11
+    },
+    {
+     "name": "Josh Okogie",
+     "starter": false,
+     "min": 28,
+     "pts": 5,
+     "reb": 9,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Darryn Peterson",
+     "starter": true,
+     "min": 26,
+     "pts": 18,
+     "reb": 5,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -5
+    },
+    {
+     "name": "Isaiah Collier",
+     "starter": false,
+     "min": 24,
+     "pts": 7,
+     "reb": 7,
+     "ast": 6,
+     "stl": 0,
+     "blk": 0,
+     "tov": 6,
+     "pm": 2
+    },
+    {
+     "name": "Josh Green",
+     "starter": true,
+     "min": 24,
+     "pts": 2,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Brice Sensabaugh",
+     "starter": false,
+     "min": 18,
+     "pts": 16,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Mo Bamba",
+     "starter": false,
+     "min": 16,
+     "pts": 8,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 5
+    },
+    {
+     "name": "Svi Mykhailiuk",
+     "starter": false,
+     "min": 15,
+     "pts": 3,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    }
+   ],
+   "away": [
+    {
+     "name": "Victor Wembanyama",
+     "starter": true,
+     "min": 39,
+     "pts": 36,
+     "reb": 14,
+     "ast": 5,
+     "stl": 2,
+     "blk": 2,
+     "tov": 0,
+     "pm": 14
+    },
+    {
+     "name": "De'Aaron Fox",
+     "starter": true,
+     "min": 39,
+     "pts": 14,
+     "reb": 3,
+     "ast": 4,
+     "stl": 3,
+     "blk": 1,
+     "tov": 3,
+     "pm": 9
+    },
+    {
+     "name": "Devin Vassell",
+     "starter": true,
+     "min": 38,
+     "pts": 21,
+     "reb": 5,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": 4
+    },
+    {
+     "name": "Stephon Castle",
+     "starter": true,
+     "min": 38,
+     "pts": 14,
+     "reb": 6,
+     "ast": 8,
+     "stl": 2,
+     "blk": 1,
+     "tov": 3,
+     "pm": 3
+    },
+    {
+     "name": "Dylan Harper",
+     "starter": true,
+     "min": 37,
+     "pts": 13,
+     "reb": 5,
+     "ast": 8,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": 1
+    },
+    {
+     "name": "Julian Champagnie",
+     "starter": false,
+     "min": 31,
+     "pts": 6,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    },
+    {
+     "name": "Keldon Johnson",
+     "starter": false,
+     "min": 23,
+     "pts": 9,
+     "reb": 6,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Luke Kornet",
+     "starter": false,
+     "min": 14,
+     "pts": 1,
+     "reb": 6,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Carter Bryant",
+     "starter": false,
+     "min": 5,
+     "pts": 3,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Keyonte George",
+    "pts": 31,
+    "reb": 4,
+    "ast": 3
+   },
+   "away": {
+    "name": "Victor Wembanyama",
+    "pts": 36,
+    "reb": 14,
+    "ast": 5
+   }
+  }
  },
  {
   "date": "2026-10-28",
