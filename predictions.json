@@ -5983,18 +5983,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 33.1,
-   "away": 66.9
+   "home": 30.8,
+   "away": 69.2
   },
   "win_prob_band": {
    "low": 30.8,
-   "high": 33.1,
-   "gtd_count": 2
+   "high": 30.8,
+   "gtd_count": 0
   },
-  "expected_margin": -6.33,
+  "expected_margin": -7.27,
   "expected_score": {
-   "home": 113.5,
-   "away": 119.8
+   "home": 113.0,
+   "away": 120.3
   },
   "margin_breakdown": [
    {
@@ -6014,8 +6014,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.56,
-    "detail": "Utah Jazz 2 out (50 min) costing 0.8 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
+    "points": -1.5,
+    "detail": "Utah Jazz 3 out (77 min) costing 1.8 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6040,6 +6040,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Lauri Markkanen",
+     "mpg": 27.3,
+     "nth_out": 1,
+     "value": 4.5,
+     "cost": -0.95,
+     "no_minutes": false
+    },
     {
      "player": "Jaren Jackson Jr.",
      "mpg": 23.7,
@@ -6077,20 +6085,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Lauri Markkanen",
-     "mpg": 27.3,
-     "value": 4.5,
-     "status": "Questionable"
-    },
-    {
-     "player": "Jaxson Hayes",
-     "mpg": 20.8,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6127,19 +6122,6 @@
      "apg": 2.5
     },
     {
-     "player": "Lauri Markkanen",
-     "player_id": 1628374,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 28.6,
-     "ppg": 16.0,
-     "rpg": 5.5,
-     "apg": 1.8
-    },
-    {
      "player": "Ace Bailey",
      "player_id": 1642846,
      "position": "F",
@@ -6169,7 +6151,7 @@
      "player": "Svi Mykhailiuk",
      "player_id": 1629004,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -6203,6 +6185,19 @@
      "ppg": 7.5,
      "rpg": 3.2,
      "apg": 1.0
+    },
+    {
+     "player": "Josh Okogie",
+     "player_id": 1629006,
+     "position": "G",
+     "starter": false,
+     "games": 3,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.7,
+     "ppg": 0.7,
+     "rpg": 1.7,
+     "apg": 0.7
     }
    ],
    "away": [
@@ -6339,6 +6334,12 @@
     "pick": "SAS",
     "prob": 66.9,
     "reason": "Jayden Quaintance (SAS) now out; Tobias Harris (SAS) now out"
+   },
+   {
+    "at": "2026-10-28T20:17-04:00",
+    "pick": "SAS",
+    "prob": 69.2,
+    "reason": "Lauri Markkanen (UTA) now out; Jaxson Hayes (UTA) cleared to play"
    }
   ]
  },
@@ -6435,7 +6436,7 @@
   "win_prob_band": {
    "low": 32.2,
    "high": 33.3,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -6.28,
   "expected_score": {
@@ -6584,14 +6585,7 @@
      "status": "Doubtful"
     }
    ],
-   "away": [
-    {
-     "player": "Ajay Mitchell",
-     "mpg": 22.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6833,6 +6827,12 @@
     "pick": "OKC",
     "prob": 66.7,
     "reason": "Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out"
+   },
+   {
+    "at": "2026-10-28T20:17-04:00",
+    "pick": "OKC",
+    "prob": 66.7,
+    "reason": "Ajay Mitchell (OKC) cleared to play"
    }
   ]
  },

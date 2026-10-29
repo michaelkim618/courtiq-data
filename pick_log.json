@@ -7829,6 +7829,41 @@
       "away": 66.7,
       "home": 33.3
      }
+    },
+    {
+     "at": "2026-10-28T20:17-04:00",
+     "expected_margin": -6.28,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Naji Marshall"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Santi Aldama",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Ajay Mitchell (OKC) cleared to play",
+     "report": "2026-10-28T20:15-04:00",
+     "win_prob": {
+      "away": 66.7,
+      "home": 33.3
+     }
     }
    ]
   },
@@ -8151,6 +8186,34 @@
      "win_prob": {
       "away": 66.9,
       "home": 33.1
+     }
+    },
+    {
+     "at": "2026-10-28T20:17-04:00",
+     "expected_margin": -7.27,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Lauri Markkanen",
+       "Jaren Jackson Jr.",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Lauri Markkanen (UTA) now out; Jaxson Hayes (UTA) cleared to play",
+     "report": "2026-10-28T20:15-04:00",
+     "win_prob": {
+      "away": 69.2,
+      "home": 30.8
      }
     }
    ]
