@@ -7079,8 +7079,8 @@
   },
   "win_prob_band": {
    "low": 56.4,
-   "high": 63.7,
-   "gtd_count": 1
+   "high": 56.4,
+   "gtd_count": 0
   },
   "expected_margin": 2.32,
   "expected_score": {
@@ -7157,14 +7157,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Ty Jerome",
-     "mpg": 23.7,
-     "value": 13.2,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7392,7 +7385,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-29T22:00-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "9:45 PM ET"
   },
   "pick_updates": [
    {
@@ -7412,6 +7405,12 @@
     "pick": "POR",
     "prob": 56.4,
     "reason": "Ty Jerome (MEM) now questionable"
+   },
+   {
+    "at": "2026-10-29T21:47-04:00",
+    "pick": "POR",
+    "prob": 56.4,
+    "reason": "Ty Jerome (MEM) cleared to play"
    }
   ]
  }

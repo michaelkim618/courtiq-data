@@ -8547,6 +8547,11 @@
   "2026-10-29_MEM@POR": {
    "away": "MEM",
    "date": "2026-10-29",
+   "final_check": {
+    "at": "2026-10-29T21:47-04:00",
+    "label": "9:45 PM ET",
+    "report": "2026-10-29T21:45-04:00"
+   },
    "home": "POR",
    "late": false,
    "locked_at": null,
@@ -8622,6 +8627,30 @@
      "pick_code": "POR",
      "reason": "Ty Jerome (MEM) now questionable",
      "report": "2026-10-29T21:15-04:00",
+     "win_prob": {
+      "away": 43.6,
+      "home": 56.4
+     }
+    },
+    {
+     "at": "2026-10-29T21:47-04:00",
+     "expected_margin": 2.32,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Shaedon Sharpe",
+       "Robert Williams III"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Ty Jerome (MEM) cleared to play",
+     "report": "2026-10-29T21:45-04:00",
      "win_prob": {
       "away": 43.6,
       "home": 56.4
