@@ -9245,6 +9245,11 @@
   "2026-10-30_HOU@DAL": {
    "away": "HOU",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-30T19:45-04:00"
+   },
    "home": "DAL",
    "late": false,
    "locked_at": null,
@@ -9406,6 +9411,11 @@
   "2026-10-30_IND@MIA": {
    "away": "IND",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-30T19:45-04:00"
+   },
    "home": "MIA",
    "late": false,
    "locked_at": null,
@@ -9527,6 +9537,11 @@
   "2026-10-30_LAC@MIN": {
    "away": "LAC",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-30T19:45-04:00"
+   },
    "home": "MIN",
    "late": false,
    "locked_at": null,
