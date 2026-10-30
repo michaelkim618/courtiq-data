@@ -7079,8 +7079,8 @@
   },
   "win_prob_band": {
    "low": 56.4,
-   "high": 56.4,
-   "gtd_count": 0
+   "high": 63.7,
+   "gtd_count": 1
   },
   "expected_margin": 2.32,
   "expected_score": {
@@ -7157,7 +7157,14 @@
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Ty Jerome",
+     "mpg": 23.7,
+     "value": 13.2,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -7399,6 +7406,12 @@
     "pick": "POR",
     "prob": 56.4,
     "reason": "Robert Williams III (POR) now out"
+   },
+   {
+    "at": "2026-10-29T21:17-04:00",
+    "pick": "POR",
+    "prob": 56.4,
+    "reason": "Ty Jerome (MEM) now questionable"
    }
   ]
  }
