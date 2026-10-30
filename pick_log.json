@@ -8842,6 +8842,39 @@
       "away": 53.7,
       "home": 46.3
      }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": 0.09,
+     "gtd": {
+      "away": [
+       "Dennis Schroder"
+      ],
+      "home": [
+       "Tre Johnson"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins"
+      ]
+     },
+     "pick": "Washington Wizards",
+     "pick_code": "WAS",
+     "reason": "Coby White (CHA) now out; Grant Williams (CHA) now out; Kon Knueppel (CHA) now out; Dennis Schroder (CHA) now questionable; Jamir Watkins (WAS) now out; Justin Champagnie (WAS) now out; Tristan Vukcevic (WAS) now out; Tre Johnson (WAS) now questionable; pick flipped to WAS",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 49.7,
+      "home": 50.3
+     }
     }
    ]
   },
@@ -8901,6 +8934,33 @@
      "win_prob": {
       "away": 13.3,
       "home": 86.7
+     }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": 16.03,
+     "gtd": {
+      "away": [
+       "Patrick Williams"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nic Claxton"
+      ],
+      "home": [
+       "Devin Carter"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Nic Claxton (CHI) now out; Patrick Williams (CHI) now questionable; Devin Carter (BOS) now out",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 13.4,
+      "home": 86.6
      }
     }
    ]
@@ -8963,6 +9023,34 @@
       "away": 48.5,
       "home": 51.5
      }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": 0.43,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Oso Ighodaro"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Julian Strawther",
+       "Spencer Jones"
+      ],
+      "home": [
+       "Mark Williams"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Julian Strawther (DEN) now out; Spencer Jones (DEN) now out; Mark Williams (PHX) now out; Oso Ighodaro (PHX) now questionable",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 48.8,
+      "home": 51.2
+     }
     }
    ]
   },
@@ -9024,6 +9112,34 @@
      "win_prob": {
       "away": 69.5,
       "home": 30.5
+     }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": -6.02,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Noah Clowney"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": [
+       "Egor Demin"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Isaiah Joe (DET) now out; Jalen Duren (DET) now out; Egor Demin (BKN) now out; Noah Clowney (BKN) now questionable",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 66.1,
+      "home": 33.9
      }
     }
    ]
@@ -9091,6 +9207,39 @@
       "away": 62.9,
       "home": 37.1
      }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": -3.98,
+     "gtd": {
+      "away": [
+       "Alperen Sengun",
+       "Marcus Smart"
+      ],
+      "home": [
+       "Naji Marshall",
+       "Santi Aldama"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Reed Sheppard",
+       "Steven Adams"
+      ],
+      "home": [
+       "Sergio de Larrea",
+       "Dereck Lively II"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Reed Sheppard (HOU) now out; Steven Adams (HOU) now out; Alperen Sengun (HOU) now questionable; Marcus Smart (HOU) now questionable; Dereck Lively II (DAL) now out; Sergio de Larrea (DAL) now out; Naji Marshall (DAL) now questionable; Santi Aldama (DAL) now questionable",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 60.8,
+      "home": 39.2
+     }
     }
    ]
   },
@@ -9153,6 +9302,36 @@
      "win_prob": {
       "away": 46.8,
       "home": 53.2
+     }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": 3.97,
+     "gtd": {
+      "away": [
+       "Aaron Nesmith",
+       "Andrew Nembhard"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ivica Zubac",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Ben Sheppard (IND) now out; Ivica Zubac (IND) now out; Johnny Furphy (IND) now out; T.J. McConnell (IND) now out; Tyrese Haliburton (IND) now out; Aaron Nesmith (IND) now questionable; Andrew Nembhard (IND) now questionable",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 39.2,
+      "home": 60.8
      }
     }
    ]
@@ -9219,6 +9398,38 @@
       "away": 24.2,
       "home": 75.8
      }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": 7.04,
+     "gtd": {
+      "away": [
+       "Rui Hachimura"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Bradley Beal (LAC) now out; Brandon Ingram (LAC) now out; Jordan Miller (LAC) now out; Max Strus (LAC) now out; Yanic Konan Niederhauser (LAC) now out; Rui Hachimura (LAC) now questionable; Anthony Edwards (MIN) now out; Donte DiVincenzo (MIN) now out",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 31.4,
+      "home": 68.6
+     }
     }
    ]
   },
@@ -9284,6 +9495,37 @@
       "away": 50.3,
       "home": 49.7
      }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": -2.41,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Gui Santos"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Ziaire Williams",
+       "Adou Thiero",
+       "Cameron Carr"
+      ],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Adou Thiero (LAL) now out; Cameron Carr (LAL) now out; Ziaire Williams (LAL) now out; Jimmy Butler III (GSW) now out; Kristaps Porzingis (GSW) now out; Moses Moody (GSW) now out; Gui Santos (GSW) now questionable",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 56.6,
+      "home": 43.4
+     }
     }
    ]
   },
@@ -9347,6 +9589,38 @@
       "away": 44.4,
       "home": 55.6
      }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": 1.74,
+     "gtd": {
+      "away": [
+       "Karl-Anthony Towns"
+      ],
+      "home": [
+       "Jaylen Brown"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jose Alvarado"
+      ],
+      "home": [
+       "Jabari Walker",
+       "Dominick Barlow",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Jose Alvarado (NYK) now out; Karl-Anthony Towns (NYK) now questionable; Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Jabari Walker (PHI) now out; Tacko Fall (PHI) now out; Jaylen Brown (PHI) now questionable",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 45.2,
+      "home": 54.8
+     }
     }
    ]
   },
@@ -9409,6 +9683,36 @@
      "win_prob": {
       "away": 30.7,
       "home": 69.3
+     }
+    },
+    {
+     "at": "2026-10-30T17:02-04:00",
+     "expected_margin": 6.72,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ]
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "Izaiyah Nelson (ORL) now out; Jalen Suggs (ORL) now out; Jonathan Isaac (ORL) now out; Noah Penda (ORL) now out; Paolo Banchero (ORL) now out; Kawhi Leonard (TOR) now out; Nate Bittle (TOR) now out",
+     "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 32.2,
+      "home": 67.8
      }
     }
    ]

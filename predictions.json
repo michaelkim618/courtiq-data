@@ -1604,18 +1604,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 46.3,
-   "away": 53.7
+   "home": 50.3,
+   "away": 49.7
   },
   "win_prob_band": {
-   "low": 46.3,
-   "high": 46.3,
-   "gtd_count": 0
+   "low": 48.8,
+   "high": 50.3,
+   "gtd_count": 2
   },
-  "expected_margin": -1.36,
+  "expected_margin": 0.09,
   "expected_score": {
-   "home": 113.8,
-   "away": 115.1
+   "home": 114.5,
+   "away": 114.4
   },
   "margin_breakdown": [
    {
@@ -1635,8 +1635,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": 1.45,
+    "detail": "Washington Wizards 3 out (52 min) costing 0.7 pts, Charlotte Hornets 3 out (76 min) costing 2.1 pts"
    }
   ],
   "ratings": {
@@ -1660,12 +1660,76 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Tristan Vukcevic",
+     "mpg": 13.7,
+     "nth_out": 1,
+     "value": 3.0,
+     "cost": -0.63,
+     "no_minutes": false
+    },
+    {
+     "player": "Justin Champagnie",
+     "mpg": 18.1,
+     "nth_out": 1,
+     "value": 0.2,
+     "cost": -0.05,
+     "no_minutes": false
+    },
+    {
+     "player": "Jamir Watkins",
+     "mpg": 20.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Coby White",
+     "mpg": 24.9,
+     "nth_out": 1,
+     "value": 6.1,
+     "cost": -1.28,
+     "no_minutes": false
+    },
+    {
+     "player": "Kon Knueppel",
+     "mpg": 31.1,
+     "nth_out": 1,
+     "value": 4.1,
+     "cost": -0.85,
+     "no_minutes": false
+    },
+    {
+     "player": "Grant Williams",
+     "mpg": 19.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Tre Johnson",
+     "mpg": 20.4,
+     "value": 2.5,
+     "status": "Questionable"
+    }
+   ],
+   "away": [
+    {
+     "player": "Dennis Schroder",
+     "mpg": 24.0,
+     "value": 0.0,
+     "status": "Probable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -1889,7 +1953,7 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Charlotte Hornets",
+  "model_winner": "Washington Wizards",
   "model_correct": null,
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-30T19:00-04:00",
@@ -1908,6 +1972,12 @@
     "pick": "CHA",
     "prob": 53.7,
     "reason": "Coby White (CHA) no longer out; Grant Williams (CHA) no longer out; Dennis Schroder (CHA) cleared to play; Jamir Watkins (WAS) no longer out; Justin Champagnie (WAS) no longer out; Tristan Vukcevic (WAS) no longer out; Tre Johnson (WAS) cleared to play"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "WAS",
+    "prob": 50.3,
+    "reason": "Coby White (CHA) now out; Grant Williams (CHA) now out; Kon Knueppel (CHA) now out; Dennis Schroder (CHA) now questionable; Jamir Watkins (WAS) now out; Justin Champagnie (WAS) now out; Tristan Vukcevic (WAS) now out; Tre Johnson (WAS) now questionable; pick flipped to WAS"
    }
   ]
  },
@@ -1998,18 +2068,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 86.7,
-   "away": 13.3
+   "home": 86.6,
+   "away": 13.4
   },
   "win_prob_band": {
-   "low": 86.7,
-   "high": 86.7,
-   "gtd_count": 0
+   "low": 86.6,
+   "high": 86.6,
+   "gtd_count": 1
   },
-  "expected_margin": 16.13,
+  "expected_margin": 16.03,
   "expected_score": {
    "home": 123.1,
-   "away": 107.0
+   "away": 107.1
   },
   "margin_breakdown": [
    {
@@ -2029,8 +2099,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": -0.1,
+    "detail": "Boston Celtics 1 out (18 min) costing 0.1 pts, Chicago Bulls 1 out (28 min)"
    }
   ],
   "ratings": {
@@ -2054,12 +2124,37 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Devin Carter",
+     "mpg": 18.1,
+     "nth_out": 1,
+     "value": 0.5,
+     "cost": -0.1,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Nic Claxton",
+     "mpg": 27.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Patrick Williams",
+     "mpg": 20.5,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -2301,6 +2396,12 @@
     "pick": "BOS",
     "prob": 86.7,
     "reason": "Nic Claxton (CHI) no longer out; Patrick Williams (CHI) cleared to play; Devin Carter (BOS) no longer out"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "BOS",
+    "prob": 86.6,
+    "reason": "Nic Claxton (CHI) now out; Patrick Williams (CHI) now questionable; Devin Carter (BOS) now out"
    }
   ]
  },
@@ -2391,18 +2492,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 30.5,
-   "away": 69.5
+   "home": 33.9,
+   "away": 66.1
   },
   "win_prob_band": {
-   "low": 30.5,
-   "high": 30.5,
-   "gtd_count": 0
+   "low": 33.9,
+   "high": 33.9,
+   "gtd_count": 1
   },
-  "expected_margin": -7.39,
+  "expected_margin": -6.02,
   "expected_score": {
-   "home": 107.8,
-   "away": 115.2
+   "home": 108.5,
+   "away": 114.5
   },
   "margin_breakdown": [
    {
@@ -2422,8 +2523,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": 1.37,
+    "detail": "Brooklyn Nets 1 out (23 min), Detroit Pistons 2 out (45 min) costing 1.4 pts"
    }
   ],
   "ratings": {
@@ -2447,11 +2548,44 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Egor Demin",
+     "mpg": 23.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Jalen Duren",
+     "mpg": 27.5,
+     "nth_out": 3,
+     "value": 5.2,
+     "cost": -1.09,
+     "no_minutes": false
+    },
+    {
+     "player": "Isaiah Joe",
+     "mpg": 17.2,
+     "nth_out": 1,
+     "value": 1.3,
+     "cost": -0.28,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Noah Clowney",
+     "mpg": 20.5,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -2501,19 +2635,6 @@
      "apg": 2.7
     },
     {
-     "player": "Egor Dëmin",
-     "player_id": 1642856,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 25.7,
-     "ppg": 9.7,
-     "rpg": 2.7,
-     "apg": 3.0
-    },
-    {
      "player": "Day'Ron Sharpe",
      "player_id": 1630549,
      "position": "C",
@@ -2530,7 +2651,7 @@
      "player": "Noah Clowney",
      "player_id": 1641730,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -2563,6 +2684,19 @@
      "mpg": 17.8,
      "ppg": 4.7,
      "rpg": 3.7,
+     "apg": 1.0
+    },
+    {
+     "player": "Josh Minott",
+     "player_id": 1631169,
+     "position": "F",
+     "starter": false,
+     "games": 2,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.2,
+     "ppg": 9.5,
+     "rpg": 5.0,
      "apg": 1.0
     }
    ],
@@ -2620,23 +2754,10 @@
      "apg": 5.0
     },
     {
-     "player": "Jalen Duren",
-     "player_id": 1631105,
-     "position": "C",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 19.1,
-     "ppg": 13.0,
-     "rpg": 7.5,
-     "apg": 2.0
-    },
-    {
      "player": "Daniss Jenkins",
      "player_id": 1642450,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 1,
      "start_rate": 33,
@@ -2670,6 +2791,19 @@
      "ppg": 5.7,
      "rpg": 4.0,
      "apg": 2.0
+    },
+    {
+     "player": "Javonte Green",
+     "player_id": 1629750,
+     "position": "G",
+     "starter": false,
+     "games": 3,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.6,
+     "ppg": 8.7,
+     "rpg": 3.3,
+     "apg": 0.0
     }
    ]
   },
@@ -2694,6 +2828,12 @@
     "pick": "DET",
     "prob": 69.5,
     "reason": "Jalen Duren (DET) no longer out; Elijah Harkless (DET) cleared to play; Egor Demin (BKN) no longer out; Drake Powell (BKN) cleared to play"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "DET",
+    "prob": 66.1,
+    "reason": "Isaiah Joe (DET) now out; Jalen Duren (DET) now out; Egor Demin (BKN) now out; Noah Clowney (BKN) now questionable"
    }
   ]
  },
@@ -2784,18 +2924,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 55.6,
-   "away": 44.4
+   "home": 54.8,
+   "away": 45.2
   },
   "win_prob_band": {
-   "low": 55.6,
-   "high": 55.6,
-   "gtd_count": 0
+   "low": 50.2,
+   "high": 56.5,
+   "gtd_count": 2
   },
-  "expected_margin": 2.06,
+  "expected_margin": 1.74,
   "expected_score": {
-   "home": 112.2,
-   "away": 110.1
+   "home": 112.0,
+   "away": 110.3
   },
   "margin_breakdown": [
    {
@@ -2815,8 +2955,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": -0.32,
+    "detail": "Philadelphia 76ers 3 out (46 min) costing 0.3 pts, New York Knicks 1 out (15 min) · Tacko Fall out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -2840,12 +2980,68 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Jabari Walker",
+     "mpg": 14.6,
+     "nth_out": 1,
+     "value": 1.5,
+     "cost": -0.32,
+     "no_minutes": false
+    },
+    {
+     "player": "Dominick Barlow",
+     "mpg": 22.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Ariel Hukporti",
+     "mpg": 9.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Tacko Fall",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
+   "away": [
+    {
+     "player": "Jose Alvarado",
+     "mpg": 15.3,
+     "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Jaylen Brown",
+     "mpg": 29.8,
+     "value": 7.9,
+     "status": "Doubtful"
+    }
+   ],
+   "away": [
+    {
+     "player": "Karl-Anthony Towns",
+     "mpg": 25.5,
+     "value": 3.0,
+     "status": "Probable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -3087,6 +3283,12 @@
     "pick": "PHI",
     "prob": 55.6,
     "reason": "Jose Alvarado (NYK) no longer out; Ariel Hukporti (PHI) no longer out; Dominick Barlow (PHI) no longer out; Jabari Walker (PHI) no longer out; Tacko Fall (PHI) no longer out; Jaylen Brown (PHI) cleared to play"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "PHI",
+    "prob": 54.8,
+    "reason": "Jose Alvarado (NYK) now out; Karl-Anthony Towns (NYK) now questionable; Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Jabari Walker (PHI) now out; Tacko Fall (PHI) now out; Jaylen Brown (PHI) now questionable"
    }
   ]
  },
@@ -3165,18 +3367,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 69.3,
-   "away": 30.7
+   "home": 67.8,
+   "away": 32.2
   },
   "win_prob_band": {
-   "low": 69.3,
-   "high": 69.3,
+   "low": 67.8,
+   "high": 67.8,
    "gtd_count": 0
   },
-  "expected_margin": 7.32,
+  "expected_margin": 6.72,
   "expected_score": {
-   "home": 116.0,
-   "away": 108.6
+   "home": 115.7,
+   "away": 108.9
   },
   "margin_breakdown": [
    {
@@ -3196,8 +3398,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": -0.6,
+    "detail": "Toronto Raptors 1 out (31 min) costing 2.7 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Nate Bittle, Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3221,8 +3423,66 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Kawhi Leonard",
+     "mpg": 30.9,
+     "nth_out": 1,
+     "value": 12.9,
+     "cost": -2.72,
+     "no_minutes": false
+    },
+    {
+     "player": "Nate Bittle",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
+   "away": [
+    {
+     "player": "Paolo Banchero",
+     "mpg": 25.6,
+     "nth_out": 1,
+     "value": 9.4,
+     "cost": -1.98,
+     "no_minutes": false
+    },
+    {
+     "player": "Jalen Suggs",
+     "mpg": 28.5,
+     "nth_out": 1,
+     "value": 0.7,
+     "cost": -0.14,
+     "no_minutes": false
+    },
+    {
+     "player": "Noah Penda",
+     "mpg": 12.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Jonathan Isaac",
+     "mpg": 10.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Izaiyah Nelson",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ]
   },
   "gtd": {
    "home": [],
@@ -3275,19 +3535,6 @@
      "apg": 5.0
     },
     {
-     "player": "Kawhi Leonard",
-     "player_id": 202695,
-     "position": "F",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 25.8,
-     "ppg": 19.5,
-     "rpg": 7.5,
-     "apg": 1.5
-    },
-    {
      "player": "Jakob Poeltl",
      "player_id": 1627751,
      "position": "C",
@@ -3304,7 +3551,7 @@
      "player": "Ja'Kobe Walter",
      "player_id": 1642266,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 1,
      "start_rate": 33,
@@ -3338,35 +3585,22 @@
      "ppg": 5.7,
      "rpg": 6.0,
      "apg": 1.7
+    },
+    {
+     "player": "Allen Graves",
+     "player_id": 1643512,
+     "position": "F",
+     "starter": false,
+     "games": 3,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.2,
+     "ppg": 6.0,
+     "rpg": 4.3,
+     "apg": 1.3
     }
    ],
    "away": [
-    {
-     "player": "Paolo Banchero",
-     "player_id": 1631094,
-     "position": "F",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 33.8,
-     "ppg": 24.5,
-     "rpg": 6.5,
-     "apg": 7.5
-    },
-    {
-     "player": "Jalen Suggs",
-     "player_id": 1630591,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 8.0,
-     "rpg": 5.0,
-     "apg": 5.7
-    },
     {
      "player": "Franz Wagner",
      "player_id": 1630532,
@@ -3410,7 +3644,7 @@
      "player": "Jase Richardson",
      "player_id": 1642859,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 1,
      "start_rate": 33,
@@ -3423,7 +3657,7 @@
      "player": "Tristan da Silva",
      "player_id": 1641783,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -3468,6 +3702,12 @@
     "pick": "TOR",
     "prob": 69.3,
     "reason": "Izaiyah Nelson (ORL) no longer out; Jalen Suggs (ORL) no longer out; Jonathan Isaac (ORL) no longer out; Noah Penda (ORL) no longer out; Paolo Banchero (ORL) no longer out; Kawhi Leonard (TOR) no longer out; Nate Bittle (TOR) no longer out"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "TOR",
+    "prob": 67.8,
+    "reason": "Izaiyah Nelson (ORL) now out; Jalen Suggs (ORL) now out; Jonathan Isaac (ORL) now out; Noah Penda (ORL) now out; Paolo Banchero (ORL) now out; Kawhi Leonard (TOR) now out; Nate Bittle (TOR) now out"
    }
   ]
  },
@@ -3558,18 +3798,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 53.2,
-   "away": 46.8
+   "home": 60.8,
+   "away": 39.2
   },
   "win_prob_band": {
-   "low": 53.2,
-   "high": 53.2,
-   "gtd_count": 0
+   "low": 60.8,
+   "high": 61.6,
+   "gtd_count": 2
   },
-  "expected_margin": 1.16,
+  "expected_margin": 3.97,
   "expected_score": {
-   "home": 117.8,
-   "away": 116.6
+   "home": 119.2,
+   "away": 115.2
   },
   "margin_breakdown": [
    {
@@ -3589,13 +3829,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
-   },
-   {
-    "label": "Returning Players",
-    "points": -0.61,
-    "detail": "Tyrese Haliburton (IND) back after missing 2025-26, valued from 2024-25"
+    "points": 2.2,
+    "detail": "Indiana Pacers 5 out (104 min) costing 2.2 pts"
    }
   ],
   "ratings": {
@@ -3620,11 +3855,65 @@
   },
   "absences": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Tyrese Haliburton",
+     "mpg": 25.3,
+     "nth_out": 1,
+     "value": 7.6,
+     "cost": -1.59,
+     "no_minutes": false
+    },
+    {
+     "player": "T.J. McConnell",
+     "mpg": 17.0,
+     "nth_out": 1,
+     "value": 1.8,
+     "cost": -0.37,
+     "no_minutes": false
+    },
+    {
+     "player": "Ivica Zubac",
+     "mpg": 22.2,
+     "nth_out": 1,
+     "value": 1.1,
+     "cost": -0.23,
+     "no_minutes": false
+    },
+    {
+     "player": "Ben Sheppard",
+     "mpg": 21.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Johnny Furphy",
+     "mpg": 18.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Aaron Nesmith",
+     "mpg": 28.9,
+     "value": 0.8,
+     "status": "Probable"
+    },
+    {
+     "player": "Andrew Nembhard",
+     "mpg": 25.0,
+     "value": 0.7,
+     "status": "Probable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -3740,19 +4029,6 @@
    ],
    "away": [
     {
-     "player": "Tyrese Haliburton",
-     "player_id": 1630169,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 21.8,
-     "rpg": 4.5,
-     "apg": 9.5
-    },
-    {
      "player": "Andrew Nembhard",
      "player_id": 1629614,
      "position": "G",
@@ -3779,19 +4055,6 @@
      "apg": 4.0
     },
     {
-     "player": "Ivica Zubac",
-     "player_id": 1627826,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 21.4,
-     "ppg": 9.0,
-     "rpg": 9.0,
-     "apg": 1.3
-    },
-    {
      "player": "Aaron Nesmith",
      "player_id": 1630174,
      "position": "G",
@@ -3808,7 +4071,7 @@
      "player": "Kelly Oubre Jr.",
      "player_id": 1626162,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 2,
      "start_rate": 50,
@@ -3821,7 +4084,7 @@
      "player": "Jay Huff",
      "player_id": 1630643,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 1,
      "start_rate": 33,
@@ -3842,6 +4105,32 @@
      "ppg": 5.2,
      "rpg": 5.5,
      "apg": 1.5
+    },
+    {
+     "player": "Obi Toppin",
+     "player_id": 1630167,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 23.2,
+     "ppg": 15.8,
+     "rpg": 5.0,
+     "apg": 1.5
+    },
+    {
+     "player": "Quenton Jackson",
+     "player_id": 1631245,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.3,
+     "ppg": 5.8,
+     "rpg": 2.0,
+     "apg": 2.5
     }
    ]
   },
@@ -3866,6 +4155,12 @@
     "pick": "MIA",
     "prob": 53.2,
     "reason": "Ben Sheppard (IND) no longer out; Ivica Zubac (IND) no longer out; Johnny Furphy (IND) no longer out; T.J. McConnell (IND) no longer out; Tyrese Haliburton (IND) no longer out; Aaron Nesmith (IND) cleared to play; Andrew Nembhard (IND) cleared to play"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "MIA",
+    "prob": 60.8,
+    "reason": "Ben Sheppard (IND) now out; Ivica Zubac (IND) now out; Johnny Furphy (IND) now out; T.J. McConnell (IND) now out; Tyrese Haliburton (IND) now out; Aaron Nesmith (IND) now questionable; Andrew Nembhard (IND) now questionable"
    }
   ]
  },
@@ -3956,18 +4251,18 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 37.1,
-   "away": 62.9
+   "home": 39.2,
+   "away": 60.8
   },
   "win_prob_band": {
-   "low": 37.1,
-   "high": 37.1,
-   "gtd_count": 0
+   "low": 37.3,
+   "high": 43.1,
+   "gtd_count": 4
   },
-  "expected_margin": -4.78,
+  "expected_margin": -3.98,
   "expected_score": {
-   "home": 111.3,
-   "away": 116.0
+   "home": 111.7,
+   "away": 115.6
   },
   "margin_breakdown": [
    {
@@ -3987,8 +4282,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": 0.8,
+    "detail": "Dallas Mavericks 1 out (20 min), Houston Rockets 2 out (44 min) costing 0.8 pts · Dereck Lively II out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -4017,12 +4312,72 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Sergio de Larrea",
+     "mpg": 20.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Dereck Lively II",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
+   "away": [
+    {
+     "player": "Reed Sheppard",
+     "mpg": 21.1,
+     "nth_out": 1,
+     "value": 3.8,
+     "cost": -0.8,
+     "no_minutes": false
+    },
+    {
+     "player": "Steven Adams",
+     "mpg": 22.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Naji Marshall",
+     "mpg": 23.0,
+     "value": 2.1,
+     "status": "Probable"
+    },
+    {
+     "player": "Santi Aldama",
+     "mpg": 27.2,
+     "value": 1.4,
+     "status": "Doubtful"
+    }
+   ],
+   "away": [
+    {
+     "player": "Alperen Sengun",
+     "mpg": 28.9,
+     "value": 6.9,
+     "status": "Questionable"
+    },
+    {
+     "player": "Marcus Smart",
+     "mpg": 29.2,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -4203,19 +4558,6 @@
      "apg": 7.0
     },
     {
-     "player": "Reed Sheppard",
-     "player_id": 1642263,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 23.4,
-     "ppg": 11.7,
-     "rpg": 2.7,
-     "apg": 5.0
-    },
-    {
      "player": "Marcus Smart",
      "player_id": 203935,
      "position": "G",
@@ -4240,6 +4582,19 @@
      "ppg": 11.5,
      "rpg": 4.5,
      "apg": 0.5
+    },
+    {
+     "player": "Bogdan Bogdanović",
+     "player_id": 203992,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.8,
+     "ppg": 6.0,
+     "rpg": 1.2,
+     "apg": 1.0
     }
    ]
   },
@@ -4264,6 +4619,12 @@
     "pick": "HOU",
     "prob": 62.9,
     "reason": "Reed Sheppard (HOU) no longer out; Steven Adams (HOU) no longer out; Alperen Sengun (HOU) cleared to play; Marcus Smart (HOU) cleared to play; Dereck Lively II (DAL) no longer out; Sergio de Larrea (DAL) no longer out; Naji Marshall (DAL) cleared to play; Santi Aldama (DAL) cleared to play"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "HOU",
+    "prob": 60.8,
+    "reason": "Reed Sheppard (HOU) now out; Steven Adams (HOU) now out; Alperen Sengun (HOU) now questionable; Marcus Smart (HOU) now questionable; Dereck Lively II (DAL) now out; Sergio de Larrea (DAL) now out; Naji Marshall (DAL) now questionable; Santi Aldama (DAL) now questionable"
    }
   ]
  },
@@ -4348,18 +4709,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 75.8,
-   "away": 24.2
+   "home": 68.6,
+   "away": 31.4
   },
   "win_prob_band": {
-   "low": 75.8,
-   "high": 75.8,
-   "gtd_count": 0
+   "low": 68.6,
+   "high": 70.9,
+   "gtd_count": 1
   },
-  "expected_margin": 10.13,
+  "expected_margin": 7.04,
   "expected_score": {
-   "home": 118.3,
-   "away": 108.1
+   "home": 116.7,
+   "away": 109.7
   },
   "margin_breakdown": [
    {
@@ -4379,13 +4740,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
-   },
-   {
-    "label": "Returning Players",
-    "points": 1.86,
-    "detail": "Bradley Beal (LAC) back after missing 2025-26, valued from 2024-25"
+    "points": -1.24,
+    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, LA Clippers 4 out (90 min) costing 1.3 pts · Bradley Beal out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4409,12 +4765,77 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Anthony Edwards",
+     "mpg": 26.3,
+     "nth_out": 1,
+     "value": 11.9,
+     "cost": -2.49,
+     "no_minutes": false
+    },
+    {
+     "player": "Donte DiVincenzo",
+     "mpg": 29.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Brandon Ingram",
+     "mpg": 32.6,
+     "nth_out": 1,
+     "value": 5.8,
+     "cost": -1.22,
+     "no_minutes": false
+    },
+    {
+     "player": "Jordan Miller",
+     "mpg": 21.5,
+     "nth_out": 1,
+     "value": 0.2,
+     "cost": -0.04,
+     "no_minutes": false
+    },
+    {
+     "player": "Max Strus",
+     "mpg": 25.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Yanic Konan Niederhauser",
+     "mpg": 10.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Bradley Beal",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Rui Hachimura",
+     "mpg": 24.6,
+     "value": 4.5,
+     "status": "Probable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -4423,19 +4844,6 @@
     "away": 3
    },
    "home": [
-    {
-     "player": "Anthony Edwards",
-     "player_id": 1630162,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 33.7,
-     "ppg": 33.2,
-     "rpg": 4.8,
-     "apg": 3.5
-    },
     {
      "player": "Rudy Gobert",
      "player_id": 203497,
@@ -4492,7 +4900,7 @@
      "player": "Ayo Dosunmu",
      "player_id": 1630245,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -4526,6 +4934,19 @@
      "ppg": 6.8,
      "rpg": 7.0,
      "apg": 0.2
+    },
+    {
+     "player": "Trey Lyles",
+     "player_id": 1626168,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.1,
+     "ppg": 4.0,
+     "rpg": 3.5,
+     "apg": 1.2
     }
    ],
    "away": [
@@ -4541,20 +4962,6 @@
      "ppg": 24.0,
      "rpg": 1.7,
      "apg": 7.0
-    },
-    {
-     "player": "Bradley Beal",
-     "player_id": 203078,
-     "position": "G",
-     "starter": true,
-     "games": 0,
-     "starts": 0,
-     "start_rate": null,
-     "mpg": null,
-     "ppg": null,
-     "rpg": null,
-     "apg": null,
-     "projection": "returning"
     },
     {
      "player": "Rui Hachimura",
@@ -4599,7 +5006,7 @@
      "player": "Isaiah Jackson",
      "player_id": 1630543,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 3,
      "start_rate": 100,
@@ -4633,6 +5040,19 @@
      "ppg": 18.0,
      "rpg": 5.3,
      "apg": 1.0
+    },
+    {
+     "player": "Kobe Sanders",
+     "player_id": 1642920,
+     "position": "G",
+     "starter": false,
+     "games": 3,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.3,
+     "ppg": 6.3,
+     "rpg": 2.3,
+     "apg": 3.3
     }
    ]
   },
@@ -4657,6 +5077,12 @@
     "pick": "MIN",
     "prob": 75.8,
     "reason": "Bradley Beal (LAC) no longer out; Brandon Ingram (LAC) no longer out; Jordan Miller (LAC) no longer out; Max Strus (LAC) no longer out; Yanic Konan Niederhauser (LAC) no longer out; Rui Hachimura (LAC) cleared to play; Anthony Edwards (MIN) no longer out; Donte DiVincenzo (MIN) no longer out"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "MIN",
+    "prob": 68.6,
+    "reason": "Bradley Beal (LAC) now out; Brandon Ingram (LAC) now out; Jordan Miller (LAC) now out; Max Strus (LAC) now out; Yanic Konan Niederhauser (LAC) now out; Rui Hachimura (LAC) now questionable; Anthony Edwards (MIN) now out; Donte DiVincenzo (MIN) now out"
    }
   ]
  },
@@ -4747,18 +5173,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 49.7,
-   "away": 50.3
+   "home": 43.4,
+   "away": 56.6
   },
   "win_prob_band": {
-   "low": 49.7,
-   "high": 49.7,
-   "gtd_count": 0
+   "low": 43.4,
+   "high": 43.4,
+   "gtd_count": 1
   },
-  "expected_margin": -0.12,
+  "expected_margin": -2.41,
   "expected_score": {
-   "home": 116.1,
-   "away": 116.3
+   "home": 115.0,
+   "away": 117.4
   },
   "margin_breakdown": [
    {
@@ -4778,8 +5204,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": -2.28,
+    "detail": "Golden State Warriors 3 out (79 min) costing 2.7 pts, Los Angeles Lakers 2 out (29 min) costing 0.4 pts · Cameron Carr out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -4808,11 +5234,68 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Jimmy Butler III",
+     "mpg": 30.3,
+     "nth_out": 1,
+     "value": 6.0,
+     "cost": -1.27,
+     "no_minutes": false
+    },
+    {
+     "player": "Kristaps Porzingis",
+     "mpg": 23.7,
+     "nth_out": 1,
+     "value": 5.8,
+     "cost": -1.22,
+     "no_minutes": false
+    },
+    {
+     "player": "Moses Moody",
+     "mpg": 25.4,
+     "nth_out": 1,
+     "value": 0.9,
+     "cost": -0.19,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Ziaire Williams",
+     "mpg": 23.2,
+     "nth_out": 1,
+     "value": 1.9,
+     "cost": -0.39,
+     "no_minutes": false
+    },
+    {
+     "player": "Adou Thiero",
+     "mpg": 5.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Cameron Carr",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Gui Santos",
+     "mpg": 21.9,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -4968,19 +5451,6 @@
      "apg": 1.3
     },
     {
-     "player": "Ziaire Williams",
-     "player_id": 1630533,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 28.3,
-     "ppg": 11.3,
-     "rpg": 3.3,
-     "apg": 1.7
-    },
-    {
      "player": "Matisse Thybulle",
      "player_id": 1629680,
      "position": "G",
@@ -4997,7 +5467,7 @@
      "player": "Quentin Grimes",
      "player_id": 1629656,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -5031,6 +5501,19 @@
      "ppg": 9.0,
      "rpg": 1.5,
      "apg": 1.5
+    },
+    {
+     "player": "Jake LaRavia",
+     "player_id": 1631222,
+     "position": "F",
+     "starter": false,
+     "games": 2,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.6,
+     "ppg": 5.0,
+     "rpg": 3.0,
+     "apg": 1.5
     }
    ]
   },
@@ -5055,6 +5538,12 @@
     "pick": "LAL",
     "prob": 50.3,
     "reason": "Adou Thiero (LAL) no longer out; Cameron Carr (LAL) no longer out; Ziaire Williams (LAL) cleared to play; Jimmy Butler III (GSW) no longer out; Kristaps Porzingis (GSW) no longer out; Moses Moody (GSW) no longer out; Gui Santos (GSW) cleared to play"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "LAL",
+    "prob": 56.6,
+    "reason": "Adou Thiero (LAL) now out; Cameron Carr (LAL) now out; Ziaire Williams (LAL) now out; Jimmy Butler III (GSW) now out; Kristaps Porzingis (GSW) now out; Moses Moody (GSW) now out; Gui Santos (GSW) now questionable"
    }
   ]
  },
@@ -5133,15 +5622,15 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 51.5,
-   "away": 48.5
+   "home": 51.2,
+   "away": 48.8
   },
   "win_prob_band": {
-   "low": 51.5,
-   "high": 51.5,
-   "gtd_count": 0
+   "low": 51.2,
+   "high": 51.2,
+   "gtd_count": 1
   },
-  "expected_margin": 0.54,
+  "expected_margin": 0.43,
   "expected_score": {
    "home": 114.8,
    "away": 114.3
@@ -5164,8 +5653,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": -0.1,
+    "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, Denver Nuggets 2 out (36 min) costing 0.1 pts"
    }
   ],
   "ratings": {
@@ -5189,11 +5678,44 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Mark Williams",
+     "mpg": 23.6,
+     "nth_out": 1,
+     "value": 1.0,
+     "cost": -0.22,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Julian Strawther",
+     "mpg": 14.9,
+     "nth_out": 1,
+     "value": 0.6,
+     "cost": -0.12,
+     "no_minutes": false
+    },
+    {
+     "player": "Spencer Jones",
+     "mpg": 21.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Oso Ighodaro",
+     "mpg": 22.6,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -5436,6 +5958,12 @@
     "pick": "PHX",
     "prob": 51.5,
     "reason": "Julian Strawther (DEN) no longer out; Spencer Jones (DEN) no longer out; Mark Williams (PHX) no longer out; Oso Ighodaro (PHX) cleared to play"
+   },
+   {
+    "at": "2026-10-30T17:02-04:00",
+    "pick": "PHX",
+    "prob": 51.2,
+    "reason": "Julian Strawther (DEN) now out; Spencer Jones (DEN) now out; Mark Williams (PHX) now out; Oso Ighodaro (PHX) now questionable"
    }
   ]
  }
