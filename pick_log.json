@@ -8783,6 +8783,11 @@
   "2026-10-30_CHA@WAS": {
    "away": "CHA",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T18:47-04:00",
+    "label": "6:45 PM ET",
+    "report": "2026-10-30T18:45-04:00"
+   },
    "home": "WAS",
    "late": false,
    "locked_at": null,
@@ -9323,6 +9328,38 @@
       "away": 60.8,
       "home": 39.2
      }
+    },
+    {
+     "at": "2026-10-30T18:47-04:00",
+     "expected_margin": -2.81,
+     "gtd": {
+      "away": [
+       "Marcus Smart"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Alperen Sengun",
+       "Reed Sheppard",
+       "Steven Adams"
+      ],
+      "home": [
+       "Santi Aldama",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Alperen Sengun (HOU) now out; Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out; Naji Marshall (DAL) cleared to play",
+     "report": "2026-10-30T18:45-04:00",
+     "win_prob": {
+      "away": 57.7,
+      "home": 42.3
+     }
     }
    ]
   },
@@ -9415,6 +9452,34 @@
      "win_prob": {
       "away": 39.2,
       "home": 60.8
+     }
+    },
+    {
+     "at": "2026-10-30T18:47-04:00",
+     "expected_margin": 4.93,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "Obi Toppin",
+       "T.J. McConnell",
+       "Ivica Zubac",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Obi Toppin (IND) now out; Aaron Nesmith (IND) cleared to play; Andrew Nembhard (IND) cleared to play",
+     "report": "2026-10-30T18:45-04:00",
+     "win_prob": {
+      "away": 36.7,
+      "home": 63.3
      }
     }
    ]
@@ -9509,6 +9574,36 @@
      "pick_code": "MIN",
      "reason": "Bradley Beal (LAC) now out; Brandon Ingram (LAC) now out; Jordan Miller (LAC) now out; Max Strus (LAC) now out; Yanic Konan Niederhauser (LAC) now out; Rui Hachimura (LAC) now questionable; Anthony Edwards (MIN) now out; Donte DiVincenzo (MIN) now out",
      "report": "2026-10-30T17:00-04:00",
+     "win_prob": {
+      "away": 31.4,
+      "home": 68.6
+     }
+    },
+    {
+     "at": "2026-10-30T18:47-04:00",
+     "expected_margin": 7.04,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Rui Hachimura (LAC) cleared to play",
+     "report": "2026-10-30T18:45-04:00",
      "win_prob": {
       "away": 31.4,
       "home": 68.6
