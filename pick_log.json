@@ -8962,6 +8962,32 @@
       "away": 13.4,
       "home": 86.6
      }
+    },
+    {
+     "at": "2026-10-30T17:47-04:00",
+     "expected_margin": 16.03,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nic Claxton",
+       "Dailyn Swain"
+      ],
+      "home": [
+       "Devin Carter"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Dailyn Swain (CHI) now out; Patrick Williams (CHI) cleared to play",
+     "report": "2026-10-30T17:45-04:00",
+     "win_prob": {
+      "away": 13.4,
+      "home": 86.6
+     }
     }
    ]
   },
@@ -9620,6 +9646,37 @@
      "win_prob": {
       "away": 45.2,
       "home": 54.8
+     }
+    },
+    {
+     "at": "2026-10-30T17:47-04:00",
+     "expected_margin": 0.09,
+     "gtd": {
+      "away": [
+       "Karl-Anthony Towns"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jose Alvarado"
+      ],
+      "home": [
+       "Jaylen Brown",
+       "Jabari Walker",
+       "Dominick Barlow",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Jaylen Brown (PHI) now out",
+     "report": "2026-10-30T17:45-04:00",
+     "win_prob": {
+      "away": 49.8,
+      "home": 50.2
      }
     }
    ]
