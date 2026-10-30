@@ -542,5 +542,21 @@
   "home": "CLE",
   "conf": 76.6,
   "correct": true
+ },
+ {
+  "date": "2026-10-29",
+  "season": "2026-2027",
+  "away": "CLE",
+  "home": "ATL",
+  "conf": 54.9,
+  "correct": true
+ },
+ {
+  "date": "2026-10-29",
+  "season": "2026-2027",
+  "away": "SAC",
+  "home": "NOP",
+  "conf": 69.6,
+  "correct": true
  }
 ]

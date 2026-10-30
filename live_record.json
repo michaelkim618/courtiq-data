@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T01:17-04:00",
+ "generated": "2026-10-29T22:32-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -653,13 +653,41 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-10-29",
+   "games": 2,
+   "wins": 2,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 44,
+   "cum_games": 70,
+   "cum_pct": 62.9,
+   "picks": [
+    {
+     "away": "CLE",
+     "home": "ATL",
+     "pick": "ATL",
+     "prob": 54.9,
+     "correct": true,
+     "updated": true
+    },
+    {
+     "away": "SAC",
+     "home": "NOP",
+     "pick": "NOP",
+     "prob": 69.6,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 68,
-  "wins": 42,
+  "games": 70,
+  "wins": 44,
   "losses": 26,
-  "pct": 61.8
+  "pct": 62.9
  },
  "unscored": 0
 }
