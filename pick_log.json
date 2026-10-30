@@ -8821,6 +8821,27 @@
       "away": 52.1,
       "home": 47.9
      }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": -1.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Coby White (CHA) no longer out; Grant Williams (CHA) no longer out; Dennis Schroder (CHA) cleared to play; Jamir Watkins (WAS) no longer out; Justin Champagnie (WAS) no longer out; Tristan Vukcevic (WAS) no longer out; Tre Johnson (WAS) cleared to play",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 53.7,
+      "home": 46.3
+     }
     }
    ]
   },
@@ -8859,6 +8880,27 @@
      "win_prob": {
       "away": 13.4,
       "home": 86.6
+     }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": 16.13,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Nic Claxton (CHI) no longer out; Patrick Williams (CHI) cleared to play; Devin Carter (BOS) no longer out",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 13.3,
+      "home": 86.7
      }
     }
    ]
@@ -8900,6 +8942,27 @@
       "away": 48.8,
       "home": 51.2
      }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": 0.54,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Julian Strawther (DEN) no longer out; Spencer Jones (DEN) no longer out; Mark Williams (PHX) no longer out; Oso Ighodaro (PHX) cleared to play",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 48.5,
+      "home": 51.5
+     }
     }
    ]
   },
@@ -8940,6 +9003,27 @@
      "win_prob": {
       "away": 66.8,
       "home": 33.2
+     }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": -7.39,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Jalen Duren (DET) no longer out; Elijah Harkless (DET) cleared to play; Egor Demin (BKN) no longer out; Drake Powell (BKN) cleared to play",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 69.5,
+      "home": 30.5
      }
     }
    ]
@@ -8986,6 +9070,27 @@
       "away": 60.8,
       "home": 39.2
      }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": -4.78,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Reed Sheppard (HOU) no longer out; Steven Adams (HOU) no longer out; Alperen Sengun (HOU) cleared to play; Marcus Smart (HOU) cleared to play; Dereck Lively II (DAL) no longer out; Sergio de Larrea (DAL) no longer out; Naji Marshall (DAL) cleared to play; Santi Aldama (DAL) cleared to play",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 62.9,
+      "home": 37.1
+     }
     }
    ]
   },
@@ -9027,6 +9132,27 @@
      "win_prob": {
       "away": 39.2,
       "home": 60.8
+     }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": 1.16,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Ben Sheppard (IND) no longer out; Ivica Zubac (IND) no longer out; Johnny Furphy (IND) no longer out; T.J. McConnell (IND) no longer out; Tyrese Haliburton (IND) no longer out; Aaron Nesmith (IND) cleared to play; Andrew Nembhard (IND) cleared to play",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 46.8,
+      "home": 53.2
      }
     }
    ]
@@ -9072,6 +9198,27 @@
       "away": 31.4,
       "home": 68.6
      }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": 10.13,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Bradley Beal (LAC) no longer out; Brandon Ingram (LAC) no longer out; Jordan Miller (LAC) no longer out; Max Strus (LAC) no longer out; Yanic Konan Niederhauser (LAC) no longer out; Rui Hachimura (LAC) cleared to play; Anthony Edwards (MIN) no longer out; Donte DiVincenzo (MIN) no longer out",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 24.2,
+      "home": 75.8
+     }
     }
    ]
   },
@@ -9116,6 +9263,27 @@
       "away": 57.6,
       "home": 42.4
      }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": -0.12,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Adou Thiero (LAL) no longer out; Cameron Carr (LAL) no longer out; Ziaire Williams (LAL) cleared to play; Jimmy Butler III (GSW) no longer out; Kristaps Porzingis (GSW) no longer out; Moses Moody (GSW) no longer out; Gui Santos (GSW) cleared to play",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 50.3,
+      "home": 49.7
+     }
     }
    ]
   },
@@ -9158,6 +9326,27 @@
       "away": 45.2,
       "home": 54.8
      }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": 2.06,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Jose Alvarado (NYK) no longer out; Ariel Hukporti (PHI) no longer out; Dominick Barlow (PHI) no longer out; Jabari Walker (PHI) no longer out; Tacko Fall (PHI) no longer out; Jaylen Brown (PHI) cleared to play",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 44.4,
+      "home": 55.6
+     }
     }
    ]
   },
@@ -9199,6 +9388,27 @@
      "win_prob": {
       "away": 32.2,
       "home": 67.8
+     }
+    },
+    {
+     "at": "2026-10-30T10:30-04:00",
+     "expected_margin": 7.32,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "Izaiyah Nelson (ORL) no longer out; Jalen Suggs (ORL) no longer out; Jonathan Isaac (ORL) no longer out; Noah Penda (ORL) no longer out; Paolo Banchero (ORL) no longer out; Kawhi Leonard (TOR) no longer out; Nate Bittle (TOR) no longer out",
+     "report": "prior-day 5 PM ET report",
+     "win_prob": {
+      "away": 30.7,
+      "home": 69.3
      }
     }
    ]
