@@ -8917,6 +8917,11 @@
   "2026-10-30_CHI@BOS": {
    "away": "CHI",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-30T19:15-04:00"
+   },
    "home": "BOS",
    "late": false,
    "locked_at": null,
@@ -9119,6 +9124,11 @@
   "2026-10-30_DET@BKN": {
    "away": "DET",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-30T19:15-04:00"
+   },
    "home": "BKN",
    "late": false,
    "locked_at": null,
@@ -9356,6 +9366,36 @@
      "pick_code": "HOU",
      "reason": "Alperen Sengun (HOU) now out; Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out; Naji Marshall (DAL) cleared to play",
      "report": "2026-10-30T18:45-04:00",
+     "win_prob": {
+      "away": 57.7,
+      "home": 42.3
+     }
+    },
+    {
+     "at": "2026-10-30T19:17-04:00",
+     "expected_margin": -2.81,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Alperen Sengun",
+       "Reed Sheppard",
+       "Steven Adams"
+      ],
+      "home": [
+       "Santi Aldama",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Marcus Smart (HOU) cleared to play",
+     "report": "2026-10-30T19:15-04:00",
      "win_prob": {
       "away": 57.7,
       "home": 42.3
@@ -9710,6 +9750,11 @@
   "2026-10-30_NYK@PHI": {
    "away": "NYK",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-30T19:15-04:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
@@ -9865,6 +9910,11 @@
   "2026-10-30_ORL@TOR": {
    "away": "ORL",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T19:17-04:00",
+    "label": "7:15 PM ET",
+    "report": "2026-10-30T19:15-04:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,

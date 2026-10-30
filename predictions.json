@@ -2382,7 +2382,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-30T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -2813,7 +2813,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-30T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -3268,7 +3268,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-30T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -3699,7 +3699,7 @@
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-30T19:30-04:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -4269,7 +4269,7 @@
   "win_prob_band": {
    "low": 42.3,
    "high": 42.3,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -2.81,
   "expected_score": {
@@ -4387,14 +4387,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Marcus Smart",
-     "mpg": 29.2,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4635,6 +4628,12 @@
     "pick": "HOU",
     "prob": 57.7,
     "reason": "Alperen Sengun (HOU) now out; Santi Aldama (DAL) now out; Tarik Biberovic (DAL) now out; Naji Marshall (DAL) cleared to play"
+   },
+   {
+    "at": "2026-10-30T19:17-04:00",
+    "pick": "HOU",
+    "prob": 57.7,
+    "reason": "Marcus Smart (HOU) cleared to play"
    }
   ]
  },
