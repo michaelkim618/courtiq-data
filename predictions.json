@@ -2505,7 +2505,7 @@
   "win_prob_band": {
    "low": 33.9,
    "high": 33.9,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -6.02,
   "expected_score": {
@@ -2585,14 +2585,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Noah Clowney",
-     "mpg": 20.5,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -2841,6 +2834,12 @@
     "pick": "DET",
     "prob": 66.1,
     "reason": "Isaiah Joe (DET) now out; Jalen Duren (DET) now out; Egor Demin (BKN) now out; Noah Clowney (BKN) now questionable"
+   },
+   {
+    "at": "2026-10-30T18:02-04:00",
+    "pick": "DET",
+    "prob": 66.1,
+    "reason": "Noah Clowney (BKN) cleared to play"
    }
   ]
  },
