@@ -2934,8 +2934,8 @@
   },
   "win_prob_band": {
    "low": 50.2,
-   "high": 52.0,
-   "gtd_count": 1
+   "high": 50.2,
+   "gtd_count": 0
   },
   "expected_margin": 0.09,
   "expected_score": {
@@ -3040,14 +3040,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Karl-Anthony Towns",
-     "mpg": 25.5,
-     "value": 3.0,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -3301,6 +3294,12 @@
     "pick": "PHI",
     "prob": 50.2,
     "reason": "Jaylen Brown (PHI) now out"
+   },
+   {
+    "at": "2026-10-30T18:32-04:00",
+    "pick": "PHI",
+    "prob": 50.2,
+    "reason": "Karl-Anthony Towns (NYK) cleared to play"
    }
   ]
  },

@@ -9735,6 +9735,35 @@
       "away": 49.8,
       "home": 50.2
      }
+    },
+    {
+     "at": "2026-10-30T18:32-04:00",
+     "expected_margin": 0.09,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jose Alvarado"
+      ],
+      "home": [
+       "Jaylen Brown",
+       "Jabari Walker",
+       "Dominick Barlow",
+       "Ariel Hukporti",
+       "Tacko Fall"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Karl-Anthony Towns (NYK) cleared to play",
+     "report": "2026-10-30T18:30-04:00",
+     "win_prob": {
+      "away": 49.8,
+      "home": 50.2
+     }
     }
    ]
   },
