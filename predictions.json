@@ -1608,9 +1608,9 @@
    "away": 49.7
   },
   "win_prob_band": {
-   "low": 48.8,
+   "low": 50.3,
    "high": 50.3,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": 0.09,
   "expected_score": {
@@ -1714,14 +1714,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Tre Johnson",
-     "mpg": 20.4,
-     "value": 2.5,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Dennis Schroder",
@@ -1978,6 +1971,12 @@
     "pick": "WAS",
     "prob": 50.3,
     "reason": "Coby White (CHA) now out; Grant Williams (CHA) now out; Kon Knueppel (CHA) now out; Dennis Schroder (CHA) now questionable; Jamir Watkins (WAS) now out; Justin Champagnie (WAS) now out; Tristan Vukcevic (WAS) now out; Tre Johnson (WAS) now questionable; pick flipped to WAS"
+   },
+   {
+    "at": "2026-10-30T18:17-04:00",
+    "pick": "WAS",
+    "prob": 50.3,
+    "reason": "Tre Johnson (WAS) cleared to play"
    }
   ]
  },

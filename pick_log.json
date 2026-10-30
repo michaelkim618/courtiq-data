@@ -8875,6 +8875,37 @@
       "away": 49.7,
       "home": 50.3
      }
+    },
+    {
+     "at": "2026-10-30T18:17-04:00",
+     "expected_margin": 0.09,
+     "gtd": {
+      "away": [
+       "Dennis Schroder"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins"
+      ]
+     },
+     "pick": "Washington Wizards",
+     "pick_code": "WAS",
+     "reason": "Tre Johnson (WAS) cleared to play",
+     "report": "2026-10-30T18:15-04:00",
+     "win_prob": {
+      "away": 49.7,
+      "home": 50.3
+     }
     }
    ]
   },
