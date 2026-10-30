@@ -7106,7 +7106,7 @@
    {
     "label": "Absences",
     "points": -1.48,
-    "detail": "Portland Trail Blazers 1 out (28 min) costing 1.5 pts"
+    "detail": "Portland Trail Blazers 2 out (45 min) costing 1.5 pts"
    },
    {
     "label": "Returning Players",
@@ -7142,6 +7142,14 @@
      "nth_out": 1,
      "value": 7.1,
      "cost": -1.48,
+     "no_minutes": false
+    },
+    {
+     "player": "Robert Williams III",
+     "mpg": 17.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
      "no_minutes": false
     }
    ],
@@ -7385,6 +7393,12 @@
     "pick": "POR",
     "prob": 56.4,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-29T21:02-04:00",
+    "pick": "POR",
+    "prob": 56.4,
+    "reason": "Robert Williams III (POR) now out"
    }
   ]
  }
