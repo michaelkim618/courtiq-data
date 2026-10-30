@@ -554,6 +554,14 @@
  {
   "date": "2026-10-29",
   "season": "2026-2027",
+  "away": "MEM",
+  "home": "POR",
+  "conf": 56.4,
+  "correct": false
+ },
+ {
+  "date": "2026-10-29",
+  "season": "2026-2027",
   "away": "SAC",
   "home": "NOP",
   "conf": 69.6,
