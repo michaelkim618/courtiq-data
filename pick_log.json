@@ -10290,6 +10290,35 @@
       "away": 46.2,
       "home": 53.8
      }
+    },
+    {
+     "at": "2026-10-31T14:02-04:00",
+     "expected_margin": 3.88,
+     "gtd": {
+      "away": [
+       "Rudy Gobert"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Anthony Edwards (MIN) now out; Donte DiVincenzo (MIN) now out; Rudy Gobert (MIN) now questionable",
+     "report": "2026-10-31T14:00-04:00",
+     "win_prob": {
+      "away": 39.5,
+      "home": 60.5
+     }
     }
    ]
   },

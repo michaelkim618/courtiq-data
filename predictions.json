@@ -7490,18 +7490,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 53.8,
-   "away": 46.2
+   "home": 60.5,
+   "away": 39.5
   },
   "win_prob_band": {
-   "low": 53.8,
-   "high": 53.8,
-   "gtd_count": 0
+   "low": 60.5,
+   "high": 60.5,
+   "gtd_count": 1
   },
-  "expected_margin": 1.39,
+  "expected_margin": 3.88,
   "expected_score": {
-   "home": 114.4,
-   "away": 113.0
+   "home": 115.6,
+   "away": 111.8
   },
   "margin_breakdown": [
    {
@@ -7521,8 +7521,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.29,
-    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
+    "points": 2.21,
+    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Minnesota Timberwolves 2 out (56 min) costing 2.5 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7564,11 +7564,35 @@
      "no_minutes": true
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Anthony Edwards",
+     "mpg": 26.3,
+     "nth_out": 1,
+     "value": 11.9,
+     "cost": -2.49,
+     "no_minutes": false
+    },
+    {
+     "player": "Donte DiVincenzo",
+     "mpg": 29.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Rudy Gobert",
+     "mpg": 24.8,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -7684,19 +7708,6 @@
    ],
    "away": [
     {
-     "player": "Anthony Edwards",
-     "player_id": 1630162,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 33.7,
-     "ppg": 33.2,
-     "rpg": 4.8,
-     "apg": 3.5
-    },
-    {
      "player": "Rudy Gobert",
      "player_id": 203497,
      "position": "C",
@@ -7752,7 +7763,7 @@
      "player": "Ayo Dosunmu",
      "player_id": 1630245,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -7786,6 +7797,19 @@
      "ppg": 6.8,
      "rpg": 7.0,
      "apg": 0.2
+    },
+    {
+     "player": "Trey Lyles",
+     "player_id": 1626168,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.1,
+     "ppg": 4.0,
+     "rpg": 3.5,
+     "apg": 1.2
     }
    ]
   },
@@ -7804,6 +7828,12 @@
     "pick": "SAS",
     "prob": 53.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-31T14:02-04:00",
+    "pick": "SAS",
+    "prob": 60.5,
+    "reason": "Anthony Edwards (MIN) now out; Donte DiVincenzo (MIN) now out; Rudy Gobert (MIN) now questionable"
    }
   ]
  },
