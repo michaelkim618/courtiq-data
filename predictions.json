@@ -2517,7 +2517,7 @@
  },
  {
   "date": "2026-10-30",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Detroit Pistons",
   "home": "Brooklyn Nets",
   "away_code": "DET",
@@ -2691,229 +2691,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 4,
-    "away": 4
-   },
-   "home": [
-    {
-     "player": "Julius Randle",
-     "player_id": 203944,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 22.0,
-     "rpg": 7.0,
-     "apg": 6.3
-    },
-    {
-     "player": "Michael Porter Jr.",
-     "player_id": 1629008,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 29.3,
-     "ppg": 21.3,
-     "rpg": 5.3,
-     "apg": 0.7
-    },
-    {
-     "player": "Keon Ellis",
-     "player_id": 1631165,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 26.4,
-     "ppg": 7.3,
-     "rpg": 1.7,
-     "apg": 2.7
-    },
-    {
-     "player": "Day'Ron Sharpe",
-     "player_id": 1630549,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 22.8,
-     "ppg": 8.7,
-     "rpg": 6.7,
-     "apg": 1.7
-    },
-    {
-     "player": "Noah Clowney",
-     "player_id": 1641730,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.5,
-     "ppg": 7.3,
-     "rpg": 4.0,
-     "apg": 0.7
-    },
-    {
-     "player": "Mikel Brown Jr.",
-     "player_id": 1643414,
-     "position": "G",
-     "starter": false,
-     "games": 2,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.9,
-     "ppg": 7.0,
-     "rpg": 2.5,
-     "apg": 4.0
-    },
-    {
-     "player": "Chaney Johnson",
-     "player_id": 1643052,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.8,
-     "ppg": 4.7,
-     "rpg": 3.7,
-     "apg": 1.0
-    },
-    {
-     "player": "Josh Minott",
-     "player_id": 1631169,
-     "position": "F",
-     "starter": false,
-     "games": 2,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.2,
-     "ppg": 9.5,
-     "rpg": 5.0,
-     "apg": 1.0
-    }
-   ],
-   "away": [
-    {
-     "player": "Cade Cunningham",
-     "player_id": 1630595,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 21.3,
-     "rpg": 4.7,
-     "apg": 8.0
-    },
-    {
-     "player": "John Collins",
-     "player_id": 1628381,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 29.5,
-     "ppg": 15.0,
-     "rpg": 7.7,
-     "apg": 0.7
-    },
-    {
-     "player": "Duncan Robinson",
-     "player_id": 1629130,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 29.0,
-     "ppg": 19.7,
-     "rpg": 2.0,
-     "apg": 2.3
-    },
-    {
-     "player": "Ausar Thompson",
-     "player_id": 1641709,
-     "position": "G",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 26.3,
-     "ppg": 7.5,
-     "rpg": 7.0,
-     "apg": 5.0
-    },
-    {
-     "player": "Daniss Jenkins",
-     "player_id": 1642450,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 25.3,
-     "ppg": 12.0,
-     "rpg": 5.0,
-     "apg": 4.7
-    },
-    {
-     "player": "Paul Reed",
-     "player_id": 1630194,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 22.1,
-     "ppg": 11.0,
-     "rpg": 8.3,
-     "apg": 2.3
-    },
-    {
-     "player": "Kevin Huerter",
-     "player_id": 1628989,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.4,
-     "ppg": 5.7,
-     "rpg": 4.0,
-     "apg": 2.0
-    },
-    {
-     "player": "Javonte Green",
-     "player_id": 1629750,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.6,
-     "ppg": 8.7,
-     "rpg": 3.3,
-     "apg": 0.0
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 94,
+   "away": 110
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Detroit Pistons",
   "model_winner": "Detroit Pistons",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-30T19:30-04:00",
   "injury_report": {
@@ -2944,7 +2729,339 @@
     "prob": 66.1,
     "reason": "Noah Clowney (BKN) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Michael Porter Jr.",
+     "starter": true,
+     "min": 26,
+     "pts": 13,
+     "reb": 7,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -25
+    },
+    {
+     "name": "Nolan Traore",
+     "starter": true,
+     "min": 26,
+     "pts": 9,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 2,
+     "tov": 3,
+     "pm": -7
+    },
+    {
+     "name": "Julius Randle",
+     "starter": true,
+     "min": 25,
+     "pts": 15,
+     "reb": 8,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 5,
+     "pm": -10
+    },
+    {
+     "name": "Day'Ron Sharpe",
+     "starter": true,
+     "min": 24,
+     "pts": 3,
+     "reb": 7,
+     "ast": 1,
+     "stl": 1,
+     "blk": 2,
+     "tov": 2,
+     "pm": -3
+    },
+    {
+     "name": "Moritz Wagner",
+     "starter": false,
+     "min": 23,
+     "pts": 16,
+     "reb": 8,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Mikel Brown Jr.",
+     "starter": false,
+     "min": 23,
+     "pts": 10,
+     "reb": 0,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -9
+    },
+    {
+     "name": "Noah Clowney",
+     "starter": false,
+     "min": 22,
+     "pts": 3,
+     "reb": 8,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 3,
+     "pm": -20
+    },
+    {
+     "name": "Keon Ellis",
+     "starter": false,
+     "min": 21,
+     "pts": 6,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "tov": 1,
+     "pm": -4
+    },
+    {
+     "name": "Chaney Johnson",
+     "starter": true,
+     "min": 19,
+     "pts": 6,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Danny Wolf",
+     "starter": false,
+     "min": 12,
+     "pts": 9,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 10
+    },
+    {
+     "name": "Terance Mann",
+     "starter": false,
+     "min": 12,
+     "pts": 2,
+     "reb": 0,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 10
+    },
+    {
+     "name": "Drake Powell",
+     "starter": false,
+     "min": 6,
+     "pts": 0,
+     "reb": 0,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Josh Minott",
+     "starter": false,
+     "min": 3,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -13
+    }
+   ],
+   "away": [
+    {
+     "name": "Paul Reed",
+     "starter": true,
+     "min": 31,
+     "pts": 12,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -1
+    },
+    {
+     "name": "Cade Cunningham",
+     "starter": true,
+     "min": 28,
+     "pts": 20,
+     "reb": 5,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 4,
+     "pm": 10
+    },
+    {
+     "name": "Duncan Robinson",
+     "starter": true,
+     "min": 26,
+     "pts": 17,
+     "reb": 4,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 0,
+     "pm": 14
+    },
+    {
+     "name": "Ausar Thompson",
+     "starter": true,
+     "min": 26,
+     "pts": 11,
+     "reb": 8,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "John Collins",
+     "starter": true,
+     "min": 26,
+     "pts": 4,
+     "reb": 9,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 18
+    },
+    {
+     "name": "Kevin Huerter",
+     "starter": false,
+     "min": 24,
+     "pts": 8,
+     "reb": 1,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "Daniss Jenkins",
+     "starter": false,
+     "min": 24,
+     "pts": 6,
+     "reb": 3,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 10
+    },
+    {
+     "name": "Ronald Holland II",
+     "starter": false,
+     "min": 22,
+     "pts": 18,
+     "reb": 3,
+     "ast": 2,
+     "stl": 4,
+     "blk": 1,
+     "tov": 2,
+     "pm": 14
+    },
+    {
+     "name": "Javonte Green",
+     "starter": false,
+     "min": 22,
+     "pts": 6,
+     "reb": 3,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": 20
+    },
+    {
+     "name": "Chaz Lanier",
+     "starter": false,
+     "min": 3,
+     "pts": 6,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Tolu Smith",
+     "starter": false,
+     "min": 3,
+     "pts": 2,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Isaac Jones",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Ebuka Okorie",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -5
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Moritz Wagner",
+    "pts": 16,
+    "reb": 8,
+    "ast": 1
+   },
+   "away": {
+    "name": "Cade Cunningham",
+    "pts": 20,
+    "reb": 5,
+    "ast": 4
+   }
+  }
  },
  {
   "date": "2026-10-30",

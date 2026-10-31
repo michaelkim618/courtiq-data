@@ -574,5 +574,13 @@
   "home": "WAS",
   "conf": 50.3,
   "correct": true
+ },
+ {
+  "date": "2026-10-30",
+  "season": "2026-2027",
+  "away": "DET",
+  "home": "BKN",
+  "conf": 66.1,
+  "correct": true
  }
 ]
