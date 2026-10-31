@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T22:32-04:00",
+ "generated": "2026-10-30T22:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -692,13 +692,13 @@
   },
   {
    "date": "2026-10-30",
-   "games": 6,
-   "wins": 5,
-   "losses": 1,
-   "pct": 83.3,
-   "cum_wins": 49,
-   "cum_games": 77,
-   "cum_pct": 63.6,
+   "games": 8,
+   "wins": 6,
+   "losses": 2,
+   "pct": 75.0,
+   "cum_wins": 50,
+   "cum_games": 79,
+   "cum_pct": 63.3,
    "picks": [
     {
      "away": "CHA",
@@ -721,6 +721,22 @@
      "home": "BKN",
      "pick": "DET",
      "prob": 66.1,
+     "correct": true,
+     "updated": true
+    },
+    {
+     "away": "HOU",
+     "home": "DAL",
+     "pick": "HOU",
+     "prob": 57.7,
+     "correct": false,
+     "updated": true
+    },
+    {
+     "away": "IND",
+     "home": "MIA",
+     "pick": "MIA",
+     "prob": 63.3,
      "correct": true,
      "updated": true
     },
@@ -752,10 +768,10 @@
   }
  ],
  "total": {
-  "games": 77,
-  "wins": 49,
-  "losses": 28,
-  "pct": 63.6
+  "games": 79,
+  "wins": 50,
+  "losses": 29,
+  "pct": 63.3
  },
  "unscored": 0
 }
