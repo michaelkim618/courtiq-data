@@ -10257,6 +10257,11 @@
   "2026-10-31_CLE@MIL": {
    "away": "CLE",
    "date": "2026-10-31",
+   "final_check": {
+    "at": "2026-10-31T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-31T19:45-04:00"
+   },
    "home": "MIL",
    "late": false,
    "locked_at": null,
@@ -10293,6 +10298,11 @@
   "2026-10-31_MIN@SAS": {
    "away": "MIN",
    "date": "2026-10-31",
+   "final_check": {
+    "at": "2026-10-31T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-31T19:45-04:00"
+   },
    "home": "SAS",
    "late": false,
    "locked_at": null,
@@ -10699,6 +10709,11 @@
   "2026-10-31_SAC@MEM": {
    "away": "SAC",
    "date": "2026-10-31",
+   "final_check": {
+    "at": "2026-10-31T19:47-04:00",
+    "label": "7:45 PM ET",
+    "report": "2026-10-31T19:45-04:00"
+   },
    "home": "MEM",
    "late": false,
    "locked_at": null,
