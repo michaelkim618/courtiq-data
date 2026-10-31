@@ -10733,6 +10733,36 @@
       "away": 19.6,
       "home": 80.4
      }
+    },
+    {
+     "at": "2026-10-31T19:32-04:00",
+     "expected_margin": 9.62,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Ty Jerome",
+       "Quinten Post",
+       "Scotty Pippen Jr."
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Quinten Post (MEM) now out; Scotty Pippen Jr. (MEM) now out; Ty Jerome (MEM) now out",
+     "report": "2026-10-31T19:30-04:00",
+     "win_prob": {
+      "away": 25.3,
+      "home": 74.7
+     }
     }
    ]
   }

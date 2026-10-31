@@ -6795,18 +6795,18 @@
    "streak": -4
   },
   "win_prob": {
-   "home": 80.4,
-   "away": 19.6
+   "home": 74.7,
+   "away": 25.3
   },
   "win_prob_band": {
-   "low": 74.6,
-   "high": 80.4,
-   "gtd_count": 1
+   "low": 74.7,
+   "high": 74.7,
+   "gtd_count": 0
   },
-  "expected_margin": 12.39,
+  "expected_margin": 9.62,
   "expected_score": {
-   "home": 122.0,
-   "away": 109.6
+   "home": 120.6,
+   "away": 111.0
   },
   "margin_breakdown": [
    {
@@ -6826,8 +6826,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.12,
-    "detail": "Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons out all season, already baked into team rating"
+    "points": -2.64,
+    "detail": "Memphis Grizzlies 3 out (57 min) costing 2.8 pts, Sacramento Kings 3 out (79 min) costing 0.1 pts · Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6851,7 +6851,32 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Ty Jerome",
+     "mpg": 23.7,
+     "nth_out": 1,
+     "value": 13.2,
+     "cost": -2.76,
+     "no_minutes": false
+    },
+    {
+     "player": "Quinten Post",
+     "mpg": 17.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Scotty Pippen Jr.",
+     "mpg": 15.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
    "away": [
     {
      "player": "Maxime Raynaud",
@@ -6888,14 +6913,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Ty Jerome",
-     "mpg": 23.7,
-     "value": 13.2,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6917,19 +6935,6 @@
      "ppg": 14.8,
      "rpg": 10.5,
      "apg": 4.8
-    },
-    {
-     "player": "Ty Jerome",
-     "player_id": 1629660,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 31.3,
-     "ppg": 29.8,
-     "rpg": 3.5,
-     "apg": 6.5
     },
     {
      "player": "Cedric Coward",
@@ -6974,7 +6979,7 @@
      "player": "Isaiah Stewart",
      "player_id": 1630191,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 1,
      "start_rate": 33,
@@ -7007,6 +7012,19 @@
      "mpg": 24.1,
      "ppg": 9.8,
      "rpg": 2.8,
+     "apg": 2.2
+    },
+    {
+     "player": "Cam Spencer",
+     "player_id": 1642285,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.8,
+     "ppg": 8.8,
+     "rpg": 3.0,
      "apg": 2.2
     }
    ],
@@ -7119,6 +7137,12 @@
     "pick": "MEM",
     "prob": 80.4,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-31T19:32-04:00",
+    "pick": "MEM",
+    "prob": 74.7,
+    "reason": "Quinten Post (MEM) now out; Scotty Pippen Jr. (MEM) now out; Ty Jerome (MEM) now out"
    }
   ]
  },
