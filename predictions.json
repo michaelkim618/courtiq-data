@@ -5402,9 +5402,9 @@
    "away": 63.6
   },
   "win_prob_band": {
-   "low": 33.9,
+   "low": 36.4,
    "high": 36.4,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -5.06,
   "expected_score": {
@@ -5497,14 +5497,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Lauri Markkanen",
-     "mpg": 27.3,
-     "value": 4.5,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5741,6 +5734,12 @@
     "pick": "POR",
     "prob": 63.6,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-31T14:17-04:00",
+    "pick": "POR",
+    "prob": 63.6,
+    "reason": "Lauri Markkanen (UTA) cleared to play"
    }
   ]
  },

@@ -10497,6 +10497,33 @@
       "away": 63.6,
       "home": 36.4
      }
+    },
+    {
+     "at": "2026-10-31T14:17-04:00",
+     "expected_margin": -5.06,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Lauri Markkanen (UTA) cleared to play",
+     "report": "2026-10-31T14:15-04:00",
+     "win_prob": {
+      "away": 63.6,
+      "home": 36.4
+     }
     }
    ]
   },
