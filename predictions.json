@@ -5187,7 +5187,7 @@
   "win_prob_band": {
    "low": 43.4,
    "high": 43.4,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -2.41,
   "expected_score": {
@@ -5296,14 +5296,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Gui Santos",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5552,6 +5545,12 @@
     "pick": "LAL",
     "prob": 56.6,
     "reason": "Adou Thiero (LAL) now out; Cameron Carr (LAL) now out; Ziaire Williams (LAL) now out; Jimmy Butler III (GSW) now out; Kristaps Porzingis (GSW) now out; Moses Moody (GSW) now out; Gui Santos (GSW) now questionable"
+   },
+   {
+    "at": "2026-10-30T20:47-04:00",
+    "pick": "LAL",
+    "prob": 56.6,
+    "reason": "Gui Santos (GSW) cleared to play"
    }
   ]
  },
