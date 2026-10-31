@@ -7493,9 +7493,9 @@
    "away": 39.5
   },
   "win_prob_band": {
-   "low": 60.5,
+   "low": 57.5,
    "high": 60.5,
-   "gtd_count": 1
+   "gtd_count": 2
   },
   "expected_margin": 3.88,
   "expected_score": {
@@ -7583,7 +7583,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Stephon Castle",
+     "mpg": 25.1,
+     "value": 5.4,
+     "status": "Questionable"
+    }
+   ],
    "away": [
     {
      "player": "Rudy Gobert",
@@ -7833,6 +7840,12 @@
     "pick": "SAS",
     "prob": 60.5,
     "reason": "Anthony Edwards (MIN) now out; Donte DiVincenzo (MIN) now out; Rudy Gobert (MIN) now questionable"
+   },
+   {
+    "at": "2026-10-31T15:02-04:00",
+    "pick": "SAS",
+    "prob": 60.5,
+    "reason": "Stephon Castle (SAS) now questionable"
    }
   ]
  },
