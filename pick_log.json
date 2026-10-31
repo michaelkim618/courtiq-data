@@ -10192,7 +10192,7 @@
    },
    "home": "NOP",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-10-31T19:00-04:00",
    "season": "2026-2027",
    "tip_et": "2026-10-31T19:00-04:00",
    "tip_known": true,
@@ -10409,6 +10409,34 @@
      "pick_code": "SAS",
      "reason": "Rudy Gobert (MIN) now out",
      "report": "2026-10-31T18:15-04:00",
+     "win_prob": {
+      "away": 39.5,
+      "home": 60.5
+     }
+    },
+    {
+     "at": "2026-10-31T19:02-04:00",
+     "expected_margin": 3.88,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Rudy Gobert"
+      ],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Stephon Castle (SAS) cleared to play",
+     "report": "2026-10-31T19:00-04:00",
      "win_prob": {
       "away": 39.5,
       "home": 60.5

@@ -7598,9 +7598,9 @@
    "away": 39.5
   },
   "win_prob_band": {
-   "low": 57.5,
+   "low": 60.5,
    "high": 60.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 3.88,
   "expected_score": {
@@ -7696,14 +7696,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Stephon Castle",
-     "mpg": 25.1,
-     "value": 5.4,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -7958,6 +7951,12 @@
     "pick": "SAS",
     "prob": 60.5,
     "reason": "Rudy Gobert (MIN) now out"
+   },
+   {
+    "at": "2026-10-31T19:02-04:00",
+    "pick": "SAS",
+    "prob": 60.5,
+    "reason": "Stephon Castle (SAS) cleared to play"
    }
   ]
  },
