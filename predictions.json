@@ -5835,8 +5835,8 @@
   },
   "win_prob_band": {
    "low": 54.4,
-   "high": 58.9,
-   "gtd_count": 1
+   "high": 54.4,
+   "gtd_count": 0
   },
   "expected_margin": 1.61,
   "expected_score": {
@@ -5949,14 +5949,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jaylen Brown",
-     "mpg": 29.8,
-     "value": 7.9,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6185,6 +6178,12 @@
     "pick": "CHA",
     "prob": 54.4,
     "reason": "Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Joel Embiid (PHI) now out; LeBron James (PHI) now out; Jaylen Brown (PHI) now questionable; Coby White (CHA) now out; Grant Williams (CHA) now out; Kon Knueppel (CHA) now out; pick flipped to CHA"
+   },
+   {
+    "at": "2026-10-31T17:17-04:00",
+    "pick": "CHA",
+    "prob": 54.4,
+    "reason": "Jaylen Brown (PHI) cleared to play"
    }
   ]
  },
