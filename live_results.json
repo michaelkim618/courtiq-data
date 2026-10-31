@@ -586,6 +586,14 @@
  {
   "date": "2026-10-30",
   "season": "2026-2027",
+  "away": "DEN",
+  "home": "PHX",
+  "conf": 51.2,
+  "correct": false
+ },
+ {
+  "date": "2026-10-30",
+  "season": "2026-2027",
   "away": "DET",
   "home": "BKN",
   "conf": 66.1,
