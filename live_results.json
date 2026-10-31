@@ -566,5 +566,13 @@
   "home": "NOP",
   "conf": 69.6,
   "correct": true
+ },
+ {
+  "date": "2026-10-30",
+  "season": "2026-2027",
+  "away": "CHA",
+  "home": "WAS",
+  "conf": 50.3,
+  "correct": true
  }
 ]

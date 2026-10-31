@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T00:32-04:00",
+ "generated": "2026-10-30T21:47-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -689,13 +689,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-10-30",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 45,
+   "cum_games": 72,
+   "cum_pct": 62.5,
+   "picks": [
+    {
+     "away": "CHA",
+     "home": "WAS",
+     "pick": "WAS",
+     "prob": 50.3,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 71,
-  "wins": 44,
+  "games": 72,
+  "wins": 45,
   "losses": 27,
-  "pct": 62.0
+  "pct": 62.5
  },
  "unscored": 0
 }

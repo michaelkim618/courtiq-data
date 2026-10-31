@@ -8791,6 +8791,13 @@
    "home": "WAS",
    "late": false,
    "locked_at": "2026-10-30T19:00-04:00",
+   "result": {
+    "score": {
+     "away": 79,
+     "home": 95
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-30T19:00-04:00",
    "tip_known": true,
@@ -9035,6 +9042,11 @@
   "2026-10-30_DEN@PHX": {
    "away": "DEN",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T21:47-04:00",
+    "label": "9:45 PM ET",
+    "report": "2026-10-30T21:45-04:00"
+   },
    "home": "PHX",
    "late": false,
    "locked_at": null,
@@ -9722,6 +9734,11 @@
   "2026-10-30_LAL@GSW": {
    "away": "LAL",
    "date": "2026-10-30",
+   "final_check": {
+    "at": "2026-10-30T21:47-04:00",
+    "label": "9:45 PM ET",
+    "report": "2026-10-30T21:45-04:00"
+   },
    "home": "GSW",
    "late": false,
    "locked_at": null,
