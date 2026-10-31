@@ -5635,7 +5635,7 @@
   "win_prob_band": {
    "low": 51.2,
    "high": 51.2,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 0.43,
   "expected_score": {
@@ -5715,14 +5715,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Oso Ighodaro",
-     "mpg": 22.6,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5971,6 +5964,12 @@
     "pick": "PHX",
     "prob": 51.2,
     "reason": "Julian Strawther (DEN) now out; Spencer Jones (DEN) now out; Mark Williams (PHX) now out; Oso Ighodaro (PHX) now questionable"
+   },
+   {
+    "at": "2026-10-30T21:02-04:00",
+    "pick": "PHX",
+    "prob": 51.2,
+    "reason": "Oso Ighodaro (PHX) cleared to play"
    }
   ]
  }
