@@ -7600,7 +7600,7 @@
   "win_prob_band": {
    "low": 57.5,
    "high": 60.5,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": 3.88,
   "expected_score": {
@@ -7626,7 +7626,7 @@
    {
     "label": "Absences",
     "points": 2.21,
-    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Minnesota Timberwolves 2 out (56 min) costing 2.5 pts · Jayden Quaintance out all season, already baked into team rating"
+    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Minnesota Timberwolves 3 out (81 min) costing 2.5 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7684,6 +7684,14 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Rudy Gobert",
+     "mpg": 24.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ]
   },
@@ -7696,14 +7704,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Rudy Gobert",
-     "mpg": 24.8,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7819,19 +7820,6 @@
    ],
    "away": [
     {
-     "player": "Rudy Gobert",
-     "player_id": 203497,
-     "position": "C",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 8.0,
-     "rpg": 14.2,
-     "apg": 1.0
-    },
-    {
      "player": "Jaden McDaniels",
      "player_id": 1630183,
      "position": "F",
@@ -7887,7 +7875,7 @@
      "player": "Terrence Shannon Jr",
      "player_id": 1630545,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -7921,6 +7909,19 @@
      "ppg": 4.0,
      "rpg": 3.5,
      "apg": 1.2
+    },
+    {
+     "player": "Bones Hyland",
+     "player_id": 1630538,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 7.9,
+     "ppg": 2.2,
+     "rpg": 1.5,
+     "apg": 1.0
     }
    ]
   },
@@ -7951,6 +7952,12 @@
     "pick": "SAS",
     "prob": 60.5,
     "reason": "Stephon Castle (SAS) now questionable"
+   },
+   {
+    "at": "2026-10-31T18:17-04:00",
+    "pick": "SAS",
+    "prob": 60.5,
+    "reason": "Rudy Gobert (MIN) now out"
    }
   ]
  },
