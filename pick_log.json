@@ -10218,6 +10218,34 @@
       "away": 61.9,
       "home": 38.1
      }
+    },
+    {
+     "at": "2026-10-31T17:32-04:00",
+     "expected_margin": -4.41,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": [
+       "Jordan Poole",
+       "Yves Missi",
+       "Dejounte Murray"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Dejounte Murray (NOP) now out",
+     "report": "2026-10-31T17:30-04:00",
+     "win_prob": {
+      "away": 61.9,
+      "home": 38.1
+     }
     }
    ]
   },
@@ -10531,6 +10559,13 @@
    "home": "UTA",
    "late": false,
    "locked_at": "2026-10-31T15:00-04:00",
+   "result": {
+    "score": {
+     "away": 112,
+     "home": 90
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-10-31T15:00-04:00",
    "tip_known": true,

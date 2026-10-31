@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T01:02-04:00",
+ "generated": "2026-10-31T17:32-04:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -781,13 +781,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-10-31",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 51,
+   "cum_games": 82,
+   "cum_pct": 62.2,
+   "picks": [
+    {
+     "away": "POR",
+     "home": "UTA",
+     "pick": "POR",
+     "prob": 63.6,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 81,
-  "wins": 50,
+  "games": 82,
+  "wins": 51,
   "losses": 31,
-  "pct": 61.7
+  "pct": 62.2
  },
  "unscored": 0
 }

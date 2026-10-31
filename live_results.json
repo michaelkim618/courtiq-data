@@ -646,5 +646,13 @@
   "home": "TOR",
   "conf": 67.8,
   "correct": false
+ },
+ {
+  "date": "2026-10-31",
+  "season": "2026-2027",
+  "away": "POR",
+  "home": "UTA",
+  "conf": 63.6,
+  "correct": true
  }
 ]
