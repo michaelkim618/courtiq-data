@@ -5661,7 +5661,7 @@
    {
     "label": "Absences",
     "points": -0.1,
-    "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, Denver Nuggets 2 out (36 min) costing 0.1 pts"
+    "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, Denver Nuggets 3 out (53 min) costing 0.1 pts"
    }
   ],
   "ratings": {
@@ -5707,6 +5707,14 @@
     {
      "player": "Spencer Jones",
      "mpg": 21.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Alpha Diallo",
+     "mpg": 16.6,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
@@ -5970,6 +5978,12 @@
     "pick": "PHX",
     "prob": 51.2,
     "reason": "Oso Ighodaro (PHX) cleared to play"
+   },
+   {
+    "at": "2026-10-30T21:32-04:00",
+    "pick": "PHX",
+    "prob": 51.2,
+    "reason": "Alpha Diallo (DEN) now out"
    }
   ]
  }
