@@ -5831,18 +5831,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 49.8,
-   "away": 50.2
+   "home": 54.4,
+   "away": 45.6
   },
   "win_prob_band": {
-   "low": 49.8,
-   "high": 49.8,
-   "gtd_count": 0
+   "low": 54.4,
+   "high": 58.9,
+   "gtd_count": 1
   },
-  "expected_margin": -0.06,
+  "expected_margin": 1.61,
   "expected_score": {
-   "home": 112.0,
-   "away": 112.0
+   "home": 112.8,
+   "away": 111.2
   },
   "margin_breakdown": [
    {
@@ -5862,8 +5862,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": 1.67,
+    "detail": "Charlotte Hornets 3 out (76 min) costing 2.1 pts, Philadelphia 76ers 4 out (96 min) costing 3.8 pts"
    }
   ],
   "ratings": {
@@ -5887,12 +5887,77 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Coby White",
+     "mpg": 24.9,
+     "nth_out": 1,
+     "value": 6.1,
+     "cost": -1.28,
+     "no_minutes": false
+    },
+    {
+     "player": "Kon Knueppel",
+     "mpg": 31.1,
+     "nth_out": 1,
+     "value": 4.1,
+     "cost": -0.85,
+     "no_minutes": false
+    },
+    {
+     "player": "Grant Williams",
+     "mpg": 19.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Joel Embiid",
+     "mpg": 31.6,
+     "nth_out": 1,
+     "value": 12.1,
+     "cost": -2.54,
+     "no_minutes": false
+    },
+    {
+     "player": "LeBron James",
+     "mpg": 32.8,
+     "nth_out": 1,
+     "value": 6.0,
+     "cost": -1.26,
+     "no_minutes": false
+    },
+    {
+     "player": "Dominick Barlow",
+     "mpg": 22.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Ariel Hukporti",
+     "mpg": 9.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Jaylen Brown",
+     "mpg": 29.8,
+     "value": 7.9,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -6034,32 +6099,6 @@
      "apg": 4.8
     },
     {
-     "player": "Joel Embiid",
-     "player_id": 203954,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 34.7,
-     "ppg": 21.7,
-     "rpg": 9.7,
-     "apg": 5.7
-    },
-    {
-     "player": "LeBron James",
-     "player_id": 2544,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 16.3,
-     "rpg": 7.0,
-     "apg": 5.7
-    },
-    {
      "player": "VJ Edgecombe",
      "player_id": 1642845,
      "position": "G",
@@ -6076,7 +6115,7 @@
      "player": "Dean Wade",
      "player_id": 1629731,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 2,
      "starts": 2,
      "start_rate": 100,
@@ -6089,7 +6128,7 @@
      "player": "Kentavious Caldwell-Pope",
      "player_id": 203484,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 1,
      "start_rate": 25,
@@ -6110,12 +6149,25 @@
      "ppg": 6.0,
      "rpg": 2.2,
      "apg": 1.2
+    },
+    {
+     "player": "Adem Bona",
+     "player_id": 1641737,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.5,
+     "ppg": 2.0,
+     "rpg": 4.8,
+     "apg": 0.8
     }
    ]
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Philadelphia 76ers",
+  "model_winner": "Charlotte Hornets",
   "model_correct": null,
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-31T18:00-04:00",
@@ -6128,6 +6180,12 @@
     "pick": "PHI",
     "prob": 50.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-31T13:02-04:00",
+    "pick": "CHA",
+    "prob": 54.4,
+    "reason": "Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Joel Embiid (PHI) now out; LeBron James (PHI) now out; Jaylen Brown (PHI) now questionable; Coby White (CHA) now out; Grant Williams (CHA) now out; Kon Knueppel (CHA) now out; pick flipped to CHA"
    }
   ]
  },
@@ -7836,18 +7894,18 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 53.4,
-   "away": 46.6
+   "home": 49.7,
+   "away": 50.3
   },
   "win_prob_band": {
-   "low": 53.4,
-   "high": 53.4,
+   "low": 49.7,
+   "high": 49.7,
    "gtd_count": 0
   },
-  "expected_margin": 1.23,
+  "expected_margin": -0.09,
   "expected_score": {
-   "home": 111.8,
-   "away": 110.6
+   "home": 111.2,
+   "away": 111.3
   },
   "margin_breakdown": [
    {
@@ -7867,13 +7925,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.85,
-    "detail": "Oklahoma City Thunder 5 out (110 min) costing 1.9 pts · Thomas Sorber out all season, already baked into team rating"
-   },
-   {
-    "label": "Returning Players",
-    "points": 0.52,
-    "detail": "Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
+    "points": 1.04,
+    "detail": "Houston Rockets 2 out (44 min) costing 0.8 pts, Oklahoma City Thunder 5 out (110 min) costing 1.9 pts · Fred VanVleet, Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7897,7 +7950,32 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Reed Sheppard",
+     "mpg": 21.1,
+     "nth_out": 1,
+     "value": 3.8,
+     "cost": -0.8,
+     "no_minutes": false
+    },
+    {
+     "player": "Steven Adams",
+     "mpg": 22.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Fred VanVleet",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
+    }
+   ],
    "away": [
     {
      "player": "Jalen Williams",
@@ -8013,36 +8091,10 @@
      "apg": 7.0
     },
     {
-     "player": "Fred VanVleet",
-     "player_id": 1627832,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 30.0,
-     "ppg": 8.3,
-     "rpg": 3.0,
-     "apg": 7.0
-    },
-    {
-     "player": "Reed Sheppard",
-     "player_id": 1642263,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 23.4,
-     "ppg": 11.7,
-     "rpg": 2.7,
-     "apg": 5.0
-    },
-    {
      "player": "Marcus Smart",
      "player_id": 203935,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 2,
      "starts": 0,
      "start_rate": 0,
@@ -8063,6 +8115,19 @@
      "ppg": 11.5,
      "rpg": 4.5,
      "apg": 0.5
+    },
+    {
+     "player": "Bogdan Bogdanović",
+     "player_id": 203992,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.8,
+     "ppg": 6.0,
+     "rpg": 1.2,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -8174,7 +8239,7 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Houston Rockets",
+  "model_winner": "Oklahoma City Thunder",
   "model_correct": null,
   "model_version": "nba-v1.8",
   "tip_et": "2026-10-31T20:30-04:00",
@@ -8187,6 +8252,12 @@
     "pick": "HOU",
     "prob": 53.4,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-10-31T13:02-04:00",
+    "pick": "OKC",
+    "prob": 50.3,
+    "reason": "Fred VanVleet (HOU) now out; Reed Sheppard (HOU) now out; Steven Adams (HOU) now out; pick flipped to OKC"
    }
   ]
  }

@@ -10330,6 +10330,38 @@
       "away": 46.6,
       "home": 53.4
      }
+    },
+    {
+     "at": "2026-10-31T13:02-04:00",
+     "expected_margin": -0.09,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Reed Sheppard",
+       "Steven Adams",
+       "Fred VanVleet"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Fred VanVleet (HOU) now out; Reed Sheppard (HOU) now out; Steven Adams (HOU) now out; pick flipped to OKC",
+     "report": "2026-10-31T13:00-04:00",
+     "win_prob": {
+      "away": 50.3,
+      "home": 49.7
+     }
     }
    ]
   },
@@ -10362,6 +10394,38 @@
      "win_prob": {
       "away": 50.2,
       "home": 49.8
+     }
+    },
+    {
+     "at": "2026-10-31T13:02-04:00",
+     "expected_margin": 1.61,
+     "gtd": {
+      "away": [
+       "Jaylen Brown"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Joel Embiid",
+       "LeBron James",
+       "Dominick Barlow",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Coby White",
+       "Kon Knueppel",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Ariel Hukporti (PHI) now out; Dominick Barlow (PHI) now out; Joel Embiid (PHI) now out; LeBron James (PHI) now out; Jaylen Brown (PHI) now questionable; Coby White (CHA) now out; Grant Williams (CHA) now out; Kon Knueppel (CHA) now out; pick flipped to CHA",
+     "report": "2026-10-31T13:00-04:00",
+     "win_prob": {
+      "away": 45.6,
+      "home": 54.4
      }
     }
    ]
