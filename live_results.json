@@ -626,6 +626,14 @@
  {
   "date": "2026-10-30",
   "season": "2026-2027",
+  "away": "LAL",
+  "home": "GSW",
+  "conf": 56.6,
+  "correct": false
+ },
+ {
+  "date": "2026-10-30",
+  "season": "2026-2027",
   "away": "NYK",
   "home": "PHI",
   "conf": 50.2,
