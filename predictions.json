@@ -4190,18 +4190,18 @@
    "streak": -5
   },
   "win_prob": {
-   "home": 55.6,
-   "away": 44.4
+   "home": 53.1,
+   "away": 46.9
   },
   "win_prob_band": {
-   "low": 53.3,
-   "high": 55.6,
+   "low": 50.8,
+   "high": 53.1,
    "gtd_count": 1
   },
-  "expected_margin": 2.05,
+  "expected_margin": 1.11,
   "expected_score": {
-   "home": 115.1,
-   "away": 113.0
+   "home": 114.6,
+   "away": 113.5
   },
   "margin_breakdown": [
    {
@@ -4221,8 +4221,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.2,
-    "detail": "Indiana Pacers 5 out (104 min) costing 2.2 pts, Brooklyn Nets 1 out (23 min) · Mikel Brown Jr. out all season, already baked into team rating"
+    "points": -3.13,
+    "detail": "Indiana Pacers 6 out (123 min) costing 3.1 pts, Brooklyn Nets 1 out (23 min) · Mikel Brown Jr. out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4253,6 +4253,14 @@
      "nth_out": 2,
      "value": 7.6,
      "cost": -1.59,
+     "no_minutes": false
+    },
+    {
+     "player": "Obi Toppin",
+     "mpg": 19.2,
+     "nth_out": 1,
+     "value": 4.5,
+     "cost": -0.94,
      "no_minutes": false
     },
     {
@@ -4404,19 +4412,6 @@
      "apg": 1.5
     },
     {
-     "player": "Obi Toppin",
-     "player_id": 1630167,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.2,
-     "ppg": 15.8,
-     "rpg": 5.0,
-     "apg": 1.5
-    },
-    {
      "player": "Quenton Jackson",
      "player_id": 1631245,
      "position": "G",
@@ -4428,6 +4423,19 @@
      "ppg": 5.8,
      "rpg": 2.0,
      "apg": 2.5
+    },
+    {
+     "player": "Larry Nance Jr.",
+     "player_id": 1626204,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 11.8,
+     "ppg": 2.0,
+     "rpg": 2.2,
+     "apg": 0.5
     }
    ],
    "away": [
@@ -4559,6 +4567,12 @@
     "pick": "IND",
     "prob": 55.6,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-01T15:32-05:00",
+    "pick": "IND",
+    "prob": 53.1,
+    "reason": "Obi Toppin (IND) now out"
    }
   ]
  },
