@@ -10934,6 +10934,37 @@
       "away": 46.9,
       "home": 53.1
      }
+    },
+    {
+     "at": "2026-11-01T16:02-05:00",
+     "expected_margin": 1.11,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Egor Demin",
+       "Mikel Brown Jr."
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Obi Toppin",
+       "T.J. McConnell",
+       "Ivica Zubac",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Indiana Pacers",
+     "pick_code": "IND",
+     "reason": "Aaron Nesmith (IND) cleared to play",
+     "report": "2026-11-01T16:00-05:00",
+     "win_prob": {
+      "away": 46.9,
+      "home": 53.1
+     }
     }
    ]
   },
@@ -11188,6 +11219,33 @@
      "win_prob": {
       "away": 45.8,
       "home": 54.2
+     }
+    },
+    {
+     "at": "2026-11-01T16:02-05:00",
+     "expected_margin": 1.15,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ],
+      "home": [
+       "Ziaire Williams",
+       "Adou Thiero"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Ziaire Williams (LAL) now out",
+     "report": "2026-11-01T16:00-05:00",
+     "win_prob": {
+      "away": 46.8,
+      "home": 53.2
      }
     }
    ]
