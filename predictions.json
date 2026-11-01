@@ -3662,14 +3662,14 @@
    "losses": 3,
    "win_pct": 0.4,
    "conference": "East",
-   "rank": 10
+   "rank": 9
   },
   "away_standing": {
    "wins": 4,
    "losses": 1,
    "win_pct": 0.8,
    "conference": "East",
-   "rank": 4
+   "rank": 3
   },
   "home_recent_form": {
    "games": [
@@ -3778,7 +3778,7 @@
    {
     "label": "Absences",
     "points": -2.01,
-    "detail": "Orlando Magic 4 out (77 min) costing 2.1 pts, Boston Celtics 1 out (18 min) costing 0.1 pts · Izaiyah Nelson out all season, already baked into team rating"
+    "detail": "Orlando Magic 4 out (77 min) costing 2.1 pts, Boston Celtics 2 out (37 min) costing 0.1 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3806,7 +3806,7 @@
     {
      "player": "Paolo Banchero",
      "mpg": 25.6,
-     "nth_out": 1,
+     "nth_out": 4,
      "value": 9.4,
      "cost": -1.98,
      "no_minutes": false
@@ -3814,7 +3814,7 @@
     {
      "player": "Jalen Suggs",
      "mpg": 28.5,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.7,
      "cost": -0.14,
      "no_minutes": false
@@ -3822,7 +3822,7 @@
     {
      "player": "Noah Penda",
      "mpg": 12.6,
-     "nth_out": 1,
+     "nth_out": 6,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3830,7 +3830,7 @@
     {
      "player": "Jonathan Isaac",
      "mpg": 10.3,
-     "nth_out": 1,
+     "nth_out": 6,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3838,7 +3838,7 @@
     {
      "player": "Izaiyah Nelson",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 6,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -3848,9 +3848,17 @@
     {
      "player": "Devin Carter",
      "mpg": 18.1,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.5,
      "cost": -0.1,
+     "no_minutes": false
+    },
+    {
+     "player": "Mitchell Robinson",
+     "mpg": 18.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
      "no_minutes": false
     }
    ]
@@ -3986,19 +3994,6 @@
      "apg": 6.2
     },
     {
-     "player": "Mitchell Robinson",
-     "player_id": 1629011,
-     "position": "C",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 20.4,
-     "ppg": 5.5,
-     "rpg": 4.8,
-     "apg": 0.8
-    },
-    {
      "player": "Jordan Walsh",
      "player_id": 1641775,
      "position": "G",
@@ -4015,7 +4010,7 @@
      "player": "Payton Pritchard",
      "player_id": 1630202,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -4049,6 +4044,19 @@
      "ppg": 8.0,
      "rpg": 4.5,
      "apg": 1.5
+    },
+    {
+     "player": "Baylor Scheierman",
+     "player_id": 1631248,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.2,
+     "ppg": 3.8,
+     "rpg": 3.2,
+     "apg": 0.8
     }
    ]
   },
@@ -4057,6 +4065,7 @@
   "model_winner": "Boston Celtics",
   "model_correct": null,
   "model_version": "nba-v1.8",
+  "data_through": "2026-10-31",
   "tip_et": "2026-11-01T15:30-05:00",
   "injury_report": {
    "final_check": null
@@ -4073,6 +4082,12 @@
     "pick": "BOS",
     "prob": 70.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-01T10:33-05:00",
+    "pick": "BOS",
+    "prob": 70.4,
+    "reason": "Mitchell Robinson (BOS) now out"
    }
   ]
  },
@@ -4091,7 +4106,7 @@
    "losses": 4,
    "win_pct": 0.333,
    "conference": "East",
-   "rank": 9
+   "rank": 11
   },
   "away_standing": {
    "wins": 0,
@@ -4235,7 +4250,7 @@
     {
      "player": "Tyrese Haliburton",
      "mpg": 25.3,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 7.6,
      "cost": -1.59,
      "no_minutes": false
@@ -4243,7 +4258,7 @@
     {
      "player": "T.J. McConnell",
      "mpg": 17.0,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 1.8,
      "cost": -0.37,
      "no_minutes": false
@@ -4251,7 +4266,7 @@
     {
      "player": "Ivica Zubac",
      "mpg": 22.2,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 1.1,
      "cost": -0.23,
      "no_minutes": false
@@ -4259,7 +4274,7 @@
     {
      "player": "Ben Sheppard",
      "mpg": 21.2,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4267,7 +4282,7 @@
     {
      "player": "Johnny Furphy",
      "mpg": 18.2,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4277,7 +4292,7 @@
     {
      "player": "Egor Demin",
      "mpg": 23.2,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4527,6 +4542,7 @@
   "model_winner": "Indiana Pacers",
   "model_correct": null,
   "model_version": "nba-v1.8",
+  "data_through": "2026-10-31",
   "tip_et": "2026-11-01T17:00-05:00",
   "injury_report": {
    "final_check": null
@@ -4561,14 +4577,14 @@
    "losses": 3,
    "win_pct": 0.5,
    "conference": "West",
-   "rank": 12
+   "rank": 10
   },
   "away_standing": {
    "wins": 1,
    "losses": 4,
    "win_pct": 0.2,
    "conference": "West",
-   "rank": 9
+   "rank": 13
   },
   "home_recent_form": {
    "games": [
@@ -5021,6 +5037,7 @@
   "model_winner": "Golden State Warriors",
   "model_correct": null,
   "model_version": "nba-v1.8",
+  "data_through": "2026-10-31",
   "tip_et": "2026-11-01T20:30-05:00",
   "injury_report": {
    "final_check": null
@@ -5214,7 +5231,7 @@
     {
      "player": "Kawhi Leonard",
      "mpg": 30.9,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 12.9,
      "cost": -2.72,
      "no_minutes": false
@@ -5222,7 +5239,7 @@
     {
      "player": "Nate Bittle",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 6,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -5464,6 +5481,7 @@
   "model_winner": "Los Angeles Lakers",
   "model_correct": null,
   "model_version": "nba-v1.8",
+  "data_through": "2026-10-31",
   "tip_et": "2026-11-01T21:00-05:00",
   "injury_report": {
    "final_check": null
