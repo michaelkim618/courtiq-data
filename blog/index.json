@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-01-hot-take-here-s-what-fans-need-to-know-in-the-sports-world-t",
+      "title": "Hot Take: Here's what fans need to know in the sports world today",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-11-01",
+      "type": "daily",
+      "tag": "Hot Take",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "ESPN's **\"Here's what fans need to know in the sports world today\"** is the headline, covering the WNBA, CFB, and NBA—because apparently that's the trinity of sports urgency right now, and Rico has thoughts.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-10-28-the-numbers-going-into-2026-10-28",
       "title": "The Numbers Going Into 2026-10-28",
       "author": "Stan",
