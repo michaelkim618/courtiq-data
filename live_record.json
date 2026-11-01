@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T22:47-04:00",
+ "generated": "2026-11-01T18:17-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -849,13 +849,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-01",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 55,
+   "cum_games": 89,
+   "cum_pct": 61.8,
+   "picks": [
+    {
+     "away": "BOS",
+     "home": "ORL",
+     "pick": "BOS",
+     "prob": 70.4,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 88,
-  "wins": 54,
+  "games": 89,
+  "wins": 55,
   "losses": 34,
-  "pct": 61.4
+  "pct": 61.8
  },
  "unscored": 0
 }

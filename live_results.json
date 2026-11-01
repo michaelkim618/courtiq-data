@@ -702,5 +702,13 @@
   "home": "MEM",
   "conf": 74.7,
   "correct": true
+ },
+ {
+  "date": "2026-11-01",
+  "season": "2026-2027",
+  "away": "BOS",
+  "home": "ORL",
+  "conf": 70.4,
+  "correct": true
  }
 ]
