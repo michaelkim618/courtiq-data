@@ -10457,6 +10457,11 @@
   "2026-10-31_OKC@HOU": {
    "away": "OKC",
    "date": "2026-10-31",
+   "final_check": {
+    "at": "2026-10-31T20:17-04:00",
+    "label": "8:15 PM ET",
+    "report": "2026-10-31T20:15-04:00"
+   },
    "home": "HOU",
    "late": false,
    "locked_at": null,
