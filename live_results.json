@@ -674,6 +674,14 @@
  {
   "date": "2026-10-31",
   "season": "2026-2027",
+  "away": "OKC",
+  "home": "HOU",
+  "conf": 50.3,
+  "correct": false
+ },
+ {
+  "date": "2026-10-31",
+  "season": "2026-2027",
   "away": "PHI",
   "home": "CHA",
   "conf": 54.4,
@@ -685,6 +693,14 @@
   "away": "POR",
   "home": "UTA",
   "conf": 63.6,
+  "correct": true
+ },
+ {
+  "date": "2026-10-31",
+  "season": "2026-2027",
+  "away": "SAC",
+  "home": "MEM",
+  "conf": 74.7,
   "correct": true
  }
 ]
