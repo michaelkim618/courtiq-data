@@ -650,6 +650,14 @@
  {
   "date": "2026-10-31",
   "season": "2026-2027",
+  "away": "PHI",
+  "home": "CHA",
+  "conf": 54.4,
+  "correct": false
+ },
+ {
+  "date": "2026-10-31",
+  "season": "2026-2027",
   "away": "POR",
   "home": "UTA",
   "conf": 63.6,
