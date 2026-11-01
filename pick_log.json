@@ -10827,6 +10827,178 @@
      }
     }
    ]
+  },
+  "2026-11-01_BKN@IND": {
+   "away": "BKN",
+   "date": "2026-11-01",
+   "home": "IND",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-01T17:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-01T00:03-04:00",
+     "expected_margin": 2.56,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Aaron Nesmith"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Egor Demin",
+       "Mikel Brown Jr."
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ivica Zubac",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Indiana Pacers",
+     "pick_code": "IND",
+     "reason": "Opening pick",
+     "report": "2026-11-01T00:00-04:00",
+     "win_prob": {
+      "away": 43.0,
+      "home": 57.0
+     }
+    }
+   ]
+  },
+  "2026-11-01_BOS@ORL": {
+   "away": "BOS",
+   "date": "2026-11-01",
+   "home": "ORL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-01T15:30-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-01T00:03-04:00",
+     "expected_margin": -5.81,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Devin Carter"
+      ],
+      "home": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Opening pick",
+     "report": "2026-11-01T00:00-04:00",
+     "win_prob": {
+      "away": 65.6,
+      "home": 34.4
+     }
+    }
+   ]
+  },
+  "2026-11-01_LAC@GSW": {
+   "away": "LAC",
+   "date": "2026-11-01",
+   "home": "GSW",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-01T20:30-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-01T00:03-04:00",
+     "expected_margin": -1.19,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Gui Santos"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Draymond Green"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "Opening pick",
+     "report": "2026-11-01T00:00-04:00",
+     "win_prob": {
+      "away": 53.3,
+      "home": 46.7
+     }
+    }
+   ]
+  },
+  "2026-11-01_TOR@LAL": {
+   "away": "TOR",
+   "date": "2026-11-01",
+   "home": "LAL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-01T21:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-01T00:03-04:00",
+     "expected_margin": 2.9,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Ziaire Williams"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ],
+      "home": [
+       "Adou Thiero"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Opening pick",
+     "report": "2026-11-01T00:00-04:00",
+     "win_prob": {
+      "away": 42.1,
+      "home": 57.9
+     }
+    }
+   ]
   }
  }
 }
