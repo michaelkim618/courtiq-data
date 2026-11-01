@@ -666,6 +666,14 @@
  {
   "date": "2026-10-31",
   "season": "2026-2027",
+  "away": "MIN",
+  "home": "SAS",
+  "conf": 60.5,
+  "correct": true
+ },
+ {
+  "date": "2026-10-31",
+  "season": "2026-2027",
   "away": "PHI",
   "home": "CHA",
   "conf": 54.4,
