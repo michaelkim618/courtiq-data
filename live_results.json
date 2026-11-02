@@ -726,5 +726,13 @@
   "home": "GSW",
   "conf": 56.4,
   "correct": true
+ },
+ {
+  "date": "2026-11-01",
+  "season": "2026-2027",
+  "away": "TOR",
+  "home": "LAL",
+  "conf": 53.2,
+  "correct": true
  }
 ]
