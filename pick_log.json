@@ -11397,6 +11397,43 @@
       "away": 63.0,
       "home": 37.0
      }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": -7.35,
+     "gtd": {
+      "away": [
+       "Jalen Johnson"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jock Landale",
+       "Kingston Flemings",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Pascal Siakam",
+       "Aaron Nesmith",
+       "T.J. McConnell",
+       "Ivica Zubac",
+       "Andrew Nembhard",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Aaron Nesmith (IND) now out; Andrew Nembhard (IND) now out; Pascal Siakam (IND) now out",
+     "report": "2026-11-02T15:00-05:00",
+     "win_prob": {
+      "away": 69.4,
+      "home": 30.6
+     }
     }
    ]
   },
@@ -11429,6 +11466,29 @@
      "pick_code": "NYK",
      "reason": "Opening pick",
      "report": "2026-11-02T00:45-05:00",
+     "win_prob": {
+      "away": 26.1,
+      "home": 73.9
+     }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": 9.28,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Egor Demin"
+      ],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Tyler Bilodeau (BKN) no longer out",
+     "report": "2026-11-02T15:00-05:00",
      "win_prob": {
       "away": 26.1,
       "home": 73.9
@@ -11499,6 +11559,35 @@
      "win_prob": {
       "away": 40.0,
       "home": 60.0
+     }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": 4.71,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Reed Sheppard"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paul George",
+       "Devin Carter"
+      ],
+      "home": [
+       "Steven Adams",
+       "Clint Capela"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Paul George (BOS) now out; Clint Capela (HOU) now out",
+     "report": "2026-11-02T15:00-05:00",
+     "win_prob": {
+      "away": 37.3,
+      "home": 62.7
      }
     }
    ]
@@ -11581,6 +11670,33 @@
       "away": 65.4,
       "home": 34.6
      }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": -5.46,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Isaiah Joe (DET) now out; Elijah Harkless (DET) cleared to play",
+     "report": "2026-11-02T15:00-05:00",
+     "win_prob": {
+      "away": 64.7,
+      "home": 35.3
+     }
     }
    ]
   },
@@ -11653,6 +11769,33 @@
       "away": 19.5,
       "home": 80.5
      }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": 12.44,
+     "gtd": {
+      "away": [],
+      "home": [
+       "LaMelo Ball",
+       "Terrence Shannon Jr"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "LaMelo Ball (MIN) now questionable; Terrence Shannon Jr (MIN) now questionable",
+     "report": "2026-11-02T15:00-05:00",
+     "win_prob": {
+      "away": 19.5,
+      "home": 80.5
+     }
     }
    ]
   },
@@ -11687,6 +11830,30 @@
      "pick_code": "MEM",
      "reason": "Opening pick",
      "report": "2026-11-02T00:45-05:00",
+     "win_prob": {
+      "away": 28.2,
+      "home": 71.8
+     }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": 8.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jordan Poole",
+       "Yves Missi"
+      ],
+      "home": []
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Trey Murphy III (NOP) cleared to play",
+     "report": "2026-11-02T15:00-05:00",
      "win_prob": {
       "away": 28.2,
       "home": 71.8
@@ -11778,6 +11945,37 @@
      "win_prob": {
       "away": 45.9,
       "home": 54.1
+     }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": 3.63,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Stephen Curry",
+       "Draymond Green"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Gui Santos"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Gui Santos (GSW) now out; Draymond Green (GSW) no longer out; Stephen Curry (GSW) no longer out; Draymond Green (GSW) now questionable; Stephen Curry (GSW) now questionable",
+     "report": "2026-11-02T15:00-05:00",
+     "win_prob": {
+      "away": 40.1,
+      "home": 59.9
      }
     }
    ]
@@ -11993,6 +12191,41 @@
      "win_prob": {
       "away": 43.5,
       "home": 56.5
+     }
+    },
+    {
+     "at": "2026-11-02T15:02-05:00",
+     "expected_margin": 2.16,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Alex Sarr",
+       "Jamir Watkins",
+       "Anthony Gill",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Paolo Banchero",
+       "Anthony Black",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Alex Sarr (WAS) now out; Anthony Gill (WAS) now out; Reece Beekman (WAS) now out; Anthony Black (ORL) now out",
+     "report": "2026-11-02T15:00-05:00",
+     "win_prob": {
+      "away": 44.1,
+      "home": 55.9
      }
     }
    ]
