@@ -10839,6 +10839,13 @@
    "home": "IND",
    "late": false,
    "locked_at": "2026-11-01T17:00-05:00",
+   "result": {
+    "score": {
+     "away": 98,
+     "home": 90
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-01T17:00-05:00",
    "tip_known": true,

@@ -706,6 +706,14 @@
  {
   "date": "2026-11-01",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "IND",
+  "conf": 53.1,
+  "correct": false
+ },
+ {
+  "date": "2026-11-01",
+  "season": "2026-2027",
   "away": "BOS",
   "home": "ORL",
   "conf": 70.4,

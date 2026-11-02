@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T18:17-05:00",
+ "generated": "2026-11-01T19:47-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -852,14 +852,22 @@
   },
   {
    "date": "2026-11-01",
-   "games": 1,
+   "games": 2,
    "wins": 1,
-   "losses": 0,
-   "pct": 100.0,
+   "losses": 1,
+   "pct": 50.0,
    "cum_wins": 55,
-   "cum_games": 89,
-   "cum_pct": 61.8,
+   "cum_games": 90,
+   "cum_pct": 61.1,
    "picks": [
+    {
+     "away": "BKN",
+     "home": "IND",
+     "pick": "IND",
+     "prob": 53.1,
+     "correct": false,
+     "updated": true
+    },
     {
      "away": "BOS",
      "home": "ORL",
@@ -872,10 +880,10 @@
   }
  ],
  "total": {
-  "games": 89,
+  "games": 90,
   "wins": 55,
-  "losses": 34,
-  "pct": 61.8
+  "losses": 35,
+  "pct": 61.1
  },
  "unscored": 0
 }

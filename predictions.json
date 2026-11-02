@@ -4152,7 +4152,7 @@
  },
  {
   "date": "2026-11-01",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Brooklyn Nets",
   "home": "Indiana Pacers",
   "away_code": "BKN",
@@ -4378,229 +4378,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 4,
-    "away": 4
-   },
-   "home": [
-    {
-     "player": "Andrew Nembhard",
-     "player_id": 1629614,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 31.9,
-     "ppg": 16.0,
-     "rpg": 1.7,
-     "apg": 5.7
-    },
-    {
-     "player": "Pascal Siakam",
-     "player_id": 1627783,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 31.6,
-     "ppg": 23.5,
-     "rpg": 7.8,
-     "apg": 4.0
-    },
-    {
-     "player": "Aaron Nesmith",
-     "player_id": 1630174,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 2,
-     "start_rate": 67,
-     "mpg": 20.1,
-     "ppg": 11.7,
-     "rpg": 1.7,
-     "apg": 1.3
-    },
-    {
-     "player": "Kelly Oubre Jr.",
-     "player_id": 1626162,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 2,
-     "start_rate": 50,
-     "mpg": 22.6,
-     "ppg": 7.5,
-     "rpg": 2.2,
-     "apg": 2.0
-    },
-    {
-     "player": "Jay Huff",
-     "player_id": 1630643,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 16.2,
-     "ppg": 6.7,
-     "rpg": 3.3,
-     "apg": 1.3
-    },
-    {
-     "player": "Jarace Walker",
-     "player_id": 1641716,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 1,
-     "start_rate": 25,
-     "mpg": 20.8,
-     "ppg": 5.2,
-     "rpg": 5.5,
-     "apg": 1.5
-    },
-    {
-     "player": "Quenton Jackson",
-     "player_id": 1631245,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.3,
-     "ppg": 5.8,
-     "rpg": 2.0,
-     "apg": 2.5
-    },
-    {
-     "player": "Larry Nance Jr.",
-     "player_id": 1626204,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 11.8,
-     "ppg": 2.0,
-     "rpg": 2.2,
-     "apg": 0.5
-    }
-   ],
-   "away": [
-    {
-     "player": "Julius Randle",
-     "player_id": 203944,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 35.4,
-     "ppg": 22.5,
-     "rpg": 7.5,
-     "apg": 5.8
-    },
-    {
-     "player": "Michael Porter Jr.",
-     "player_id": 1629008,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 22.8,
-     "rpg": 7.0,
-     "apg": 1.0
-    },
-    {
-     "player": "Day'Ron Sharpe",
-     "player_id": 1630549,
-     "position": "C",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 21.5,
-     "ppg": 7.5,
-     "rpg": 6.5,
-     "apg": 1.2
-    },
-    {
-     "player": "Keon Ellis",
-     "player_id": 1631165,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 3,
-     "start_rate": 75,
-     "mpg": 26.1,
-     "ppg": 6.0,
-     "rpg": 2.0,
-     "apg": 3.0
-    },
-    {
-     "player": "Nolan Traore",
-     "player_id": 1642849,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 1,
-     "start_rate": 25,
-     "mpg": 17.4,
-     "ppg": 9.5,
-     "rpg": 1.8,
-     "apg": 2.0
-    },
-    {
-     "player": "Noah Clowney",
-     "player_id": 1641730,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.5,
-     "ppg": 6.2,
-     "rpg": 4.0,
-     "apg": 0.8
-    },
-    {
-     "player": "Chaney Johnson",
-     "player_id": 1643052,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.6,
-     "ppg": 7.2,
-     "rpg": 3.5,
-     "apg": 1.2
-    },
-    {
-     "player": "Moritz Wagner",
-     "player_id": 1629021,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.7,
-     "ppg": 10.2,
-     "rpg": 2.8,
-     "apg": 1.5
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 90,
+   "away": 98
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Brooklyn Nets",
   "model_winner": "Indiana Pacers",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.8",
   "data_through": "2026-10-31",
   "tip_et": "2026-11-01T17:00-05:00",
@@ -4632,7 +4417,255 @@
     "prob": 53.1,
     "reason": "Aaron Nesmith (IND) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Pascal Siakam",
+     "starter": true,
+     "min": 36,
+     "pts": 17,
+     "reb": 5,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 4
+    },
+    {
+     "name": "Andrew Nembhard",
+     "starter": true,
+     "min": 35,
+     "pts": 23,
+     "reb": 3,
+     "ast": 4,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": -1
+    },
+    {
+     "name": "Aaron Nesmith",
+     "starter": true,
+     "min": 30,
+     "pts": 11,
+     "reb": 3,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -15
+    },
+    {
+     "name": "Larry Nance Jr.",
+     "starter": false,
+     "min": 25,
+     "pts": 4,
+     "reb": 6,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -5
+    },
+    {
+     "name": "Quenton Jackson",
+     "starter": false,
+     "min": 24,
+     "pts": 12,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Kelly Oubre Jr.",
+     "starter": true,
+     "min": 20,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Jarace Walker",
+     "starter": false,
+     "min": 19,
+     "pts": 6,
+     "reb": 6,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -2
+    },
+    {
+     "name": "Jalen Slawson",
+     "starter": false,
+     "min": 17,
+     "pts": 3,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -10
+    },
+    {
+     "name": "Jay Huff",
+     "starter": true,
+     "min": 17,
+     "pts": 0,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Kobe Brown",
+     "starter": false,
+     "min": 14,
+     "pts": 3,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -3
+    }
+   ],
+   "away": [
+    {
+     "name": "Julius Randle",
+     "starter": true,
+     "min": 37,
+     "pts": 20,
+     "reb": 5,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 4,
+     "pm": 17
+    },
+    {
+     "name": "Michael Porter Jr.",
+     "starter": true,
+     "min": 35,
+     "pts": 23,
+     "reb": 9,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 4,
+     "pm": 4
+    },
+    {
+     "name": "Chaney Johnson",
+     "starter": true,
+     "min": 31,
+     "pts": 2,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 10
+    },
+    {
+     "name": "Nolan Traore",
+     "starter": true,
+     "min": 30,
+     "pts": 16,
+     "reb": 2,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 8
+    },
+    {
+     "name": "Day'Ron Sharpe",
+     "starter": true,
+     "min": 26,
+     "pts": 15,
+     "reb": 13,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "Noah Clowney",
+     "starter": false,
+     "min": 23,
+     "pts": 8,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Moritz Wagner",
+     "starter": false,
+     "min": 20,
+     "pts": 14,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -4
+    },
+    {
+     "name": "Keon Ellis",
+     "starter": false,
+     "min": 19,
+     "pts": 0,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Terance Mann",
+     "starter": false,
+     "min": 15,
+     "pts": 0,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Andrew Nembhard",
+    "pts": 23,
+    "reb": 3,
+    "ast": 4
+   },
+   "away": {
+    "name": "Michael Porter Jr.",
+    "pts": 23,
+    "reb": 9,
+    "ast": 3
+   }
+  }
  },
  {
   "date": "2026-11-01",
