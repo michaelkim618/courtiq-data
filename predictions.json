@@ -7653,9 +7653,9 @@
    "away": 40.1
   },
   "win_prob_band": {
-   "low": 54.1,
+   "low": 59.9,
    "high": 59.9,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": 3.63,
   "expected_score": {
@@ -7681,7 +7681,7 @@
    {
     "label": "Absences",
     "points": -2.45,
-    "detail": "Golden State Warriors 4 out (102 min) costing 2.7 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts · Golden State Warriors: official report not filed yet, ESPN injury list used"
+    "detail": "Golden State Warriors 5 out (120 min) costing 2.7 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts"
    }
   ],
   "ratings": {
@@ -7712,8 +7712,7 @@
      "nth_out": 1,
      "value": 6.0,
      "cost": -1.27,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Kristaps Porzingis",
@@ -7721,8 +7720,7 @@
      "nth_out": 1,
      "value": 5.8,
      "cost": -1.22,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Moses Moody",
@@ -7730,8 +7728,7 @@
      "nth_out": 1,
      "value": 0.9,
      "cost": -0.19,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Gui Santos",
@@ -7739,8 +7736,15 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Al Horford",
+     "mpg": 17.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ],
    "away": [
@@ -7755,20 +7759,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Stephen Curry",
-     "mpg": 22.2,
-     "value": 10.1,
-     "status": "Questionable"
-    },
-    {
-     "player": "Draymond Green",
-     "mpg": 23.4,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -8012,6 +8003,12 @@
     "pick": "GSW",
     "prob": 59.9,
     "reason": "Gui Santos (GSW) now out; Draymond Green (GSW) no longer out; Stephen Curry (GSW) no longer out; Draymond Green (GSW) now questionable; Stephen Curry (GSW) now questionable"
+   },
+   {
+    "at": "2026-11-02T16:02-05:00",
+    "pick": "GSW",
+    "prob": 59.9,
+    "reason": "Al Horford (GSW) now out; Draymond Green (GSW) cleared to play; Stephen Curry (GSW) cleared to play"
    }
   ]
  },
@@ -8114,18 +8111,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 39.3,
-   "away": 60.7
+   "home": 38.0,
+   "away": 62.0
   },
   "win_prob_band": {
-   "low": 39.3,
-   "high": 39.3,
+   "low": 38.0,
+   "high": 41.6,
    "gtd_count": 2
   },
-  "expected_margin": -3.94,
+  "expected_margin": -4.44,
   "expected_score": {
-   "home": 109.8,
-   "away": 113.7
+   "home": 109.5,
+   "away": 114.0
   },
   "margin_breakdown": [
    {
@@ -8145,8 +8142,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.46,
-    "detail": "LA Clippers 4 out (90 min) costing 1.3 pts, Toronto Raptors 1 out (31 min) costing 2.7 pts · LA Clippers and Toronto Raptors: official report not filed yet, ESPN injury list used · Bradley Beal, Nate Bittle out all season, already baked into team rating"
+    "points": 0.96,
+    "detail": "LA Clippers 5 out (115 min) costing 1.8 pts, Toronto Raptors 1 out (31 min) costing 2.7 pts · Bradley Beal, Nate Bittle out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -8177,8 +8174,15 @@
      "nth_out": 1,
      "value": 5.8,
      "cost": -1.22,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Rui Hachimura",
+     "mpg": 25.3,
+     "nth_out": 1,
+     "value": 2.4,
+     "cost": -0.51,
+     "no_minutes": false
     },
     {
      "player": "Jordan Miller",
@@ -8186,17 +8190,15 @@
      "nth_out": 1,
      "value": 0.2,
      "cost": -0.04,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
-     "player": "Max Strus",
-     "mpg": 25.6,
+     "player": "Derrick Jones Jr.",
+     "mpg": 24.9,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Yanic Konan Niederhauser",
@@ -8204,8 +8206,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Bradley Beal",
@@ -8213,8 +8214,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ],
    "away": [
@@ -8224,8 +8224,7 @@
      "nth_out": 3,
      "value": 12.9,
      "cost": -2.72,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Nate Bittle",
@@ -8233,21 +8232,19 @@
      "nth_out": 6,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Derrick Jones Jr.",
-     "mpg": 24.9,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
+    {
+     "player": "Scottie Barnes",
+     "mpg": 25.8,
+     "value": 6.5,
+     "status": "Questionable"
+    },
     {
      "player": "Jakob Poeltl",
      "mpg": 20.1,
@@ -8277,19 +8274,6 @@
      "apg": 7.0
     },
     {
-     "player": "Rui Hachimura",
-     "player_id": 1629060,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 31.2,
-     "ppg": 10.3,
-     "rpg": 6.0,
-     "apg": 1.0
-    },
-    {
      "player": "Kris Dunn",
      "player_id": 1627739,
      "position": "G",
@@ -8301,19 +8285,6 @@
      "ppg": 9.7,
      "rpg": 4.7,
      "apg": 6.0
-    },
-    {
-     "player": "Derrick Jones Jr.",
-     "player_id": 1627884,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 30.2,
-     "ppg": 11.7,
-     "rpg": 5.3,
-     "apg": 2.3
     },
     {
      "player": "Isaiah Jackson",
@@ -8332,7 +8303,7 @@
      "player": "Keaton Wagler",
      "player_id": 1643413,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -8345,7 +8316,7 @@
      "player": "Brook Lopez",
      "player_id": 201572,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -8366,6 +8337,19 @@
      "ppg": 6.3,
      "rpg": 2.3,
      "apg": 3.3
+    },
+    {
+     "player": "Gradey Dick",
+     "player_id": 1641711,
+     "position": "G",
+     "starter": false,
+     "games": 3,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.0,
+     "ppg": 8.0,
+     "rpg": 3.7,
+     "apg": 0.0
     }
    ],
    "away": [
@@ -8491,6 +8475,12 @@
     "pick": "TOR",
     "prob": 60.7,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-02T16:02-05:00",
+    "pick": "TOR",
+    "prob": 62.0,
+    "reason": "Scottie Barnes (TOR) now questionable; Derrick Jones Jr. (LAC) now out; Rui Hachimura (LAC) now out; Max Strus (LAC) no longer out"
    }
   ]
  },
@@ -8593,18 +8583,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 61.8,
-   "away": 38.2
+   "home": 62.8,
+   "away": 37.2
   },
   "win_prob_band": {
-   "low": 61.8,
-   "high": 61.8,
+   "low": 62.8,
+   "high": 62.8,
    "gtd_count": 0
   },
-  "expected_margin": 4.35,
+  "expected_margin": 4.74,
   "expected_score": {
-   "home": 119.4,
-   "away": 115.1
+   "home": 119.6,
+   "away": 114.9
   },
   "margin_breakdown": [
    {
@@ -8624,8 +8614,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.39,
-    "detail": "Los Angeles Lakers 2 out (29 min) costing 0.4 pts · Los Angeles Lakers: official report not filed yet, ESPN injury list used"
+    "points": 0.0,
+    "detail": "Los Angeles Lakers 1 out (6 min)"
    },
    {
     "label": "Returning Players",
@@ -8656,22 +8646,12 @@
   "absences": {
    "home": [
     {
-     "player": "Ziaire Williams",
-     "mpg": 23.2,
-     "nth_out": 1,
-     "value": 1.9,
-     "cost": -0.39,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
      "player": "Adou Thiero",
      "mpg": 5.9,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     }
    ],
    "away": []
@@ -8727,6 +8707,19 @@
      "apg": 1.0
     },
     {
+     "player": "Ziaire Williams",
+     "player_id": 1630533,
+     "position": "F",
+     "starter": true,
+     "games": 4,
+     "starts": 4,
+     "start_rate": 100,
+     "mpg": 28.4,
+     "ppg": 11.2,
+     "rpg": 3.0,
+     "apg": 2.2
+    },
+    {
      "player": "Matisse Thybulle",
      "player_id": 1629680,
      "position": "G",
@@ -8743,7 +8736,7 @@
      "player": "Quentin Grimes",
      "player_id": 1629656,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -8777,19 +8770,6 @@
      "ppg": 5.0,
      "rpg": 2.3,
      "apg": 1.3
-    },
-    {
-     "player": "Collin Sexton",
-     "player_id": 1629012,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.7,
-     "ppg": 9.0,
-     "rpg": 1.3,
-     "apg": 2.3
     }
    ],
    "away": [
@@ -8915,6 +8895,12 @@
     "pick": "LAL",
     "prob": 61.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-02T16:02-05:00",
+    "pick": "LAL",
+    "prob": 62.8,
+    "reason": "Ziaire Williams (LAL) no longer out"
    }
   ]
  }
