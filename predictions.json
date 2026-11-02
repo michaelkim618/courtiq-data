@@ -6310,7 +6310,7 @@
    {
     "label": "Absences",
     "points": 0.1,
-    "detail": "Houston Rockets 1 out (23 min), Boston Celtics 2 out (37 min) costing 0.1 pts · Boston Celtics: official report not filed yet, ESPN injury list used"
+    "detail": "Houston Rockets 1 out (23 min), Boston Celtics 1 out (18 min) costing 0.1 pts · Boston Celtics: official report not filed yet, ESPN injury list used"
    },
    {
     "label": "Returning Players",
@@ -6356,15 +6356,6 @@
      "nth_out": 2,
      "value": 0.5,
      "cost": -0.1,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
-     "player": "Mitchell Robinson",
-     "mpg": 18.8,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
      "no_minutes": false,
      "source": "espn"
     }
@@ -6534,6 +6525,19 @@
      "apg": 6.2
     },
     {
+     "player": "Mitchell Robinson",
+     "player_id": 1629011,
+     "position": "C",
+     "starter": true,
+     "games": 4,
+     "starts": 4,
+     "start_rate": 100,
+     "mpg": 20.4,
+     "ppg": 5.5,
+     "rpg": 4.8,
+     "apg": 0.8
+    },
+    {
      "player": "Jordan Walsh",
      "player_id": 1641775,
      "position": "G",
@@ -6550,7 +6554,7 @@
      "player": "Payton Pritchard",
      "player_id": 1630202,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -6584,19 +6588,6 @@
      "ppg": 8.0,
      "rpg": 4.5,
      "apg": 1.5
-    },
-    {
-     "player": "Baylor Scheierman",
-     "player_id": 1631248,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.2,
-     "ppg": 3.8,
-     "rpg": 3.2,
-     "apg": 0.8
     }
    ]
   },
@@ -6616,6 +6607,12 @@
     "pick": "HOU",
     "prob": 60.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-02T09:30-05:00",
+    "pick": "HOU",
+    "prob": 60.0,
+    "reason": "Mitchell Robinson (BOS) no longer out"
    }
   ]
  },

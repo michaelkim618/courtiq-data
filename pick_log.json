@@ -11473,6 +11473,33 @@
       "away": 40.0,
       "home": 60.0
      }
+    },
+    {
+     "at": "2026-11-02T09:30-05:00",
+     "expected_margin": 3.68,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Reed Sheppard"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Devin Carter"
+      ],
+      "home": [
+       "Steven Adams"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Mitchell Robinson (BOS) no longer out",
+     "report": "2026-11-02T09:30-05:00",
+     "win_prob": {
+      "away": 40.0,
+      "home": 60.0
+     }
     }
    ]
   },
