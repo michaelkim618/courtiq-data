@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T19:47-05:00",
+ "generated": "2026-11-01T23:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -852,13 +852,13 @@
   },
   {
    "date": "2026-11-01",
-   "games": 2,
-   "wins": 1,
+   "games": 3,
+   "wins": 2,
    "losses": 1,
-   "pct": 50.0,
-   "cum_wins": 55,
-   "cum_games": 90,
-   "cum_pct": 61.1,
+   "pct": 66.7,
+   "cum_wins": 56,
+   "cum_games": 91,
+   "cum_pct": 61.5,
    "picks": [
     {
      "away": "BKN",
@@ -875,15 +875,23 @@
      "prob": 70.4,
      "correct": true,
      "updated": true
+    },
+    {
+     "away": "LAC",
+     "home": "GSW",
+     "pick": "GSW",
+     "prob": 56.4,
+     "correct": true,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 90,
-  "wins": 55,
+  "games": 91,
+  "wins": 56,
   "losses": 35,
-  "pct": 61.1
+  "pct": 61.5
  },
  "unscored": 0
 }
