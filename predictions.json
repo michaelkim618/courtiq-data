@@ -4739,7 +4739,7 @@
   "win_prob_band": {
    "low": 56.4,
    "high": 56.4,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 2.35,
   "expected_score": {
@@ -4875,14 +4875,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Gui Santos",
-     "mpg": 22.6,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5126,6 +5119,12 @@
     "pick": "GSW",
     "prob": 56.4,
     "reason": "pick flipped to GSW"
+   },
+   {
+    "at": "2026-11-01T19:32-05:00",
+    "pick": "GSW",
+    "prob": 56.4,
+    "reason": "Gui Santos (GSW) cleared to play"
    }
   ]
  },

@@ -11164,6 +11164,39 @@
       "away": 43.6,
       "home": 56.4
      }
+    },
+    {
+     "at": "2026-11-01T19:32-05:00",
+     "expected_margin": 2.35,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Max Strus",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Draymond Green"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Gui Santos (GSW) cleared to play",
+     "report": "2026-11-01T19:30-05:00",
+     "win_prob": {
+      "away": 43.6,
+      "home": 56.4
+     }
     }
    ]
   },
