@@ -11630,6 +11630,34 @@
       "away": 18.4,
       "home": 81.6
      }
+    },
+    {
+     "at": "2026-11-02T17:47-05:00",
+     "expected_margin": 13.06,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Joel Embiid"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nic Claxton"
+      ],
+      "home": [
+       "Dominick Barlow",
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Nic Claxton (CHI) now out; Jalen Smith (CHI) cleared to play",
+     "report": "2026-11-02T17:45-05:00",
+     "win_prob": {
+      "away": 18.4,
+      "home": 81.6
+     }
     }
    ]
   },

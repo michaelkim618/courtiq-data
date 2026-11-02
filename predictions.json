@@ -4558,8 +4558,8 @@
   },
   "win_prob_band": {
    "low": 79.5,
-   "high": 82.8,
-   "gtd_count": 3
+   "high": 81.6,
+   "gtd_count": 1
   },
   "expected_margin": 13.06,
   "expected_score": {
@@ -4585,7 +4585,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Philadelphia 76ers 2 out (32 min)"
+    "detail": "Philadelphia 76ers 2 out (32 min), Chicago Bulls 1 out (28 min)"
    }
   ],
   "ratings": {
@@ -4627,7 +4627,16 @@
      "no_minutes": false
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Nic Claxton",
+     "mpg": 27.5,
+     "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [
@@ -4638,20 +4647,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Jalen Smith",
-     "mpg": 20.6,
-     "value": 3.2,
-     "status": "Probable"
-    },
-    {
-     "player": "Nic Claxton",
-     "mpg": 27.5,
-     "value": 0.0,
-     "status": "Doubtful"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4888,6 +4884,12 @@
     "pick": "PHI",
     "prob": 81.6,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-02T17:47-05:00",
+    "pick": "PHI",
+    "prob": 81.6,
+    "reason": "Nic Claxton (CHI) now out; Jalen Smith (CHI) cleared to play"
    }
   ]
  },
