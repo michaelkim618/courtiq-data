@@ -11881,6 +11881,31 @@
       "away": 28.2,
       "home": 71.8
      }
+    },
+    {
+     "at": "2026-11-02T17:32-05:00",
+     "expected_margin": 8.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jordan Poole",
+       "Yves Missi",
+       "Dejounte Murray"
+      ],
+      "home": []
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Dejounte Murray (NOP) now out",
+     "report": "2026-11-02T17:30-05:00",
+     "win_prob": {
+      "away": 28.2,
+      "home": 71.8
+     }
     }
    ]
   },

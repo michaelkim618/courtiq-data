@@ -5497,7 +5497,7 @@
    {
     "label": "Absences",
     "points": 0.09,
-    "detail": "New Orleans Pelicans 2 out (38 min) costing 0.1 pts"
+    "detail": "New Orleans Pelicans 2 out (38 min) costing 0.1 pts · Dejounte Murray out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5538,6 +5538,14 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Dejounte Murray",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ]
   },
@@ -5672,19 +5680,6 @@
      "apg": 2.7
     },
     {
-     "player": "Dejounte Murray",
-     "player_id": 1627749,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 20.3,
-     "rpg": 5.0,
-     "apg": 6.3
-    },
-    {
      "player": "Zion Williamson",
      "player_id": 1629627,
      "position": "F",
@@ -5727,7 +5722,7 @@
      "player": "Saddiq Bey",
      "player_id": 1630180,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -5786,6 +5781,12 @@
     "pick": "MEM",
     "prob": 71.8,
     "reason": "Trey Murphy III (NOP) cleared to play"
+   },
+   {
+    "at": "2026-11-02T17:32-05:00",
+    "pick": "MEM",
+    "prob": 71.8,
+    "reason": "Dejounte Murray (NOP) now out"
    }
   ]
  },
