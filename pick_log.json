@@ -11359,7 +11359,7 @@
    "date": "2026-11-02",
    "home": "IND",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T19:30-05:00",
    "tip_known": true,
@@ -11442,7 +11442,7 @@
    "date": "2026-11-02",
    "home": "NYK",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T19:30-05:00",
    "tip_known": true,
@@ -11589,6 +11589,33 @@
       "away": 37.3,
       "home": 62.7
      }
+    },
+    {
+     "at": "2026-11-02T19:32-05:00",
+     "expected_margin": 4.71,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paul George",
+       "Devin Carter"
+      ],
+      "home": [
+       "Steven Adams",
+       "Clint Capela"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Reed Sheppard (HOU) cleared to play",
+     "report": "2026-11-02T19:30-05:00",
+     "win_prob": {
+      "away": 37.3,
+      "home": 62.7
+     }
     }
    ]
   },
@@ -11597,7 +11624,7 @@
    "date": "2026-11-02",
    "home": "PHI",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T19:30-05:00",
    "tip_known": true,
@@ -11666,7 +11693,7 @@
    "date": "2026-11-02",
    "home": "CHA",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T19:30-05:00",
    "tip_known": true,
@@ -11847,6 +11874,31 @@
       "away": 19.5,
       "home": 80.5
      }
+    },
+    {
+     "at": "2026-11-02T19:32-05:00",
+     "expected_margin": 11.98,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Anthony Edwards",
+       "Terrence Shannon Jr",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Terrence Shannon Jr (MIN) now out; LaMelo Ball (MIN) cleared to play",
+     "report": "2026-11-02T19:30-05:00",
+     "win_prob": {
+      "away": 20.4,
+      "home": 79.6
+     }
     }
    ]
   },
@@ -11934,6 +11986,34 @@
       "away": 28.2,
       "home": 71.8
      }
+    },
+    {
+     "at": "2026-11-02T19:32-05:00",
+     "expected_margin": 8.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jordan Poole",
+       "Yves Missi",
+       "Dejounte Murray"
+      ],
+      "home": [
+       "Quinten Post",
+       "Scotty Pippen Jr."
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Quinten Post (MEM) now out; Scotty Pippen Jr. (MEM) now out",
+     "report": "2026-11-02T19:30-05:00",
+     "win_prob": {
+      "away": 28.2,
+      "home": 71.8
+     }
     }
    ]
   },
@@ -11942,7 +12022,7 @@
    "date": "2026-11-02",
    "home": "CLE",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T19:00-05:00",
    "tip_known": true,
@@ -12167,6 +12247,38 @@
       "away": 19.8,
       "home": 80.2
      }
+    },
+    {
+     "at": "2026-11-02T19:32-05:00",
+     "expected_margin": 9.03,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Dylan Cardwell",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Kyrie Irving",
+       "Santi Aldama",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Dylan Cardwell (SAC) now out; Zach LaVine (SAC) cleared to play; Kyrie Irving (DAL) now out; Santi Aldama (DAL) now out",
+     "report": "2026-11-02T19:30-05:00",
+     "win_prob": {
+      "away": 26.7,
+      "home": 73.3
+     }
     }
    ]
   },
@@ -12294,7 +12406,7 @@
    "date": "2026-11-02",
    "home": "ORL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T19:30-05:00",
    "tip_known": true,
