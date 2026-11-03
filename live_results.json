@@ -738,9 +738,41 @@
  {
   "date": "2026-11-02",
   "season": "2026-2027",
+  "away": "ATL",
+  "home": "IND",
+  "conf": 69.4,
+  "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
+  "away": "CHI",
+  "home": "PHI",
+  "conf": 81.6,
+  "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
+  "away": "DET",
+  "home": "CHA",
+  "conf": 64.7,
+  "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
   "away": "OKC",
   "home": "CLE",
   "conf": 58.9,
+  "correct": false
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "ORL",
+  "conf": 55.9,
   "correct": false
  }
 ]

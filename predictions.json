@@ -2708,7 +2708,7 @@
  },
  {
   "date": "2026-11-02",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Detroit Pistons",
   "home": "Charlotte Hornets",
   "away_code": "DET",
@@ -2902,229 +2902,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 4,
-    "away": 4
-   },
-   "home": [
-    {
-     "player": "Brandon Miller",
-     "player_id": 1641706,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 32.7,
-     "ppg": 24.2,
-     "rpg": 4.8,
-     "apg": 1.5
-    },
-    {
-     "player": "Dennis Schröder",
-     "player_id": 203471,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 14.0,
-     "rpg": 4.0,
-     "apg": 4.5
-    },
-    {
-     "player": "Naz Reid",
-     "player_id": 1629675,
-     "position": "C",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 30.8,
-     "ppg": 19.5,
-     "rpg": 9.5,
-     "apg": 2.5
-    },
-    {
-     "player": "Moussa Diabaté",
-     "player_id": 1631217,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 27.8,
-     "ppg": 9.2,
-     "rpg": 9.5,
-     "apg": 2.2
-    },
-    {
-     "player": "Sion James",
-     "player_id": 1642883,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 26.3,
-     "ppg": 2.8,
-     "rpg": 3.0,
-     "apg": 3.2
-    },
-    {
-     "player": "Grayson Allen",
-     "player_id": 1628960,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 27.7,
-     "ppg": 16.8,
-     "rpg": 2.5,
-     "apg": 3.2
-    },
-    {
-     "player": "Ryan Kalkbrenner",
-     "player_id": 1641750,
-     "position": "C",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.2,
-     "ppg": 5.5,
-     "rpg": 5.2,
-     "apg": 1.8
-    },
-    {
-     "player": "Tidjane Salaün",
-     "player_id": 1642275,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.2,
-     "ppg": 6.3,
-     "rpg": 4.3,
-     "apg": 0.3
-    }
-   ],
-   "away": [
-    {
-     "player": "Cade Cunningham",
-     "player_id": 1630595,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 20.8,
-     "rpg": 5.8,
-     "apg": 8.0
-    },
-    {
-     "player": "Duncan Robinson",
-     "player_id": 1629130,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 17.8,
-     "rpg": 1.5,
-     "apg": 2.2
-    },
-    {
-     "player": "John Collins",
-     "player_id": 1628381,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 29.0,
-     "ppg": 11.8,
-     "rpg": 8.0,
-     "apg": 0.8
-    },
-    {
-     "player": "Ausar Thompson",
-     "player_id": 1641709,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 25.9,
-     "ppg": 8.7,
-     "rpg": 6.7,
-     "apg": 4.0
-    },
-    {
-     "player": "Paul Reed",
-     "player_id": 1630194,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 2,
-     "start_rate": 50,
-     "mpg": 23.0,
-     "ppg": 13.8,
-     "rpg": 8.5,
-     "apg": 2.5
-    },
-    {
-     "player": "Daniss Jenkins",
-     "player_id": 1642450,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 1,
-     "start_rate": 25,
-     "mpg": 24.9,
-     "ppg": 11.8,
-     "rpg": 4.5,
-     "apg": 4.0
-    },
-    {
-     "player": "Kevin Huerter",
-     "player_id": 1628989,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.1,
-     "ppg": 6.0,
-     "rpg": 3.2,
-     "apg": 1.5
-    },
-    {
-     "player": "Javonte Green",
-     "player_id": 1629750,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.3,
-     "ppg": 7.2,
-     "rpg": 2.8,
-     "apg": 0.0
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 91,
+   "away": 124
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Detroit Pistons",
   "model_winner": "Detroit Pistons",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-10-31",
   "tip_et": "2026-11-02T19:30-05:00",
@@ -3144,11 +2929,343 @@
     "prob": 64.7,
     "reason": "Isaiah Joe (DET) now out; Elijah Harkless (DET) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Brandon Miller",
+     "starter": true,
+     "min": 31,
+     "pts": 17,
+     "reb": 1,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -14
+    },
+    {
+     "name": "Naz Reid",
+     "starter": true,
+     "min": 27,
+     "pts": 13,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -15
+    },
+    {
+     "name": "Moussa Diabate",
+     "starter": true,
+     "min": 24,
+     "pts": 7,
+     "reb": 9,
+     "ast": 2,
+     "stl": 3,
+     "blk": 1,
+     "tov": 0,
+     "pm": -23
+    },
+    {
+     "name": "Dennis Schroder",
+     "starter": false,
+     "min": 23,
+     "pts": 5,
+     "reb": 2,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 5,
+     "pm": -30
+    },
+    {
+     "name": "Sion James",
+     "starter": true,
+     "min": 21,
+     "pts": 11,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -8
+    },
+    {
+     "name": "Grayson Allen",
+     "starter": false,
+     "min": 19,
+     "pts": 11,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -26
+    },
+    {
+     "name": "Tidjane Salaun",
+     "starter": false,
+     "min": 19,
+     "pts": 1,
+     "reb": 7,
+     "ast": 0,
+     "stl": 2,
+     "blk": 2,
+     "tov": 1,
+     "pm": -11
+    },
+    {
+     "name": "Royce O'Neale",
+     "starter": false,
+     "min": 18,
+     "pts": 2,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -18
+    },
+    {
+     "name": "Coby White",
+     "starter": true,
+     "min": 16,
+     "pts": 7,
+     "reb": 0,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 1
+    },
+    {
+     "name": "Ryan Kalkbrenner",
+     "starter": false,
+     "min": 16,
+     "pts": 4,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "tov": 2,
+     "pm": -9
+    },
+    {
+     "name": "Christian Anderson",
+     "starter": false,
+     "min": 9,
+     "pts": 8,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -4
+    },
+    {
+     "name": "Liam McNeeley",
+     "starter": false,
+     "min": 9,
+     "pts": 3,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -4
+    },
+    {
+     "name": "Hannes Steinbach",
+     "starter": false,
+     "min": 9,
+     "pts": 2,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -4
+    }
+   ],
+   "away": [
+    {
+     "name": "Duncan Robinson",
+     "starter": true,
+     "min": 32,
+     "pts": 24,
+     "reb": 2,
+     "ast": 3,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": 25
+    },
+    {
+     "name": "Paul Reed",
+     "starter": true,
+     "min": 28,
+     "pts": 11,
+     "reb": 5,
+     "ast": 4,
+     "stl": 2,
+     "blk": 2,
+     "tov": 1,
+     "pm": 23
+    },
+    {
+     "name": "Cade Cunningham",
+     "starter": true,
+     "min": 27,
+     "pts": 33,
+     "reb": 5,
+     "ast": 7,
+     "stl": 5,
+     "blk": 0,
+     "tov": 3,
+     "pm": 19
+    },
+    {
+     "name": "Ausar Thompson",
+     "starter": true,
+     "min": 26,
+     "pts": 14,
+     "reb": 6,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 15
+    },
+    {
+     "name": "Daniss Jenkins",
+     "starter": false,
+     "min": 23,
+     "pts": 2,
+     "reb": 1,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 14
+    },
+    {
+     "name": "Ronald Holland II",
+     "starter": false,
+     "min": 20,
+     "pts": 11,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "Kevin Huerter",
+     "starter": false,
+     "min": 20,
+     "pts": 9,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 20
+    },
+    {
+     "name": "Javonte Green",
+     "starter": false,
+     "min": 20,
+     "pts": 5,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 24
+    },
+    {
+     "name": "John Collins",
+     "starter": true,
+     "min": 19,
+     "pts": 4,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 0
+    },
+    {
+     "name": "Tolu Smith",
+     "starter": false,
+     "min": 8,
+     "pts": 0,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Chaz Lanier",
+     "starter": false,
+     "min": 7,
+     "pts": 5,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Ebuka Okorie",
+     "starter": false,
+     "min": 6,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Isaac Jones",
+     "starter": false,
+     "min": 6,
+     "pts": 2,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "tov": 1,
+     "pm": 3
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Brandon Miller",
+    "pts": 17,
+    "reb": 1,
+    "ast": 4
+   },
+   "away": {
+    "name": "Cade Cunningham",
+    "pts": 33,
+    "reb": 5,
+    "ast": 7
+   }
+  }
  },
  {
   "date": "2026-11-02",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Atlanta Hawks",
   "home": "Indiana Pacers",
   "away_code": "ATL",
@@ -3413,190 +3530,14 @@
     }
    ]
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 4,
-    "away": 4
-   },
-   "home": [
-    {
-     "player": "Kelly Oubre Jr.",
-     "player_id": 1626162,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 2,
-     "start_rate": 50,
-     "mpg": 22.6,
-     "ppg": 7.5,
-     "rpg": 2.2,
-     "apg": 2.0
-    },
-    {
-     "player": "Jay Huff",
-     "player_id": 1630643,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 16.2,
-     "ppg": 6.7,
-     "rpg": 3.3,
-     "apg": 1.3
-    },
-    {
-     "player": "Jarace Walker",
-     "player_id": 1641716,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 1,
-     "start_rate": 25,
-     "mpg": 20.8,
-     "ppg": 5.2,
-     "rpg": 5.5,
-     "apg": 1.5
-    },
-    {
-     "player": "Obi Toppin",
-     "player_id": 1630167,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.2,
-     "ppg": 15.8,
-     "rpg": 5.0,
-     "apg": 1.5
-    },
-    {
-     "player": "Quenton Jackson",
-     "player_id": 1631245,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.3,
-     "ppg": 5.8,
-     "rpg": 2.0,
-     "apg": 2.5
-    },
-    {
-     "player": "Larry Nance Jr.",
-     "player_id": 1626204,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 11.8,
-     "ppg": 2.0,
-     "rpg": 2.2,
-     "apg": 0.5
-    }
-   ],
-   "away": [
-    {
-     "player": "Jalen Johnson",
-     "player_id": 1630552,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 32.5,
-     "ppg": 21.5,
-     "rpg": 9.8,
-     "apg": 8.2
-    },
-    {
-     "player": "Nickeil Alexander-Walker",
-     "player_id": 1629638,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 29.6,
-     "ppg": 18.8,
-     "rpg": 3.5,
-     "apg": 3.8
-    },
-    {
-     "player": "Dyson Daniels",
-     "player_id": 1630700,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 28.8,
-     "ppg": 13.2,
-     "rpg": 5.2,
-     "apg": 3.8
-    },
-    {
-     "player": "Onyeka Okongwu",
-     "player_id": 1630168,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 26.5,
-     "ppg": 9.2,
-     "rpg": 6.0,
-     "apg": 2.8
-    },
-    {
-     "player": "CJ McCollum",
-     "player_id": 203468,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 26.5,
-     "ppg": 17.2,
-     "rpg": 1.5,
-     "apg": 2.0
-    },
-    {
-     "player": "Aaron Wiggins",
-     "player_id": 1630598,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 27.1,
-     "ppg": 15.8,
-     "rpg": 3.2,
-     "apg": 1.5
-    },
-    {
-     "player": "Luguentz Dort",
-     "player_id": 1629652,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.7,
-     "ppg": 8.8,
-     "rpg": 3.2,
-     "apg": 1.5
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 104,
+   "away": 108
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Atlanta Hawks",
   "model_winner": "Atlanta Hawks",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-10-31",
   "tip_et": "2026-11-02T19:30-05:00",
@@ -3616,7 +3557,219 @@
     "prob": 69.4,
     "reason": "Aaron Nesmith (IND) now out; Andrew Nembhard (IND) now out; Pascal Siakam (IND) now out"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jarace Walker",
+     "starter": true,
+     "min": 45,
+     "pts": 15,
+     "reb": 7,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": -11
+    },
+    {
+     "name": "Braden Smith",
+     "starter": true,
+     "min": 42,
+     "pts": 19,
+     "reb": 4,
+     "ast": 10,
+     "stl": 3,
+     "blk": 1,
+     "tov": 5,
+     "pm": -2
+    },
+    {
+     "name": "Jalen Slawson",
+     "starter": true,
+     "min": 41,
+     "pts": 12,
+     "reb": 7,
+     "ast": 3,
+     "stl": 3,
+     "blk": 3,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Jay Huff",
+     "starter": true,
+     "min": 40,
+     "pts": 22,
+     "reb": 8,
+     "ast": 2,
+     "stl": 0,
+     "blk": 2,
+     "tov": 4,
+     "pm": 3
+    },
+    {
+     "name": "Kobe Brown",
+     "starter": false,
+     "min": 38,
+     "pts": 16,
+     "reb": 6,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Quenton Jackson",
+     "starter": true,
+     "min": 35,
+     "pts": 20,
+     "reb": 7,
+     "ast": 3,
+     "stl": 4,
+     "blk": 2,
+     "tov": 5,
+     "pm": -1
+    }
+   ],
+   "away": [
+    {
+     "name": "Onyeka Okongwu",
+     "starter": true,
+     "min": 33,
+     "pts": 13,
+     "reb": 10,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "CJ McCollum",
+     "starter": true,
+     "min": 32,
+     "pts": 13,
+     "reb": 9,
+     "ast": 12,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": 8
+    },
+    {
+     "name": "Nickeil Alexander-Walker",
+     "starter": true,
+     "min": 31,
+     "pts": 34,
+     "reb": 4,
+     "ast": 4,
+     "stl": 4,
+     "blk": 0,
+     "tov": 4,
+     "pm": 6
+    },
+    {
+     "name": "Luguentz Dort",
+     "starter": true,
+     "min": 31,
+     "pts": 14,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Dyson Daniels",
+     "starter": true,
+     "min": 31,
+     "pts": 6,
+     "reb": 9,
+     "ast": 4,
+     "stl": 3,
+     "blk": 1,
+     "tov": 2,
+     "pm": -1
+    },
+    {
+     "name": "Aaron Wiggins",
+     "starter": false,
+     "min": 24,
+     "pts": 7,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 7
+    },
+    {
+     "name": "Corey Kispert",
+     "starter": false,
+     "min": 18,
+     "pts": 14,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -9
+    },
+    {
+     "name": "Asa Newell",
+     "starter": false,
+     "min": 17,
+     "pts": 0,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -7
+    },
+    {
+     "name": "Zuby Ejiofor",
+     "starter": false,
+     "min": 15,
+     "pts": 3,
+     "reb": 5,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "RayJ Dennis",
+     "starter": false,
+     "min": 8,
+     "pts": 4,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 1
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Jay Huff",
+    "pts": 22,
+    "reb": 8,
+    "ast": 2
+   },
+   "away": {
+    "name": "Nickeil Alexander-Walker",
+    "pts": 34,
+    "reb": 4,
+    "ast": 4
+   }
+  }
  },
  {
   "date": "2026-11-02",
@@ -4035,7 +4188,7 @@
  },
  {
   "date": "2026-11-02",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Washington Wizards",
   "home": "Orlando Magic",
   "away_code": "WAS",
@@ -4293,204 +4446,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 3,
-    "away": 4
-   },
-   "home": [
-    {
-     "player": "Franz Wagner",
-     "player_id": 1630532,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 21.0,
-     "rpg": 8.3,
-     "apg": 6.3
-    },
-    {
-     "player": "Desmond Bane",
-     "player_id": 1630217,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 31.7,
-     "ppg": 15.0,
-     "rpg": 4.3,
-     "apg": 1.3
-    },
-    {
-     "player": "Wendell Carter Jr.",
-     "player_id": 1628976,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 30.8,
-     "ppg": 17.0,
-     "rpg": 8.7,
-     "apg": 1.0
-    },
-    {
-     "player": "Jase Richardson",
-     "player_id": 1642859,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 1,
-     "start_rate": 33,
-     "mpg": 15.3,
-     "ppg": 4.7,
-     "rpg": 1.3,
-     "apg": 2.0
-    },
-    {
-     "player": "Tristan da Silva",
-     "player_id": 1641783,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 28.1,
-     "ppg": 12.7,
-     "rpg": 2.3,
-     "apg": 2.0
-    },
-    {
-     "player": "Jamal Cain",
-     "player_id": 1631288,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.4,
-     "ppg": 1.7,
-     "rpg": 2.0,
-     "apg": 0.0
-    }
-   ],
-   "away": [
-    {
-     "player": "Trae Young",
-     "player_id": 1629027,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 36.7,
-     "ppg": 22.2,
-     "rpg": 2.8,
-     "apg": 11.0
-    },
-    {
-     "player": "Anthony Davis",
-     "player_id": 203076,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 33.2,
-     "ppg": 22.8,
-     "rpg": 9.2,
-     "apg": 2.2
-    },
-    {
-     "player": "AJ Dybantsa",
-     "player_id": 1643407,
-     "position": "F",
-     "starter": true,
-     "games": 0,
-     "starts": 0,
-     "start_rate": null,
-     "mpg": null,
-     "ppg": null,
-     "rpg": null,
-     "apg": null,
-     "projection": "rookie"
-    },
-    {
-     "player": "Kyshawn George",
-     "player_id": 1642273,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 17.8,
-     "rpg": 5.2,
-     "apg": 3.0
-    },
-    {
-     "player": "Bilal Coulibaly",
-     "player_id": 1641731,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 27.3,
-     "ppg": 8.0,
-     "rpg": 4.2,
-     "apg": 0.5
-    },
-    {
-     "player": "Tre Johnson",
-     "player_id": 1642848,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.6,
-     "ppg": 12.0,
-     "rpg": 2.0,
-     "apg": 1.0
-    },
-    {
-     "player": "Bub Carrington",
-     "player_id": 1642267,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.6,
-     "ppg": 7.0,
-     "rpg": 1.0,
-     "apg": 2.0
-    },
-    {
-     "player": "Deandre Ayton",
-     "player_id": 1629028,
-     "position": "C",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 14.4,
-     "ppg": 5.2,
-     "rpg": 4.8,
-     "apg": 0.8
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 94,
+   "away": 103
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Washington Wizards",
   "model_winner": "Orlando Magic",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.8",
   "data_through": "2026-10-31",
   "tip_et": "2026-11-02T19:30-05:00",
@@ -4510,11 +4473,247 @@
     "prob": 55.9,
     "reason": "Alex Sarr (WAS) now out; Anthony Gill (WAS) now out; Reece Beekman (WAS) now out; Anthony Black (ORL) now out"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Franz Wagner",
+     "starter": true,
+     "min": 38,
+     "pts": 24,
+     "reb": 3,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -11
+    },
+    {
+     "name": "Desmond Bane",
+     "starter": true,
+     "min": 36,
+     "pts": 20,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 4,
+     "pm": -11
+    },
+    {
+     "name": "Wendell Carter Jr.",
+     "starter": true,
+     "min": 34,
+     "pts": 6,
+     "reb": 9,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -8
+    },
+    {
+     "name": "Tristan da Silva",
+     "starter": false,
+     "min": 32,
+     "pts": 10,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -5
+    },
+    {
+     "name": "Jase Richardson",
+     "starter": true,
+     "min": 29,
+     "pts": 9,
+     "reb": 1,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -13
+    },
+    {
+     "name": "Jamal Cain",
+     "starter": true,
+     "min": 25,
+     "pts": 10,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -3
+    },
+    {
+     "name": "Jevon Carter",
+     "starter": false,
+     "min": 18,
+     "pts": 5,
+     "reb": 1,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    },
+    {
+     "name": "Nikola Vucevic",
+     "starter": false,
+     "min": 14,
+     "pts": 7,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Alex Morales",
+     "starter": false,
+     "min": 14,
+     "pts": 3,
+     "reb": 2,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 3
+    }
+   ],
+   "away": [
+    {
+     "name": "Kyshawn George",
+     "starter": true,
+     "min": 37,
+     "pts": 22,
+     "reb": 4,
+     "ast": 5,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": 8
+    },
+    {
+     "name": "Anthony Davis",
+     "starter": true,
+     "min": 34,
+     "pts": 27,
+     "reb": 9,
+     "ast": 1,
+     "stl": 4,
+     "blk": 0,
+     "tov": 5,
+     "pm": 8
+    },
+    {
+     "name": "Trae Young",
+     "starter": true,
+     "min": 34,
+     "pts": 15,
+     "reb": 3,
+     "ast": 9,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 9
+    },
+    {
+     "name": "AJ Dybantsa",
+     "starter": true,
+     "min": 33,
+     "pts": 21,
+     "reb": 5,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 2,
+     "pm": 10
+    },
+    {
+     "name": "Bilal Coulibaly",
+     "starter": false,
+     "min": 33,
+     "pts": 7,
+     "reb": 1,
+     "ast": 2,
+     "stl": 1,
+     "blk": 3,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Deandre Ayton",
+     "starter": true,
+     "min": 24,
+     "pts": 4,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    },
+    {
+     "name": "Tre Johnson",
+     "starter": false,
+     "min": 22,
+     "pts": 4,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 6
+    },
+    {
+     "name": "Bub Carrington",
+     "starter": false,
+     "min": 19,
+     "pts": 3,
+     "reb": 4,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 3
+    },
+    {
+     "name": "Will Riley",
+     "starter": false,
+     "min": 4,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Franz Wagner",
+    "pts": 24,
+    "reb": 3,
+    "ast": 6
+   },
+   "away": {
+    "name": "Anthony Davis",
+    "pts": 27,
+    "reb": 9,
+    "ast": 1
+   }
+  }
  },
  {
   "date": "2026-11-02",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Chicago Bulls",
   "home": "Philadelphia 76ers",
   "away_code": "CHI",
@@ -4707,229 +4906,14 @@
    ],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 4,
-    "away": 4
-   },
-   "home": [
-    {
-     "player": "Tyrese Maxey",
-     "player_id": 1630178,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 37.8,
-     "ppg": 28.8,
-     "rpg": 4.0,
-     "apg": 4.8
-    },
-    {
-     "player": "Jaylen Brown",
-     "player_id": 1627759,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 36.8,
-     "ppg": 20.8,
-     "rpg": 5.8,
-     "apg": 4.8
-    },
-    {
-     "player": "Joel Embiid",
-     "player_id": 203954,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 34.7,
-     "ppg": 21.7,
-     "rpg": 9.7,
-     "apg": 5.7
-    },
-    {
-     "player": "LeBron James",
-     "player_id": 2544,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 16.3,
-     "rpg": 7.0,
-     "apg": 5.7
-    },
-    {
-     "player": "VJ Edgecombe",
-     "player_id": 1642845,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 12.3,
-     "rpg": 8.0,
-     "apg": 3.0
-    },
-    {
-     "player": "Dean Wade",
-     "player_id": 1629731,
-     "position": "F",
-     "starter": false,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 7.0,
-     "rpg": 3.5,
-     "apg": 0.5
-    },
-    {
-     "player": "Kentavious Caldwell-Pope",
-     "player_id": 203484,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 1,
-     "start_rate": 25,
-     "mpg": 27.6,
-     "ppg": 8.0,
-     "rpg": 3.0,
-     "apg": 1.8
-    },
-    {
-     "player": "Anfernee Simons",
-     "player_id": 1629014,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.3,
-     "ppg": 6.0,
-     "rpg": 2.2,
-     "apg": 1.2
-    }
-   ],
-   "away": [
-    {
-     "player": "Caleb Wilson",
-     "player_id": 1643410,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 33.9,
-     "ppg": 21.0,
-     "rpg": 7.2,
-     "apg": 1.8
-    },
-    {
-     "player": "Norman Powell",
-     "player_id": 1626181,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 27.9,
-     "ppg": 19.5,
-     "rpg": 3.0,
-     "apg": 1.8
-    },
-    {
-     "player": "Josh Giddey",
-     "player_id": 1630581,
-     "position": "G",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 25.5,
-     "ppg": 7.0,
-     "rpg": 5.0,
-     "apg": 7.2
-    },
-    {
-     "player": "Matas Buzelis",
-     "player_id": 1641824,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 24.9,
-     "ppg": 14.0,
-     "rpg": 4.2,
-     "apg": 1.8
-    },
-    {
-     "player": "Jalen Smith",
-     "player_id": 1630188,
-     "position": "F",
-     "starter": true,
-     "games": 4,
-     "starts": 4,
-     "start_rate": 100,
-     "mpg": 21.9,
-     "ppg": 12.5,
-     "rpg": 7.5,
-     "apg": 1.0
-    },
-    {
-     "player": "Leonard Miller",
-     "player_id": 1631159,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.2,
-     "ppg": 9.8,
-     "rpg": 5.5,
-     "apg": 0.8
-    },
-    {
-     "player": "Tre Jones",
-     "player_id": 1630200,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.6,
-     "ppg": 10.5,
-     "rpg": 2.2,
-     "apg": 2.8
-    },
-    {
-     "player": "Isaac Okoro",
-     "player_id": 1630171,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.6,
-     "ppg": 4.2,
-     "rpg": 1.2,
-     "apg": 1.5
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 126,
+   "away": 107
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Philadelphia 76ers",
   "model_winner": "Philadelphia 76ers",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-10-31",
   "tip_et": "2026-11-02T19:30-05:00",
@@ -4949,7 +4933,351 @@
     "prob": 81.6,
     "reason": "Nic Claxton (CHI) now out; Jalen Smith (CHI) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Tyrese Maxey",
+     "starter": true,
+     "min": 36,
+     "pts": 26,
+     "reb": 4,
+     "ast": 11,
+     "stl": 2,
+     "blk": 2,
+     "tov": 4,
+     "pm": 10
+    },
+    {
+     "name": "Jaylen Brown",
+     "starter": true,
+     "min": 33,
+     "pts": 25,
+     "reb": 11,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 9
+    },
+    {
+     "name": "VJ Edgecombe",
+     "starter": true,
+     "min": 33,
+     "pts": 21,
+     "reb": 3,
+     "ast": 5,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": 31
+    },
+    {
+     "name": "LeBron James",
+     "starter": true,
+     "min": 31,
+     "pts": 15,
+     "reb": 7,
+     "ast": 9,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 30
+    },
+    {
+     "name": "Joel Embiid",
+     "starter": true,
+     "min": 25,
+     "pts": 15,
+     "reb": 8,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 21
+    },
+    {
+     "name": "Anfernee Simons",
+     "starter": false,
+     "min": 24,
+     "pts": 6,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Dean Wade",
+     "starter": false,
+     "min": 23,
+     "pts": 8,
+     "reb": 2,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 1,
+     "pm": 19
+    },
+    {
+     "name": "Adem Bona",
+     "starter": false,
+     "min": 14,
+     "pts": 3,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Kentavious Caldwell-Pope",
+     "starter": false,
+     "min": 13,
+     "pts": 3,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Justin Edwards",
+     "starter": false,
+     "min": 2,
+     "pts": 2,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Rayan Rupert",
+     "starter": false,
+     "min": 2,
+     "pts": 2,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Jabari Walker",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Labaron Philon Jr.",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    }
+   ],
+   "away": [
+    {
+     "name": "Caleb Wilson",
+     "starter": true,
+     "min": 34,
+     "pts": 24,
+     "reb": 7,
+     "ast": 4,
+     "stl": 4,
+     "blk": 0,
+     "tov": 2,
+     "pm": -20
+    },
+    {
+     "name": "Josh Giddey",
+     "starter": true,
+     "min": 32,
+     "pts": 13,
+     "reb": 4,
+     "ast": 10,
+     "stl": 1,
+     "blk": 2,
+     "tov": 3,
+     "pm": -15
+    },
+    {
+     "name": "Norman Powell",
+     "starter": true,
+     "min": 29,
+     "pts": 18,
+     "reb": 3,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": -24
+    },
+    {
+     "name": "Jalen Smith",
+     "starter": true,
+     "min": 28,
+     "pts": 13,
+     "reb": 7,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -15
+    },
+    {
+     "name": "Matas Buzelis",
+     "starter": true,
+     "min": 23,
+     "pts": 4,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 5,
+     "pm": -7
+    },
+    {
+     "name": "Isaac Okoro",
+     "starter": false,
+     "min": 21,
+     "pts": 4,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Tre Jones",
+     "starter": false,
+     "min": 19,
+     "pts": 8,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -13
+    },
+    {
+     "name": "Noa Essengue",
+     "starter": false,
+     "min": 14,
+     "pts": 8,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "Buddy Hield",
+     "starter": false,
+     "min": 12,
+     "pts": 6,
+     "reb": 1,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Zach Collins",
+     "starter": false,
+     "min": 10,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Leonard Miller",
+     "starter": false,
+     "min": 9,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Jaylin Sellers",
+     "starter": false,
+     "min": 2,
+     "pts": 3,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Jordan Hawkins",
+     "starter": false,
+     "min": 2,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Tobe Awaka",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 1
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Tyrese Maxey",
+    "pts": 26,
+    "reb": 4,
+    "ast": 11
+   },
+   "away": {
+    "name": "Caleb Wilson",
+    "pts": 24,
+    "reb": 7,
+    "ast": 4
+   }
+  }
  },
  {
   "date": "2026-11-02",
