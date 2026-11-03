@@ -770,9 +770,25 @@
  {
   "date": "2026-11-02",
   "season": "2026-2027",
+  "away": "MIL",
+  "home": "MIN",
+  "conf": 79.6,
+  "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
   "away": "OKC",
   "home": "CLE",
   "conf": 58.9,
+  "correct": false
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
+  "away": "SAC",
+  "home": "DAL",
+  "conf": 73.3,
   "correct": false
  },
  {
