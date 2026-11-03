@@ -734,5 +734,13 @@
   "home": "LAL",
   "conf": 53.2,
   "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
+  "away": "OKC",
+  "home": "CLE",
+  "conf": 58.9,
+  "correct": false
  }
 ]

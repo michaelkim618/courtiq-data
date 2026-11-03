@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T23:47-05:00",
+ "generated": "2026-11-02T21:47-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -893,13 +893,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-02",
+   "games": 1,
+   "wins": 0,
+   "losses": 1,
+   "pct": 0.0,
+   "cum_wins": 57,
+   "cum_games": 93,
+   "cum_pct": 61.3,
+   "picks": [
+    {
+     "away": "OKC",
+     "home": "CLE",
+     "pick": "CLE",
+     "prob": 58.9,
+     "correct": false,
+     "updated": false
+    }
+   ]
   }
  ],
  "total": {
-  "games": 92,
+  "games": 93,
   "wins": 57,
-  "losses": 35,
-  "pct": 62.0
+  "losses": 36,
+  "pct": 61.3
  },
  "unscored": 0
 }
