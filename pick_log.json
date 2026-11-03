@@ -11506,7 +11506,7 @@
    },
    "home": "HOU",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T20:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T20:30-05:00",
    "tip_known": true,
@@ -12177,6 +12177,36 @@
       "away": 40.1,
       "home": 59.9
      }
+    },
+    {
+     "at": "2026-11-02T20:32-05:00",
+     "expected_margin": 2.68,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody",
+       "Gui Santos",
+       "Al Horford"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Brandon Williams (GSW) now out",
+     "report": "2026-11-02T20:30-05:00",
+     "win_prob": {
+      "away": 42.7,
+      "home": 57.3
+     }
     }
    ]
   },
@@ -12392,7 +12422,7 @@
    },
    "home": "SAS",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-02T20:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-02T20:30-05:00",
    "tip_known": true,

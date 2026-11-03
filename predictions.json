@@ -7680,18 +7680,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 59.9,
-   "away": 40.1
+   "home": 57.3,
+   "away": 42.7
   },
   "win_prob_band": {
-   "low": 59.9,
-   "high": 59.9,
+   "low": 57.3,
+   "high": 57.3,
    "gtd_count": 0
   },
-  "expected_margin": 3.63,
+  "expected_margin": 2.68,
   "expected_score": {
-   "home": 115.9,
-   "away": 112.3
+   "home": 115.4,
+   "away": 112.7
   },
   "margin_breakdown": [
    {
@@ -7711,8 +7711,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.45,
-    "detail": "Golden State Warriors 5 out (120 min) costing 2.7 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts"
+    "points": -3.4,
+    "detail": "Golden State Warriors 6 out (136 min) costing 3.6 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts"
    }
   ],
   "ratings": {
@@ -7751,6 +7751,14 @@
      "nth_out": 1,
      "value": 5.8,
      "cost": -1.22,
+     "no_minutes": false
+    },
+    {
+     "player": "Brandon Williams",
+     "mpg": 16.3,
+     "nth_out": 1,
+     "value": 4.5,
+     "cost": -0.95,
      "no_minutes": false
     },
     {
@@ -7879,19 +7887,6 @@
      "apg": 2.5
     },
     {
-     "player": "Brandon Williams",
-     "player_id": 1630314,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 1,
-     "start_rate": 25,
-     "mpg": 16.5,
-     "ppg": 11.0,
-     "rpg": 3.0,
-     "apg": 3.0
-    },
-    {
      "player": "Will Richard",
      "player_id": 1642954,
      "position": "G",
@@ -7903,6 +7898,19 @@
      "ppg": 4.8,
      "rpg": 1.2,
      "apg": 0.5
+    },
+    {
+     "player": "Georges Niang",
+     "player_id": 1627777,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.7,
+     "ppg": 6.0,
+     "rpg": 2.8,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -8040,6 +8048,12 @@
     "pick": "GSW",
     "prob": 59.9,
     "reason": "Al Horford (GSW) now out; Draymond Green (GSW) cleared to play; Stephen Curry (GSW) cleared to play"
+   },
+   {
+    "at": "2026-11-02T20:32-05:00",
+    "pick": "GSW",
+    "prob": 57.3,
+    "reason": "Brandon Williams (GSW) now out"
    }
   ]
  },
