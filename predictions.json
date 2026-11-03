@@ -8288,13 +8288,13 @@
      "player": "Scottie Barnes",
      "mpg": 25.8,
      "value": 6.5,
-     "status": "Questionable"
+     "status": "Probable"
     },
     {
      "player": "Jakob Poeltl",
      "mpg": 20.1,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Doubtful"
     }
    ]
   },
