@@ -746,6 +746,14 @@
  {
   "date": "2026-11-02",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "NYK",
+  "conf": 73.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
   "away": "CHI",
   "home": "PHI",
   "conf": 81.6,
