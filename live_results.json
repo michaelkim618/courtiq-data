@@ -810,6 +810,14 @@
  {
   "date": "2026-11-02",
   "season": "2026-2027",
+  "away": "PHX",
+  "home": "GSW",
+  "conf": 57.3,
+  "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
   "away": "POR",
   "home": "DEN",
   "conf": 55.6,
@@ -822,6 +830,14 @@
   "home": "DAL",
   "conf": 73.3,
   "correct": false
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
+  "away": "TOR",
+  "home": "LAC",
+  "conf": 62.0,
+  "correct": true
  },
  {
   "date": "2026-11-02",

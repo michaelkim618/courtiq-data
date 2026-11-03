@@ -12156,6 +12156,13 @@
    "home": "GSW",
    "late": false,
    "locked_at": "2026-11-02T22:00-05:00",
+   "result": {
+    "score": {
+     "away": 113,
+     "home": 116
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-02T22:00-05:00",
    "tip_known": true,
@@ -12435,6 +12442,13 @@
    "home": "LAC",
    "late": false,
    "locked_at": "2026-11-02T22:00-05:00",
+   "result": {
+    "score": {
+     "away": 125,
+     "home": 118
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-02T22:00-05:00",
    "tip_known": true,
