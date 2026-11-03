@@ -8023,7 +8023,7 @@
  },
  {
   "date": "2026-11-02",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Portland Trail Blazers",
   "home": "Denver Nuggets",
   "away_code": "POR",
@@ -8222,229 +8222,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 3,
-    "away": 3
-   },
-   "home": [
-    {
-     "player": "Jamal Murray",
-     "player_id": 1627750,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 38.5,
-     "ppg": 22.3,
-     "rpg": 6.3,
-     "apg": 5.7
-    },
-    {
-     "player": "Nikola Jokić",
-     "player_id": 203999,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 38.1,
-     "ppg": 22.3,
-     "rpg": 9.7,
-     "apg": 8.7
-    },
-    {
-     "player": "Christian Braun",
-     "player_id": 1631128,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 35.7,
-     "ppg": 10.3,
-     "rpg": 6.0,
-     "apg": 1.7
-    },
-    {
-     "player": "Aaron Gordon",
-     "player_id": 203932,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 30.4,
-     "ppg": 11.3,
-     "rpg": 5.0,
-     "apg": 2.3
-    },
-    {
-     "player": "Bryce Hopkins",
-     "player_id": 1643624,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 2,
-     "start_rate": 67,
-     "mpg": 17.4,
-     "ppg": 5.0,
-     "rpg": 2.0,
-     "apg": 0.7
-    },
-    {
-     "player": "DeMar DeRozan",
-     "player_id": 201942,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 26.8,
-     "ppg": 15.3,
-     "rpg": 3.0,
-     "apg": 1.7
-    },
-    {
-     "player": "Trevon Brazile",
-     "player_id": 1642350,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.1,
-     "ppg": 9.0,
-     "rpg": 7.3,
-     "apg": 0.0
-    },
-    {
-     "player": "Marvin Bagley III",
-     "player_id": 1628963,
-     "position": "F",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 10.3,
-     "ppg": 4.7,
-     "rpg": 3.0,
-     "apg": 0.3
-    }
-   ],
-   "away": [
-    {
-     "player": "Deni Avdija",
-     "player_id": 1630166,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 31.5,
-     "ppg": 22.3,
-     "rpg": 7.0,
-     "apg": 6.3
-    },
-    {
-     "player": "Damian Lillard",
-     "player_id": 203081,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 29.4,
-     "ppg": 21.7,
-     "rpg": 4.3,
-     "apg": 4.0
-    },
-    {
-     "player": "Toumani Camara",
-     "player_id": 1641739,
-     "position": "F",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 24.7,
-     "ppg": 16.3,
-     "rpg": 1.7,
-     "apg": 1.7
-    },
-    {
-     "player": "Donovan Clingan",
-     "player_id": 1642270,
-     "position": "C",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 22.5,
-     "ppg": 9.3,
-     "rpg": 9.3,
-     "apg": 2.0
-    },
-    {
-     "player": "Jrue Holiday",
-     "player_id": 201950,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 25.5,
-     "ppg": 14.0,
-     "rpg": 3.0,
-     "apg": 4.0
-    },
-    {
-     "player": "Sidy Cissoko",
-     "player_id": 1631321,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.9,
-     "ppg": 8.0,
-     "rpg": 4.3,
-     "apg": 2.7
-    },
-    {
-     "player": "Scoot Henderson",
-     "player_id": 1630703,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.8,
-     "ppg": 7.0,
-     "rpg": 1.7,
-     "apg": 2.0
-    },
-    {
-     "player": "Robert Williams III",
-     "player_id": 1629057,
-     "position": "C",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.1,
-     "ppg": 9.7,
-     "rpg": 8.7,
-     "apg": 0.7
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 110,
+   "away": 118
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Portland Trail Blazers",
   "model_winner": "Denver Nuggets",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.8",
   "data_through": "2026-10-31",
   "tip_et": "2026-11-02T21:00-05:00",
@@ -8458,7 +8243,267 @@
     "prob": 55.6,
     "reason": "Opening pick"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jamal Murray",
+     "starter": true,
+     "min": 39,
+     "pts": 35,
+     "reb": 5,
+     "ast": 6,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -4
+    },
+    {
+     "name": "Christian Braun",
+     "starter": true,
+     "min": 37,
+     "pts": 14,
+     "reb": 3,
+     "ast": 3,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Nikola Jokic",
+     "starter": true,
+     "min": 36,
+     "pts": 26,
+     "reb": 9,
+     "ast": 8,
+     "stl": 4,
+     "blk": 1,
+     "tov": 2,
+     "pm": -3
+    },
+    {
+     "name": "Cameron Johnson",
+     "starter": true,
+     "min": 34,
+     "pts": 7,
+     "reb": 4,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": -5
+    },
+    {
+     "name": "Aaron Gordon",
+     "starter": true,
+     "min": 30,
+     "pts": 5,
+     "reb": 6,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -14
+    },
+    {
+     "name": "DeMar DeRozan",
+     "starter": false,
+     "min": 20,
+     "pts": 9,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Trevon Brazile",
+     "starter": false,
+     "min": 18,
+     "pts": 6,
+     "reb": 5,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Marvin Bagley III",
+     "starter": false,
+     "min": 12,
+     "pts": 6,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -5
+    },
+    {
+     "name": "Tyus Jones",
+     "starter": false,
+     "min": 8,
+     "pts": 2,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Alpha Diallo",
+     "starter": false,
+     "min": 6,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    }
+   ],
+   "away": [
+    {
+     "name": "Deni Avdija",
+     "starter": true,
+     "min": 35,
+     "pts": 28,
+     "reb": 3,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -7
+    },
+    {
+     "name": "Donovan Clingan",
+     "starter": true,
+     "min": 32,
+     "pts": 17,
+     "reb": 18,
+     "ast": 3,
+     "stl": 0,
+     "blk": 4,
+     "tov": 2,
+     "pm": 10
+    },
+    {
+     "name": "Jrue Holiday",
+     "starter": false,
+     "min": 31,
+     "pts": 17,
+     "reb": 8,
+     "ast": 10,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "Toumani Camara",
+     "starter": true,
+     "min": 31,
+     "pts": 9,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": 0
+    },
+    {
+     "name": "Damian Lillard",
+     "starter": true,
+     "min": 30,
+     "pts": 20,
+     "reb": 6,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 3
+    },
+    {
+     "name": "Scoot Henderson",
+     "starter": true,
+     "min": 26,
+     "pts": 8,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 4
+    },
+    {
+     "name": "Sidy Cissoko",
+     "starter": false,
+     "min": 22,
+     "pts": 8,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 2
+    },
+    {
+     "name": "Chris Youngblood",
+     "starter": false,
+     "min": 15,
+     "pts": 7,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 22
+    },
+    {
+     "name": "Robert Williams III",
+     "starter": false,
+     "min": 15,
+     "pts": 2,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -4
+    },
+    {
+     "name": "Vit Krejci",
+     "starter": false,
+     "min": 2,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Jamal Murray",
+    "pts": 35,
+    "reb": 5,
+    "ast": 6
+   },
+   "away": {
+    "name": "Deni Avdija",
+    "pts": 28,
+    "reb": 3,
+    "ast": 5
+   }
+  }
  },
  {
   "date": "2026-11-02",
