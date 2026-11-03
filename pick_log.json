@@ -11499,6 +11499,11 @@
   "2026-11-02_BOS@HOU": {
    "away": "BOS",
    "date": "2026-11-02",
+   "final_check": {
+    "at": "2026-11-02T20:18-05:00",
+    "label": "8:15 PM ET",
+    "report": "2026-11-02T20:15-05:00"
+   },
    "home": "HOU",
    "late": false,
    "locked_at": null,
@@ -12380,6 +12385,11 @@
   "2026-11-02_UTA@SAS": {
    "away": "UTA",
    "date": "2026-11-02",
+   "final_check": {
+    "at": "2026-11-02T20:18-05:00",
+    "label": "8:15 PM ET",
+    "report": "2026-11-02T20:15-05:00"
+   },
    "home": "SAS",
    "late": false,
    "locked_at": null,
