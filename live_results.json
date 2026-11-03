@@ -778,6 +778,14 @@
  {
   "date": "2026-11-02",
   "season": "2026-2027",
+  "away": "MIA",
+  "home": "LAL",
+  "conf": 62.8,
+  "correct": true
+ },
+ {
+  "date": "2026-11-02",
+  "season": "2026-2027",
   "away": "MIL",
   "home": "MIN",
   "conf": 79.6,
