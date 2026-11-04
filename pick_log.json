@@ -12805,6 +12805,37 @@
       "away": 57.2,
       "home": 42.8
      }
+    },
+    {
+     "at": "2026-11-04T18:02-05:00",
+     "expected_margin": -1.63,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Johnson",
+       "Jock Landale",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Jalen Johnson (ATL) now out; Alex Sarr (WAS) cleared to play; Bilal Coulibaly (WAS) cleared to play",
+     "report": "2026-11-04T18:00-05:00",
+     "win_prob": {
+      "away": 54.5,
+      "home": 45.5
+     }
     }
    ]
   },
@@ -13942,6 +13973,33 @@
      "win_prob": {
       "away": 26.1,
       "home": 73.9
+     }
+    },
+    {
+     "at": "2026-11-04T18:02-05:00",
+     "expected_margin": 9.14,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaren Jackson Jr.",
+       "Jusuf Nurkic"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Yves Missi"
+      ]
+     },
+     "pick": "New Orleans Pelicans",
+     "pick_code": "NOP",
+     "reason": "Trey Murphy III (NOP) now out",
+     "report": "2026-11-04T18:00-05:00",
+     "win_prob": {
+      "away": 26.4,
+      "home": 73.6
      }
     }
    ]
