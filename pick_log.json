@@ -12873,6 +12873,31 @@
       "away": 46.3,
       "home": 53.7
      }
+    },
+    {
+     "at": "2026-11-04T15:02-05:00",
+     "expected_margin": 1.34,
+     "gtd": {
+      "away": [
+       "Coby White"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Egor Demin"
+      ]
+     },
+     "pick": "Brooklyn Nets",
+     "pick_code": "BKN",
+     "reason": "Grant Williams (CHA) no longer out; Kon Knueppel (CHA) cleared to play",
+     "report": "2026-11-04T15:00-05:00",
+     "win_prob": {
+      "away": 46.3,
+      "home": 53.7
+     }
     }
    ]
   },
@@ -12933,6 +12958,32 @@
      "pick_code": "NYK",
      "reason": "win probability moved with the latest report",
      "report": "2026-11-04T09:30-05:00",
+     "win_prob": {
+      "away": 17.4,
+      "home": 82.6
+     }
+    },
+    {
+     "at": "2026-11-04T15:02-05:00",
+     "expected_margin": 13.63,
+     "gtd": {
+      "away": [
+       "Jalen Smith",
+       "Nic Claxton"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Josh Hart"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Josh Hart (NYK) now out",
+     "report": "2026-11-04T15:00-05:00",
      "win_prob": {
       "away": 17.4,
       "home": 82.6
@@ -13454,6 +13505,34 @@
      "win_prob": {
       "away": 32.7,
       "home": 67.3
+     }
+    },
+    {
+     "at": "2026-11-04T15:02-05:00",
+     "expected_margin": 6.94,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Anthony Edwards",
+       "Terrence Shannon Jr",
+       "Donte DiVincenzo"
+      ],
+      "home": [
+       "Steven Adams",
+       "Clint Capela"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Terrence Shannon Jr (MIN) now out; Clint Capela (HOU) now out",
+     "report": "2026-11-04T15:00-05:00",
+     "win_prob": {
+      "away": 31.6,
+      "home": 68.4
      }
     }
    ]
