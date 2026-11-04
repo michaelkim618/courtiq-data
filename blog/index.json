@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-04-film-session-cle-okc",
+      "title": "Film Session: CLE @ OKC",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Point Guard Expert",
+      "date": "2026-11-04",
+      "type": "daily",
+      "tag": "Preview",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "A point guard's read on CLE @ OKC on 2026-11-04 — where the matchup is actually won, possession by possession, and why the numbers lean the way they do before tip.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-01-hot-take-here-s-what-fans-need-to-know-in-the-sports-world-t",
       "title": "Hot Take: Here's what fans need to know in the sports world today",
       "author": "Rico",

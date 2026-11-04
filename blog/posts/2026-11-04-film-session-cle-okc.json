@@ -1,0 +1,32 @@
+{
+  "slug": "2026-11-04-film-session-cle-okc",
+  "title": "Film Session: CLE @ OKC",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_color": "#D97706",
+  "author_role": "Point Guard Expert",
+  "date": "2026-11-04",
+  "type": "daily",
+  "tag": "Preview",
+  "tag_color": "#D97706",
+  "read_time": "3 min",
+  "summary": "A point guard's read on CLE @ OKC on 2026-11-04 — where the matchup is actually won, possession by possession, and why the numbers lean the way they do before tip.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Reading the Floor\n\nCLE @ OKC on 2026-11-04. Forget the final number for a second — here's where it actually comes from."
+    },
+    {
+      "type": "text",
+      "value": "**Net Rating Diff**: +1.1 pts — Oklahoma City Thunder +4.2 vs Cleveland Cavaliers +3.1, proj. 99.9 possessions\n\nThat's your baseline. Thunder have been the better team per 100, but not by a canyon. Over a full game at 99.9 possessions, that gap translates to just over a point of separation. It's real, but it's not insurmountable — this is the kind of edge that evaporates if Cleveland controls the middle eight minutes of the second half.\n\n**Home Advantage**: +2.3 pts — League-measured average\n\nStandard home bump. Oklahoma City gets the friendly whistle, the last change vibe, the crowd energy when things get tight in the fourth. Nothing exotic here, just the reality of playing in someone else's building.\n\n**Back-to-Back**: +0.0 pts — Both teams rested\n\nClean slate on the schedule front. Nobody's dragging legs from a game last night, nobody's got the luxury of that excuse. Both teams show up fresh, which means you get to see the real version of each roster.\n\n**Absences**: -1.6 pts — Oklahoma City Thunder 4 out (91 min) costing 1.9 pts, Cleveland Cavaliers 3 out (62 min) costing 0.3 pts · Thomas Sorber out all season, already baked into team rating\n\nThis is where it tilts back. Thunder are down four bodies totaling 91 minutes of rotation work — that's a 1.9-point hit. Cleveland's missing three guys for 62 minutes, but the impact is only 0.3 pts, so we're talking end-of-bench depth more than core pieces. Sorber's already cooked into OKC's season-long rating, so no double-counting there. Net it out and you get 1.6 points swinging Cleveland's way just from who's available to check in."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#D97706",
+      "title": "ACE'S READ",
+      "value": "OKC in the driver's seat",
+      "sub": "Model margin: {:+.1f} (home − away). Doesn't mean the game is played that way — means that's who should be."
+    }
+  ],
+  "post_kind": "feature"
+}
