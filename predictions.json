@@ -158,7 +158,7 @@
     {
      "player": "Jalen Duren",
      "mpg": 27.5,
-     "nth_out": 1,
+     "nth_out": 5,
      "value": 5.2,
      "cost": -1.09,
      "no_minutes": false
@@ -176,7 +176,7 @@
     {
      "player": "Dominick Barlow",
      "mpg": 22.4,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -184,7 +184,7 @@
     {
      "player": "Ariel Hukporti",
      "mpg": 9.1,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -605,7 +605,7 @@
     {
      "player": "Tristan Vukcevic",
      "mpg": 13.7,
-     "nth_out": 1,
+     "nth_out": 7,
      "value": 3.0,
      "cost": -0.63,
      "no_minutes": false
@@ -613,7 +613,7 @@
     {
      "player": "Justin Champagnie",
      "mpg": 18.1,
-     "nth_out": 1,
+     "nth_out": 4,
      "value": 0.2,
      "cost": -0.05,
      "no_minutes": false
@@ -621,7 +621,7 @@
     {
      "player": "Jamir Watkins",
      "mpg": 20.1,
-     "nth_out": 1,
+     "nth_out": 7,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -639,7 +639,7 @@
     {
      "player": "Jock Landale",
      "mpg": 17.1,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.9,
      "cost": -0.18,
      "no_minutes": false
@@ -647,7 +647,7 @@
     {
      "player": "Mouhamed Gueye",
      "mpg": 14.7,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -655,7 +655,7 @@
     {
      "player": "Henri Veesaar",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -1083,7 +1083,7 @@
     {
      "player": "Devin Carter",
      "mpg": 18.1,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.5,
      "cost": -0.1,
      "no_minutes": false
@@ -1511,7 +1511,7 @@
     {
      "player": "Egor Demin",
      "mpg": 23.2,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -1521,7 +1521,7 @@
     {
      "player": "Grant Williams",
      "mpg": 19.6,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2384,7 +2384,7 @@
     {
      "player": "Tyrese Haliburton",
      "mpg": 25.3,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 7.6,
      "cost": -1.59,
      "no_minutes": false
@@ -2392,7 +2392,7 @@
     {
      "player": "T.J. McConnell",
      "mpg": 17.0,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 1.8,
      "cost": -0.37,
      "no_minutes": false
@@ -2400,7 +2400,7 @@
     {
      "player": "Ben Sheppard",
      "mpg": 21.2,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2408,7 +2408,7 @@
     {
      "player": "Johnny Furphy",
      "mpg": 18.2,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2835,7 +2835,7 @@
     {
      "player": "Yves Missi",
      "mpg": 20.8,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3316,7 +3316,7 @@
     {
      "player": "Jaylon Tyson",
      "mpg": 21.2,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 1.3,
      "cost": -0.27,
      "no_minutes": false
@@ -3332,7 +3332,7 @@
     {
      "player": "Nae'Qwan Tomlin",
      "mpg": 14.5,
-     "nth_out": 1,
+     "nth_out": 7,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3751,7 +3751,7 @@
     {
      "player": "Steven Adams",
      "mpg": 22.7,
-     "nth_out": 1,
+     "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
