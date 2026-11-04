@@ -1032,9 +1032,9 @@
    "away": 21.1
   },
   "win_prob_band": {
-   "low": 77.6,
+   "low": 78.9,
    "high": 78.9,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 11.65,
   "expected_score": {
@@ -1105,14 +1105,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Payton Pritchard",
-     "mpg": 27.5,
-     "value": 3.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -1362,6 +1355,12 @@
     "pick": "BOS",
     "prob": 78.9,
     "reason": "Jayson Tatum (BOS) now out"
+   },
+   {
+    "at": "2026-11-04T18:17-05:00",
+    "pick": "BOS",
+    "prob": 78.9,
+    "reason": "Payton Pritchard (BOS) cleared to play"
    }
   ]
  },
@@ -3267,7 +3266,7 @@
    {
     "label": "Absences",
     "points": -1.58,
-    "detail": "Oklahoma City Thunder 4 out (91 min) costing 1.9 pts, Cleveland Cavaliers 3 out (62 min) costing 0.3 pts · Thomas Sorber out all season, already baked into team rating"
+    "detail": "Oklahoma City Thunder 5 out (109 min) costing 1.9 pts, Cleveland Cavaliers 3 out (62 min) costing 0.3 pts · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3311,6 +3310,14 @@
     {
      "player": "Cason Wallace",
      "mpg": 26.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Jaylin Williams",
+     "mpg": 18.2,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
@@ -3450,19 +3457,6 @@
      "apg": 3.8
     },
     {
-     "player": "Jaylin Williams",
-     "player_id": 1631119,
-     "position": "F",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.4,
-     "ppg": 2.9,
-     "rpg": 4.1,
-     "apg": 1.6
-    },
-    {
      "player": "Aday Mara",
      "player_id": 1643530,
      "position": "C",
@@ -3474,6 +3468,19 @@
      "ppg": 6.4,
      "rpg": 5.6,
      "apg": 1.1
+    },
+    {
+     "player": "Josh Dix",
+     "player_id": 1643717,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.8,
+     "ppg": 2.2,
+     "rpg": 1.0,
+     "apg": 0.0
     }
    ],
    "away": [
@@ -3605,6 +3612,12 @@
     "pick": "OKC",
     "prob": 55.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-04T18:17-05:00",
+    "pick": "OKC",
+    "prob": 55.1,
+    "reason": "Jaylin Williams (OKC) now out"
    }
   ]
  },

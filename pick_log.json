@@ -13118,6 +13118,38 @@
       "away": 44.9,
       "home": 55.1
      }
+    },
+    {
+     "at": "2026-11-04T18:17-05:00",
+     "expected_margin": 1.86,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaylon Tyson",
+       "Peyton Watson",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Jaylin Williams (OKC) now out",
+     "report": "2026-11-04T18:15-05:00",
+     "win_prob": {
+      "away": 44.9,
+      "home": 55.1
+     }
     }
    ]
   },
@@ -13548,6 +13580,30 @@
      "pick_code": "BOS",
      "reason": "Jayson Tatum (BOS) now out",
      "report": "2026-11-04T12:45-05:00",
+     "win_prob": {
+      "away": 21.1,
+      "home": 78.9
+     }
+    },
+    {
+     "at": "2026-11-04T18:17-05:00",
+     "expected_margin": 11.65,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jayson Tatum",
+       "Devin Carter"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Payton Pritchard (BOS) cleared to play",
+     "report": "2026-11-04T18:15-05:00",
      "win_prob": {
       "away": 21.1,
       "home": 78.9
