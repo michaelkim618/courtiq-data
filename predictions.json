@@ -5533,9 +5533,9 @@
    "away": 72.8
   },
   "win_prob_band": {
-   "low": 27.1,
+   "low": 27.2,
    "high": 27.2,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -8.82,
   "expected_score": {
@@ -5561,7 +5561,7 @@
    {
     "label": "Absences",
     "points": -0.12,
-    "detail": "Sacramento Kings 2 out (59 min) costing 0.1 pts, Los Angeles Lakers 1 out (6 min) · Ben Simmons out all season, already baked into team rating"
+    "detail": "Sacramento Kings 3 out (74 min) costing 0.1 pts, Los Angeles Lakers 1 out (6 min) · Ben Simmons out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -5608,6 +5608,14 @@
      "no_minutes": false
     },
     {
+     "player": "Daeqwon Plowden",
+     "mpg": 15.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Ben Simmons",
      "mpg": 0.0,
      "nth_out": 1,
@@ -5628,14 +5636,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Precious Achiuwa",
-     "mpg": 25.9,
-     "value": 0.1,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5879,6 +5880,12 @@
     "pick": "LAL",
     "prob": 72.8,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-04T16:02-05:00",
+    "pick": "LAL",
+    "prob": 72.8,
+    "reason": "Daeqwon Plowden (SAC) now out; Precious Achiuwa (SAC) cleared to play"
    }
   ]
  },
