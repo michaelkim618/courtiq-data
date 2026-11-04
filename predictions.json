@@ -1468,8 +1468,8 @@
   },
   "win_prob_band": {
    "low": 53.7,
-   "high": 57.2,
-   "gtd_count": 1
+   "high": 53.7,
+   "gtd_count": 0
   },
   "expected_margin": 1.34,
   "expected_score": {
@@ -1533,14 +1533,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Coby White",
-     "mpg": 24.9,
-     "value": 6.1,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -1789,6 +1782,12 @@
     "pick": "BKN",
     "prob": 53.7,
     "reason": "Grant Williams (CHA) no longer out; Kon Knueppel (CHA) cleared to play"
+   },
+   {
+    "at": "2026-11-04T18:32-05:00",
+    "pick": "BKN",
+    "prob": 53.7,
+    "reason": "Coby White (CHA) cleared to play"
    }
   ]
  },
