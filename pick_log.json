@@ -12988,6 +12988,31 @@
       "away": 17.4,
       "home": 82.6
      }
+    },
+    {
+     "at": "2026-11-04T17:32-05:00",
+     "expected_margin": 13.63,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nic Claxton"
+      ],
+      "home": [
+       "Josh Hart"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Nic Claxton (CHI) now out; Jalen Smith (CHI) cleared to play",
+     "report": "2026-11-04T17:30-05:00",
+     "win_prob": {
+      "away": 17.4,
+      "home": 82.6
+     }
     }
    ]
   },

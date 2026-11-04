@@ -1903,8 +1903,8 @@
   },
   "win_prob_band": {
    "low": 82.6,
-   "high": 83.4,
-   "gtd_count": 2
+   "high": 82.6,
+   "gtd_count": 0
   },
   "expected_margin": 13.63,
   "expected_score": {
@@ -1930,7 +1930,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "New York Knicks 1 out (28 min)"
+    "detail": "New York Knicks 1 out (28 min), Chicago Bulls 1 out (28 min)"
    }
   ],
   "ratings": {
@@ -1964,24 +1964,20 @@
      "no_minutes": false
     }
    ],
-   "away": []
-  },
-  "gtd": {
-   "home": [],
    "away": [
-    {
-     "player": "Jalen Smith",
-     "mpg": 21.3,
-     "value": 2.1,
-     "status": "Probable"
-    },
     {
      "player": "Nic Claxton",
      "mpg": 27.5,
+     "nth_out": 1,
      "value": 0.0,
-     "status": "Questionable"
+     "cost": -0.0,
+     "no_minutes": false
     }
    ]
+  },
+  "gtd": {
+   "home": [],
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -2230,6 +2226,12 @@
     "pick": "NYK",
     "prob": 82.6,
     "reason": "Josh Hart (NYK) now out"
+   },
+   {
+    "at": "2026-11-04T17:32-05:00",
+    "pick": "NYK",
+    "prob": 82.6,
+    "reason": "Nic Claxton (CHI) now out; Jalen Smith (CHI) cleared to play"
    }
   ]
  },
