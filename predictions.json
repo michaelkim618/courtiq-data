@@ -422,7 +422,7 @@
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -900,7 +900,7 @@
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -1495,7 +1495,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Brooklyn Nets 1 out (23 min)"
+    "detail": "Brooklyn Nets 1 out (23 min), Charlotte Hornets 1 out (20 min)"
    }
   ],
   "ratings": {
@@ -1529,7 +1529,16 @@
      "no_minutes": false
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Grant Williams",
+     "mpg": 19.6,
+     "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
@@ -1788,6 +1797,12 @@
     "pick": "BKN",
     "prob": 53.7,
     "reason": "Coby White (CHA) cleared to play"
+   },
+   {
+    "at": "2026-11-04T18:47-05:00",
+    "pick": "BKN",
+    "prob": 53.7,
+    "reason": "Grant Williams (CHA) now out"
    }
   ]
  },
