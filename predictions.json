@@ -104,7 +104,7 @@
   "win_prob_band": {
    "low": 64.5,
    "high": 64.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 5.37,
   "expected_score": {
@@ -192,14 +192,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Elijah Harkless",
-     "mpg": 20.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -443,6 +436,12 @@
     "pick": "DET",
     "prob": 64.5,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-04T12:33-05:00",
+    "pick": "DET",
+    "prob": 64.5,
+    "reason": "Elijah Harkless (DET) cleared to play"
    }
   ]
  },
@@ -551,7 +550,7 @@
   "win_prob_band": {
    "low": 42.8,
    "high": 45.6,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": -2.65,
   "expected_score": {
@@ -667,6 +666,12 @@
     {
      "player": "Alex Sarr",
      "mpg": 24.0,
+     "value": 0.0,
+     "status": "Questionable"
+    },
+    {
+     "player": "Bilal Coulibaly",
+     "mpg": 23.5,
      "value": 0.0,
      "status": "Questionable"
     }
@@ -921,6 +926,12 @@
     "pick": "ATL",
     "prob": 57.2,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-04T12:33-05:00",
+    "pick": "ATL",
+    "prob": 57.2,
+    "reason": "Bilal Coulibaly (WAS) now questionable"
    }
   ]
  },

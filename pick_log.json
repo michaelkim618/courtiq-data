@@ -12770,6 +12770,41 @@
       "away": 57.2,
       "home": 42.8
      }
+    },
+    {
+     "at": "2026-11-04T12:33-05:00",
+     "expected_margin": -2.65,
+     "gtd": {
+      "away": [
+       "Jalen Johnson"
+      ],
+      "home": [
+       "Alex Sarr",
+       "Bilal Coulibaly"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jock Landale",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Bilal Coulibaly (WAS) now questionable",
+     "report": "2026-11-04T12:30-05:00",
+     "win_prob": {
+      "away": 57.2,
+      "home": 42.8
+     }
     }
    ]
   },
@@ -13460,6 +13495,33 @@
      "pick_code": "DET",
      "reason": "win probability moved with the latest report",
      "report": "2026-11-04T09:30-05:00",
+     "win_prob": {
+      "away": 35.5,
+      "home": 64.5
+     }
+    },
+    {
+     "at": "2026-11-04T12:33-05:00",
+     "expected_margin": 5.37,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Dominick Barlow",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Elijah Harkless (DET) cleared to play",
+     "report": "2026-11-04T12:30-05:00",
      "win_prob": {
       "away": 35.5,
       "home": 64.5
