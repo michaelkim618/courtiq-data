@@ -866,10 +866,34 @@
  {
   "date": "2026-11-04",
   "season": "2026-2027",
+  "away": "CHA",
+  "home": "BKN",
+  "conf": 53.7,
+  "correct": true
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
   "away": "CHI",
   "home": "NYK",
   "conf": 82.6,
   "correct": true
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
+  "away": "CLE",
+  "home": "OKC",
+  "conf": 55.1,
+  "correct": true
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
+  "away": "IND",
+  "home": "MEM",
+  "conf": 81.3,
+  "correct": false
  },
  {
   "date": "2026-11-04",
