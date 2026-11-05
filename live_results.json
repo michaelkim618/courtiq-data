@@ -862,5 +862,29 @@
   "home": "WAS",
   "conf": 54.5,
   "correct": true
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
+  "away": "CHI",
+  "home": "NYK",
+  "conf": 82.6,
+  "correct": true
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
+  "away": "MIL",
+  "home": "BOS",
+  "conf": 78.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
+  "away": "PHI",
+  "home": "DET",
+  "conf": 64.5,
+  "correct": false
  }
 ]
