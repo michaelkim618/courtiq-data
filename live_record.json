@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T00:32-05:00",
+ "generated": "2026-11-05T00:47-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1028,13 +1028,13 @@
   },
   {
    "date": "2026-11-04",
-   "games": 12,
-   "wins": 9,
+   "games": 13,
+   "wins": 10,
    "losses": 3,
-   "pct": 75.0,
-   "cum_wins": 76,
-   "cum_games": 119,
-   "cum_pct": 63.9,
+   "pct": 76.9,
+   "cum_wins": 77,
+   "cum_games": 120,
+   "cum_pct": 64.2,
    "picks": [
     {
      "away": "ATL",
@@ -1082,6 +1082,14 @@
      "pick": "MEM",
      "prob": 81.3,
      "correct": false,
+     "updated": true
+    },
+    {
+     "away": "LAL",
+     "home": "SAC",
+     "pick": "LAL",
+     "prob": 72.8,
+     "correct": true,
      "updated": true
     },
     {
@@ -1136,10 +1144,10 @@
   }
  ],
  "total": {
-  "games": 119,
-  "wins": 76,
+  "games": 120,
+  "wins": 77,
   "losses": 43,
-  "pct": 63.9
+  "pct": 64.2
  },
  "unscored": 0
 }
