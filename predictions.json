@@ -7462,8 +7462,8 @@
   "neutral": false,
   "home_standing": {
    "wins": 1,
-   "losses": 4,
-   "win_pct": 0.2,
+   "losses": 5,
+   "win_pct": 0.167,
    "conference": "West",
    "rank": 12
   },
@@ -7472,16 +7472,10 @@
    "losses": 5,
    "win_pct": 0.286,
    "conference": "East",
-   "rank": 11
+   "rank": 12
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-10-21",
-     "result": "L",
-     "score": "83-124",
-     "home": false
-    },
     {
      "date": "2026-10-24",
      "result": "W",
@@ -7505,11 +7499,17 @@
      "result": "L",
      "score": "113-116",
      "home": false
+    },
+    {
+     "date": "2026-11-04",
+     "result": "L",
+     "score": "119-132",
+     "home": true
     }
    ],
    "wins": 1,
-   "losses": 4,
-   "streak": -3
+   "losses": 5,
+   "streak": -4
   },
   "away_recent_form": {
    "games": [
@@ -7549,18 +7549,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 61.0,
-   "away": 39.0
+   "home": 54.2,
+   "away": 45.8
   },
   "win_prob_band": {
-   "low": 61.0,
-   "high": 61.0,
+   "low": 54.2,
+   "high": 54.2,
    "gtd_count": 0
   },
-  "expected_margin": 4.03,
+  "expected_margin": 1.53,
   "expected_score": {
-   "home": 115.0,
-   "away": 111.0
+   "home": 113.8,
+   "away": 112.2
   },
   "margin_breakdown": [
    {
@@ -7575,8 +7575,8 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 0.0,
-    "detail": "Both teams rested"
+    "points": -2.5,
+    "detail": "Phoenix Suns on no rest"
    },
    {
     "label": "Absences",
@@ -7902,7 +7902,7 @@
   "model_winner": "Phoenix Suns",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-02",
+  "data_through": "2026-11-04",
   "tip_et": "2026-11-05T21:00-05:00",
   "injury_report": {
    "final_check": null
@@ -7925,6 +7925,12 @@
     "pick": "PHX",
     "prob": 61.0,
     "reason": "Jordan Goodwin (PHX) now out; Rasheer Fleming (PHX) now out"
+   },
+   {
+    "at": "2026-11-05T17:02-05:00",
+    "pick": "PHX",
+    "prob": 54.2,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -7946,11 +7952,11 @@
    "rank": 8
   },
   "away_standing": {
-   "wins": 2,
+   "wins": 3,
    "losses": 5,
-   "win_pct": 0.286,
+   "win_pct": 0.375,
    "conference": "East",
-   "rank": 10
+   "rank": 9
   },
   "home_recent_form": {
    "games": [
@@ -7992,12 +7998,6 @@
   "away_recent_form": {
    "games": [
     {
-     "date": "2026-10-24",
-     "result": "L",
-     "score": "110-115",
-     "home": false
-    },
-    {
      "date": "2026-10-26",
      "result": "L",
      "score": "109-113",
@@ -8020,25 +8020,31 @@
      "result": "L",
      "score": "117-138",
      "home": false
+    },
+    {
+     "date": "2026-11-04",
+     "result": "W",
+     "score": "117-116",
+     "home": false
     }
    ],
-   "wins": 2,
+   "wins": 3,
    "losses": 5,
-   "streak": -1
+   "streak": 1
   },
   "win_prob": {
-   "home": 58.6,
-   "away": 41.4
+   "home": 65.1,
+   "away": 34.9
   },
   "win_prob_band": {
-   "low": 58.6,
-   "high": 58.6,
+   "low": 65.1,
+   "high": 65.1,
    "gtd_count": 0
   },
-  "expected_margin": 3.14,
+  "expected_margin": 5.64,
   "expected_score": {
-   "home": 118.8,
-   "away": 115.6
+   "home": 120.0,
+   "away": 114.4
   },
   "margin_breakdown": [
    {
@@ -8053,8 +8059,8 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 0.0,
-    "detail": "Both teams rested"
+    "points": 2.5,
+    "detail": "Miami Heat on no rest"
    },
    {
     "label": "Absences",
@@ -8347,7 +8353,7 @@
   "model_winner": "Golden State Warriors",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-02",
+  "data_through": "2026-11-04",
   "tip_et": "2026-11-05T22:00-05:00",
   "injury_report": {
    "final_check": null
@@ -8369,6 +8375,12 @@
     "at": "2026-11-05T11:03-05:00",
     "pick": "GSW",
     "prob": 58.6,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-05T17:02-05:00",
+    "pick": "GSW",
+    "prob": 65.1,
     "reason": "win probability moved with the latest report"
    }
   ]
