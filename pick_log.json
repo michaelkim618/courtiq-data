@@ -13113,6 +13113,11 @@
   "2026-11-04_CLE@OKC": {
    "away": "CLE",
    "date": "2026-11-04",
+   "final_check": {
+    "at": "2026-11-04T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-04T19:45-05:00"
+   },
    "home": "OKC",
    "late": false,
    "locked_at": null,
@@ -13293,6 +13298,11 @@
   "2026-11-04_IND@MEM": {
    "away": "IND",
    "date": "2026-11-04",
+   "final_check": {
+    "at": "2026-11-04T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-04T19:45-05:00"
+   },
    "home": "MEM",
    "late": false,
    "locked_at": null,
@@ -14096,6 +14106,11 @@
   "2026-11-04_UTA@NOP": {
    "away": "UTA",
    "date": "2026-11-04",
+   "final_check": {
+    "at": "2026-11-04T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-04T19:45-05:00"
+   },
    "home": "NOP",
    "late": false,
    "locked_at": null,
