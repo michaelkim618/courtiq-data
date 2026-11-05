@@ -7462,8 +7462,8 @@
   "neutral": false,
   "home_standing": {
    "wins": 1,
-   "losses": 5,
-   "win_pct": 0.167,
+   "losses": 4,
+   "win_pct": 0.2,
    "conference": "West",
    "rank": 12
   },
@@ -7472,10 +7472,16 @@
    "losses": 5,
    "win_pct": 0.286,
    "conference": "East",
-   "rank": 12
+   "rank": 11
   },
   "home_recent_form": {
    "games": [
+    {
+     "date": "2026-10-21",
+     "result": "L",
+     "score": "83-124",
+     "home": false
+    },
     {
      "date": "2026-10-24",
      "result": "W",
@@ -7499,17 +7505,11 @@
      "result": "L",
      "score": "113-116",
      "home": false
-    },
-    {
-     "date": "2026-11-04",
-     "result": "L",
-     "score": "119-132",
-     "home": true
     }
    ],
    "wins": 1,
-   "losses": 5,
-   "streak": -4
+   "losses": 4,
+   "streak": -3
   },
   "away_recent_form": {
    "games": [
@@ -7549,18 +7549,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 54.2,
-   "away": 45.8
+   "home": 61.0,
+   "away": 39.0
   },
   "win_prob_band": {
-   "low": 54.2,
-   "high": 54.2,
+   "low": 61.0,
+   "high": 61.0,
    "gtd_count": 0
   },
-  "expected_margin": 1.53,
+  "expected_margin": 4.03,
   "expected_score": {
-   "home": 113.8,
-   "away": 112.2
+   "home": 115.0,
+   "away": 111.0
   },
   "margin_breakdown": [
    {
@@ -7575,13 +7575,13 @@
    },
    {
     "label": "Back-to-Back",
-    "points": -2.5,
-    "detail": "Phoenix Suns on no rest"
+    "points": 0.0,
+    "detail": "Both teams rested"
    },
    {
     "label": "Absences",
     "points": 1.89,
-    "detail": "Phoenix Suns 3 out (57 min) costing 0.2 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Phoenix Suns: official report not filed yet, ESPN injury list used · Izaiyah Nelson out all season, already baked into team rating"
+    "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Phoenix Suns: official report not filed yet, ESPN injury list used · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7612,24 +7612,6 @@
      "nth_out": 1,
      "value": 1.0,
      "cost": -0.22,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
-     "player": "Jordan Goodwin",
-     "mpg": 17.3,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
-     "player": "Rasheer Fleming",
-     "mpg": 16.5,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
      "no_minutes": false,
      "source": "espn"
     }
@@ -7780,17 +7762,17 @@
      "apg": 4.2
     },
     {
-     "player": "Luke Kennard",
-     "player_id": 1628379,
+     "player": "Jordan Goodwin",
+     "player_id": 1630692,
      "position": "G",
      "starter": false,
      "games": 5,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 15.7,
-     "ppg": 7.0,
-     "rpg": 1.6,
-     "apg": 1.4
+     "mpg": 18.9,
+     "ppg": 7.8,
+     "rpg": 3.4,
+     "apg": 2.6
     }
    ],
    "away": [
@@ -7905,7 +7887,7 @@
   "model_winner": "Phoenix Suns",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-04",
+  "data_through": "2026-11-02",
   "tip_et": "2026-11-05T21:00-05:00",
   "injury_report": {
    "final_check": null
@@ -7916,6 +7898,12 @@
     "pick": "PHX",
     "prob": 54.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-05T11:03-05:00",
+    "pick": "PHX",
+    "prob": 61.0,
+    "reason": "Jordan Goodwin (PHX) no longer out; Rasheer Fleming (PHX) no longer out"
    }
   ]
  },
@@ -7937,11 +7925,11 @@
    "rank": 8
   },
   "away_standing": {
-   "wins": 3,
+   "wins": 2,
    "losses": 5,
-   "win_pct": 0.375,
+   "win_pct": 0.286,
    "conference": "East",
-   "rank": 9
+   "rank": 10
   },
   "home_recent_form": {
    "games": [
@@ -7983,6 +7971,12 @@
   "away_recent_form": {
    "games": [
     {
+     "date": "2026-10-24",
+     "result": "L",
+     "score": "110-115",
+     "home": false
+    },
+    {
      "date": "2026-10-26",
      "result": "L",
      "score": "109-113",
@@ -8005,31 +7999,25 @@
      "result": "L",
      "score": "117-138",
      "home": false
-    },
-    {
-     "date": "2026-11-04",
-     "result": "W",
-     "score": "117-116",
-     "home": false
     }
    ],
-   "wins": 3,
+   "wins": 2,
    "losses": 5,
-   "streak": 1
+   "streak": -1
   },
   "win_prob": {
-   "home": 65.1,
-   "away": 34.9
+   "home": 58.6,
+   "away": 41.4
   },
   "win_prob_band": {
-   "low": 65.1,
-   "high": 65.1,
+   "low": 58.6,
+   "high": 58.6,
    "gtd_count": 0
   },
-  "expected_margin": 5.64,
+  "expected_margin": 3.14,
   "expected_score": {
-   "home": 120.0,
-   "away": 114.4
+   "home": 118.8,
+   "away": 115.6
   },
   "margin_breakdown": [
    {
@@ -8044,8 +8032,8 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 2.5,
-    "detail": "Miami Heat on no rest"
+    "points": 0.0,
+    "detail": "Both teams rested"
    },
    {
     "label": "Absences",
@@ -8338,7 +8326,7 @@
   "model_winner": "Golden State Warriors",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-04",
+  "data_through": "2026-11-02",
   "tip_et": "2026-11-05T22:00-05:00",
   "injury_report": {
    "final_check": null
@@ -8354,6 +8342,12 @@
     "at": "2026-11-05T02:24-05:00",
     "pick": "GSW",
     "prob": 65.1,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-05T11:03-05:00",
+    "pick": "GSW",
+    "prob": 58.6,
     "reason": "win probability moved with the latest report"
    }
   ]
