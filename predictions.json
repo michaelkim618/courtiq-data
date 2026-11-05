@@ -4688,7 +4688,7 @@
    {
     "label": "Absences",
     "points": 1.93,
-    "detail": "Phoenix Suns 2 out (40 min) costing 0.2 pts, Portland Trail Blazers 2 out (51 min) costing 2.1 pts"
+    "detail": "Phoenix Suns 3 out (57 min) costing 0.2 pts, Portland Trail Blazers 2 out (51 min) costing 2.1 pts"
    },
    {
     "label": "Returning Players",
@@ -4724,6 +4724,14 @@
      "nth_out": 1,
      "value": 1.0,
      "cost": -0.22,
+     "no_minutes": false
+    },
+    {
+     "player": "Jordan Goodwin",
+     "mpg": 17.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
      "no_minutes": false
     },
     {
@@ -4857,17 +4865,17 @@
      "apg": 3.3
     },
     {
-     "player": "Jordan Goodwin",
-     "player_id": 1630692,
+     "player": "Luke Kennard",
+     "player_id": 1628379,
      "position": "G",
      "starter": false,
-     "games": 5,
+     "games": 4,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.9,
-     "ppg": 7.8,
-     "rpg": 3.4,
-     "apg": 2.6
+     "mpg": 16.1,
+     "ppg": 8.8,
+     "rpg": 2.0,
+     "apg": 1.5
     }
    ],
    "away": [
@@ -5005,6 +5013,12 @@
     "pick": "POR",
     "prob": 55.1,
     "reason": "Rasheer Fleming (PHX) now out"
+   },
+   {
+    "at": "2026-11-04T20:02-05:00",
+    "pick": "POR",
+    "prob": 55.1,
+    "reason": "Jordan Goodwin (PHX) now out"
    }
   ]
  },
@@ -5107,18 +5121,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 74.0,
-   "away": 26.0
+   "home": 74.6,
+   "away": 25.4
   },
   "win_prob_band": {
-   "low": 74.0,
+   "low": 74.6,
    "high": 74.6,
-   "gtd_count": 1
+   "gtd_count": 0
   },
-  "expected_margin": 9.31,
+  "expected_margin": 9.6,
   "expected_score": {
-   "home": 118.2,
-   "away": 108.8
+   "home": 118.3,
+   "away": 108.7
   },
   "margin_breakdown": [
    {
@@ -5138,8 +5152,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.29,
-    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Dallas Mavericks 2 out (45 min) · Jayden Quaintance, Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 0.0,
+    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Dallas Mavericks 3 out (72 min) costing 0.3 pts · Jayden Quaintance, Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -5188,6 +5202,14 @@
    ],
    "away": [
     {
+     "player": "Santi Aldama",
+     "mpg": 27.2,
+     "nth_out": 1,
+     "value": 1.4,
+     "cost": -0.29,
+     "no_minutes": false
+    },
+    {
      "player": "Max Christie",
      "mpg": 24.3,
      "nth_out": 1,
@@ -5223,14 +5245,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Santi Aldama",
-     "mpg": 27.2,
-     "value": 1.4,
-     "status": "Doubtful"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5473,6 +5488,12 @@
     "pick": "SAS",
     "prob": 74.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-04T20:02-05:00",
+    "pick": "SAS",
+    "prob": 74.6,
+    "reason": "Santi Aldama (DAL) now out"
    }
   ]
  },
