@@ -906,9 +906,25 @@
  {
   "date": "2026-11-04",
   "season": "2026-2027",
+  "away": "MIN",
+  "home": "HOU",
+  "conf": 68.4,
+  "correct": false
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
   "away": "PHI",
   "home": "DET",
   "conf": 64.5,
   "correct": false
+ },
+ {
+  "date": "2026-11-04",
+  "season": "2026-2027",
+  "away": "UTA",
+  "home": "NOP",
+  "conf": 73.6,
+  "correct": true
  }
 ]
