@@ -4533,7 +4533,7 @@
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T21:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "8:45 PM ET"
   },
   "pick_updates": [
    {
@@ -4992,7 +4992,7 @@
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T21:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "8:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6059,8 +6059,8 @@
   },
   "win_prob_band": {
    "low": 48.7,
-   "high": 55.5,
-   "gtd_count": 2
+   "high": 48.7,
+   "gtd_count": 1
   },
   "expected_margin": -0.49,
   "expected_score": {
@@ -6155,14 +6155,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Giannis Antetokounmpo",
-     "mpg": 27.1,
-     "value": 11.9,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6411,6 +6404,12 @@
     "pick": "MIA",
     "prob": 51.3,
     "reason": "Isaiah Jackson (LAC) now questionable"
+   },
+   {
+    "at": "2026-11-04T20:47-05:00",
+    "pick": "MIA",
+    "prob": 51.3,
+    "reason": "Giannis Antetokounmpo (MIA) cleared to play"
    }
   ]
  }
