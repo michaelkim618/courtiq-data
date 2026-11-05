@@ -1060,7 +1060,7 @@
    {
     "label": "Absences",
     "points": -2.52,
-    "detail": "Boston Celtics 2 out (52 min) costing 2.5 pts"
+    "detail": "Boston Celtics 2 out (52 min) costing 2.5 pts, Milwaukee Bucks 1 out (17 min)"
    }
   ],
   "ratings": {
@@ -1102,7 +1102,16 @@
      "no_minutes": false
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Kam Jones",
+     "mpg": 16.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
@@ -1335,7 +1344,7 @@
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T19:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -1361,6 +1370,12 @@
     "pick": "BOS",
     "prob": 78.9,
     "reason": "Payton Pritchard (BOS) cleared to play"
+   },
+   {
+    "at": "2026-11-04T19:17-05:00",
+    "pick": "BOS",
+    "prob": 78.9,
+    "reason": "Kam Jones (MIL) now out"
    }
   ]
  },
@@ -1771,7 +1786,7 @@
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T19:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -2213,7 +2228,7 @@
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T19:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
