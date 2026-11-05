@@ -6938,7 +6938,7 @@
  },
  {
   "date": "2026-11-04",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Miami Heat",
   "home": "LA Clippers",
   "away_code": "MIA",
@@ -7131,229 +7131,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 7,
-    "away": 7
-   },
-   "home": [
-    {
-     "player": "Darius Garland",
-     "player_id": 1629636,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 32.9,
-     "ppg": 20.1,
-     "rpg": 1.7,
-     "apg": 6.6
-    },
-    {
-     "player": "Rui Hachimura",
-     "player_id": 1629060,
-     "position": "F",
-     "starter": true,
-     "games": 5,
-     "starts": 5,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 13.4,
-     "rpg": 6.0,
-     "apg": 0.6
-    },
-    {
-     "player": "Kris Dunn",
-     "player_id": 1627739,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 29.8,
-     "ppg": 9.0,
-     "rpg": 4.0,
-     "apg": 4.7
-    },
-    {
-     "player": "Derrick Jones Jr.",
-     "player_id": 1627884,
-     "position": "F",
-     "starter": true,
-     "games": 6,
-     "starts": 6,
-     "start_rate": 100,
-     "mpg": 28.8,
-     "ppg": 11.5,
-     "rpg": 4.8,
-     "apg": 1.5
-    },
-    {
-     "player": "Isaiah Jackson",
-     "player_id": 1630543,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 22.2,
-     "ppg": 9.6,
-     "rpg": 6.4,
-     "apg": 2.3
-    },
-    {
-     "player": "Kobe Sanders",
-     "player_id": 1642920,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 25.3,
-     "ppg": 11.0,
-     "rpg": 3.1,
-     "apg": 2.1
-    },
-    {
-     "player": "Keaton Wagler",
-     "player_id": 1643413,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.9,
-     "ppg": 12.1,
-     "rpg": 4.4,
-     "apg": 3.6
-    },
-    {
-     "player": "Brook Lopez",
-     "player_id": 201572,
-     "position": "C",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.0,
-     "ppg": 12.6,
-     "rpg": 4.7,
-     "apg": 1.0
-    }
-   ],
-   "away": [
-    {
-     "player": "Davion Mitchell",
-     "player_id": 1630558,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 16.0,
-     "rpg": 1.4,
-     "apg": 8.0
-    },
-    {
-     "player": "Giannis Antetokounmpo",
-     "player_id": 203507,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 31.8,
-     "ppg": 28.4,
-     "rpg": 12.3,
-     "apg": 5.7
-    },
-    {
-     "player": "Bam Adebayo",
-     "player_id": 1628389,
-     "position": "C",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 31.4,
-     "ppg": 16.3,
-     "rpg": 8.0,
-     "apg": 3.4
-    },
-    {
-     "player": "Andrew Wiggins",
-     "player_id": 203952,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 26.9,
-     "ppg": 10.3,
-     "rpg": 2.6,
-     "apg": 1.4
-    },
-    {
-     "player": "Klay Thompson",
-     "player_id": 202691,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 21.8,
-     "ppg": 11.9,
-     "rpg": 1.3,
-     "apg": 1.3
-    },
-    {
-     "player": "Pelle Larsson",
-     "player_id": 1641796,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 29.7,
-     "ppg": 11.4,
-     "rpg": 3.4,
-     "apg": 3.7
-    },
-    {
-     "player": "Bobby Portis Jr.",
-     "player_id": 1626171,
-     "position": "F",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.1,
-     "ppg": 8.9,
-     "rpg": 6.7,
-     "apg": 1.7
-    },
-    {
-     "player": "Tim Hardaway Jr.",
-     "player_id": 203501,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.4,
-     "ppg": 6.6,
-     "rpg": 1.9,
-     "apg": 0.7
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 116,
+   "away": 117
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Miami Heat",
   "model_winner": "Miami Heat",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-02",
   "tip_et": "2026-11-04T22:30-05:00",
@@ -7391,7 +7176,279 @@
     "prob": 51.3,
     "reason": "Isaiah Jackson (LAC) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Darius Garland",
+     "starter": true,
+     "min": 39,
+     "pts": 26,
+     "reb": 1,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "tov": 6,
+     "pm": -16
+    },
+    {
+     "name": "Rui Hachimura",
+     "starter": true,
+     "min": 37,
+     "pts": 21,
+     "reb": 9,
+     "ast": 7,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 8
+    },
+    {
+     "name": "Derrick Jones Jr.",
+     "starter": true,
+     "min": 37,
+     "pts": 12,
+     "reb": 8,
+     "ast": 1,
+     "stl": 1,
+     "blk": 3,
+     "tov": 1,
+     "pm": -3
+    },
+    {
+     "name": "Brook Lopez",
+     "starter": true,
+     "min": 35,
+     "pts": 20,
+     "reb": 8,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Kris Dunn",
+     "starter": true,
+     "min": 35,
+     "pts": 5,
+     "reb": 5,
+     "ast": 3,
+     "stl": 2,
+     "blk": 1,
+     "tov": 2,
+     "pm": 12
+    },
+    {
+     "name": "Max Strus",
+     "starter": false,
+     "min": 23,
+     "pts": 9,
+     "reb": 5,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -19
+    },
+    {
+     "name": "Kobe Sanders",
+     "starter": false,
+     "min": 18,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -2
+    },
+    {
+     "name": "Keaton Wagler",
+     "starter": false,
+     "min": 16,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 15
+    },
+    {
+     "name": "Isaiah Jackson",
+     "starter": false,
+     "min": 13,
+     "pts": 2,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -4
+    },
+    {
+     "name": "Gradey Dick",
+     "starter": false,
+     "min": 7,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Baba Miller",
+     "starter": false,
+     "min": 6,
+     "pts": 2,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": -1
+    }
+   ],
+   "away": [
+    {
+     "name": "Davion Mitchell",
+     "starter": true,
+     "min": 43,
+     "pts": 11,
+     "reb": 2,
+     "ast": 10,
+     "stl": 4,
+     "blk": 1,
+     "tov": 1,
+     "pm": 4
+    },
+    {
+     "name": "Bam Adebayo",
+     "starter": true,
+     "min": 41,
+     "pts": 35,
+     "reb": 10,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Giannis Antetokounmpo",
+     "starter": true,
+     "min": 41,
+     "pts": 27,
+     "reb": 14,
+     "ast": 6,
+     "stl": 2,
+     "blk": 3,
+     "tov": 3,
+     "pm": 11
+    },
+    {
+     "name": "Klay Thompson",
+     "starter": true,
+     "min": 35,
+     "pts": 30,
+     "reb": 5,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 21
+    },
+    {
+     "name": "Pelle Larsson",
+     "starter": false,
+     "min": 35,
+     "pts": 7,
+     "reb": 3,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Andrew Wiggins",
+     "starter": true,
+     "min": 23,
+     "pts": 3,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -11
+    },
+    {
+     "name": "Bobby Portis",
+     "starter": false,
+     "min": 18,
+     "pts": 4,
+     "reb": 10,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "Ryan Conwell",
+     "starter": false,
+     "min": 17,
+     "pts": 0,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Tim Hardaway Jr.",
+     "starter": false,
+     "min": 7,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -10
+    },
+    {
+     "name": "Simone Fontecchio",
+     "starter": false,
+     "min": 5,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -19
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Darius Garland",
+    "pts": 26,
+    "reb": 1,
+    "ast": 7
+   },
+   "away": {
+    "name": "Bam Adebayo",
+    "pts": 35,
+    "reb": 10,
+    "ast": 4
+   }
+  }
  },
  {
   "date": "2026-11-05",
@@ -7880,11 +7937,11 @@
    "rank": 8
   },
   "away_standing": {
-   "wins": 2,
+   "wins": 3,
    "losses": 5,
-   "win_pct": 0.286,
+   "win_pct": 0.375,
    "conference": "East",
-   "rank": 11
+   "rank": 9
   },
   "home_recent_form": {
    "games": [
@@ -7926,12 +7983,6 @@
   "away_recent_form": {
    "games": [
     {
-     "date": "2026-10-24",
-     "result": "L",
-     "score": "110-115",
-     "home": false
-    },
-    {
      "date": "2026-10-26",
      "result": "L",
      "score": "109-113",
@@ -7954,31 +8005,37 @@
      "result": "L",
      "score": "117-138",
      "home": false
+    },
+    {
+     "date": "2026-11-04",
+     "result": "W",
+     "score": "117-116",
+     "home": false
     }
    ],
-   "wins": 2,
+   "wins": 3,
    "losses": 5,
-   "streak": -1
+   "streak": 1
   },
   "win_prob": {
-   "home": 59.1,
-   "away": 40.9
+   "home": 65.1,
+   "away": 34.9
   },
   "win_prob_band": {
-   "low": 59.1,
-   "high": 59.1,
+   "low": 65.1,
+   "high": 65.1,
    "gtd_count": 0
   },
-  "expected_margin": 3.33,
+  "expected_margin": 5.64,
   "expected_score": {
-   "home": 119.3,
-   "away": 116.0
+   "home": 120.0,
+   "away": 114.4
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 3.7,
-    "detail": "Golden State Warriors +1.7 vs Miami Heat -2.0, proj. 102.0 possessions"
+    "points": 3.51,
+    "detail": "Golden State Warriors +1.7 vs Miami Heat -1.8, proj. 101.9 possessions"
    },
    {
     "label": "Home Advantage",
@@ -7987,8 +8044,8 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 0.0,
-    "detail": "Both teams rested"
+    "points": 2.5,
+    "detail": "Miami Heat on no rest"
    },
    {
     "label": "Absences",
@@ -8007,13 +8064,13 @@
     "roster": 0.528
    },
    "away": {
-    "net": -2.0,
-    "off": 114.7,
-    "def": 116.7,
-    "pace": 103.9,
-    "games": 7,
-    "carry": 0.588,
-    "roster": 0.559
+    "net": -1.8,
+    "off": 114.2,
+    "def": 116.0,
+    "pace": 103.7,
+    "games": 8,
+    "carry": 0.556,
+    "roster": 0.528
    }
   },
   "absences": {
@@ -8061,7 +8118,7 @@
    "season": "2026-27",
    "games": {
     "home": 8,
-    "away": 7
+    "away": 8
    },
    "home": [
     {
@@ -8175,51 +8232,51 @@
      "player_id": 1630558,
      "position": "G",
      "starter": true,
-     "games": 7,
-     "starts": 7,
+     "games": 8,
+     "starts": 8,
      "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 16.0,
-     "rpg": 1.4,
-     "apg": 8.0
+     "mpg": 34.7,
+     "ppg": 15.4,
+     "rpg": 1.5,
+     "apg": 8.2
     },
     {
      "player": "Giannis Antetokounmpo",
      "player_id": 203507,
      "position": "F",
      "starter": true,
-     "games": 7,
-     "starts": 7,
+     "games": 8,
+     "starts": 8,
      "start_rate": 100,
-     "mpg": 31.8,
-     "ppg": 28.4,
-     "rpg": 12.3,
-     "apg": 5.7
+     "mpg": 32.9,
+     "ppg": 28.2,
+     "rpg": 12.5,
+     "apg": 5.8
     },
     {
      "player": "Bam Adebayo",
      "player_id": 1628389,
      "position": "C",
      "starter": true,
-     "games": 7,
-     "starts": 7,
+     "games": 8,
+     "starts": 8,
      "start_rate": 100,
-     "mpg": 31.4,
-     "ppg": 16.3,
-     "rpg": 8.0,
-     "apg": 3.4
+     "mpg": 32.6,
+     "ppg": 18.6,
+     "rpg": 8.2,
+     "apg": 3.5
     },
     {
      "player": "Andrew Wiggins",
      "player_id": 203952,
      "position": "F",
      "starter": true,
-     "games": 7,
-     "starts": 7,
+     "games": 8,
+     "starts": 8,
      "start_rate": 100,
-     "mpg": 26.9,
-     "ppg": 10.3,
-     "rpg": 2.6,
+     "mpg": 26.4,
+     "ppg": 9.4,
+     "rpg": 2.8,
      "apg": 1.4
     },
     {
@@ -8227,52 +8284,52 @@
      "player_id": 202691,
      "position": "G",
      "starter": true,
-     "games": 7,
-     "starts": 7,
+     "games": 8,
+     "starts": 8,
      "start_rate": 100,
-     "mpg": 21.8,
-     "ppg": 11.9,
-     "rpg": 1.3,
-     "apg": 1.3
+     "mpg": 23.5,
+     "ppg": 14.1,
+     "rpg": 1.8,
+     "apg": 1.5
     },
     {
      "player": "Pelle Larsson",
      "player_id": 1641796,
      "position": "G",
      "starter": false,
-     "games": 7,
+     "games": 8,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 29.7,
-     "ppg": 11.4,
+     "mpg": 30.3,
+     "ppg": 10.9,
      "rpg": 3.4,
-     "apg": 3.7
+     "apg": 3.8
     },
     {
      "player": "Bobby Portis Jr.",
      "player_id": 1626171,
      "position": "F",
      "starter": false,
-     "games": 7,
+     "games": 8,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 22.1,
-     "ppg": 8.9,
-     "rpg": 6.7,
-     "apg": 1.7
+     "mpg": 21.6,
+     "ppg": 8.2,
+     "rpg": 7.1,
+     "apg": 2.1
     },
     {
      "player": "Tim Hardaway Jr.",
      "player_id": 203501,
      "position": "G",
      "starter": false,
-     "games": 7,
+     "games": 8,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.4,
-     "ppg": 6.6,
-     "rpg": 1.9,
-     "apg": 0.7
+     "mpg": 17.0,
+     "ppg": 5.8,
+     "rpg": 1.6,
+     "apg": 0.6
     }
    ]
   },
@@ -8292,6 +8349,12 @@
     "pick": "GSW",
     "prob": 59.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-05T02:24-05:00",
+    "pick": "GSW",
+    "prob": 65.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  }
