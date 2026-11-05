@@ -13260,6 +13260,13 @@
    "home": "SAS",
    "late": false,
    "locked_at": "2026-11-04T21:30-05:00",
+   "result": {
+    "score": {
+     "away": 111,
+     "home": 112
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-04T21:30-05:00",
    "tip_known": true,
@@ -14445,6 +14452,87 @@
      "win_prob": {
       "away": 26.4,
       "home": 73.6
+     }
+    }
+   ]
+  },
+  "2026-11-05_MIA@GSW": {
+   "away": "MIA",
+   "date": "2026-11-05",
+   "home": "GSW",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-05T22:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-05T00:32-05:00",
+     "expected_margin": 3.33,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Gui Santos"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Opening pick",
+     "report": "2026-11-05T00:30-05:00",
+     "win_prob": {
+      "away": 40.9,
+      "home": 59.1
+     }
+    }
+   ]
+  },
+  "2026-11-05_ORL@PHX": {
+   "away": "ORL",
+   "date": "2026-11-05",
+   "home": "PHX",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-05T21:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-05T00:32-05:00",
+     "expected_margin": 1.53,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Mark Williams",
+       "Jordan Goodwin",
+       "Rasheer Fleming"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Opening pick",
+     "report": "2026-11-05T00:30-05:00",
+     "win_prob": {
+      "away": 45.8,
+      "home": 54.2
      }
     }
    ]
