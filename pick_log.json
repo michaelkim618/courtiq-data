@@ -13784,7 +13784,7 @@
    },
    "home": "HOU",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-04T20:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-04T20:30-05:00",
    "tip_known": true,
@@ -14159,6 +14159,33 @@
      "pick_code": "DEN",
      "reason": "win probability moved with the latest report",
      "report": "2026-11-04T09:30-05:00",
+     "win_prob": {
+      "away": 48.7,
+      "home": 51.3
+     }
+    },
+    {
+     "at": "2026-11-04T20:32-05:00",
+     "expected_margin": 0.47,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ],
+      "home": [
+       "Julian Strawther",
+       "Spencer Jones"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Jakob Poeltl (TOR) cleared to play",
+     "report": "2026-11-04T20:30-05:00",
      "win_prob": {
       "away": 48.7,
       "home": 51.3

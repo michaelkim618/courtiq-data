@@ -4215,7 +4215,7 @@
   "win_prob_band": {
    "low": 51.3,
    "high": 51.3,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 0.47,
   "expected_score": {
@@ -4304,14 +4304,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jakob Poeltl",
-     "mpg": 20.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4554,6 +4547,12 @@
     "pick": "DEN",
     "prob": 51.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-04T20:32-05:00",
+    "pick": "DEN",
+    "prob": 51.3,
+    "reason": "Jakob Poeltl (TOR) cleared to play"
    }
   ]
  },
