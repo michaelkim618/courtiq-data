@@ -7581,7 +7581,7 @@
    {
     "label": "Absences",
     "points": 1.89,
-    "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Phoenix Suns: official report not filed yet, ESPN injury list used · Izaiyah Nelson out all season, already baked into team rating"
+    "detail": "Phoenix Suns 3 out (57 min) costing 0.2 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7612,8 +7612,23 @@
      "nth_out": 1,
      "value": 1.0,
      "cost": -0.22,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Jordan Goodwin",
+     "mpg": 17.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Rasheer Fleming",
+     "mpg": 16.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ],
    "away": [
@@ -7762,17 +7777,17 @@
      "apg": 4.2
     },
     {
-     "player": "Jordan Goodwin",
-     "player_id": 1630692,
+     "player": "Luke Kennard",
+     "player_id": 1628379,
      "position": "G",
      "starter": false,
      "games": 5,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.9,
-     "ppg": 7.8,
-     "rpg": 3.4,
-     "apg": 2.6
+     "mpg": 15.7,
+     "ppg": 7.0,
+     "rpg": 1.6,
+     "apg": 1.4
     }
    ],
    "away": [
@@ -7904,6 +7919,12 @@
     "pick": "PHX",
     "prob": 61.0,
     "reason": "Jordan Goodwin (PHX) no longer out; Rasheer Fleming (PHX) no longer out"
+   },
+   {
+    "at": "2026-11-05T15:18-05:00",
+    "pick": "PHX",
+    "prob": 61.0,
+    "reason": "Jordan Goodwin (PHX) now out; Rasheer Fleming (PHX) now out"
    }
   ]
  },
