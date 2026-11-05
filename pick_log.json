@@ -12854,7 +12854,7 @@
    },
    "home": "BKN",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-04T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-04T19:30-05:00",
    "tip_known": true,
@@ -13000,7 +13000,7 @@
    },
    "home": "NYK",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-04T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-04T19:30-05:00",
    "tip_known": true,
@@ -13361,6 +13361,35 @@
       "away": 18.7,
       "home": 81.3
      }
+    },
+    {
+     "at": "2026-11-04T19:32-05:00",
+     "expected_margin": 12.88,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Kelly Oubre Jr.",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Scotty Pippen Jr."
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Kelly Oubre Jr. (IND) now out; Ivica Zubac (IND) cleared to play",
+     "report": "2026-11-04T19:30-05:00",
+     "win_prob": {
+      "away": 18.7,
+      "home": 81.3
+     }
     }
    ]
   },
@@ -13570,7 +13599,7 @@
    },
    "home": "BOS",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-04T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-04T19:30-05:00",
    "tip_known": true,

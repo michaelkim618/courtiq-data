@@ -2361,8 +2361,8 @@
   },
   "win_prob_band": {
    "low": 81.3,
-   "high": 81.7,
-   "gtd_count": 2
+   "high": 81.3,
+   "gtd_count": 0
   },
   "expected_margin": 12.88,
   "expected_score": {
@@ -2388,7 +2388,7 @@
    {
     "label": "Absences",
     "points": 1.96,
-    "detail": "Memphis Grizzlies 1 out (16 min), Indiana Pacers 4 out (82 min) costing 2.0 pts"
+    "detail": "Memphis Grizzlies 1 out (16 min), Indiana Pacers 5 out (102 min) costing 2.0 pts"
    }
   ],
   "ratings": {
@@ -2448,6 +2448,14 @@
      "no_minutes": false
     },
     {
+     "player": "Kelly Oubre Jr.",
+     "mpg": 20.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Johnny Furphy",
      "mpg": 18.2,
      "nth_out": 3,
@@ -2459,20 +2467,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Ivica Zubac",
-     "mpg": 22.2,
-     "value": 1.1,
-     "status": "Questionable"
-    },
-    {
-     "player": "Kelly Oubre Jr.",
-     "mpg": 20.8,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -2640,23 +2635,10 @@
      "apg": 1.8
     },
     {
-     "player": "Kelly Oubre Jr.",
-     "player_id": 1626162,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 4,
-     "start_rate": 57,
-     "mpg": 23.2,
-     "ppg": 9.4,
-     "rpg": 2.6,
-     "apg": 1.6
-    },
-    {
      "player": "Jay Huff",
      "player_id": 1630643,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 7,
      "starts": 2,
      "start_rate": 29,
@@ -2690,6 +2672,19 @@
      "ppg": 15.2,
      "rpg": 5.2,
      "apg": 1.2
+    },
+    {
+     "player": "Quenton Jackson",
+     "player_id": 1631245,
+     "position": "G",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 21.8,
+     "ppg": 10.1,
+     "rpg": 3.0,
+     "apg": 2.8
     }
    ]
   },
@@ -2715,6 +2710,12 @@
     "pick": "MEM",
     "prob": 81.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-04T19:32-05:00",
+    "pick": "MEM",
+    "prob": 81.3,
+    "reason": "Kelly Oubre Jr. (IND) now out; Ivica Zubac (IND) cleared to play"
    }
   ]
  },
