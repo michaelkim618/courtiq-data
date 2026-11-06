@@ -15096,6 +15096,36 @@
       "away": 80.4,
       "home": 19.6
      }
+    },
+    {
+     "at": "2026-11-06T16:02-05:00",
+     "expected_margin": -12.44,
+     "gtd": {
+      "away": [],
+      "home": [
+       "De'Andre Hunter"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Keegan Murray",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "De'Andre Hunter (SAC) now questionable",
+     "report": "2026-11-06T16:00-05:00",
+     "win_prob": {
+      "away": 80.4,
+      "home": 19.6
+     }
     }
    ]
   },

@@ -4916,7 +4916,7 @@
   "win_prob_band": {
    "low": 19.6,
    "high": 19.6,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": -12.44,
   "expected_score": {
@@ -5012,7 +5012,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "De'Andre Hunter",
+     "mpg": 25.6,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -5250,6 +5257,12 @@
     "pick": "SAS",
     "prob": 80.4,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T16:02-05:00",
+    "pick": "SAS",
+    "prob": 80.4,
+    "reason": "De'Andre Hunter (SAC) now questionable"
    }
   ]
  }
