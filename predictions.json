@@ -1761,7 +1761,7 @@
   "win_prob_band": {
    "low": 28.7,
    "high": 28.7,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": -8.13,
   "expected_score": {
@@ -1787,7 +1787,7 @@
    {
     "label": "Absences",
     "points": -0.85,
-    "detail": "Charlotte Hornets 2 out (51 min) costing 0.8 pts"
+    "detail": "Charlotte Hornets 4 out (104 min) costing 0.8 pts"
    }
   ],
   "ratings": {
@@ -1821,6 +1821,22 @@
      "no_minutes": false
     },
     {
+     "player": "Dennis Schroder",
+     "mpg": 27.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Moussa Diabate",
+     "mpg": 26.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Grant Williams",
      "mpg": 19.6,
      "nth_out": 3,
@@ -1832,20 +1848,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Dennis Schroder",
-     "mpg": 27.1,
-     "value": 0.0,
-     "status": "Questionable"
-    },
-    {
-     "player": "Moussa Diabate",
-     "mpg": 26.6,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -1869,19 +1872,6 @@
      "apg": 2.3
     },
     {
-     "player": "Dennis Schröder",
-     "player_id": 203471,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 10.2,
-     "rpg": 3.6,
-     "apg": 4.8
-    },
-    {
      "player": "Naz Reid",
      "player_id": 1629675,
      "position": "C",
@@ -1893,19 +1883,6 @@
      "ppg": 16.9,
      "rpg": 8.3,
      "apg": 1.9
-    },
-    {
-     "player": "Moussa Diabaté",
-     "player_id": 1631217,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 28.7,
-     "ppg": 8.9,
-     "rpg": 9.1,
-     "apg": 2.1
     },
     {
      "player": "Sion James",
@@ -1924,7 +1901,7 @@
      "player": "Grayson Allen",
      "player_id": 1628960,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 9,
      "starts": 0,
      "start_rate": 0,
@@ -1937,7 +1914,7 @@
      "player": "Royce O'Neale",
      "player_id": 1626220,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 9,
      "starts": 0,
      "start_rate": 0,
@@ -1958,6 +1935,32 @@
      "ppg": 5.5,
      "rpg": 2.5,
      "apg": 2.5
+    },
+    {
+     "player": "Ryan Kalkbrenner",
+     "player_id": 1641750,
+     "position": "C",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.8,
+     "ppg": 4.6,
+     "rpg": 4.3,
+     "apg": 1.6
+    },
+    {
+     "player": "Tidjane Salaün",
+     "player_id": 1642275,
+     "position": "F",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.8,
+     "ppg": 5.2,
+     "rpg": 3.4,
+     "apg": 0.1
     }
    ],
    "away": [
@@ -2089,6 +2092,12 @@
     "pick": "BOS",
     "prob": 71.3,
     "reason": "Payton Pritchard (BOS) cleared to play"
+   },
+   {
+    "at": "2026-11-06T13:03-05:00",
+    "pick": "BOS",
+    "prob": 71.3,
+    "reason": "Dennis Schroder (CHA) now out; Moussa Diabate (CHA) now out"
    }
   ]
  },
@@ -4006,18 +4015,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 44.2,
-   "away": 55.8
+   "home": 45.5,
+   "away": 54.5
   },
   "win_prob_band": {
-   "low": 44.2,
+   "low": 45.5,
    "high": 45.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
-  "expected_margin": -2.1,
+  "expected_margin": -1.64,
   "expected_score": {
-   "home": 114.0,
-   "away": 116.1
+   "home": 114.2,
+   "away": 115.8
   },
   "margin_breakdown": [
    {
@@ -4037,8 +4046,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.49,
-    "detail": "New Orleans Pelicans 1 out (21 min), Minnesota Timberwolves 2 out (56 min) costing 2.5 pts"
+    "points": 2.95,
+    "detail": "New Orleans Pelicans 1 out (21 min), Minnesota Timberwolves 3 out (76 min) costing 3.0 pts"
    }
   ],
   "ratings": {
@@ -4082,6 +4091,14 @@
      "no_minutes": false
     },
     {
+     "player": "Terrence Shannon Jr",
+     "mpg": 20.2,
+     "nth_out": 1,
+     "value": 2.2,
+     "cost": -0.46,
+     "no_minutes": false
+    },
+    {
      "player": "Donte DiVincenzo",
      "mpg": 29.5,
      "nth_out": 1,
@@ -4093,14 +4110,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Terrence Shannon Jr",
-     "mpg": 20.2,
-     "value": 2.2,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4281,19 +4291,6 @@
      "apg": 4.3
     },
     {
-     "player": "Terrence Shannon Jr",
-     "player_id": 1630545,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.9,
-     "ppg": 12.0,
-     "rpg": 3.6,
-     "apg": 2.6
-    },
-    {
      "player": "Joan Beringer",
      "player_id": 1642866,
      "position": "F",
@@ -4318,6 +4315,19 @@
      "ppg": 6.2,
      "rpg": 3.1,
      "apg": 0.7
+    },
+    {
+     "player": "Jaylen Clark",
+     "player_id": 1641740,
+     "position": "G",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.7,
+     "ppg": 4.5,
+     "rpg": 1.8,
+     "apg": 0.9
     }
    ]
   },
@@ -4343,6 +4353,12 @@
     "pick": "MIN",
     "prob": 55.8,
     "reason": "Trey Murphy III (NOP) cleared to play"
+   },
+   {
+    "at": "2026-11-06T13:03-05:00",
+    "pick": "MIN",
+    "prob": 54.5,
+    "reason": "Terrence Shannon Jr (MIN) now out"
    }
   ]
  },

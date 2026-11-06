@@ -14809,6 +14809,32 @@
       "away": 71.3,
       "home": 28.7
      }
+    },
+    {
+     "at": "2026-11-06T13:03-05:00",
+     "expected_margin": -8.13,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Kon Knueppel",
+       "Dennis Schroder",
+       "Moussa Diabate",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Dennis Schroder (CHA) now out; Moussa Diabate (CHA) now out",
+     "report": "2026-11-06T13:00-05:00",
+     "win_prob": {
+      "away": 71.3,
+      "home": 28.7
+     }
     }
    ]
   },
@@ -14878,6 +14904,33 @@
      "win_prob": {
       "away": 55.8,
       "home": 44.2
+     }
+    },
+    {
+     "at": "2026-11-06T13:03-05:00",
+     "expected_margin": -1.64,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Anthony Edwards",
+       "Terrence Shannon Jr",
+       "Donte DiVincenzo"
+      ],
+      "home": [
+       "Yves Missi"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Terrence Shannon Jr (MIN) now out",
+     "report": "2026-11-06T13:00-05:00",
+     "win_prob": {
+      "away": 54.5,
+      "home": 45.5
      }
     }
    ]
