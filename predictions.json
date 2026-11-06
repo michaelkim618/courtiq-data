@@ -1760,8 +1760,8 @@
   },
   "win_prob_band": {
    "low": 28.7,
-   "high": 29.5,
-   "gtd_count": 3
+   "high": 28.7,
+   "gtd_count": 2
   },
   "expected_margin": -8.13,
   "expected_score": {
@@ -1846,14 +1846,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Payton Pritchard",
-     "mpg": 27.8,
-     "value": 1.6,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -2090,6 +2083,12 @@
     "pick": "BOS",
     "prob": 71.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T12:33-05:00",
+    "pick": "BOS",
+    "prob": 71.3,
+    "reason": "Payton Pritchard (BOS) cleared to play"
    }
   ]
  },
