@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T02:24-05:00",
+ "generated": "2026-11-05T23:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1149,13 +1149,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-05",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 79,
+   "cum_games": 122,
+   "cum_pct": 64.8,
+   "picks": [
+    {
+     "away": "ORL",
+     "home": "PHX",
+     "pick": "PHX",
+     "prob": 54.2,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 121,
-  "wins": 78,
+  "games": 122,
+  "wins": 79,
   "losses": 43,
-  "pct": 64.5
+  "pct": 64.8
  },
  "unscored": 0
 }

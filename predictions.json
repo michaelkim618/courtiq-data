@@ -7452,7 +7452,7 @@
  },
  {
   "date": "2026-11-05",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Orlando Magic",
   "home": "Phoenix Suns",
   "away_code": "ORL",
@@ -7678,229 +7678,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 6,
-    "away": 7
-   },
-   "home": [
-    {
-     "player": "Devin Booker",
-     "player_id": 1626164,
-     "position": "G",
-     "starter": true,
-     "games": 6,
-     "starts": 6,
-     "start_rate": 100,
-     "mpg": 34.6,
-     "ppg": 24.5,
-     "rpg": 3.2,
-     "apg": 4.7
-    },
-    {
-     "player": "Miles Bridges",
-     "player_id": 1628970,
-     "position": "F",
-     "starter": true,
-     "games": 6,
-     "starts": 6,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 17.3,
-     "rpg": 7.0,
-     "apg": 2.8
-    },
-    {
-     "player": "Dillon Brooks",
-     "player_id": 1628415,
-     "position": "G",
-     "starter": true,
-     "games": 6,
-     "starts": 6,
-     "start_rate": 100,
-     "mpg": 30.5,
-     "ppg": 16.5,
-     "rpg": 4.3,
-     "apg": 3.0
-    },
-    {
-     "player": "Jalen Green",
-     "player_id": 1630224,
-     "position": "G",
-     "starter": true,
-     "games": 6,
-     "starts": 6,
-     "start_rate": 100,
-     "mpg": 29.1,
-     "ppg": 12.8,
-     "rpg": 3.3,
-     "apg": 3.3
-    },
-    {
-     "player": "Khaman Maluach",
-     "player_id": 1642863,
-     "position": "C",
-     "starter": true,
-     "games": 6,
-     "starts": 6,
-     "start_rate": 100,
-     "mpg": 19.3,
-     "ppg": 7.2,
-     "rpg": 6.0,
-     "apg": 1.2
-    },
-    {
-     "player": "Collin Gillespie",
-     "player_id": 1631221,
-     "position": "G",
-     "starter": false,
-     "games": 6,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 25.4,
-     "ppg": 6.8,
-     "rpg": 2.2,
-     "apg": 4.5
-    },
-    {
-     "player": "Oso Ighodaro",
-     "player_id": 1642345,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.7,
-     "ppg": 8.2,
-     "rpg": 5.2,
-     "apg": 4.2
-    },
-    {
-     "player": "Luke Kennard",
-     "player_id": 1628379,
-     "position": "G",
-     "starter": false,
-     "games": 5,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.7,
-     "ppg": 7.0,
-     "rpg": 1.6,
-     "apg": 1.4
-    }
-   ],
-   "away": [
-    {
-     "player": "Franz Wagner",
-     "player_id": 1630532,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 35.8,
-     "ppg": 20.3,
-     "rpg": 6.1,
-     "apg": 7.6
-    },
-    {
-     "player": "Desmond Bane",
-     "player_id": 1630217,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 34.9,
-     "ppg": 17.9,
-     "rpg": 3.6,
-     "apg": 2.6
-    },
-    {
-     "player": "Wendell Carter Jr.",
-     "player_id": 1628976,
-     "position": "C",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 32.3,
-     "ppg": 12.4,
-     "rpg": 8.9,
-     "apg": 1.0
-    },
-    {
-     "player": "Jase Richardson",
-     "player_id": 1642859,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 2,
-     "start_rate": 29,
-     "mpg": 21.1,
-     "ppg": 5.9,
-     "rpg": 1.9,
-     "apg": 2.4
-    },
-    {
-     "player": "Tristan da Silva",
-     "player_id": 1641783,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 29.3,
-     "ppg": 14.1,
-     "rpg": 3.4,
-     "apg": 1.7
-    },
-    {
-     "player": "Anthony Black",
-     "player_id": 1641710,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 28.0,
-     "ppg": 16.5,
-     "rpg": 4.8,
-     "apg": 4.8
-    },
-    {
-     "player": "Jevon Carter",
-     "player_id": 1628975,
-     "position": "G",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.8,
-     "ppg": 3.7,
-     "rpg": 0.7,
-     "apg": 2.7
-    },
-    {
-     "player": "Jamal Cain",
-     "player_id": 1631288,
-     "position": "F",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 6.0,
-     "rpg": 1.6,
-     "apg": 0.3
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 117,
+   "away": 104
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Phoenix Suns",
   "model_winner": "Phoenix Suns",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-04",
   "tip_et": "2026-11-05T21:00-05:00",
@@ -7932,7 +7717,327 @@
     "prob": 54.2,
     "reason": "win probability moved with the latest report"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Devin Booker",
+     "starter": true,
+     "min": 34,
+     "pts": 30,
+     "reb": 1,
+     "ast": 8,
+     "stl": 3,
+     "blk": 0,
+     "tov": 3,
+     "pm": 16
+    },
+    {
+     "name": "Miles Bridges",
+     "starter": true,
+     "min": 31,
+     "pts": 18,
+     "reb": 13,
+     "ast": 5,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Dillon Brooks",
+     "starter": true,
+     "min": 29,
+     "pts": 24,
+     "reb": 1,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Ryan Dunn",
+     "starter": false,
+     "min": 25,
+     "pts": 11,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Jalen Green",
+     "starter": true,
+     "min": 24,
+     "pts": 6,
+     "reb": 0,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 1
+    },
+    {
+     "name": "Collin Gillespie",
+     "starter": false,
+     "min": 24,
+     "pts": 6,
+     "reb": 2,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Oso Ighodaro",
+     "starter": true,
+     "min": 24,
+     "pts": 2,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 7
+    },
+    {
+     "name": "Khaman Maluach",
+     "starter": false,
+     "min": 22,
+     "pts": 8,
+     "reb": 6,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 13
+    },
+    {
+     "name": "Luke Kennard",
+     "starter": false,
+     "min": 21,
+     "pts": 12,
+     "reb": 1,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 8
+    },
+    {
+     "name": "Koa Peat",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Duop Reath",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Jamaree Bouyea",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -4
+    },
+    {
+     "name": "Pat Spencer",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -4
+    }
+   ],
+   "away": [
+    {
+     "name": "Franz Wagner",
+     "starter": true,
+     "min": 38,
+     "pts": 15,
+     "reb": 8,
+     "ast": 15,
+     "stl": 4,
+     "blk": 0,
+     "tov": 6,
+     "pm": -7
+    },
+    {
+     "name": "Wendell Carter Jr.",
+     "starter": true,
+     "min": 34,
+     "pts": 27,
+     "reb": 13,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": -6
+    },
+    {
+     "name": "Desmond Bane",
+     "starter": true,
+     "min": 32,
+     "pts": 15,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -6
+    },
+    {
+     "name": "Anthony Black",
+     "starter": true,
+     "min": 31,
+     "pts": 10,
+     "reb": 7,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 5,
+     "pm": -3
+    },
+    {
+     "name": "Tristan da Silva",
+     "starter": false,
+     "min": 30,
+     "pts": 18,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -15
+    },
+    {
+     "name": "Jase Richardson",
+     "starter": true,
+     "min": 26,
+     "pts": 10,
+     "reb": 2,
+     "ast": 3,
+     "stl": 2,
+     "blk": 2,
+     "tov": 3,
+     "pm": -4
+    },
+    {
+     "name": "Jamal Cain",
+     "starter": false,
+     "min": 25,
+     "pts": 5,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -14
+    },
+    {
+     "name": "Goga Bitadze",
+     "starter": false,
+     "min": 8,
+     "pts": 4,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Alex Morales",
+     "starter": false,
+     "min": 6,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Nikola Vucevic",
+     "starter": false,
+     "min": 4,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Jevon Carter",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Colin Castleton",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Devin Booker",
+    "pts": 30,
+    "reb": 1,
+    "ast": 8
+   },
+   "away": {
+    "name": "Wendell Carter Jr.",
+    "pts": 27,
+    "reb": 13,
+    "ast": 2
+   }
+  }
  },
  {
   "date": "2026-11-05",
