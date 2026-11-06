@@ -1327,7 +1327,7 @@
     {
      "player": "Jock Landale",
      "mpg": 17.1,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.9,
      "cost": -0.18,
      "no_minutes": false
@@ -1343,7 +1343,7 @@
     {
      "player": "Mouhamed Gueye",
      "mpg": 14.7,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -1351,7 +1351,7 @@
     {
      "player": "Henri Veesaar",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -1369,7 +1369,7 @@
     {
      "player": "Tristan Vukcevic",
      "mpg": 13.7,
-     "nth_out": 1,
+     "nth_out": 8,
      "value": 3.0,
      "cost": -0.63,
      "no_minutes": false
@@ -1377,7 +1377,7 @@
     {
      "player": "Justin Champagnie",
      "mpg": 18.1,
-     "nth_out": 1,
+     "nth_out": 5,
      "value": 0.2,
      "cost": -0.05,
      "no_minutes": false
@@ -1385,7 +1385,7 @@
     {
      "player": "Jamir Watkins",
      "mpg": 20.1,
-     "nth_out": 1,
+     "nth_out": 8,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -1393,7 +1393,7 @@
     {
      "player": "Reece Beekman",
      "mpg": 0.0,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true
@@ -1823,7 +1823,7 @@
     {
      "player": "Grant Williams",
      "mpg": 19.6,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2252,7 +2252,7 @@
     {
      "player": "Jaylon Tyson",
      "mpg": 21.2,
-     "nth_out": 1,
+     "nth_out": 4,
      "value": 1.3,
      "cost": -0.27,
      "no_minutes": false
@@ -2260,7 +2260,7 @@
     {
      "player": "Nae'Qwan Tomlin",
      "mpg": 14.5,
-     "nth_out": 1,
+     "nth_out": 8,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2270,7 +2270,7 @@
     {
      "player": "Dominick Barlow",
      "mpg": 22.4,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2278,7 +2278,7 @@
     {
      "player": "Ariel Hukporti",
      "mpg": 9.1,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
