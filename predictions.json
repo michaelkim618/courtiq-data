@@ -3569,8 +3569,8 @@
   },
   "win_prob_band": {
    "low": 35.4,
-   "high": 40.1,
-   "gtd_count": 1
+   "high": 42.1,
+   "gtd_count": 3
   },
   "expected_margin": -5.44,
   "expected_score": {
@@ -3648,6 +3648,18 @@
      "mpg": 29.0,
      "value": 8.5,
      "status": "Questionable"
+    },
+    {
+     "player": "Immanuel Quickley",
+     "mpg": 27.6,
+     "value": 3.6,
+     "status": "Questionable"
+    },
+    {
+     "player": "Jakob Poeltl",
+     "mpg": 20.4,
+     "value": 0.0,
+     "status": "Probable"
     }
    ]
   },
@@ -3886,6 +3898,12 @@
     "pick": "TOR",
     "prob": 64.6,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T12:48-05:00",
+    "pick": "TOR",
+    "prob": 64.6,
+    "reason": "Immanuel Quickley (TOR) now questionable; Jakob Poeltl (TOR) now questionable"
    }
   ]
  },
@@ -3992,9 +4010,9 @@
    "away": 55.8
   },
   "win_prob_band": {
-   "low": 43.8,
+   "low": 44.2,
    "high": 45.5,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -2.1,
   "expected_score": {
@@ -4074,14 +4092,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Trey Murphy III",
-     "mpg": 26.4,
-     "value": 0.7,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Terrence Shannon Jr",
@@ -4326,6 +4337,12 @@
     "pick": "MIN",
     "prob": 55.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T12:48-05:00",
+    "pick": "MIN",
+    "prob": 55.8,
+    "reason": "Trey Murphy III (NOP) cleared to play"
    }
   ]
  },
