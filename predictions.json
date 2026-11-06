@@ -1267,18 +1267,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 72.1,
-   "away": 27.9
+   "home": 69.6,
+   "away": 30.4
   },
   "win_prob_band": {
    "low": 69.6,
-   "high": 75.2,
-   "gtd_count": 2
+   "high": 72.9,
+   "gtd_count": 1
   },
-  "expected_margin": 8.48,
+  "expected_margin": 7.45,
   "expected_score": {
-   "home": 119.1,
-   "away": 110.6
+   "home": 118.5,
+   "away": 111.1
   },
   "margin_breakdown": [
    {
@@ -1298,8 +1298,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.34,
-    "detail": "Atlanta Hawks 3 out (47 min) costing 0.3 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Henri Veesaar, Keshon Gilbert, Reece Beekman out all season, already baked into team rating"
+    "points": -0.68,
+    "detail": "Atlanta Hawks 4 out (76 min) costing 1.4 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Henri Veesaar, Keshon Gilbert, Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -1324,6 +1324,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Jalen Johnson",
+     "mpg": 29.7,
+     "nth_out": 1,
+     "value": 4.9,
+     "cost": -1.02,
+     "no_minutes": false
+    },
     {
      "player": "Jock Landale",
      "mpg": 17.1,
@@ -1401,14 +1409,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jalen Johnson",
-     "mpg": 29.7,
-     "value": 4.9,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Anthony Davis",
@@ -1425,19 +1426,6 @@
     "away": 8
    },
    "home": [
-    {
-     "player": "Jalen Johnson",
-     "player_id": 1630552,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 18.3,
-     "rpg": 9.0,
-     "apg": 7.9
-    },
     {
      "player": "Nickeil Alexander-Walker",
      "player_id": 1629638,
@@ -1494,7 +1482,7 @@
      "player": "Aaron Wiggins",
      "player_id": 1630598,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 9,
      "starts": 0,
      "start_rate": 0,
@@ -1528,6 +1516,19 @@
      "ppg": 8.0,
      "rpg": 2.9,
      "apg": 4.6
+    },
+    {
+     "player": "Zuby Ejiofor",
+     "player_id": 1643544,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 10.4,
+     "ppg": 4.2,
+     "rpg": 2.5,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -1653,6 +1654,12 @@
     "pick": "ATL",
     "prob": 72.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T17:02-05:00",
+    "pick": "ATL",
+    "prob": 69.6,
+    "reason": "Jalen Johnson (ATL) now out"
    }
   ]
  },
@@ -4477,9 +4484,9 @@
    "away": 39.3
   },
   "win_prob_band": {
-   "low": 60.0,
+   "low": 60.7,
    "high": 60.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 3.94,
   "expected_score": {
@@ -4563,14 +4570,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Sandro Mamukelashvili",
-     "mpg": 22.5,
-     "value": 1.2,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4808,6 +4808,12 @@
     "pick": "LAL",
     "prob": 60.7,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T17:02-05:00",
+    "pick": "LAL",
+    "prob": 60.7,
+    "reason": "Sandro Mamukelashvili (LAL) cleared to play"
    }
   ]
  },
