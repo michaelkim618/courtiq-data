@@ -2246,7 +2246,7 @@
    {
     "label": "Absences",
     "points": -0.27,
-    "detail": "Cleveland Cavaliers 2 out (36 min) costing 0.3 pts, Philadelphia 76ers 2 out (32 min)"
+    "detail": "Cleveland Cavaliers 2 out (36 min) costing 0.3 pts, Philadelphia 76ers 3 out (46 min)"
    }
   ],
   "ratings": {
@@ -2293,6 +2293,14 @@
      "player": "Dominick Barlow",
      "mpg": 22.4,
      "nth_out": 3,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Adem Bona",
+     "mpg": 14.0,
+     "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2559,6 +2567,12 @@
     "pick": "CLE",
     "prob": 54.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T18:02-05:00",
+    "pick": "CLE",
+    "prob": 54.2,
+    "reason": "Adem Bona (PHI) now out"
    }
   ]
  },

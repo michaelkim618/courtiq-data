@@ -15017,6 +15017,37 @@
       "away": 45.8,
       "home": 54.2
      }
+    },
+    {
+     "at": "2026-11-06T18:02-05:00",
+     "expected_margin": 1.53,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jarrett Allen",
+       "Peyton Watson"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Jaylon Tyson",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Adem Bona (PHI) now out",
+     "report": "2026-11-06T18:00-05:00",
+     "win_prob": {
+      "away": 45.8,
+      "home": 54.2
+     }
     }
    ]
   },
