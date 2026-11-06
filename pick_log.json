@@ -15205,6 +15205,38 @@
       "away": 25.3,
       "home": 74.7
      }
+    },
+    {
+     "at": "2026-11-06T15:02-05:00",
+     "expected_margin": 9.62,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Kyrie Irving",
+       "Santi Aldama",
+       "Max Christie"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaren Jackson Jr.",
+       "Jusuf Nurkic"
+      ],
+      "home": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Kyrie Irving (DAL) now questionable",
+     "report": "2026-11-06T15:00-05:00",
+     "win_prob": {
+      "away": 25.3,
+      "home": 74.7
+     }
     }
    ]
   },

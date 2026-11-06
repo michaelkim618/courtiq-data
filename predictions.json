@@ -2651,9 +2651,9 @@
    "away": 25.3
   },
   "win_prob_band": {
-   "low": 74.0,
+   "low": 70.0,
    "high": 74.7,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": 9.62,
   "expected_score": {
@@ -2755,6 +2755,12 @@
   },
   "gtd": {
    "home": [
+    {
+     "player": "Kyrie Irving",
+     "mpg": 27.1,
+     "value": 8.2,
+     "status": "Probable"
+    },
     {
      "player": "Santi Aldama",
      "mpg": 27.2,
@@ -3005,6 +3011,12 @@
     "pick": "DAL",
     "prob": 74.7,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-06T15:02-05:00",
+    "pick": "DAL",
+    "prob": 74.7,
+    "reason": "Kyrie Irving (DAL) now questionable"
    }
   ]
  },
