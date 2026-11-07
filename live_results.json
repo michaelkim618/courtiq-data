@@ -994,6 +994,14 @@
  {
   "date": "2026-11-06",
   "season": "2026-2027",
+  "away": "PHI",
+  "home": "CLE",
+  "conf": 53.5,
+  "correct": true
+ },
+ {
+  "date": "2026-11-06",
+  "season": "2026-2027",
   "away": "WAS",
   "home": "ATL",
   "conf": 73.0,
