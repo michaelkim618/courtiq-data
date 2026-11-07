@@ -4940,7 +4940,7 @@
   "win_prob_band": {
    "low": 19.6,
    "high": 19.6,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -12.44,
   "expected_score": {
@@ -4966,7 +4966,7 @@
    {
     "label": "Absences",
     "points": 0.16,
-    "detail": "Sacramento Kings 2 out (59 min) costing 0.1 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Ben Simmons, Jayden Quaintance out all season, already baked into team rating"
+    "detail": "Sacramento Kings 3 out (85 min) costing 0.1 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Ben Simmons, Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5008,6 +5008,14 @@
      "no_minutes": false
     },
     {
+     "player": "De'Andre Hunter",
+     "mpg": 25.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Ben Simmons",
      "mpg": 0.0,
      "nth_out": 1,
@@ -5036,14 +5044,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "De'Andre Hunter",
-     "mpg": 25.6,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5093,19 +5094,6 @@
      "apg": 2.6
     },
     {
-     "player": "De'Andre Hunter",
-     "player_id": 1629631,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 31.2,
-     "ppg": 13.0,
-     "rpg": 4.8,
-     "apg": 1.2
-    },
-    {
      "player": "Precious Achiuwa",
      "player_id": 1630173,
      "position": "F",
@@ -5122,7 +5110,7 @@
      "player": "Jonathan Mogbo",
      "player_id": 1642367,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 4,
      "starts": 0,
      "start_rate": 0,
@@ -5156,6 +5144,19 @@
      "ppg": 8.0,
      "rpg": 1.3,
      "apg": 3.4
+    },
+    {
+     "player": "Leaky Black",
+     "player_id": 1641778,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.8,
+     "ppg": 4.2,
+     "rpg": 2.5,
+     "apg": 0.8
     }
    ],
    "away": [
@@ -5287,6 +5288,12 @@
     "pick": "SAS",
     "prob": 80.4,
     "reason": "De'Andre Hunter (SAC) now questionable"
+   },
+   {
+    "at": "2026-11-06T19:32-05:00",
+    "pick": "SAS",
+    "prob": 80.4,
+    "reason": "De'Andre Hunter (SAC) now out"
    }
   ]
  }
