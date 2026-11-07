@@ -4878,7 +4878,7 @@
   "win_prob_band": {
    "low": 33.1,
    "high": 33.1,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -6.33,
   "expected_score": {
@@ -4966,14 +4966,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Kelly Oubre Jr.",
-     "mpg": 20.8,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "DeMar DeRozan",
@@ -5218,6 +5211,12 @@
     "pick": "DEN",
     "prob": 66.9,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-07T15:32-05:00",
+    "pick": "DEN",
+    "prob": 66.9,
+    "reason": "Kelly Oubre Jr. (IND) cleared to play"
    }
   ]
  },
@@ -7759,7 +7758,7 @@
    {
     "label": "Absences",
     "points": -1.87,
-    "detail": "Portland Trail Blazers 3 out (63 min) costing 2.1 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Portland Trail Blazers and San Antonio Spurs: official report not filed yet, ESPN injury list used · Jayden Quaintance out all season, already baked into team rating"
+    "detail": "Portland Trail Blazers 3 out (63 min) costing 2.1 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Portland Trail Blazers: official report not filed yet, ESPN injury list used · Jayden Quaintance out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -7824,8 +7823,7 @@
      "nth_out": 1,
      "value": 1.4,
      "cost": -0.29,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Jayden Quaintance",
@@ -7833,8 +7831,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ]
   },
