@@ -7726,18 +7726,18 @@
    "streak": 7
   },
   "win_prob": {
-   "home": 41.3,
-   "away": 58.7
+   "home": 41.1,
+   "away": 58.9
   },
   "win_prob_band": {
-   "low": 41.3,
-   "high": 41.3,
+   "low": 41.1,
+   "high": 41.1,
    "gtd_count": 0
   },
-  "expected_margin": -3.2,
+  "expected_margin": -3.26,
   "expected_score": {
    "home": 112.7,
-   "away": 115.9
+   "away": 116.0
   },
   "margin_breakdown": [
    {
@@ -7757,8 +7757,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.87,
-    "detail": "Portland Trail Blazers 3 out (63 min) costing 2.1 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Portland Trail Blazers: official report not filed yet, ESPN injury list used · Jayden Quaintance out all season, already baked into team rating"
+    "points": -1.93,
+    "detail": "Portland Trail Blazers 4 out (79 min) costing 2.2 pts, San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -7794,8 +7794,7 @@
      "nth_out": 1,
      "value": 7.1,
      "cost": -1.48,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Ja Morant",
@@ -7803,8 +7802,15 @@
      "nth_out": 1,
      "value": 3.2,
      "cost": -0.67,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Robert Williams III",
+     "mpg": 15.6,
+     "nth_out": 1,
+     "value": 0.3,
+     "cost": -0.06,
+     "no_minutes": false
     },
     {
      "player": "Vit Krejci",
@@ -7812,8 +7818,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     }
    ],
    "away": [
@@ -7938,17 +7943,17 @@
      "apg": 2.2
     },
     {
-     "player": "Robert Williams III",
-     "player_id": 1629057,
-     "position": "C",
+     "player": "Chris Youngblood",
+     "player_id": 1642959,
+     "position": "G",
      "starter": false,
-     "games": 7,
+     "games": 4,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 16.5,
-     "ppg": 7.4,
-     "rpg": 6.9,
-     "apg": 1.1
+     "mpg": 9.2,
+     "ppg": 4.2,
+     "rpg": 0.8,
+     "apg": 0.5
     }
    ],
    "away": [
@@ -8092,6 +8097,12 @@
     "pick": "SAS",
     "prob": 58.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-07T16:02-05:00",
+    "pick": "SAS",
+    "prob": 58.9,
+    "reason": "Robert Williams III (POR) now out"
    }
   ]
  }
