@@ -982,5 +982,21 @@
   "home": "PHX",
   "conf": 54.2,
   "correct": true
+ },
+ {
+  "date": "2026-11-06",
+  "season": "2026-2027",
+  "away": "BOS",
+  "home": "CHA",
+  "conf": 71.3,
+  "correct": true
+ },
+ {
+  "date": "2026-11-06",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "ATL",
+  "conf": 73.0,
+  "correct": true
  }
 ]
