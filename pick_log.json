@@ -16187,6 +16187,41 @@
       "away": 28.5,
       "home": 71.5
      }
+    },
+    {
+     "at": "2026-11-07T15:02-05:00",
+     "expected_margin": 8.82,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Draymond Green",
+       "Gui Santos"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Desmond Bane",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Desmond Bane (ORL) now out",
+     "report": "2026-11-07T15:00-05:00",
+     "win_prob": {
+      "away": 27.1,
+      "home": 72.9
+     }
     }
    ]
   },

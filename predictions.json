@@ -6803,18 +6803,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 71.5,
-   "away": 28.5
+   "home": 72.9,
+   "away": 27.1
   },
   "win_prob_band": {
-   "low": 71.5,
-   "high": 71.5,
+   "low": 72.9,
+   "high": 72.9,
    "gtd_count": 2
   },
-  "expected_margin": 8.22,
+  "expected_margin": 8.82,
   "expected_score": {
-   "home": 117.4,
-   "away": 109.2
+   "home": 117.7,
+   "away": 108.9
   },
   "margin_breakdown": [
    {
@@ -6834,8 +6834,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.56,
-    "detail": "Golden State Warriors 3 out (79 min) costing 2.7 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Izaiyah Nelson out all season, already baked into team rating"
+    "points": 0.04,
+    "detail": "Golden State Warriors 3 out (79 min) costing 2.7 pts, Orlando Magic 5 out (108 min) costing 2.7 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6892,6 +6892,14 @@
      "nth_out": 2,
      "value": 9.4,
      "cost": -1.98,
+     "no_minutes": false
+    },
+    {
+     "player": "Desmond Bane",
+     "mpg": 30.7,
+     "nth_out": 1,
+     "value": 2.8,
+     "cost": -0.6,
      "no_minutes": false
     },
     {
@@ -7072,19 +7080,6 @@
      "apg": 8.5
     },
     {
-     "player": "Desmond Bane",
-     "player_id": 1630217,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 34.5,
-     "ppg": 17.5,
-     "rpg": 3.9,
-     "apg": 2.2
-    },
-    {
      "player": "Wendell Carter Jr.",
      "player_id": 1628976,
      "position": "C",
@@ -7127,7 +7122,7 @@
      "player": "Anthony Black",
      "player_id": 1641710,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 5,
      "starts": 0,
      "start_rate": 0,
@@ -7161,6 +7156,19 @@
      "ppg": 2.8,
      "rpg": 0.5,
      "apg": 2.0
+    },
+    {
+     "player": "Goga Bitadze",
+     "player_id": 1629048,
+     "position": "C",
+     "starter": false,
+     "games": 6,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 9.0,
+     "ppg": 3.7,
+     "rpg": 3.2,
+     "apg": 0.3
     }
    ]
   },
@@ -7180,6 +7188,12 @@
     "pick": "GSW",
     "prob": 71.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-07T15:02-05:00",
+    "pick": "GSW",
+    "prob": 72.9,
+    "reason": "Desmond Bane (ORL) now out"
    }
   ]
  },
