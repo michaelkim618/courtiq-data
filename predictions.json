@@ -3614,18 +3614,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 35.4,
-   "away": 64.6
+   "home": 42.1,
+   "away": 57.9
   },
   "win_prob_band": {
-   "low": 35.4,
+   "low": 42.1,
    "high": 42.1,
-   "gtd_count": 2
+   "gtd_count": 0
   },
-  "expected_margin": -5.44,
+  "expected_margin": -2.88,
   "expected_score": {
-   "home": 111.5,
-   "away": 116.9
+   "home": 112.7,
+   "away": 115.6
   },
   "margin_breakdown": [
    {
@@ -3645,8 +3645,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.72,
-    "detail": "Toronto Raptors 1 out (31 min) costing 2.7 pts · Nate Bittle out all season, already baked into team rating"
+    "points": 5.27,
+    "detail": "Toronto Raptors 3 out (88 min) costing 5.3 pts · Nate Bittle out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3681,6 +3681,22 @@
      "no_minutes": false
     },
     {
+     "player": "Scottie Barnes",
+     "mpg": 29.0,
+     "nth_out": 1,
+     "value": 8.5,
+     "cost": -1.79,
+     "no_minutes": false
+    },
+    {
+     "player": "Immanuel Quickley",
+     "mpg": 27.6,
+     "nth_out": 1,
+     "value": 3.6,
+     "cost": -0.76,
+     "no_minutes": false
+    },
+    {
      "player": "Nate Bittle",
      "mpg": 0.0,
      "nth_out": 1,
@@ -3692,20 +3708,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Scottie Barnes",
-     "mpg": 29.0,
-     "value": 8.5,
-     "status": "Doubtful"
-    },
-    {
-     "player": "Immanuel Quickley",
-     "mpg": 27.6,
-     "value": 3.6,
-     "status": "Doubtful"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -3821,19 +3824,6 @@
    ],
    "away": [
     {
-     "player": "Scottie Barnes",
-     "player_id": 1630567,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 23.5,
-     "rpg": 7.6,
-     "apg": 5.1
-    },
-    {
      "player": "RJ Barrett",
      "player_id": 1629628,
      "position": "F",
@@ -3845,19 +3835,6 @@
      "ppg": 20.9,
      "rpg": 6.0,
      "apg": 3.9
-    },
-    {
-     "player": "Immanuel Quickley",
-     "player_id": 1630193,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 31.8,
-     "ppg": 17.4,
-     "rpg": 3.5,
-     "apg": 5.8
     },
     {
      "player": "Jakob Poeltl",
@@ -3889,7 +3866,7 @@
      "player": "Jamal Shead",
      "player_id": 1642347,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 8,
      "starts": 0,
      "start_rate": 0,
@@ -3902,7 +3879,7 @@
      "player": "Collin Murray-Boyles",
      "player_id": 1642867,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 8,
      "starts": 0,
      "start_rate": 0,
@@ -3923,6 +3900,32 @@
      "ppg": 8.4,
      "rpg": 1.5,
      "apg": 0.4
+    },
+    {
+     "player": "Allen Graves",
+     "player_id": 1643512,
+     "position": "F",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.0,
+     "ppg": 4.5,
+     "rpg": 2.4,
+     "apg": 0.9
+    },
+    {
+     "player": "Alijah Martin",
+     "player_id": 1642918,
+     "position": "G",
+     "starter": false,
+     "games": 7,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 6.9,
+     "ppg": 3.3,
+     "rpg": 1.1,
+     "apg": 0.9
     }
    ]
   },
@@ -3954,6 +3957,12 @@
     "pick": "TOR",
     "prob": 64.6,
     "reason": "Jakob Poeltl (TOR) cleared to play"
+   },
+   {
+    "at": "2026-11-06T19:02-05:00",
+    "pick": "TOR",
+    "prob": 57.9,
+    "reason": "Immanuel Quickley (TOR) now out; Scottie Barnes (TOR) now out"
    }
   ]
  },

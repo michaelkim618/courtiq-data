@@ -14754,7 +14754,7 @@
    },
    "home": "CHA",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-06T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-06T19:00-05:00",
    "tip_known": true,
@@ -15309,6 +15309,32 @@
       "away": 64.6,
       "home": 35.4
      }
+    },
+    {
+     "at": "2026-11-06T19:02-05:00",
+     "expected_margin": -2.88,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Scottie Barnes",
+       "Immanuel Quickley",
+       "Nate Bittle"
+      ],
+      "home": []
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "Immanuel Quickley (TOR) now out; Scottie Barnes (TOR) now out",
+     "report": "2026-11-06T19:00-05:00",
+     "win_prob": {
+      "away": 57.9,
+      "home": 42.1
+     }
     }
    ]
   },
@@ -15397,7 +15423,7 @@
    },
    "home": "ATL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-06T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-06T19:00-05:00",
    "tip_known": true,
