@@ -15821,6 +15821,36 @@
       "away": 35.6,
       "home": 64.4
      }
+    },
+    {
+     "at": "2026-11-07T10:33-05:00",
+     "expected_margin": 5.51,
+     "gtd": {
+      "away": [
+       "Noah Clowney"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Egor Demin"
+      ],
+      "home": [
+       "Jalen Johnson",
+       "Jock Landale",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Asa Newell (ATL) no longer out; Keshon Gilbert (ATL) no longer out",
+     "report": "2026-11-07T10:30-05:00",
+     "win_prob": {
+      "away": 35.2,
+      "home": 64.8
+     }
     }
    ]
   },
@@ -16021,6 +16051,34 @@
      "win_prob": {
       "away": 52.0,
       "home": 48.0
+     }
+    },
+    {
+     "at": "2026-11-07T10:33-05:00",
+     "expected_margin": -0.48,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jarrett Allen",
+       "Sam Merrill"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Josh Hart"
+      ],
+      "home": [
+       "Jaylon Tyson"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Jarrett Allen (CLE) no longer out; Sam Merrill (CLE) no longer out; Jarrett Allen (CLE) now questionable; Sam Merrill (CLE) now questionable",
+     "report": "2026-11-07T10:30-05:00",
+     "win_prob": {
+      "away": 51.3,
+      "home": 48.7
      }
     }
    ]
@@ -16339,6 +16397,40 @@
      "win_prob": {
       "away": 19.7,
       "home": 80.3
+     }
+    },
+    {
+     "at": "2026-11-07T10:33-05:00",
+     "expected_margin": 10.95,
+     "gtd": {
+      "away": [
+       "Anthony Davis"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Anthony Davis (WAS) no longer out; Anthony Davis (WAS) now questionable; Jaylin Williams (OKC) no longer out",
+     "report": "2026-11-07T10:30-05:00",
+     "win_prob": {
+      "away": 22.5,
+      "home": 77.5
      }
     }
    ]
