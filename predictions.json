@@ -4878,7 +4878,7 @@
   "win_prob_band": {
    "low": 33.1,
    "high": 33.1,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -6.33,
   "expected_score": {
@@ -4967,14 +4967,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "DeMar DeRozan",
-     "mpg": 20.9,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5217,6 +5210,12 @@
     "pick": "DEN",
     "prob": 66.9,
     "reason": "Kelly Oubre Jr. (IND) cleared to play"
+   },
+   {
+    "at": "2026-11-07T16:17-05:00",
+    "pick": "DEN",
+    "prob": 66.9,
+    "reason": "DeMar DeRozan (DEN) cleared to play"
    }
   ]
  },

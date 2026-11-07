@@ -15956,6 +15956,33 @@
       "away": 66.9,
       "home": 33.1
      }
+    },
+    {
+     "at": "2026-11-07T16:17-05:00",
+     "expected_margin": -6.33,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "DeMar DeRozan (DEN) cleared to play",
+     "report": "2026-11-07T16:15-05:00",
+     "win_prob": {
+      "away": 66.9,
+      "home": 33.1
+     }
     }
    ]
   },
