@@ -15789,6 +15789,38 @@
       "away": 30.0,
       "home": 70.0
      }
+    },
+    {
+     "at": "2026-11-07T09:30-05:00",
+     "expected_margin": 5.36,
+     "gtd": {
+      "away": [
+       "Noah Clowney"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Egor Demin"
+      ],
+      "home": [
+       "Jalen Johnson",
+       "Jock Landale",
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Noah Clowney (BKN) now questionable",
+     "report": "2026-11-07T09:30-05:00",
+     "win_prob": {
+      "away": 35.6,
+      "home": 64.4
+     }
     }
    ]
   },
@@ -15963,6 +15995,33 @@
       "away": 48.1,
       "home": 51.9
      }
+    },
+    {
+     "at": "2026-11-07T09:30-05:00",
+     "expected_margin": -0.73,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Josh Hart"
+      ],
+      "home": [
+       "Jaylon Tyson",
+       "Jarrett Allen",
+       "Sam Merrill"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "pick flipped to NYK",
+     "report": "2026-11-07T09:30-05:00",
+     "win_prob": {
+      "away": 52.0,
+      "home": 48.0
+     }
     }
    ]
   },
@@ -16105,6 +16164,34 @@
       "away": 55.9,
       "home": 44.1
      }
+    },
+    {
+     "at": "2026-11-07T09:30-05:00",
+     "expected_margin": -3.2,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Vit Krejci"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-07T09:30-05:00",
+     "win_prob": {
+      "away": 58.7,
+      "home": 41.3
+     }
     }
    ]
   },
@@ -16218,6 +16305,40 @@
      "win_prob": {
       "away": 22.9,
       "home": 77.1
+     }
+    },
+    {
+     "at": "2026-11-07T09:30-05:00",
+     "expected_margin": 12.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Anthony Davis",
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-07T09:30-05:00",
+     "win_prob": {
+      "away": 19.7,
+      "home": 80.3
      }
     }
    ]
