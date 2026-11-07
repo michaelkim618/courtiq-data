@@ -6285,7 +6285,7 @@
    {
     "label": "Absences",
     "points": -1.17,
-    "detail": "Oklahoma City Thunder 4 out (91 min) costing 1.9 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Oklahoma City Thunder and Washington Wizards: official report not filed yet, ESPN injury list used · Thomas Sorber, Reece Beekman out all season, already baked into team rating"
+    "detail": "Oklahoma City Thunder 3 out (80 min) costing 1.9 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Oklahoma City Thunder and Washington Wizards: official report not filed yet, ESPN injury list used · Thomas Sorber, Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6331,15 +6331,6 @@
     {
      "player": "Cason Wallace",
      "mpg": 26.1,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
-     "player": "Nikola Topic",
-     "mpg": 10.7,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
@@ -6665,6 +6656,12 @@
     "pick": "OKC",
     "prob": 77.5,
     "reason": "Anthony Davis (WAS) no longer out; Anthony Davis (WAS) now questionable; Jaylin Williams (OKC) no longer out"
+   },
+   {
+    "at": "2026-11-07T11:03-05:00",
+    "pick": "OKC",
+    "prob": 77.5,
+    "reason": "Nikola Topic (OKC) no longer out"
    }
   ]
  },
