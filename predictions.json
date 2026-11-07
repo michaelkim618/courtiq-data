@@ -5322,9 +5322,9 @@
    "away": 33.0
   },
   "win_prob_band": {
-   "low": 64.4,
+   "low": 67.0,
    "high": 67.0,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": 6.38,
   "expected_score": {
@@ -5428,14 +5428,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jalen Johnson",
-     "mpg": 29.7,
-     "value": 4.9,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Noah Clowney",
@@ -5710,6 +5703,12 @@
     "pick": "ATL",
     "prob": 67.0,
     "reason": "Asa Newell (ATL) now out; Keshon Gilbert (ATL) now out; Jalen Johnson (ATL) no longer out; Jalen Johnson (ATL) now questionable"
+   },
+   {
+    "at": "2026-11-07T18:02-05:00",
+    "pick": "ATL",
+    "prob": 67.0,
+    "reason": "Jalen Johnson (ATL) cleared to play"
    }
   ]
  },

@@ -15884,6 +15884,37 @@
       "away": 33.0,
       "home": 67.0
      }
+    },
+    {
+     "at": "2026-11-07T18:02-05:00",
+     "expected_margin": 6.38,
+     "gtd": {
+      "away": [
+       "Noah Clowney"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Egor Demin"
+      ],
+      "home": [
+       "Jock Landale",
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Jalen Johnson (ATL) cleared to play",
+     "report": "2026-11-07T18:00-05:00",
+     "win_prob": {
+      "away": 33.0,
+      "home": 67.0
+     }
     }
    ]
   },
