@@ -1018,6 +1018,14 @@
  {
   "date": "2026-11-06",
   "season": "2026-2027",
+  "away": "SAS",
+  "home": "SAC",
+  "conf": 80.4,
+  "correct": true
+ },
+ {
+  "date": "2026-11-06",
+  "season": "2026-2027",
   "away": "TOR",
   "home": "MIL",
   "conf": 57.9,
