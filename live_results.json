@@ -994,9 +994,25 @@
  {
   "date": "2026-11-06",
   "season": "2026-2027",
+  "away": "OKC",
+  "home": "MEM",
+  "conf": 58.1,
+  "correct": false
+ },
+ {
+  "date": "2026-11-06",
+  "season": "2026-2027",
   "away": "PHI",
   "home": "CLE",
   "conf": 53.5,
+  "correct": true
+ },
+ {
+  "date": "2026-11-06",
+  "season": "2026-2027",
+  "away": "UTA",
+  "home": "DAL",
+  "conf": 74.7,
   "correct": true
  },
  {
