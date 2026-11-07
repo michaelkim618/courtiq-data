@@ -6318,7 +6318,7 @@
    {
     "label": "Absences",
     "points": -1.17,
-    "detail": "Oklahoma City Thunder 3 out (80 min) costing 1.9 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Oklahoma City Thunder and Washington Wizards: official report not filed yet, ESPN injury list used · Thomas Sorber, Reece Beekman out all season, already baked into team rating"
+    "detail": "Oklahoma City Thunder 4 out (98 min) costing 1.9 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Thomas Sorber, Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6349,8 +6349,7 @@
      "nth_out": 1,
      "value": 5.2,
      "cost": -1.1,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Chet Holmgren",
@@ -6358,8 +6357,7 @@
      "nth_out": 1,
      "value": 3.6,
      "cost": -0.75,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Cason Wallace",
@@ -6367,8 +6365,15 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Jaylin Williams",
+     "mpg": 18.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     },
     {
      "player": "Thomas Sorber",
@@ -6376,8 +6381,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ],
    "away": [
@@ -6387,8 +6391,7 @@
      "nth_out": 9,
      "value": 3.0,
      "cost": -0.63,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Justin Champagnie",
@@ -6396,8 +6399,7 @@
      "nth_out": 6,
      "value": 0.2,
      "cost": -0.05,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Jamir Watkins",
@@ -6405,8 +6407,7 @@
      "nth_out": 9,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Reece Beekman",
@@ -6414,8 +6415,7 @@
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ]
   },
@@ -6529,17 +6529,17 @@
      "apg": 1.1
     },
     {
-     "player": "Jaylin Williams",
-     "player_id": 1631119,
-     "position": "F",
+     "player": "Bennett Stirtz",
+     "player_id": 1642892,
+     "position": "G",
      "starter": false,
-     "games": 7,
+     "games": 9,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.4,
-     "ppg": 2.9,
-     "rpg": 4.1,
-     "apg": 1.6
+     "mpg": 16.7,
+     "ppg": 7.2,
+     "rpg": 0.8,
+     "apg": 1.1
     }
    ],
    "away": [
@@ -6695,6 +6695,12 @@
     "pick": "OKC",
     "prob": 77.5,
     "reason": "Nikola Topic (OKC) no longer out"
+   },
+   {
+    "at": "2026-11-07T14:02-05:00",
+    "pick": "OKC",
+    "prob": 77.5,
+    "reason": "Jaylin Williams (OKC) now out"
    }
   ]
  },
