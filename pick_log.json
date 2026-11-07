@@ -15110,6 +15110,11 @@
   "2026-11-06_POR@LAL": {
    "away": "POR",
    "date": "2026-11-06",
+   "final_check": {
+    "at": "2026-11-06T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-06T21:45-05:00"
+   },
    "home": "LAL",
    "late": false,
    "locked_at": null,
@@ -15174,6 +15179,11 @@
   "2026-11-06_SAS@SAC": {
    "away": "SAS",
    "date": "2026-11-06",
+   "final_check": {
+    "at": "2026-11-06T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-06T21:45-05:00"
+   },
    "home": "SAC",
    "late": false,
    "locked_at": null,
