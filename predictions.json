@@ -5324,7 +5324,7 @@
   "win_prob_band": {
    "low": 67.0,
    "high": 67.0,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 6.38,
   "expected_score": {
@@ -5429,14 +5429,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Noah Clowney",
-     "mpg": 21.3,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5709,6 +5702,12 @@
     "pick": "ATL",
     "prob": 67.0,
     "reason": "Jalen Johnson (ATL) cleared to play"
+   },
+   {
+    "at": "2026-11-07T18:17-05:00",
+    "pick": "ATL",
+    "prob": 67.0,
+    "reason": "Noah Clowney (BKN) cleared to play"
    }
   ]
  },
