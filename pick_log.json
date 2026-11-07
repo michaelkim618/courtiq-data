@@ -15851,6 +15851,39 @@
       "away": 35.2,
       "home": 64.8
      }
+    },
+    {
+     "at": "2026-11-07T13:02-05:00",
+     "expected_margin": 6.38,
+     "gtd": {
+      "away": [
+       "Noah Clowney"
+      ],
+      "home": [
+       "Jalen Johnson"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Egor Demin"
+      ],
+      "home": [
+       "Jock Landale",
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Asa Newell (ATL) now out; Keshon Gilbert (ATL) now out; Jalen Johnson (ATL) no longer out; Jalen Johnson (ATL) now questionable",
+     "report": "2026-11-07T13:00-05:00",
+     "win_prob": {
+      "away": 33.0,
+      "home": 67.0
+     }
     }
    ]
   },
@@ -16079,6 +16112,34 @@
      "win_prob": {
       "away": 51.3,
       "home": 48.7
+     }
+    },
+    {
+     "at": "2026-11-07T13:02-05:00",
+     "expected_margin": -0.73,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Josh Hart"
+      ],
+      "home": [
+       "Jaylon Tyson",
+       "Jarrett Allen",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Jarrett Allen (CLE) now out; Nae'Qwan Tomlin (CLE) now out; Sam Merrill (CLE) now out",
+     "report": "2026-11-07T13:00-05:00",
+     "win_prob": {
+      "away": 52.0,
+      "home": 48.0
      }
     }
    ]
