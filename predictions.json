@@ -6282,18 +6282,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 77.5,
-   "away": 22.5
+   "home": 80.3,
+   "away": 19.7
   },
   "win_prob_band": {
-   "low": 77.5,
+   "low": 80.3,
    "high": 80.3,
-   "gtd_count": 1
+   "gtd_count": 0
   },
-  "expected_margin": 10.95,
+  "expected_margin": 12.36,
   "expected_score": {
-   "home": 118.6,
-   "away": 107.7
+   "home": 119.3,
+   "away": 107.0
   },
   "margin_breakdown": [
    {
@@ -6313,8 +6313,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.17,
-    "detail": "Oklahoma City Thunder 4 out (98 min) costing 1.9 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Thomas Sorber, Reece Beekman out all season, already baked into team rating"
+    "points": 0.24,
+    "detail": "Oklahoma City Thunder 4 out (98 min) costing 1.9 pts, Washington Wizards 4 out (82 min) costing 2.1 pts · Thomas Sorber, Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6382,6 +6382,14 @@
    ],
    "away": [
     {
+     "player": "Anthony Davis",
+     "mpg": 30.1,
+     "nth_out": 1,
+     "value": 6.7,
+     "cost": -1.41,
+     "no_minutes": false
+    },
+    {
      "player": "Tristan Vukcevic",
      "mpg": 13.7,
      "nth_out": 9,
@@ -6417,14 +6425,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Anthony Davis",
-     "mpg": 30.1,
-     "value": 6.7,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6566,19 +6567,6 @@
      "apg": 5.0
     },
     {
-     "player": "Anthony Davis",
-     "player_id": 203076,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 23.4,
-     "rpg": 9.2,
-     "apg": 2.1
-    },
-    {
      "player": "Bilal Coulibaly",
      "player_id": 1641731,
      "position": "G",
@@ -6608,7 +6596,7 @@
      "player": "AJ Dybantsa",
      "player_id": 1643407,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 5,
      "starts": 0,
      "start_rate": 0,
@@ -6642,6 +6630,19 @@
      "ppg": 5.3,
      "rpg": 1.7,
      "apg": 2.2
+    },
+    {
+     "player": "Deandre Ayton",
+     "player_id": 1629028,
+     "position": "C",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.1,
+     "ppg": 5.7,
+     "rpg": 5.1,
+     "apg": 1.1
     }
    ]
   },
@@ -6697,6 +6698,12 @@
     "pick": "OKC",
     "prob": 77.5,
     "reason": "Jaylin Williams (OKC) now out"
+   },
+   {
+    "at": "2026-11-07T18:32-05:00",
+    "pick": "OKC",
+    "prob": 80.3,
+    "reason": "Anthony Davis (WAS) now out"
    }
   ]
  },

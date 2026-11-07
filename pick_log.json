@@ -16745,6 +16745,39 @@
       "away": 22.5,
       "home": 77.5
      }
+    },
+    {
+     "at": "2026-11-07T18:32-05:00",
+     "expected_margin": 12.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Anthony Davis",
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Anthony Davis (WAS) now out",
+     "report": "2026-11-07T18:30-05:00",
+     "win_prob": {
+      "away": 19.7,
+      "home": 80.3
+     }
     }
    ]
   }
