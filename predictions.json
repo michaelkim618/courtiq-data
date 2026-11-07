@@ -2554,7 +2554,7 @@
   "data_through": "2026-11-05",
   "tip_et": "2026-11-06T19:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -2680,9 +2680,9 @@
    "away": 25.3
   },
   "win_prob_band": {
-   "low": 70.0,
+   "low": 74.7,
    "high": 74.7,
-   "gtd_count": 3
+   "gtd_count": 0
   },
   "expected_margin": 9.62,
   "expected_score": {
@@ -2783,26 +2783,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Kyrie Irving",
-     "mpg": 27.1,
-     "value": 8.2,
-     "status": "Probable"
-    },
-    {
-     "player": "Santi Aldama",
-     "mpg": 27.2,
-     "value": 1.4,
-     "status": "Probable"
-    },
-    {
-     "player": "Max Christie",
-     "mpg": 24.3,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -3046,6 +3027,12 @@
     "pick": "DAL",
     "prob": 74.7,
     "reason": "Kyrie Irving (DAL) now questionable"
+   },
+   {
+    "at": "2026-11-06T19:17-05:00",
+    "pick": "DAL",
+    "prob": 74.7,
+    "reason": "Kyrie Irving (DAL) cleared to play; Max Christie (DAL) cleared to play; Santi Aldama (DAL) cleared to play"
    }
   ]
  },
