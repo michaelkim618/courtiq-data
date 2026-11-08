@@ -3905,9 +3905,9 @@
    "away": 75.3
   },
   "win_prob_band": {
-   "low": 23.8,
+   "low": 20.9,
    "high": 26.9,
-   "gtd_count": 3
+   "gtd_count": 4
   },
   "expected_margin": -9.93,
   "expected_score": {
@@ -4004,6 +4004,12 @@
   },
   "gtd": {
    "home": [
+    {
+     "player": "Norman Powell",
+     "mpg": 25.4,
+     "value": 6.7,
+     "status": "Questionable"
+    },
     {
      "player": "Jalen Smith",
      "mpg": 21.9,
@@ -4261,6 +4267,12 @@
     "pick": "PHI",
     "prob": 75.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-08T09:30-05:00",
+    "pick": "PHI",
+    "prob": 75.3,
+    "reason": "Norman Powell (CHI) now questionable"
    }
   ]
  },
