@@ -4816,8 +4816,8 @@
   },
   "win_prob_band": {
    "low": 83.7,
-   "high": 85.1,
-   "gtd_count": 1
+   "high": 87.1,
+   "gtd_count": 2
   },
   "expected_margin": 14.26,
   "expected_score": {
@@ -4907,6 +4907,12 @@
   "gtd": {
    "home": [],
    "away": [
+    {
+     "player": "Keyonte George",
+     "mpg": 27.6,
+     "value": 6.3,
+     "status": "Questionable"
+    },
     {
      "player": "Lauri Markkanen",
      "mpg": 26.9,
@@ -5150,6 +5156,12 @@
     "pick": "MIN",
     "prob": 83.7,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-08T11:33-05:00",
+    "pick": "MIN",
+    "prob": 83.7,
+    "reason": "Keyonte George (UTA) now questionable"
    }
   ]
  },
