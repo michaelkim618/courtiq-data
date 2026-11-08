@@ -4690,7 +4690,7 @@
   "data_through": "2026-11-07",
   "tip_et": "2026-11-08T18:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "5:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6593,7 +6593,7 @@
   "win_prob_band": {
    "low": 38.9,
    "high": 38.9,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": -4.08,
   "expected_score": {
@@ -6664,7 +6664,14 @@
    "away": []
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Domantas Sabonis",
+     "mpg": 32.8,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -6908,6 +6915,12 @@
     "pick": "MIA",
     "prob": 61.1,
     "reason": "Keegan Murray (SAC) cleared to play"
+   },
+   {
+    "at": "2026-11-08T17:47-05:00",
+    "pick": "MIA",
+    "prob": 61.1,
+    "reason": "Domantas Sabonis (SAC) now questionable"
    }
   ]
  }
