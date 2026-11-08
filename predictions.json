@@ -5303,7 +5303,7 @@
    {
     "label": "Absences",
     "points": 0.53,
-    "detail": "Dallas Mavericks 1 out (20 min), Brooklyn Nets 2 out (45 min) costing 0.5 pts · Brooklyn Nets: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "detail": "Dallas Mavericks 1 out (20 min), Brooklyn Nets 2 out (45 min) costing 0.5 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -5365,8 +5365,7 @@
      "nth_out": 1,
      "value": 2.5,
      "cost": -0.53,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Egor Demin",
@@ -5374,8 +5373,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     }
    ]
   },
