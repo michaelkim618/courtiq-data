@@ -4375,18 +4375,18 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 61.1,
-   "away": 38.9
+   "home": 71.3,
+   "away": 28.7
   },
   "win_prob_band": {
-   "low": 61.1,
+   "low": 71.3,
    "high": 71.3,
-   "gtd_count": 1
+   "gtd_count": 0
   },
-  "expected_margin": 4.07,
+  "expected_margin": 8.15,
   "expected_score": {
-   "home": 114.6,
-   "away": 110.6
+   "home": 116.7,
+   "away": 108.5
   },
   "margin_breakdown": [
    {
@@ -4406,8 +4406,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.37,
-    "detail": "Detroit Pistons 2 out (45 min) costing 1.4 pts"
+    "points": 2.71,
+    "detail": "Detroit Pistons 2 out (45 min) costing 1.4 pts, Los Angeles Lakers 1 out (31 min) costing 4.1 pts"
    },
    {
     "label": "Returning Players",
@@ -4454,18 +4454,20 @@
      "no_minutes": false
     }
    ],
-   "away": []
-  },
-  "gtd": {
-   "home": [],
    "away": [
     {
      "player": "Luka Doncic",
      "mpg": 31.3,
+     "nth_out": 1,
      "value": 19.4,
-     "status": "Questionable"
+     "cost": -4.08,
+     "no_minutes": false
     }
    ]
+  },
+  "gtd": {
+   "home": [],
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4594,19 +4596,6 @@
      "apg": 4.7
     },
     {
-     "player": "Luka Dončić",
-     "player_id": 1629029,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 35.9,
-     "ppg": 40.1,
-     "rpg": 7.8,
-     "apg": 7.7
-    },
-    {
      "player": "Walker Kessler",
      "player_id": 1631117,
      "position": "C",
@@ -4649,7 +4638,7 @@
      "player": "Quentin Grimes",
      "player_id": 1629656,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -4683,6 +4672,19 @@
      "ppg": 8.8,
      "rpg": 4.4,
      "apg": 1.6
+    },
+    {
+     "player": "Collin Sexton",
+     "player_id": 1629012,
+     "position": "G",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.6,
+     "ppg": 8.7,
+     "rpg": 1.9,
+     "apg": 2.2
     }
    ]
   },
@@ -4708,6 +4710,12 @@
     "pick": "DET",
     "prob": 61.1,
     "reason": "Elijah Harkless (DET) cleared to play"
+   },
+   {
+    "at": "2026-11-08T13:58-05:00",
+    "pick": "DET",
+    "prob": 71.3,
+    "reason": "Luka Doncic (LAL) now out"
    }
   ]
  },
@@ -5730,7 +5738,7 @@
   "win_prob_band": {
    "low": 20.7,
    "high": 20.7,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": -11.86,
   "expected_score": {
@@ -5784,7 +5792,14 @@
    "away": []
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Gary Trent Jr.",
+     "mpg": 21.0,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -6022,6 +6037,12 @@
     "pick": "BOS",
     "prob": 79.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-08T13:58-05:00",
+    "pick": "BOS",
+    "prob": 79.3,
+    "reason": "Gary Trent Jr. (MIL) now questionable"
    }
   ]
  },

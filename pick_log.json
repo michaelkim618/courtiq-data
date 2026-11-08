@@ -17040,6 +17040,29 @@
       "away": 79.3,
       "home": 20.7
      }
+    },
+    {
+     "at": "2026-11-08T13:58-05:00",
+     "expected_margin": -11.86,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Gary Trent Jr."
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Gary Trent Jr. (MIL) now questionable",
+     "report": "2026-11-08T13:45-05:00",
+     "win_prob": {
+      "away": 79.3,
+      "home": 20.7
+     }
     }
    ]
   },
@@ -17105,6 +17128,32 @@
      "win_prob": {
       "away": 38.9,
       "home": 61.1
+     }
+    },
+    {
+     "at": "2026-11-08T13:58-05:00",
+     "expected_margin": 8.15,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Luka Doncic"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Luka Doncic (LAL) now out",
+     "report": "2026-11-08T13:45-05:00",
+     "win_prob": {
+      "away": 28.7,
+      "home": 71.3
      }
     }
    ]
