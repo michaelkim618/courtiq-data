@@ -6593,7 +6593,7 @@
   "win_prob_band": {
    "low": 38.9,
    "high": 38.9,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -4.08,
   "expected_score": {
@@ -6664,14 +6664,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Keegan Murray",
-     "mpg": 33.3,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6909,6 +6902,12 @@
     "pick": "MIA",
     "prob": 61.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-08T16:02-05:00",
+    "pick": "MIA",
+    "prob": 61.1,
+    "reason": "Keegan Murray (SAC) cleared to play"
    }
   ]
  }

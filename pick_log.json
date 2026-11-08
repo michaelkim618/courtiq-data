@@ -17193,6 +17193,30 @@
       "away": 61.1,
       "home": 38.9
      }
+    },
+    {
+     "at": "2026-11-08T16:02-05:00",
+     "expected_margin": -4.08,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Keegan Murray (SAC) cleared to play",
+     "report": "2026-11-08T16:00-05:00",
+     "win_prob": {
+      "away": 61.1,
+      "home": 38.9
+     }
     }
    ]
   },
@@ -17247,7 +17271,7 @@
    },
    "home": "CHI",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-08T15:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-08T15:30-05:00",
    "tip_known": true,
