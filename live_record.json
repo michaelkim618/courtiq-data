@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T00:47-05:00",
+ "generated": "2026-11-08T18:00-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1329,13 +1329,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-08",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 95,
+   "cum_games": 140,
+   "cum_pct": 67.9,
+   "picks": [
+    {
+     "away": "PHI",
+     "home": "CHI",
+     "pick": "PHI",
+     "prob": 78.3,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 139,
-  "wins": 94,
+  "games": 140,
+  "wins": 95,
   "losses": 45,
-  "pct": 67.6
+  "pct": 67.9
  },
  "unscored": 0
 }

@@ -1110,5 +1110,13 @@
   "home": "OKC",
   "conf": 80.3,
   "correct": true
+ },
+ {
+  "date": "2026-11-08",
+  "season": "2026-2027",
+  "away": "PHI",
+  "home": "CHI",
+  "conf": 78.3,
+  "correct": true
  }
 ]
