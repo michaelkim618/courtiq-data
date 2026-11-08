@@ -15963,6 +15963,13 @@
    "home": "IND",
    "late": false,
    "locked_at": "2026-11-07T17:00-05:00",
+   "result": {
+    "score": {
+     "away": 114,
+     "home": 102
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-07T17:00-05:00",
    "tip_known": true,
@@ -16097,6 +16104,11 @@
   "2026-11-07_NYK@CLE": {
    "away": "NYK",
    "date": "2026-11-07",
+   "final_check": {
+    "at": "2026-11-07T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-07T19:45-05:00"
+   },
    "home": "CLE",
    "late": false,
    "locked_at": null,
@@ -16539,6 +16551,11 @@
   "2026-11-07_WAS@OKC": {
    "away": "WAS",
    "date": "2026-11-07",
+   "final_check": {
+    "at": "2026-11-07T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-07T19:45-05:00"
+   },
    "home": "OKC",
    "late": false,
    "locked_at": null,
