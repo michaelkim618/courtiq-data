@@ -16098,6 +16098,33 @@
       "away": 68.7,
       "home": 31.3
      }
+    },
+    {
+     "at": "2026-11-07T20:02-05:00",
+     "expected_margin": -7.06,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Steven Adams",
+       "Clint Capela"
+      ],
+      "home": [
+       "Mark Williams",
+       "Jordan Goodwin"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Jordan Goodwin (PHX) now out",
+     "report": "2026-11-07T20:00-05:00",
+     "win_prob": {
+      "away": 68.7,
+      "home": 31.3
+     }
     }
    ]
   },
@@ -16111,7 +16138,7 @@
    },
    "home": "CLE",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-07T20:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-07T20:00-05:00",
    "tip_known": true,
@@ -16558,7 +16585,7 @@
    },
    "home": "OKC",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-07T20:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-07T20:00-05:00",
    "tip_known": true,
