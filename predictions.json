@@ -6812,7 +6812,7 @@
   "win_prob_band": {
    "low": 72.9,
    "high": 72.9,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": 8.82,
   "expected_score": {
@@ -6940,20 +6940,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Draymond Green",
-     "mpg": 23.6,
-     "value": 0.0,
-     "status": "Questionable"
-    },
-    {
-     "player": "Gui Santos",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -7197,6 +7184,12 @@
     "pick": "GSW",
     "prob": 72.9,
     "reason": "Desmond Bane (ORL) now out"
+   },
+   {
+    "at": "2026-11-07T19:02-05:00",
+    "pick": "GSW",
+    "prob": 72.9,
+    "reason": "Draymond Green (GSW) cleared to play; Gui Santos (GSW) cleared to play"
    }
   ]
  },
