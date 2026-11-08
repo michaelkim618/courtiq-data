@@ -1074,9 +1074,25 @@
  {
   "date": "2026-11-07",
   "season": "2026-2027",
+  "away": "HOU",
+  "home": "PHX",
+  "conf": 68.7,
+  "correct": false
+ },
+ {
+  "date": "2026-11-07",
+  "season": "2026-2027",
   "away": "NYK",
   "home": "CLE",
   "conf": 52.0,
+  "correct": true
+ },
+ {
+  "date": "2026-11-07",
+  "season": "2026-2027",
+  "away": "ORL",
+  "home": "GSW",
+  "conf": 72.9,
   "correct": true
  },
  {

@@ -16081,6 +16081,13 @@
    "home": "PHX",
    "late": false,
    "locked_at": "2026-11-07T21:00-05:00",
+   "result": {
+    "score": {
+     "away": 99,
+     "home": 102
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-07T21:00-05:00",
    "tip_known": true,
@@ -16334,6 +16341,13 @@
    "home": "GSW",
    "late": false,
    "locked_at": "2026-11-07T20:30-05:00",
+   "result": {
+    "score": {
+     "away": 119,
+     "home": 126
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-07T20:30-05:00",
    "tip_known": true,
