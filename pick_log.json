@@ -17446,6 +17446,11 @@
   "2026-11-08_UTA@MIN": {
    "away": "UTA",
    "date": "2026-11-08",
+   "final_check": {
+    "at": "2026-11-08T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-08T18:45-05:00"
+   },
    "home": "MIN",
    "late": false,
    "locked_at": null,
