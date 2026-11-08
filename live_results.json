@@ -1098,6 +1098,14 @@
  {
   "date": "2026-11-07",
   "season": "2026-2027",
+  "away": "SAS",
+  "home": "POR",
+  "conf": 58.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-07",
+  "season": "2026-2027",
   "away": "WAS",
   "home": "OKC",
   "conf": 80.3,
