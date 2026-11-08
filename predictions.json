@@ -4256,7 +4256,7 @@
   "model_winner": "Philadelphia 76ers",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-06",
+  "data_through": "2026-11-07",
   "tip_et": "2026-11-08T15:30-05:00",
   "injury_report": {
    "final_check": null
@@ -4298,7 +4298,7 @@
    "losses": 2,
    "win_pct": 0.8,
    "conference": "West",
-   "rank": 1
+   "rank": 3
   },
   "home_recent_form": {
    "games": [
@@ -4698,7 +4698,7 @@
   "model_winner": "Detroit Pistons",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-06",
+  "data_through": "2026-11-07",
   "tip_et": "2026-11-08T18:00-05:00",
   "injury_report": {
    "final_check": null
@@ -4727,7 +4727,7 @@
    "losses": 3,
    "win_pct": 0.7,
    "conference": "West",
-   "rank": 6
+   "rank": 4
   },
   "away_standing": {
    "wins": 1,
@@ -5145,7 +5145,7 @@
   "model_winner": "Minnesota Timberwolves",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-06",
+  "data_through": "2026-11-07",
   "tip_et": "2026-11-08T19:00-05:00",
   "injury_report": {
    "final_check": null
@@ -5184,8 +5184,8 @@
   },
   "away_standing": {
    "wins": 2,
-   "losses": 6,
-   "win_pct": 0.25,
+   "losses": 7,
+   "win_pct": 0.222,
    "conference": "East",
    "rank": 12
   },
@@ -5229,12 +5229,6 @@
   "away_recent_form": {
    "games": [
     {
-     "date": "2026-10-27",
-     "result": "L",
-     "score": "124-125",
-     "home": false
-    },
-    {
      "date": "2026-10-30",
      "result": "L",
      "score": "94-110",
@@ -5257,31 +5251,37 @@
      "result": "W",
      "score": "114-104",
      "home": true
+    },
+    {
+     "date": "2026-11-07",
+     "result": "L",
+     "score": "121-124",
+     "home": false
     }
    ],
    "wins": 2,
-   "losses": 6,
-   "streak": 1
+   "losses": 7,
+   "streak": -1
   },
   "win_prob": {
-   "home": 69.8,
-   "away": 30.2
+   "home": 75.7,
+   "away": 24.3
   },
   "win_prob_band": {
-   "low": 69.8,
-   "high": 69.8,
+   "low": 75.7,
+   "high": 75.7,
    "gtd_count": 0
   },
-  "expected_margin": 7.5,
+  "expected_margin": 10.12,
   "expected_score": {
-   "home": 115.3,
-   "away": 107.8
+   "home": 117.0,
+   "away": 106.9
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 3.28,
-    "detail": "Dallas Mavericks -1.4 vs Brooklyn Nets -4.7, proj. 99.7 possessions"
+    "points": 3.17,
+    "detail": "Dallas Mavericks -1.4 vs Brooklyn Nets -4.6, proj. 100.0 possessions"
    },
    {
     "label": "Home Advantage",
@@ -5290,13 +5290,13 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 0.0,
-    "detail": "Both teams rested"
+    "points": 2.5,
+    "detail": "Brooklyn Nets on no rest"
    },
    {
     "label": "Absences",
-    "points": 0.3,
-    "detail": "Dallas Mavericks 1 out (20 min), Brooklyn Nets 2 out (46 min) costing 0.3 pts · Brooklyn Nets: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 0.53,
+    "detail": "Dallas Mavericks 1 out (20 min), Brooklyn Nets 2 out (45 min) costing 0.5 pts · Brooklyn Nets: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -5315,13 +5315,13 @@
     "roster": 0.5
    },
    "away": {
-    "net": -4.7,
-    "off": 109.1,
+    "net": -4.6,
+    "off": 109.2,
     "def": 113.8,
-    "pace": 98.2,
-    "games": 8,
-    "carry": 0.556,
-    "roster": 0.528
+    "pace": 98.8,
+    "games": 9,
+    "carry": 0.526,
+    "roster": 0.5
    }
   },
   "absences": {
@@ -5354,10 +5354,10 @@
    "away": [
     {
      "player": "Mikel Brown Jr.",
-     "mpg": 22.6,
+     "mpg": 22.2,
      "nth_out": 1,
-     "value": 1.4,
-     "cost": -0.3,
+     "value": 2.5,
+     "cost": -0.53,
      "no_minutes": false,
      "source": "espn"
     },
@@ -5380,7 +5380,7 @@
    "season": "2026-27",
    "games": {
     "home": 9,
-    "away": 8
+    "away": 9
    },
    "home": [
     {
@@ -5494,25 +5494,25 @@
      "player_id": 203944,
      "position": "F",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
      "mpg": 33.8,
-     "ppg": 21.0,
+     "ppg": 20.8,
      "rpg": 7.1,
-     "apg": 4.8
+     "apg": 5.1
     },
     {
      "player": "Michael Porter Jr.",
      "player_id": 1629008,
      "position": "F",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 33.2,
-     "ppg": 21.4,
-     "rpg": 7.4,
+     "mpg": 33.5,
+     "ppg": 21.8,
+     "rpg": 7.6,
      "apg": 1.2
     },
     {
@@ -5520,13 +5520,13 @@
      "player_id": 1630549,
      "position": "C",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 23.1,
-     "ppg": 7.2,
-     "rpg": 7.1,
-     "apg": 2.6
+     "mpg": 24.1,
+     "ppg": 7.8,
+     "rpg": 7.4,
+     "apg": 3.8
     },
     {
      "player": "Keon Ellis",
@@ -5546,52 +5546,52 @@
      "player_id": 1642849,
      "position": "G",
      "starter": true,
-     "games": 8,
+     "games": 9,
      "starts": 2,
-     "start_rate": 25,
-     "mpg": 22.1,
-     "ppg": 12.0,
-     "rpg": 2.2,
-     "apg": 2.8
-    },
-    {
-     "player": "Chaney Johnson",
-     "player_id": 1643052,
-     "position": "G",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.2,
-     "ppg": 5.1,
-     "rpg": 2.9,
-     "apg": 1.0
+     "start_rate": 22,
+     "mpg": 22.2,
+     "ppg": 12.8,
+     "rpg": 2.1,
+     "apg": 2.7
     },
     {
      "player": "Noah Clowney",
      "player_id": 1641730,
      "position": "F",
      "starter": false,
-     "games": 8,
+     "games": 9,
      "starts": 0,
      "start_rate": 0,
      "mpg": 21.1,
-     "ppg": 5.6,
-     "rpg": 4.2,
-     "apg": 0.9
+     "ppg": 5.3,
+     "rpg": 4.9,
+     "apg": 0.8
     },
     {
-     "player": "Moritz Wagner",
-     "player_id": 1629021,
-     "position": "F",
+     "player": "Chaney Johnson",
+     "player_id": 1643052,
+     "position": "G",
      "starter": false,
-     "games": 8,
+     "games": 9,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.8,
-     "ppg": 10.4,
-     "rpg": 3.4,
-     "apg": 1.1
+     "mpg": 19.7,
+     "ppg": 5.1,
+     "rpg": 2.8,
+     "apg": 1.0
+    },
+    {
+     "player": "Danny Wolf",
+     "player_id": 1642874,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.3,
+     "ppg": 9.5,
+     "rpg": 5.5,
+     "apg": 1.8
     }
    ]
   },
@@ -5600,7 +5600,7 @@
   "model_winner": "Dallas Mavericks",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-06",
+  "data_through": "2026-11-07",
   "tip_et": "2026-11-08T19:30-05:00",
   "injury_report": {
    "final_check": null
@@ -5616,6 +5616,12 @@
     "at": "2026-11-08T10:48-05:00",
     "pick": "DAL",
     "prob": 69.8,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-08T12:02-05:00",
+    "pick": "DAL",
+    "prob": 75.7,
     "reason": "win probability moved with the latest report"
    }
   ]
@@ -6006,7 +6012,7 @@
   "model_winner": "Boston Celtics",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-06",
+  "data_through": "2026-11-07",
   "tip_et": "2026-11-08T20:00-05:00",
   "injury_report": {
    "final_check": null
@@ -6456,7 +6462,7 @@
   "model_winner": "New Orleans Pelicans",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-06",
+  "data_through": "2026-11-07",
   "tip_et": "2026-11-08T21:00-05:00",
   "injury_report": {
    "final_check": null
@@ -6492,7 +6498,7 @@
    "losses": 6,
    "win_pct": 0.333,
    "conference": "East",
-   "rank": 10
+   "rank": 9
   },
   "home_recent_form": {
    "games": [
@@ -6880,7 +6886,7 @@
   "model_winner": "Miami Heat",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-06",
+  "data_through": "2026-11-07",
   "tip_et": "2026-11-08T21:00-05:00",
   "injury_report": {
    "final_check": null
