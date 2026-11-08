@@ -1058,9 +1058,25 @@
  {
   "date": "2026-11-07",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "ATL",
+  "conf": 67.0,
+  "correct": true
+ },
+ {
+  "date": "2026-11-07",
+  "season": "2026-2027",
   "away": "DEN",
   "home": "IND",
   "conf": 66.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-07",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "OKC",
+  "conf": 80.3,
   "correct": true
  }
 ]
