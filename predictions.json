@@ -4845,18 +4845,18 @@
    "streak": -7
   },
   "win_prob": {
-   "home": 83.7,
-   "away": 16.3
+   "home": 85.1,
+   "away": 14.9
   },
   "win_prob_band": {
-   "low": 83.7,
-   "high": 87.1,
-   "gtd_count": 2
+   "low": 85.1,
+   "high": 85.1,
+   "gtd_count": 0
   },
-  "expected_margin": 14.26,
+  "expected_margin": 15.07,
   "expected_score": {
-   "home": 121.8,
-   "away": 107.5
+   "home": 122.2,
+   "away": 107.1
   },
   "margin_breakdown": [
    {
@@ -4876,8 +4876,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.65,
-    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Utah Jazz 2 out (50 min) costing 0.8 pts"
+    "points": -0.85,
+    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Utah Jazz 3 out (76 min) costing 1.6 pts"
    }
   ],
   "ratings": {
@@ -4929,6 +4929,14 @@
      "no_minutes": false
     },
     {
+     "player": "Lauri Markkanen",
+     "mpg": 26.9,
+     "nth_out": 1,
+     "value": 3.8,
+     "cost": -0.8,
+     "no_minutes": false
+    },
+    {
      "player": "Jusuf Nurkic",
      "mpg": 25.9,
      "nth_out": 1,
@@ -4940,20 +4948,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Keyonte George",
-     "mpg": 27.6,
-     "value": 6.3,
-     "status": "Questionable"
-    },
-    {
-     "player": "Lauri Markkanen",
-     "mpg": 26.9,
-     "value": 3.8,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5082,19 +5077,6 @@
      "apg": 6.2
     },
     {
-     "player": "Lauri Markkanen",
-     "player_id": 1628374,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 30.9,
-     "ppg": 18.0,
-     "rpg": 6.8,
-     "apg": 2.0
-    },
-    {
      "player": "Darryn Peterson",
      "player_id": 1643408,
      "position": "G",
@@ -5137,7 +5119,7 @@
      "player": "Josh Okogie",
      "player_id": 1629006,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 8,
      "starts": 0,
      "start_rate": 0,
@@ -5171,6 +5153,19 @@
      "ppg": 3.0,
      "rpg": 1.6,
      "apg": 0.7
+    },
+    {
+     "player": "Svi Mykhailiuk",
+     "player_id": 1629004,
+     "position": "G",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.2,
+     "ppg": 3.7,
+     "rpg": 1.9,
+     "apg": 0.9
     }
    ]
   },
@@ -5196,6 +5191,12 @@
     "pick": "MIN",
     "prob": 83.7,
     "reason": "Keyonte George (UTA) now questionable"
+   },
+   {
+    "at": "2026-11-08T18:17-05:00",
+    "pick": "MIN",
+    "prob": 85.1,
+    "reason": "Lauri Markkanen (UTA) now out; Keyonte George (UTA) cleared to play"
    }
   ]
  },
