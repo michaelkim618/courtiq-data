@@ -16430,6 +16430,11 @@
   "2026-11-07_SAS@POR": {
    "away": "SAS",
    "date": "2026-11-07",
+   "final_check": {
+    "at": "2026-11-07T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-07T21:45-05:00"
+   },
    "home": "POR",
    "late": false,
    "locked_at": null,
