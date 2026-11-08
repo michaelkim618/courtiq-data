@@ -17080,6 +17080,32 @@
       "away": 38.9,
       "home": 61.1
      }
+    },
+    {
+     "at": "2026-11-08T13:02-05:00",
+     "expected_margin": 4.07,
+     "gtd": {
+      "away": [
+       "Luka Doncic"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Elijah Harkless (DET) cleared to play",
+     "report": "2026-11-08T13:00-05:00",
+     "win_prob": {
+      "away": 38.9,
+      "home": 61.1
+     }
     }
    ]
   },

@@ -4381,7 +4381,7 @@
   "win_prob_band": {
    "low": 61.1,
    "high": 71.3,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": 4.07,
   "expected_score": {
@@ -4457,14 +4457,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Elijah Harkless",
-     "mpg": 20.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Luka Doncic",
@@ -4709,6 +4702,12 @@
     "pick": "DET",
     "prob": 61.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-08T13:02-05:00",
+    "pick": "DET",
+    "prob": 61.1,
+    "reason": "Elijah Harkless (DET) cleared to play"
    }
   ]
  },
