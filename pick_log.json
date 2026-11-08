@@ -17344,6 +17344,35 @@
       "away": 78.3,
       "home": 21.7
      }
+    },
+    {
+     "at": "2026-11-08T15:02-05:00",
+     "expected_margin": -11.34,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Norman Powell",
+       "Dailyn Swain",
+       "Zach Collins"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Joel Embiid (PHI) cleared to play",
+     "report": "2026-11-08T15:00-05:00",
+     "win_prob": {
+      "away": 78.3,
+      "home": 21.7
+     }
     }
    ]
   },

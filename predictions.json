@@ -3906,8 +3906,8 @@
   },
   "win_prob_band": {
    "low": 21.7,
-   "high": 23.8,
-   "gtd_count": 1
+   "high": 21.7,
+   "gtd_count": 0
   },
   "expected_margin": -11.34,
   "expected_score": {
@@ -4012,14 +4012,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Joel Embiid",
-     "mpg": 31.9,
-     "value": 4.7,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4268,6 +4261,12 @@
     "pick": "PHI",
     "prob": 78.3,
     "reason": "Norman Powell (CHI) now out; Jalen Smith (CHI) cleared to play; Nic Claxton (CHI) cleared to play"
+   },
+   {
+    "at": "2026-11-08T15:02-05:00",
+    "pick": "PHI",
+    "prob": 78.3,
+    "reason": "Joel Embiid (PHI) cleared to play"
    }
   ]
  },
