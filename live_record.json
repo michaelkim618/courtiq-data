@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T22:17-05:00",
+ "generated": "2026-11-07T22:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1264,13 +1264,13 @@
   },
   {
    "date": "2026-11-07",
-   "games": 3,
-   "wins": 3,
+   "games": 4,
+   "wins": 4,
    "losses": 0,
    "pct": 100.0,
-   "cum_wins": 91,
-   "cum_games": 135,
-   "cum_pct": 67.4,
+   "cum_wins": 92,
+   "cum_games": 136,
+   "cum_pct": 67.6,
    "picks": [
     {
      "away": "BKN",
@@ -1289,6 +1289,14 @@
      "updated": true
     },
     {
+     "away": "NYK",
+     "home": "CLE",
+     "pick": "NYK",
+     "prob": 52.0,
+     "correct": true,
+     "updated": true
+    },
+    {
      "away": "WAS",
      "home": "OKC",
      "pick": "OKC",
@@ -1300,10 +1308,10 @@
   }
  ],
  "total": {
-  "games": 135,
-  "wins": 91,
+  "games": 136,
+  "wins": 92,
   "losses": 44,
-  "pct": 67.4
+  "pct": 67.6
  },
  "unscored": 0
 }
