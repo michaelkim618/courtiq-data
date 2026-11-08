@@ -3901,18 +3901,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 24.7,
-   "away": 75.3
+   "home": 21.7,
+   "away": 78.3
   },
   "win_prob_band": {
-   "low": 20.9,
-   "high": 26.9,
-   "gtd_count": 4
+   "low": 21.7,
+   "high": 23.8,
+   "gtd_count": 1
   },
-  "expected_margin": -9.93,
+  "expected_margin": -11.34,
   "expected_score": {
-   "home": 110.3,
-   "away": 120.2
+   "home": 109.6,
+   "away": 120.9
   },
   "margin_breakdown": [
    {
@@ -3932,8 +3932,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "Chicago Bulls 2 out (24 min), Philadelphia 76ers 3 out (46 min)"
+    "points": -1.41,
+    "detail": "Chicago Bulls 3 out (49 min) costing 1.4 pts, Philadelphia 76ers 3 out (46 min)"
    }
   ],
   "ratings": {
@@ -3958,6 +3958,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Norman Powell",
+     "mpg": 25.4,
+     "nth_out": 1,
+     "value": 6.7,
+     "cost": -1.41,
+     "no_minutes": false
+    },
     {
      "player": "Dailyn Swain",
      "mpg": 16.4,
@@ -4003,26 +4011,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Norman Powell",
-     "mpg": 25.4,
-     "value": 6.7,
-     "status": "Questionable"
-    },
-    {
-     "player": "Jalen Smith",
-     "mpg": 21.9,
-     "value": 2.0,
-     "status": "Probable"
-    },
-    {
-     "player": "Nic Claxton",
-     "mpg": 27.5,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Joel Embiid",
@@ -4051,19 +4040,6 @@
      "ppg": 19.5,
      "rpg": 6.5,
      "apg": 2.4
-    },
-    {
-     "player": "Norman Powell",
-     "player_id": 1626181,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 28.8,
-     "ppg": 19.2,
-     "rpg": 2.5,
-     "apg": 1.6
     },
     {
      "player": "Josh Giddey",
@@ -4108,7 +4084,7 @@
      "player": "Tre Jones",
      "player_id": 1630200,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 8,
      "starts": 0,
      "start_rate": 0,
@@ -4142,6 +4118,19 @@
      "ppg": 7.1,
      "rpg": 4.1,
      "apg": 1.0
+    },
+    {
+     "player": "Noa Essengue",
+     "player_id": 1642855,
+     "position": "F",
+     "starter": false,
+     "games": 7,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.8,
+     "ppg": 4.6,
+     "rpg": 3.0,
+     "apg": 0.3
     }
    ],
    "away": [
@@ -4273,6 +4262,12 @@
     "pick": "PHI",
     "prob": 75.3,
     "reason": "Norman Powell (CHI) now questionable"
+   },
+   {
+    "at": "2026-11-08T14:32-05:00",
+    "pick": "PHI",
+    "prob": 78.3,
+    "reason": "Norman Powell (CHI) now out; Jalen Smith (CHI) cleared to play; Nic Claxton (CHI) cleared to play"
    }
   ]
  },
