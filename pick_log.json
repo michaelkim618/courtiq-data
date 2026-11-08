@@ -15693,6 +15693,11 @@
   "2026-11-07_BKN@ATL": {
    "away": "BKN",
    "date": "2026-11-07",
+   "final_check": {
+    "at": "2026-11-07T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-07T19:15-05:00"
+   },
    "home": "ATL",
    "late": false,
    "locked_at": null,
