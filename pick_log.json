@@ -18194,6 +18194,38 @@
       "away": 32.7,
       "home": 67.3
      }
+    },
+    {
+     "at": "2026-11-09T16:02-05:00",
+     "expected_margin": 6.53,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Gui Santos"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Trey Murphy III",
+       "Yves Missi",
+       "Trendon Watford"
+      ],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Will Richard"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Trendon Watford (NOP) now out; Trey Murphy III (NOP) now out",
+     "report": "2026-11-09T16:00-05:00",
+     "win_prob": {
+      "away": 32.6,
+      "home": 67.4
+     }
     }
    ]
   },

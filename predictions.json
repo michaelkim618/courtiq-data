@@ -7097,15 +7097,15 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 67.3,
-   "away": 32.7
+   "home": 67.4,
+   "away": 32.6
   },
   "win_prob_band": {
-   "low": 67.3,
-   "high": 67.3,
+   "low": 67.4,
+   "high": 67.4,
    "gtd_count": 1
   },
-  "expected_margin": 6.49,
+  "expected_margin": 6.53,
   "expected_score": {
    "home": 119.0,
    "away": 112.5
@@ -7128,8 +7128,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.67,
-    "detail": "Golden State Warriors 4 out (97 min) costing 2.7 pts, New Orleans Pelicans 1 out (21 min) · New Orleans Pelicans: official report not filed yet, ESPN injury list used"
+    "points": -2.64,
+    "detail": "Golden State Warriors 4 out (97 min) costing 2.7 pts, New Orleans Pelicans 3 out (64 min) costing 0.0 pts"
    }
   ],
   "ratings": {
@@ -7189,13 +7189,28 @@
    ],
    "away": [
     {
+     "player": "Trey Murphy III",
+     "mpg": 28.1,
+     "nth_out": 1,
+     "value": 0.2,
+     "cost": -0.03,
+     "no_minutes": false
+    },
+    {
      "player": "Yves Missi",
      "mpg": 20.8,
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Trendon Watford",
+     "mpg": 15.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ]
   },
@@ -7350,19 +7365,6 @@
      "apg": 2.7
     },
     {
-     "player": "Trey Murphy III",
-     "player_id": 1630530,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 15.6,
-     "rpg": 4.8,
-     "apg": 3.6
-    },
-    {
      "player": "Jeremiah Fears",
      "player_id": 1642847,
      "position": "G",
@@ -7392,7 +7394,7 @@
      "player": "Saddiq Bey",
      "player_id": 1630180,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -7426,6 +7428,19 @@
      "ppg": 12.1,
      "rpg": 7.2,
      "apg": 2.8
+    },
+    {
+     "player": "Karlo Matković",
+     "player_id": 1631255,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.7,
+     "ppg": 9.6,
+     "rpg": 4.1,
+     "apg": 1.1
     }
    ]
   },
@@ -7451,6 +7466,12 @@
     "pick": "GSW",
     "prob": 67.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-09T16:02-05:00",
+    "pick": "GSW",
+    "prob": 67.4,
+    "reason": "Trendon Watford (NOP) now out; Trey Murphy III (NOP) now out"
    }
   ]
  }
