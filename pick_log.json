@@ -17018,6 +17018,11 @@
   "2026-11-08_BOS@MIL": {
    "away": "BOS",
    "date": "2026-11-08",
+   "final_check": {
+    "at": "2026-11-08T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-08T19:45-05:00"
+   },
    "home": "MIL",
    "late": false,
    "locked_at": null,
