@@ -17734,6 +17734,39 @@
       "away": 73.4,
       "home": 26.6
      }
+    },
+    {
+     "at": "2026-11-09T17:32-05:00",
+     "expected_margin": -9.07,
+     "gtd": {
+      "away": [
+       "Jarrett Allen"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaylon Tyson",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Brandon Miller",
+       "Kon Knueppel",
+       "Dennis Schroder",
+       "Moussa Diabate",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Moussa Diabate (CHA) now out",
+     "report": "2026-11-09T17:30-05:00",
+     "win_prob": {
+      "away": 73.4,
+      "home": 26.6
+     }
     }
    ]
   },

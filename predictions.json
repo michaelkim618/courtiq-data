@@ -4281,7 +4281,7 @@
   "win_prob_band": {
    "low": 26.6,
    "high": 27.1,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -9.07,
   "expected_score": {
@@ -4307,7 +4307,7 @@
    {
     "label": "Absences",
     "points": -2.02,
-    "detail": "Charlotte Hornets 4 out (109 min) costing 2.3 pts, Cleveland Cavaliers 3 out (58 min) costing 0.3 pts"
+    "detail": "Charlotte Hornets 5 out (135 min) costing 2.3 pts, Cleveland Cavaliers 3 out (58 min) costing 0.3 pts"
    }
   ],
   "ratings": {
@@ -4357,6 +4357,14 @@
      "no_minutes": false
     },
     {
+     "player": "Moussa Diabate",
+     "mpg": 26.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Grant Williams",
      "mpg": 19.6,
      "nth_out": 4,
@@ -4393,14 +4401,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Moussa Diabate",
-     "mpg": 26.6,
-     "value": 0.0,
-     "status": "Doubtful"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Jarrett Allen",
@@ -4429,19 +4430,6 @@
      "ppg": 16.6,
      "rpg": 8.1,
      "apg": 1.9
-    },
-    {
-     "player": "Moussa Diabaté",
-     "player_id": 1631217,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 28.7,
-     "ppg": 8.9,
-     "rpg": 9.1,
-     "apg": 2.1
     },
     {
      "player": "Sion James",
@@ -4486,7 +4474,7 @@
      "player": "Ryan Kalkbrenner",
      "player_id": 1641750,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -4520,6 +4508,19 @@
      "ppg": 6.1,
      "rpg": 3.4,
      "apg": 0.1
+    },
+    {
+     "player": "Hannes Steinbach",
+     "player_id": 1643419,
+     "position": "F",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.5,
+     "ppg": 3.0,
+     "rpg": 4.5,
+     "apg": 0.5
     }
    ],
    "away": [
@@ -4651,6 +4652,12 @@
     "pick": "CLE",
     "prob": 73.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-09T17:32-05:00",
+    "pick": "CLE",
+    "prob": 73.4,
+    "reason": "Moussa Diabate (CHA) now out"
    }
   ]
  },
