@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-09-the-numbers-going-into-2026-11-09",
+      "title": "The Numbers Going Into 2026-11-09",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-11-09",
+      "type": "daily",
+      "tag": "Data",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "No narrative here, just the model's current read on the slate. We're looking at win probabilities derived from team ratings as they stand right now — not yesterday's box score, not last week's hot streak, just where the numbers have each club pegged entering tonight. Projected margins follow the same logic: they're point-spread estimates built from those underlying ratings, adjusted for venue. Nothing more, nothing less. If you're hunting for storylines or momentum takes, you won't find them in this section. The model doesn't watch film or read press conferences. It calculates expected outcomes based on accumulated performance data, and that's what you're getting below.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-07-hot-take-luka-doncic-s-53-point-explosion-pushes-scoring-ave",
       "title": "Hot Take: Luka Doncic's 53-point explosion pushes scoring average past 40 as La…",
       "author": "Rico",
