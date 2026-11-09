@@ -17660,6 +17660,11 @@
   "2026-11-09_CLE@CHA": {
    "away": "CLE",
    "date": "2026-11-09",
+   "final_check": {
+    "at": "2026-11-09T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-09T18:45-05:00"
+   },
    "home": "CHA",
    "late": false,
    "locked_at": null,
@@ -17980,12 +17985,47 @@
       "away": 29.7,
       "home": 70.3
      }
+    },
+    {
+     "at": "2026-11-09T18:47-05:00",
+     "expected_margin": 7.7,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Morez Johnson Jr.",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Morez Johnson Jr. (DAL) now out",
+     "report": "2026-11-09T18:45-05:00",
+     "win_prob": {
+      "away": 29.8,
+      "home": 70.2
+     }
     }
    ]
   },
   "2026-11-09_LAL@ATL": {
    "away": "LAL",
    "date": "2026-11-09",
+   "final_check": {
+    "at": "2026-11-09T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-09T18:45-05:00"
+   },
    "home": "ATL",
    "late": false,
    "locked_at": null,
@@ -18484,6 +18524,11 @@
   "2026-11-09_WAS@DET": {
    "away": "WAS",
    "date": "2026-11-09",
+   "final_check": {
+    "at": "2026-11-09T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-09T18:45-05:00"
+   },
    "home": "DET",
    "late": false,
    "locked_at": null,

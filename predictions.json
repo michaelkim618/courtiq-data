@@ -4148,7 +4148,7 @@
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -4638,7 +4638,7 @@
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -5114,7 +5114,7 @@
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -5720,15 +5720,15 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 70.3,
-   "away": 29.7
+   "home": 70.2,
+   "away": 29.8
   },
   "win_prob_band": {
-   "low": 70.3,
-   "high": 70.3,
+   "low": 70.2,
+   "high": 70.2,
    "gtd_count": 0
   },
-  "expected_margin": 7.72,
+  "expected_margin": 7.7,
   "expected_score": {
    "home": 117.7,
    "away": 110.0
@@ -5751,8 +5751,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.59,
-    "detail": "Dallas Mavericks 1 out (20 min), Indiana Pacers 3 out (65 min) costing 1.6 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 1.58,
+    "detail": "Dallas Mavericks 2 out (37 min) costing 0.0 pts, Indiana Pacers 3 out (65 min) costing 1.6 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -5782,6 +5782,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Morez Johnson Jr.",
+     "mpg": 16.2,
+     "nth_out": 1,
+     "value": 0.1,
+     "cost": -0.01,
+     "no_minutes": false
+    },
     {
      "player": "Sergio de Larrea",
      "mpg": 20.4,
@@ -6079,6 +6087,12 @@
     "pick": "DAL",
     "prob": 70.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-09T18:47-05:00",
+    "pick": "DAL",
+    "prob": 70.2,
+    "reason": "Morez Johnson Jr. (DAL) now out"
    }
   ]
  },
