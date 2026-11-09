@@ -17110,6 +17110,13 @@
    "home": "DET",
    "late": false,
    "locked_at": "2026-11-08T18:00-05:00",
+   "result": {
+    "score": {
+     "away": 121,
+     "home": 116
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-08T18:00-05:00",
    "tip_known": true,
@@ -17199,6 +17206,11 @@
   "2026-11-08_MIA@SAC": {
    "away": "MIA",
    "date": "2026-11-08",
+   "final_check": {
+    "at": "2026-11-08T20:47-05:00",
+    "label": "8:45 PM ET",
+    "report": "2026-11-08T20:45-05:00"
+   },
    "home": "SAC",
    "late": false,
    "locked_at": null,
@@ -17312,6 +17324,11 @@
   "2026-11-08_NOP@LAC": {
    "away": "NOP",
    "date": "2026-11-08",
+   "final_check": {
+    "at": "2026-11-08T20:47-05:00",
+    "label": "8:45 PM ET",
+    "report": "2026-11-08T20:45-05:00"
+   },
    "home": "LAC",
    "late": false,
    "locked_at": null,
