@@ -1114,6 +1114,22 @@
  {
   "date": "2026-11-08",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "DAL",
+  "conf": 75.7,
+  "correct": true
+ },
+ {
+  "date": "2026-11-08",
+  "season": "2026-2027",
+  "away": "BOS",
+  "home": "MIL",
+  "conf": 79.3,
+  "correct": true
+ },
+ {
+  "date": "2026-11-08",
+  "season": "2026-2027",
   "away": "LAL",
   "home": "DET",
   "conf": 71.3,
