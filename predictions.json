@@ -6904,7 +6904,7 @@
  },
  {
   "date": "2026-11-08",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Miami Heat",
   "home": "Sacramento Kings",
   "away_code": "MIA",
@@ -7089,229 +7089,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 9,
-    "away": 9
-   },
-   "home": [
-    {
-     "player": "Darius Acuff Jr.",
-     "player_id": 1643411,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 36.8,
-     "ppg": 25.2,
-     "rpg": 3.7,
-     "apg": 7.1
-    },
-    {
-     "player": "Zach LaVine",
-     "player_id": 203897,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 33.6,
-     "ppg": 22.1,
-     "rpg": 3.2,
-     "apg": 2.7
-    },
-    {
-     "player": "De'Andre Hunter",
-     "player_id": 1629631,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 31.2,
-     "ppg": 13.0,
-     "rpg": 4.8,
-     "apg": 1.2
-    },
-    {
-     "player": "Keegan Murray",
-     "player_id": 1631099,
-     "position": "F",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 27.2,
-     "ppg": 7.0,
-     "rpg": 3.0,
-     "apg": 0.5
-    },
-    {
-     "player": "Precious Achiuwa",
-     "player_id": 1630173,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 4,
-     "start_rate": 44,
-     "mpg": 26.6,
-     "ppg": 10.8,
-     "rpg": 5.9,
-     "apg": 1.1
-    },
-    {
-     "player": "Leaky Black",
-     "player_id": 1641778,
-     "position": "F",
-     "starter": false,
-     "games": 5,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.0,
-     "ppg": 5.8,
-     "rpg": 2.6,
-     "apg": 1.6
-    },
-    {
-     "player": "Emanuel Sharp",
-     "player_id": 1643567,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.8,
-     "ppg": 4.9,
-     "rpg": 1.3,
-     "apg": 0.8
-    },
-    {
-     "player": "Jonathan Mogbo",
-     "player_id": 1642367,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.4,
-     "ppg": 3.8,
-     "rpg": 2.8,
-     "apg": 1.0
-    }
-   ],
-   "away": [
-    {
-     "player": "Davion Mitchell",
-     "player_id": 1630558,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 35.0,
-     "ppg": 16.1,
-     "rpg": 1.6,
-     "apg": 8.2
-    },
-    {
-     "player": "Giannis Antetokounmpo",
-     "player_id": 203507,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 32.7,
-     "ppg": 27.3,
-     "rpg": 12.7,
-     "apg": 5.6
-    },
-    {
-     "player": "Bam Adebayo",
-     "player_id": 1628389,
-     "position": "C",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 32.7,
-     "ppg": 18.6,
-     "rpg": 8.4,
-     "apg": 3.1
-    },
-    {
-     "player": "Andrew Wiggins",
-     "player_id": 203952,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 25.8,
-     "ppg": 8.6,
-     "rpg": 3.1,
-     "apg": 1.7
-    },
-    {
-     "player": "Klay Thompson",
-     "player_id": 202691,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 23.4,
-     "ppg": 13.8,
-     "rpg": 1.6,
-     "apg": 1.7
-    },
-    {
-     "player": "Pelle Larsson",
-     "player_id": 1641796,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 30.2,
-     "ppg": 11.1,
-     "rpg": 3.1,
-     "apg": 3.8
-    },
-    {
-     "player": "Bobby Portis Jr.",
-     "player_id": 1626171,
-     "position": "F",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.7,
-     "ppg": 7.3,
-     "rpg": 6.9,
-     "apg": 1.9
-    },
-    {
-     "player": "Tim Hardaway Jr.",
-     "player_id": 203501,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.6,
-     "ppg": 5.1,
-     "rpg": 1.4,
-     "apg": 0.7
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 108,
+   "away": 114
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Miami Heat",
   "model_winner": "Miami Heat",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-07",
   "tip_et": "2026-11-08T21:00-05:00",
@@ -7343,6 +7128,266 @@
     "prob": 61.1,
     "reason": "Domantas Sabonis (SAC) now out"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Darius Acuff Jr.",
+     "starter": true,
+     "min": 39,
+     "pts": 32,
+     "reb": 5,
+     "ast": 10,
+     "stl": 1,
+     "blk": 0,
+     "tov": 5,
+     "pm": -12
+    },
+    {
+     "name": "Precious Achiuwa",
+     "starter": true,
+     "min": 36,
+     "pts": 7,
+     "reb": 14,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 6,
+     "pm": -6
+    },
+    {
+     "name": "De'Andre Hunter",
+     "starter": true,
+     "min": 31,
+     "pts": 14,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -19
+    },
+    {
+     "name": "Zach LaVine",
+     "starter": true,
+     "min": 25,
+     "pts": 15,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -6
+    },
+    {
+     "name": "Keegan Murray",
+     "starter": false,
+     "min": 23,
+     "pts": 10,
+     "reb": 1,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Malik Monk",
+     "starter": false,
+     "min": 21,
+     "pts": 9,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 10
+    },
+    {
+     "name": "Leaky Black",
+     "starter": false,
+     "min": 20,
+     "pts": 6,
+     "reb": 5,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Dylan Cardwell",
+     "starter": true,
+     "min": 18,
+     "pts": 4,
+     "reb": 9,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 2
+    },
+    {
+     "name": "Daeqwon Plowden",
+     "starter": false,
+     "min": 12,
+     "pts": 6,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    },
+    {
+     "name": "Emanuel Sharp",
+     "starter": false,
+     "min": 12,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 7
+    },
+    {
+     "name": "Jonathan Mogbo",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    }
+   ],
+   "away": [
+    {
+     "name": "Davion Mitchell",
+     "starter": true,
+     "min": 40,
+     "pts": 17,
+     "reb": 3,
+     "ast": 11,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -5
+    },
+    {
+     "name": "Giannis Antetokounmpo",
+     "starter": true,
+     "min": 34,
+     "pts": 29,
+     "reb": 14,
+     "ast": 3,
+     "stl": 2,
+     "blk": 2,
+     "tov": 5,
+     "pm": 19
+    },
+    {
+     "name": "Bam Adebayo",
+     "starter": true,
+     "min": 34,
+     "pts": 18,
+     "reb": 8,
+     "ast": 4,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": -5
+    },
+    {
+     "name": "Klay Thompson",
+     "starter": true,
+     "min": 32,
+     "pts": 23,
+     "reb": 2,
+     "ast": 4,
+     "stl": 0,
+     "blk": 2,
+     "tov": 0,
+     "pm": 18
+    },
+    {
+     "name": "Andrew Wiggins",
+     "starter": false,
+     "min": 32,
+     "pts": 6,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Pelle Larsson",
+     "starter": true,
+     "min": 22,
+     "pts": 11,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 3
+    },
+    {
+     "name": "Bobby Portis",
+     "starter": false,
+     "min": 20,
+     "pts": 4,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Ryan Conwell",
+     "starter": false,
+     "min": 19,
+     "pts": 6,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 10
+    },
+    {
+     "name": "Tim Hardaway Jr.",
+     "starter": false,
+     "min": 7,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -10
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Darius Acuff Jr.",
+    "pts": 32,
+    "reb": 5,
+    "ast": 10
+   },
+   "away": {
+    "name": "Giannis Antetokounmpo",
+    "pts": 29,
+    "reb": 14,
+    "ast": 3
+   }
+  }
  }
 ]
