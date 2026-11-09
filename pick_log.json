@@ -17700,6 +17700,40 @@
       "away": 75.1,
       "home": 24.9
      }
+    },
+    {
+     "at": "2026-11-09T09:30-05:00",
+     "expected_margin": -9.07,
+     "gtd": {
+      "away": [
+       "Jarrett Allen"
+      ],
+      "home": [
+       "Moussa Diabate"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaylon Tyson",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Brandon Miller",
+       "Kon Knueppel",
+       "Dennis Schroder",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-09T09:30-05:00",
+     "win_prob": {
+      "away": 73.4,
+      "home": 26.6
+     }
     }
    ]
   },
@@ -17745,6 +17779,39 @@
       "away": 29.2,
       "home": 70.8
      }
+    },
+    {
+     "at": "2026-11-09T09:30-05:00",
+     "expected_margin": 6.89,
+     "gtd": {
+      "away": [
+       "Jamal Murray",
+       "Nikola Jokic",
+       "Aaron Gordon",
+       "Christian Braun",
+       "Cameron Johnson",
+       "DeMar DeRozan"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Steven Adams",
+       "Clint Capela"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-09T09:30-05:00",
+     "win_prob": {
+      "away": 31.7,
+      "home": 68.3
+     }
     }
    ]
   },
@@ -17785,6 +17852,35 @@
      "win_prob": {
       "away": 29.4,
       "home": 70.6
+     }
+    },
+    {
+     "at": "2026-11-09T09:30-05:00",
+     "expected_margin": 7.72,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-09T09:30-05:00",
+     "win_prob": {
+      "away": 29.7,
+      "home": 70.3
      }
     }
    ]
@@ -17827,6 +17923,36 @@
      "win_prob": {
       "away": 36.4,
       "home": 63.6
+     }
+    },
+    {
+     "at": "2026-11-09T09:30-05:00",
+     "expected_margin": 7.52,
+     "gtd": {
+      "away": [
+       "Quentin Grimes"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Luka Doncic"
+      ],
+      "home": [
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-09T09:30-05:00",
+     "win_prob": {
+      "away": 30.2,
+      "home": 69.8
      }
     }
    ]
@@ -17913,6 +18039,36 @@
       "away": 41.6,
       "home": 58.4
      }
+    },
+    {
+     "at": "2026-11-09T09:30-05:00",
+     "expected_margin": 6.49,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Gui Santos"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Yves Missi"
+      ],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Will Richard"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-09T09:30-05:00",
+     "win_prob": {
+      "away": 32.7,
+      "home": 67.3
+     }
     }
    ]
   },
@@ -17952,6 +18108,34 @@
      "win_prob": {
       "away": 68.4,
       "home": 31.6
+     }
+    },
+    {
+     "at": "2026-11-09T09:30-05:00",
+     "expected_margin": -7.35,
+     "gtd": {
+      "away": [
+       "Devin Vassell"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Mark Williams"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-09T09:30-05:00",
+     "win_prob": {
+      "away": 69.4,
+      "home": 30.6
      }
     }
    ]
@@ -17995,6 +18179,37 @@
      "win_prob": {
       "away": 20.2,
       "home": 79.8
+     }
+    },
+    {
+     "at": "2026-11-09T09:30-05:00",
+     "expected_margin": 10.72,
+     "gtd": {
+      "away": [
+       "Anthony Davis"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-09T09:30-05:00",
+     "win_prob": {
+      "away": 23.0,
+      "home": 77.0
      }
     }
    ]
