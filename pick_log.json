@@ -18080,6 +18080,35 @@
       "away": 40.6,
       "home": 59.4
      }
+    },
+    {
+     "at": "2026-11-09T17:47-05:00",
+     "expected_margin": 4.94,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Austin Reaves",
+       "Quentin Grimes"
+      ],
+      "home": [
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Austin Reaves (LAL) now out",
+     "report": "2026-11-09T17:45-05:00",
+     "win_prob": {
+      "away": 36.7,
+      "home": 63.3
+     }
     }
    ]
   },

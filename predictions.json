@@ -3803,18 +3803,18 @@
    "streak": 5
   },
   "win_prob": {
-   "home": 59.4,
-   "away": 40.6
+   "home": 63.3,
+   "away": 36.7
   },
   "win_prob_band": {
-   "low": 59.4,
-   "high": 63.4,
-   "gtd_count": 1
+   "low": 63.3,
+   "high": 63.3,
+   "gtd_count": 0
   },
-  "expected_margin": 3.44,
+  "expected_margin": 4.94,
   "expected_score": {
-   "home": 118.2,
-   "away": 114.7
+   "home": 118.9,
+   "away": 114.0
   },
   "margin_breakdown": [
    {
@@ -3834,8 +3834,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.16,
-    "detail": "Atlanta Hawks 2 out (30 min) costing 0.2 pts, Los Angeles Lakers 1 out (25 min) · Henri Veesaar, Keshon Gilbert out all season, already baked into team rating"
+    "points": 1.35,
+    "detail": "Atlanta Hawks 2 out (30 min) costing 0.2 pts, Los Angeles Lakers 2 out (59 min) costing 1.5 pts · Henri Veesaar, Keshon Gilbert out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -3900,6 +3900,14 @@
    ],
    "away": [
     {
+     "player": "Austin Reaves",
+     "mpg": 34.0,
+     "nth_out": 1,
+     "value": 7.2,
+     "cost": -1.51,
+     "no_minutes": false
+    },
+    {
      "player": "Quentin Grimes",
      "mpg": 25.4,
      "nth_out": 1,
@@ -3911,14 +3919,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Austin Reaves",
-     "mpg": 34.0,
-     "value": 7.2,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4034,19 +4035,6 @@
    ],
    "away": [
     {
-     "player": "Austin Reaves",
-     "player_id": 1630559,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 36.2,
-     "ppg": 25.3,
-     "rpg": 3.4,
-     "apg": 4.6
-    },
-    {
      "player": "Luka Dončić",
      "player_id": 1629029,
      "position": "F",
@@ -4102,7 +4090,7 @@
      "player": "Jake LaRavia",
      "player_id": 1631222,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -4136,6 +4124,19 @@
      "ppg": 9.5,
      "rpg": 1.9,
      "apg": 2.2
+    },
+    {
+     "player": "Jarred Vanderbilt",
+     "player_id": 1629020,
+     "position": "F",
+     "starter": false,
+     "games": 6,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.2,
+     "ppg": 1.3,
+     "rpg": 4.2,
+     "apg": 1.5
     }
    ]
   },
@@ -4173,6 +4174,12 @@
     "pick": "ATL",
     "prob": 59.4,
     "reason": "Quentin Grimes (LAL) now out; Austin Reaves (LAL) now questionable; Luka Doncic (LAL) cleared to play"
+   },
+   {
+    "at": "2026-11-09T17:47-05:00",
+    "pick": "ATL",
+    "prob": 63.3,
+    "reason": "Austin Reaves (LAL) now out"
    }
   ]
  },
