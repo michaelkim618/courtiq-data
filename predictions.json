@@ -7097,18 +7097,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 67.4,
-   "away": 32.6
+   "home": 69.7,
+   "away": 30.3
   },
   "win_prob_band": {
-   "low": 67.4,
-   "high": 67.4,
+   "low": 69.7,
+   "high": 69.7,
    "gtd_count": 1
   },
-  "expected_margin": 6.53,
+  "expected_margin": 7.48,
   "expected_score": {
-   "home": 119.0,
-   "away": 112.5
+   "home": 119.5,
+   "away": 112.0
   },
   "margin_breakdown": [
    {
@@ -7128,8 +7128,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.64,
-    "detail": "Golden State Warriors 4 out (97 min) costing 2.7 pts, New Orleans Pelicans 3 out (64 min) costing 0.0 pts"
+    "points": -1.69,
+    "detail": "Golden State Warriors 4 out (97 min) costing 2.7 pts, New Orleans Pelicans 4 out (93 min) costing 1.0 pts"
    }
   ],
   "ratings": {
@@ -7188,6 +7188,14 @@
     }
    ],
    "away": [
+    {
+     "player": "Zion Williamson",
+     "mpg": 28.7,
+     "nth_out": 1,
+     "value": 4.5,
+     "cost": -0.95,
+     "no_minutes": false
+    },
     {
      "player": "Trey Murphy III",
      "mpg": 28.1,
@@ -7352,19 +7360,6 @@
      "apg": 5.0
     },
     {
-     "player": "Zion Williamson",
-     "player_id": 1629627,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 21.0,
-     "rpg": 5.3,
-     "apg": 2.7
-    },
-    {
      "player": "Jeremiah Fears",
      "player_id": 1642847,
      "position": "G",
@@ -7407,7 +7402,7 @@
      "player": "Herbert Jones",
      "player_id": 1630529,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -7441,6 +7436,19 @@
      "ppg": 9.6,
      "rpg": 4.1,
      "apg": 1.1
+    },
+    {
+     "player": "Jordan Poole",
+     "player_id": 1629673,
+     "position": "G",
+     "starter": false,
+     "games": 4,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.8,
+     "ppg": 6.0,
+     "rpg": 2.0,
+     "apg": 3.0
     }
    ]
   },
@@ -7472,6 +7480,12 @@
     "pick": "GSW",
     "prob": 67.4,
     "reason": "Trendon Watford (NOP) now out; Trey Murphy III (NOP) now out"
+   },
+   {
+    "at": "2026-11-09T17:02-05:00",
+    "pick": "GSW",
+    "prob": 69.7,
+    "reason": "Zion Williamson (NOP) now out"
    }
   ]
  }
