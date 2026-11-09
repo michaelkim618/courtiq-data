@@ -18336,6 +18336,40 @@
       "away": 23.0,
       "home": 77.0
      }
+    },
+    {
+     "at": "2026-11-09T13:48-05:00",
+     "expected_margin": 10.72,
+     "gtd": {
+      "away": [
+       "Anthony Davis",
+       "Bilal Coulibaly"
+      ],
+      "home": [
+       "Elijah Harkless"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Bilal Coulibaly (WAS) now questionable; Elijah Harkless (DET) now questionable",
+     "report": "2026-11-09T13:45-05:00",
+     "win_prob": {
+      "away": 23.0,
+      "home": 77.0
+     }
     }
    ]
   }
