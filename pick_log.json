@@ -16917,6 +16917,11 @@
   "2026-11-08_BKN@DAL": {
    "away": "BKN",
    "date": "2026-11-08",
+   "final_check": {
+    "at": "2026-11-08T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-08T19:15-05:00"
+   },
    "home": "DAL",
    "late": false,
    "locked_at": null,
