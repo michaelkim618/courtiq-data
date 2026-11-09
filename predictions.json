@@ -4287,8 +4287,8 @@
   },
   "win_prob_band": {
    "low": 26.6,
-   "high": 27.1,
-   "gtd_count": 1
+   "high": 26.6,
+   "gtd_count": 0
   },
   "expected_margin": -9.07,
   "expected_score": {
@@ -4409,14 +4409,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jarrett Allen",
-     "mpg": 26.1,
-     "value": 1.2,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4665,6 +4658,12 @@
     "pick": "CLE",
     "prob": 73.4,
     "reason": "Moussa Diabate (CHA) now out"
+   },
+   {
+    "at": "2026-11-09T18:30-05:00",
+    "pick": "CLE",
+    "prob": 73.4,
+    "reason": "Jarrett Allen (CLE) cleared to play"
    }
   ]
  },
