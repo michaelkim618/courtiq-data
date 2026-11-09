@@ -3808,8 +3808,8 @@
   },
   "win_prob_band": {
    "low": 59.4,
-   "high": 69.8,
-   "gtd_count": 2
+   "high": 63.4,
+   "gtd_count": 1
   },
   "expected_margin": 3.44,
   "expected_score": {
@@ -3835,7 +3835,7 @@
    {
     "label": "Absences",
     "points": -0.16,
-    "detail": "Atlanta Hawks 2 out (30 min) costing 0.2 pts · Henri Veesaar, Keshon Gilbert out all season, already baked into team rating"
+    "detail": "Atlanta Hawks 2 out (30 min) costing 0.2 pts, Los Angeles Lakers 1 out (25 min) · Henri Veesaar, Keshon Gilbert out all season, already baked into team rating"
    },
    {
     "label": "Returning Players",
@@ -3898,21 +3898,24 @@
      "no_minutes": true
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Quentin Grimes",
+     "mpg": 25.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [],
    "away": [
     {
-     "player": "Luka Doncic",
-     "mpg": 31.3,
-     "value": 19.4,
-     "status": "Questionable"
-    },
-    {
-     "player": "Quentin Grimes",
-     "mpg": 25.4,
-     "value": 0.0,
+     "player": "Austin Reaves",
+     "mpg": 34.0,
+     "value": 7.2,
      "status": "Questionable"
     }
    ]
@@ -4096,19 +4099,6 @@
      "apg": 1.6
     },
     {
-     "player": "Quentin Grimes",
-     "player_id": 1629656,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 26.1,
-     "ppg": 8.0,
-     "rpg": 2.5,
-     "apg": 2.5
-    },
-    {
      "player": "Jake LaRavia",
      "player_id": 1631222,
      "position": "F",
@@ -4133,6 +4123,19 @@
      "ppg": 8.6,
      "rpg": 4.3,
      "apg": 1.5
+    },
+    {
+     "player": "Collin Sexton",
+     "player_id": 1629012,
+     "position": "G",
+     "starter": false,
+     "games": 10,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.3,
+     "ppg": 9.5,
+     "rpg": 1.9,
+     "apg": 2.2
     }
    ]
   },
@@ -4164,6 +4167,12 @@
     "pick": "ATL",
     "prob": 59.4,
     "reason": "Luka Doncic (LAL) no longer out; Luka Doncic (LAL) now questionable"
+   },
+   {
+    "at": "2026-11-09T13:03-05:00",
+    "pick": "ATL",
+    "prob": 59.4,
+    "reason": "Quentin Grimes (LAL) now out; Austin Reaves (LAL) now questionable; Luka Doncic (LAL) cleared to play"
    }
   ]
  },

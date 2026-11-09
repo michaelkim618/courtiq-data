@@ -18017,6 +18017,36 @@
       "away": 40.6,
       "home": 59.4
      }
+    },
+    {
+     "at": "2026-11-09T13:03-05:00",
+     "expected_margin": 3.44,
+     "gtd": {
+      "away": [
+       "Austin Reaves"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Quentin Grimes"
+      ],
+      "home": [
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Quentin Grimes (LAL) now out; Austin Reaves (LAL) now questionable; Luka Doncic (LAL) cleared to play",
+     "report": "2026-11-09T13:00-05:00",
+     "win_prob": {
+      "away": 40.6,
+      "home": 59.4
+     }
     }
    ]
   },
