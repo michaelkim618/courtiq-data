@@ -1126,5 +1126,13 @@
   "home": "CHI",
   "conf": 78.3,
   "correct": true
+ },
+ {
+  "date": "2026-11-08",
+  "season": "2026-2027",
+  "away": "UTA",
+  "home": "MIN",
+  "conf": 85.1,
+  "correct": true
  }
 ]

@@ -4781,7 +4781,7 @@
  },
  {
   "date": "2026-11-08",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Utah Jazz",
   "home": "Minnesota Timberwolves",
   "away_code": "UTA",
@@ -4983,229 +4983,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 10,
-    "away": 9
-   },
-   "home": [
-    {
-     "player": "Jaden McDaniels",
-     "player_id": 1630183,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 34.0,
-     "ppg": 17.1,
-     "rpg": 6.2,
-     "apg": 3.7
-    },
-    {
-     "player": "Jonathan Kuminga",
-     "player_id": 1630228,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 31.2,
-     "ppg": 13.1,
-     "rpg": 5.9,
-     "apg": 3.0
-    },
-    {
-     "player": "Rudy Gobert",
-     "player_id": 203497,
-     "position": "C",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 7.6,
-     "rpg": 11.8,
-     "apg": 1.3
-    },
-    {
-     "player": "LaMelo Ball",
-     "player_id": 1630163,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 27.5,
-     "ppg": 17.7,
-     "rpg": 3.3,
-     "apg": 6.1
-    },
-    {
-     "player": "Ayo Dosunmu",
-     "player_id": 1630245,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 31.5,
-     "ppg": 17.3,
-     "rpg": 5.0,
-     "apg": 4.3
-    },
-    {
-     "player": "Terrence Shannon Jr",
-     "player_id": 1630545,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.9,
-     "ppg": 12.0,
-     "rpg": 3.6,
-     "apg": 2.6
-    },
-    {
-     "player": "Trey Lyles",
-     "player_id": 1626168,
-     "position": "F",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.3,
-     "ppg": 6.1,
-     "rpg": 4.1,
-     "apg": 0.8
-    },
-    {
-     "player": "Joan Beringer",
-     "player_id": 1642866,
-     "position": "F",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.4,
-     "ppg": 5.8,
-     "rpg": 6.5,
-     "apg": 0.7
-    }
-   ],
-   "away": [
-    {
-     "player": "Keyonte George",
-     "player_id": 1641718,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 21.3,
-     "rpg": 4.2,
-     "apg": 6.2
-    },
-    {
-     "player": "Darryn Peterson",
-     "player_id": 1643408,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 13.6,
-     "rpg": 3.8,
-     "apg": 3.9
-    },
-    {
-     "player": "Ace Bailey",
-     "player_id": 1642846,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 7,
-     "start_rate": 78,
-     "mpg": 30.5,
-     "ppg": 12.4,
-     "rpg": 7.1,
-     "apg": 1.8
-    },
-    {
-     "player": "Jaxson Hayes",
-     "player_id": 1629637,
-     "position": "C",
-     "starter": true,
-     "games": 8,
-     "starts": 3,
-     "start_rate": 38,
-     "mpg": 24.9,
-     "ppg": 7.4,
-     "rpg": 6.4,
-     "apg": 2.0
-    },
-    {
-     "player": "Josh Okogie",
-     "player_id": 1629006,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.6,
-     "ppg": 3.9,
-     "rpg": 3.5,
-     "apg": 1.0
-    },
-    {
-     "player": "Mo Bamba",
-     "player_id": 1628964,
-     "position": "C",
-     "starter": false,
-     "games": 5,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.7,
-     "ppg": 8.6,
-     "rpg": 6.6,
-     "apg": 0.6
-    },
-    {
-     "player": "Josh Green",
-     "player_id": 1630182,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.6,
-     "ppg": 3.0,
-     "rpg": 1.6,
-     "apg": 0.7
-    },
-    {
-     "player": "Svi Mykhailiuk",
-     "player_id": 1629004,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.2,
-     "ppg": 3.7,
-     "rpg": 1.9,
-     "apg": 0.9
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 115,
+   "away": 100
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Minnesota Timberwolves",
   "model_winner": "Minnesota Timberwolves",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-07",
   "tip_et": "2026-11-08T19:00-05:00",
@@ -5231,7 +5016,327 @@
     "prob": 85.1,
     "reason": "Lauri Markkanen (UTA) now out; Keyonte George (UTA) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jaden McDaniels",
+     "starter": true,
+     "min": 33,
+     "pts": 16,
+     "reb": 6,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "tov": 4,
+     "pm": 17
+    },
+    {
+     "name": "Rudy Gobert",
+     "starter": true,
+     "min": 31,
+     "pts": 10,
+     "reb": 15,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 7
+    },
+    {
+     "name": "Ayo Dosunmu",
+     "starter": true,
+     "min": 30,
+     "pts": 26,
+     "reb": 4,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 5,
+     "pm": 0
+    },
+    {
+     "name": "LaMelo Ball",
+     "starter": true,
+     "min": 30,
+     "pts": 24,
+     "reb": 3,
+     "ast": 5,
+     "stl": 2,
+     "blk": 0,
+     "tov": 5,
+     "pm": -3
+    },
+    {
+     "name": "Jonathan Kuminga",
+     "starter": true,
+     "min": 25,
+     "pts": 4,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -10
+    },
+    {
+     "name": "Trey Lyles",
+     "starter": false,
+     "min": 21,
+     "pts": 9,
+     "reb": 6,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 29
+    },
+    {
+     "name": "Jaylen Clark",
+     "starter": false,
+     "min": 19,
+     "pts": 3,
+     "reb": 2,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Terrence Shannon Jr.",
+     "starter": false,
+     "min": 18,
+     "pts": 5,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 9
+    },
+    {
+     "name": "Joan Beringer",
+     "starter": false,
+     "min": 16,
+     "pts": 4,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Bones Hyland",
+     "starter": false,
+     "min": 13,
+     "pts": 14,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 15
+    },
+    {
+     "name": "Cody Williams",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Isaiah Evans",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Rocco Zikarsky",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -4
+    }
+   ],
+   "away": [
+    {
+     "name": "Darryn Peterson",
+     "starter": true,
+     "min": 35,
+     "pts": 26,
+     "reb": 6,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 3
+    },
+    {
+     "name": "Ace Bailey",
+     "starter": true,
+     "min": 32,
+     "pts": 7,
+     "reb": 2,
+     "ast": 3,
+     "stl": 4,
+     "blk": 0,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Keyonte George",
+     "starter": true,
+     "min": 30,
+     "pts": 19,
+     "reb": 5,
+     "ast": 8,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": -12
+    },
+    {
+     "name": "Jaxson Hayes",
+     "starter": true,
+     "min": 29,
+     "pts": 18,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -2
+    },
+    {
+     "name": "Josh Green",
+     "starter": true,
+     "min": 28,
+     "pts": 10,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Mo Bamba",
+     "starter": false,
+     "min": 17,
+     "pts": 3,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 2,
+     "tov": 0,
+     "pm": -17
+    },
+    {
+     "name": "Josh Okogie",
+     "starter": false,
+     "min": 17,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -19
+    },
+    {
+     "name": "Isaiah Collier",
+     "starter": false,
+     "min": 16,
+     "pts": 6,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -14
+    },
+    {
+     "name": "Kyle Filipowski",
+     "starter": false,
+     "min": 15,
+     "pts": 9,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Brice Sensabaugh",
+     "starter": false,
+     "min": 13,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Svi Mykhailiuk",
+     "starter": false,
+     "min": 6,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Tony Bradley",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Ayo Dosunmu",
+    "pts": 26,
+    "reb": 4,
+    "ast": 1
+   },
+   "away": {
+    "name": "Darryn Peterson",
+    "pts": 26,
+    "reb": 6,
+    "ast": 4
+   }
+  }
  },
  {
   "date": "2026-11-08",
