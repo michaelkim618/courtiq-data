@@ -1146,6 +1146,14 @@
  {
   "date": "2026-11-08",
   "season": "2026-2027",
+  "away": "NOP",
+  "home": "LAC",
+  "conf": 54.1,
+  "correct": false
+ },
+ {
+  "date": "2026-11-08",
+  "season": "2026-2027",
   "away": "PHI",
   "home": "CHI",
   "conf": 78.3,
