@@ -5764,7 +5764,7 @@
   "win_prob_band": {
    "low": 20.7,
    "high": 20.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -11.86,
   "expected_score": {
@@ -5790,7 +5790,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "No absences for either team"
+    "detail": "Milwaukee Bucks 1 out (21 min)"
    }
   ],
   "ratings": {
@@ -5814,18 +5814,20 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
-  },
-  "gtd": {
    "home": [
     {
      "player": "Gary Trent Jr.",
      "mpg": 21.0,
+     "nth_out": 1,
      "value": 0.0,
-     "status": "Questionable"
+     "cost": -0.0,
+     "no_minutes": false
     }
    ],
+   "away": []
+  },
+  "gtd": {
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6069,6 +6071,12 @@
     "pick": "BOS",
     "prob": 79.3,
     "reason": "Gary Trent Jr. (MIL) now questionable"
+   },
+   {
+    "at": "2026-11-08T19:02-05:00",
+    "pick": "BOS",
+    "prob": 79.3,
+    "reason": "Gary Trent Jr. (MIL) now out"
    }
   ]
  },

@@ -17063,6 +17063,29 @@
       "away": 79.3,
       "home": 20.7
      }
+    },
+    {
+     "at": "2026-11-08T19:02-05:00",
+     "expected_margin": -11.86,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Gary Trent Jr."
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Gary Trent Jr. (MIL) now out",
+     "report": "2026-11-08T19:00-05:00",
+     "win_prob": {
+      "away": 79.3,
+      "home": 20.7
+     }
     }
    ]
   },
@@ -17453,7 +17476,7 @@
    },
    "home": "MIN",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-08T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-08T19:00-05:00",
    "tip_known": true,
