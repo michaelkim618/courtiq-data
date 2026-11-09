@@ -5222,9 +5222,9 @@
    "away": 44.7
   },
   "win_prob_band": {
-   "low": 48.4,
+   "low": 47.5,
    "high": 55.3,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": 1.94,
   "expected_score": {
@@ -5331,6 +5331,12 @@
      "player": "Immanuel Quickley",
      "mpg": 27.6,
      "value": 3.6,
+     "status": "Questionable"
+    },
+    {
+     "player": "Collin Murray-Boyles",
+     "mpg": 20.4,
+     "value": 1.5,
      "status": "Questionable"
     }
    ],
@@ -5571,6 +5577,12 @@
     "pick": "TOR",
     "prob": 55.3,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-09T13:33-05:00",
+    "pick": "TOR",
+    "prob": 55.3,
+    "reason": "Collin Murray-Boyles (TOR) now questionable"
    }
   ]
  },
