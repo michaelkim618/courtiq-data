@@ -18184,6 +18184,37 @@
       "away": 44.7,
       "home": 55.3
      }
+    },
+    {
+     "at": "2026-11-09T18:02-05:00",
+     "expected_margin": -0.93,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Isaiah Stewart",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Kawhi Leonard",
+       "Scottie Barnes",
+       "Immanuel Quickley",
+       "Collin Murray-Boyles",
+       "Nate Bittle"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Collin Murray-Boyles (TOR) now out; Immanuel Quickley (TOR) now out; Scottie Barnes (TOR) now out; pick flipped to MEM",
+     "report": "2026-11-09T18:00-05:00",
+     "win_prob": {
+      "away": 52.5,
+      "home": 47.5
+     }
     }
    ]
   },
@@ -18520,6 +18551,36 @@
      "pick_code": "DET",
      "reason": "Bilal Coulibaly (WAS) now questionable; Elijah Harkless (DET) now questionable",
      "report": "2026-11-09T13:45-05:00",
+     "win_prob": {
+      "away": 23.0,
+      "home": 77.0
+     }
+    },
+    {
+     "at": "2026-11-09T18:02-05:00",
+     "expected_margin": 10.72,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Bilal Coulibaly",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Bilal Coulibaly (WAS) now out; Anthony Davis (WAS) cleared to play; Elijah Harkless (DET) cleared to play",
+     "report": "2026-11-09T18:00-05:00",
      "win_prob": {
       "away": 23.0,
       "home": 77.0
