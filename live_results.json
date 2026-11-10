@@ -1166,5 +1166,21 @@
   "home": "MIN",
   "conf": 85.1,
   "correct": true
+ },
+ {
+  "date": "2026-11-09",
+  "season": "2026-2027",
+  "away": "CLE",
+  "home": "CHA",
+  "conf": 73.4,
+  "correct": false
+ },
+ {
+  "date": "2026-11-09",
+  "season": "2026-2027",
+  "away": "LAL",
+  "home": "ATL",
+  "conf": 63.3,
+  "correct": false
  }
 ]
