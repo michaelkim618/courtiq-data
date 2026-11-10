@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T21:47-05:00",
+ "generated": "2026-11-09T22:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1400,13 +1400,13 @@
   },
   {
    "date": "2026-11-09",
-   "games": 3,
-   "wins": 1,
+   "games": 4,
+   "wins": 2,
    "losses": 2,
-   "pct": 33.3,
-   "cum_wins": 100,
-   "cum_games": 149,
-   "cum_pct": 67.1,
+   "pct": 50.0,
+   "cum_wins": 101,
+   "cum_games": 150,
+   "cum_pct": 67.3,
    "picks": [
     {
      "away": "CLE",
@@ -1425,6 +1425,14 @@
      "updated": true
     },
     {
+     "away": "MEM",
+     "home": "TOR",
+     "pick": "MEM",
+     "prob": 52.5,
+     "correct": true,
+     "updated": true
+    },
+    {
      "away": "WAS",
      "home": "DET",
      "pick": "DET",
@@ -1436,10 +1444,10 @@
   }
  ],
  "total": {
-  "games": 149,
-  "wins": 100,
+  "games": 150,
+  "wins": 101,
   "losses": 49,
-  "pct": 67.1
+  "pct": 67.3
  },
  "unscored": 0
 }

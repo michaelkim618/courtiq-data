@@ -5352,7 +5352,7 @@
  },
  {
   "date": "2026-11-09",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Memphis Grizzlies",
   "home": "Toronto Raptors",
   "away_code": "MEM",
@@ -5578,229 +5578,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 9,
-    "away": 9
-   },
-   "home": [
-    {
-     "player": "RJ Barrett",
-     "player_id": 1629628,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 21.6,
-     "rpg": 6.1,
-     "apg": 4.0
-    },
-    {
-     "player": "Jakob Poeltl",
-     "player_id": 1627751,
-     "position": "C",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 21.5,
-     "ppg": 7.1,
-     "rpg": 6.4,
-     "apg": 1.0
-    },
-    {
-     "player": "Ja'Kobe Walter",
-     "player_id": 1642266,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 3,
-     "start_rate": 33,
-     "mpg": 29.2,
-     "ppg": 10.9,
-     "rpg": 4.0,
-     "apg": 2.4
-    },
-    {
-     "player": "Jamal Shead",
-     "player_id": 1642347,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.9,
-     "ppg": 6.0,
-     "rpg": 2.1,
-     "apg": 6.6
-    },
-    {
-     "player": "Jamison Battle",
-     "player_id": 1642419,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.0,
-     "ppg": 8.1,
-     "rpg": 1.6,
-     "apg": 0.3
-    },
-    {
-     "player": "Allen Graves",
-     "player_id": 1643512,
-     "position": "F",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.3,
-     "ppg": 4.3,
-     "rpg": 2.3,
-     "apg": 0.8
-    },
-    {
-     "player": "Alijah Martin",
-     "player_id": 1642918,
-     "position": "G",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 9.9,
-     "ppg": 6.2,
-     "rpg": 1.5,
-     "apg": 0.9
-    },
-    {
-     "player": "Trayce Jackson-Davis",
-     "player_id": 1631218,
-     "position": "F",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 6.6,
-     "ppg": 3.0,
-     "rpg": 2.2,
-     "apg": 0.4
-    }
-   ],
-   "away": [
-    {
-     "player": "Cameron Boozer",
-     "player_id": 1643409,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 15.6,
-     "rpg": 10.0,
-     "apg": 5.2
-    },
-    {
-     "player": "Ty Jerome",
-     "player_id": 1629660,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 30.4,
-     "ppg": 26.6,
-     "rpg": 3.4,
-     "apg": 5.2
-    },
-    {
-     "player": "Cedric Coward",
-     "player_id": 1642907,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 28.6,
-     "ppg": 13.8,
-     "rpg": 8.8,
-     "apg": 2.4
-    },
-    {
-     "player": "Jaylen Wells",
-     "player_id": 1642377,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 27.0,
-     "ppg": 10.7,
-     "rpg": 2.9,
-     "apg": 1.3
-    },
-    {
-     "player": "Zach Edey",
-     "player_id": 1641744,
-     "position": "C",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 20.6,
-     "ppg": 8.2,
-     "rpg": 7.9,
-     "apg": 1.0
-    },
-    {
-     "player": "GG Jackson",
-     "player_id": 1641713,
-     "position": "F",
-     "starter": false,
-     "games": 8,
-     "starts": 2,
-     "start_rate": 25,
-     "mpg": 15.6,
-     "ppg": 7.4,
-     "rpg": 3.5,
-     "apg": 1.0
-    },
-    {
-     "player": "Jerami Grant",
-     "player_id": 203924,
-     "position": "F",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.0,
-     "ppg": 9.7,
-     "rpg": 2.1,
-     "apg": 2.1
-    },
-    {
-     "player": "Javon Small",
-     "player_id": 1642914,
-     "position": "G",
-     "starter": false,
-     "games": 2,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.5,
-     "ppg": 8.5,
-     "rpg": 2.5,
-     "apg": 3.5
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 102,
+   "away": 118
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Memphis Grizzlies",
   "model_winner": "Memphis Grizzlies",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T19:30-05:00",
@@ -5826,7 +5611,315 @@
     "prob": 52.5,
     "reason": "Collin Murray-Boyles (TOR) now out; Immanuel Quickley (TOR) now out; Scottie Barnes (TOR) now out; pick flipped to MEM"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jamal Shead",
+     "starter": true,
+     "min": 36,
+     "pts": 20,
+     "reb": 2,
+     "ast": 11,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": -14
+    },
+    {
+     "name": "RJ Barrett",
+     "starter": true,
+     "min": 36,
+     "pts": 19,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -23
+    },
+    {
+     "name": "Ja'Kobe Walter",
+     "starter": true,
+     "min": 34,
+     "pts": 12,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -21
+    },
+    {
+     "name": "Jakob Poeltl",
+     "starter": true,
+     "min": 31,
+     "pts": 18,
+     "reb": 8,
+     "ast": 2,
+     "stl": 1,
+     "blk": 4,
+     "tov": 3,
+     "pm": -15
+    },
+    {
+     "name": "Jamison Battle",
+     "starter": false,
+     "min": 29,
+     "pts": 18,
+     "reb": 1,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -3
+    },
+    {
+     "name": "Alijah Martin",
+     "starter": false,
+     "min": 21,
+     "pts": 2,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 0
+    },
+    {
+     "name": "Kyle Anderson",
+     "starter": true,
+     "min": 16,
+     "pts": 6,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -10
+    },
+    {
+     "name": "Trayce Jackson-Davis",
+     "starter": false,
+     "min": 14,
+     "pts": 4,
+     "reb": 6,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "Allen Graves",
+     "starter": false,
+     "min": 13,
+     "pts": 3,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Jaden Bradley",
+     "starter": false,
+     "min": 9,
+     "pts": 0,
+     "reb": 1,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 2
+    },
+    {
+     "name": "Malachi Smith",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    }
+   ],
+   "away": [
+    {
+     "name": "Cameron Boozer",
+     "starter": true,
+     "min": 33,
+     "pts": 22,
+     "reb": 7,
+     "ast": 8,
+     "stl": 1,
+     "blk": 0,
+     "tov": 6,
+     "pm": 17
+    },
+    {
+     "name": "Ty Jerome",
+     "starter": true,
+     "min": 32,
+     "pts": 27,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 14
+    },
+    {
+     "name": "Cedric Coward",
+     "starter": true,
+     "min": 28,
+     "pts": 3,
+     "reb": 6,
+     "ast": 4,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": 19
+    },
+    {
+     "name": "Jaylen Wells",
+     "starter": true,
+     "min": 26,
+     "pts": 14,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 21
+    },
+    {
+     "name": "Javon Small",
+     "starter": false,
+     "min": 24,
+     "pts": 9,
+     "reb": 2,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Zach Edey",
+     "starter": true,
+     "min": 23,
+     "pts": 8,
+     "reb": 9,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 3,
+     "pm": 11
+    },
+    {
+     "name": "Jerami Grant",
+     "starter": false,
+     "min": 22,
+     "pts": 17,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Cam Spencer",
+     "starter": false,
+     "min": 17,
+     "pts": 7,
+     "reb": 2,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": 3
+    },
+    {
+     "name": "GG Jackson",
+     "starter": false,
+     "min": 17,
+     "pts": 2,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Taylor Hendricks",
+     "starter": false,
+     "min": 16,
+     "pts": 9,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 4
+    },
+    {
+     "name": "Quinten Post",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Kris Murray",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Olivier-Maxence Prosper",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Jamal Shead",
+    "pts": 20,
+    "reb": 2,
+    "ast": 11
+   },
+   "away": {
+    "name": "Ty Jerome",
+    "pts": 27,
+    "reb": 6,
+    "ast": 2
+   }
+  }
  },
  {
   "date": "2026-11-09",

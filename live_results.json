@@ -1186,6 +1186,14 @@
  {
   "date": "2026-11-09",
   "season": "2026-2027",
+  "away": "MEM",
+  "home": "TOR",
+  "conf": 52.5,
+  "correct": true
+ },
+ {
+  "date": "2026-11-09",
+  "season": "2026-2027",
   "away": "WAS",
   "home": "DET",
   "conf": 77.0,
