@@ -17915,6 +17915,33 @@
       "away": 31.9,
       "home": 68.1
      }
+    },
+    {
+     "at": "2026-11-09T20:02-05:00",
+     "expected_margin": 6.83,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Oscar Tshiebwe",
+       "Steven Adams",
+       "Clint Capela"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Aaron Gordon (DEN) cleared to play; Cameron Johnson (DEN) cleared to play; Christian Braun (DEN) cleared to play; DeMar DeRozan (DEN) cleared to play; Jamal Murray (DEN) cleared to play; Nikola Jokic (DEN) cleared to play",
+     "report": "2026-11-09T20:00-05:00",
+     "win_prob": {
+      "away": 31.9,
+      "home": 68.1
+     }
     }
    ]
   },
@@ -17928,7 +17955,7 @@
    },
    "home": "DAL",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-09T20:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-09T20:00-05:00",
    "tip_known": true,

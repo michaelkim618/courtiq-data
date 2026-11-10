@@ -6200,8 +6200,8 @@
   },
   "win_prob_band": {
    "low": 68.1,
-   "high": 75.0,
-   "gtd_count": 6
+   "high": 68.1,
+   "gtd_count": 0
   },
   "expected_margin": 6.83,
   "expected_score": {
@@ -6295,44 +6295,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jamal Murray",
-     "mpg": 31.5,
-     "value": 6.9,
-     "status": "Probable"
-    },
-    {
-     "player": "Nikola Jokic",
-     "mpg": 29.5,
-     "value": 4.7,
-     "status": "Probable"
-    },
-    {
-     "player": "Aaron Gordon",
-     "mpg": 24.2,
-     "value": 2.4,
-     "status": "Probable"
-    },
-    {
-     "player": "Christian Braun",
-     "mpg": 28.0,
-     "value": 0.0,
-     "status": "Probable"
-    },
-    {
-     "player": "Cameron Johnson",
-     "mpg": 22.0,
-     "value": 0.0,
-     "status": "Probable"
-    },
-    {
-     "player": "DeMar DeRozan",
-     "mpg": 20.8,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6581,6 +6544,12 @@
     "pick": "HOU",
     "prob": 68.1,
     "reason": "Oscar Tshiebwe (HOU) now out"
+   },
+   {
+    "at": "2026-11-09T20:02-05:00",
+    "pick": "HOU",
+    "prob": 68.1,
+    "reason": "Aaron Gordon (DEN) cleared to play; Cameron Johnson (DEN) cleared to play; Christian Braun (DEN) cleared to play; DeMar DeRozan (DEN) cleared to play; Jamal Murray (DEN) cleared to play; Nikola Jokic (DEN) cleared to play"
    }
   ]
  },
