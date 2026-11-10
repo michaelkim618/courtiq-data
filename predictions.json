@@ -6455,7 +6455,7 @@
  },
  {
   "date": "2026-11-09",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Denver Nuggets",
   "home": "Houston Rockets",
   "away_code": "DEN",
@@ -6654,229 +6654,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 10,
-    "away": 8
-   },
-   "home": [
-    {
-     "player": "Jabari Smith Jr.",
-     "player_id": 1631095,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 35.0,
-     "ppg": 17.3,
-     "rpg": 6.4,
-     "apg": 2.3
-    },
-    {
-     "player": "Alperen Sengun",
-     "player_id": 1630578,
-     "position": "C",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 34.8,
-     "ppg": 21.5,
-     "rpg": 8.8,
-     "apg": 7.8
-    },
-    {
-     "player": "Kevin Durant",
-     "player_id": 201142,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 34.2,
-     "ppg": 20.8,
-     "rpg": 5.7,
-     "apg": 3.0
-    },
-    {
-     "player": "Amen Thompson",
-     "player_id": 1641708,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 33.2,
-     "ppg": 15.6,
-     "rpg": 6.4,
-     "apg": 3.0
-    },
-    {
-     "player": "Fred VanVleet",
-     "player_id": 1627832,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 30.0,
-     "ppg": 13.4,
-     "rpg": 3.5,
-     "apg": 6.0
-    },
-    {
-     "player": "Reed Sheppard",
-     "player_id": 1642263,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 2,
-     "start_rate": 29,
-     "mpg": 20.6,
-     "ppg": 10.0,
-     "rpg": 2.0,
-     "apg": 3.1
-    },
-    {
-     "player": "Tari Eason",
-     "player_id": 1631106,
-     "position": "F",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.3,
-     "ppg": 9.4,
-     "rpg": 6.0,
-     "apg": 1.3
-    },
-    {
-     "player": "Marcus Smart",
-     "player_id": 203935,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.7,
-     "ppg": 9.1,
-     "rpg": 2.7,
-     "apg": 2.1
-    }
-   ],
-   "away": [
-    {
-     "player": "Jamal Murray",
-     "player_id": 1627750,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 36.4,
-     "ppg": 24.2,
-     "rpg": 5.5,
-     "apg": 6.1
-    },
-    {
-     "player": "Nikola Jokić",
-     "player_id": 203999,
-     "position": "C",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 35.9,
-     "ppg": 22.9,
-     "rpg": 10.1,
-     "apg": 9.1
-    },
-    {
-     "player": "Christian Braun",
-     "player_id": 1631128,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 34.3,
-     "ppg": 13.5,
-     "rpg": 3.9,
-     "apg": 2.1
-    },
-    {
-     "player": "Aaron Gordon",
-     "player_id": 203932,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 29.1,
-     "ppg": 12.2,
-     "rpg": 5.2,
-     "apg": 2.1
-    },
-    {
-     "player": "Cameron Johnson",
-     "player_id": 1629661,
-     "position": "F",
-     "starter": true,
-     "games": 5,
-     "starts": 5,
-     "start_rate": 100,
-     "mpg": 27.7,
-     "ppg": 10.8,
-     "rpg": 4.2,
-     "apg": 1.8
-    },
-    {
-     "player": "Bryce Hopkins",
-     "player_id": 1643624,
-     "position": "F",
-     "starter": false,
-     "games": 6,
-     "starts": 4,
-     "start_rate": 67,
-     "mpg": 16.2,
-     "ppg": 6.0,
-     "rpg": 2.2,
-     "apg": 0.5
-    },
-    {
-     "player": "DeMar DeRozan",
-     "player_id": 201942,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.6,
-     "ppg": 10.7,
-     "rpg": 1.9,
-     "apg": 3.0
-    },
-    {
-     "player": "Trevon Brazile",
-     "player_id": 1642350,
-     "position": "F",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.1,
-     "ppg": 7.4,
-     "rpg": 6.1,
-     "apg": 0.6
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 110,
+   "away": 100
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Houston Rockets",
   "model_winner": "Houston Rockets",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T20:30-05:00",
@@ -6908,7 +6693,315 @@
     "prob": 68.1,
     "reason": "Aaron Gordon (DEN) cleared to play; Cameron Johnson (DEN) cleared to play; Christian Braun (DEN) cleared to play; DeMar DeRozan (DEN) cleared to play; Jamal Murray (DEN) cleared to play; Nikola Jokic (DEN) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jabari Smith Jr.",
+     "starter": true,
+     "min": 38,
+     "pts": 14,
+     "reb": 7,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 10
+    },
+    {
+     "name": "Kevin Durant",
+     "starter": true,
+     "min": 36,
+     "pts": 23,
+     "reb": 12,
+     "ast": 8,
+     "stl": 0,
+     "blk": 1,
+     "tov": 6,
+     "pm": 3
+    },
+    {
+     "name": "Alperen Sengun",
+     "starter": true,
+     "min": 35,
+     "pts": 20,
+     "reb": 11,
+     "ast": 8,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -3
+    },
+    {
+     "name": "Amen Thompson",
+     "starter": true,
+     "min": 35,
+     "pts": 8,
+     "reb": 9,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Fred VanVleet",
+     "starter": true,
+     "min": 30,
+     "pts": 12,
+     "reb": 1,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Tari Eason",
+     "starter": false,
+     "min": 19,
+     "pts": 12,
+     "reb": 5,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": 18
+    },
+    {
+     "name": "Reed Sheppard",
+     "starter": false,
+     "min": 17,
+     "pts": 8,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Marcus Smart",
+     "starter": false,
+     "min": 17,
+     "pts": 5,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Bogdan Bogdanovic",
+     "starter": false,
+     "min": 12,
+     "pts": 8,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 7
+    },
+    {
+     "name": "Isaiah Crawford",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Bruce Thornton",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    }
+   ],
+   "away": [
+    {
+     "name": "Jamal Murray",
+     "starter": true,
+     "min": 39,
+     "pts": 38,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 2,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Nikola Jokic",
+     "starter": true,
+     "min": 39,
+     "pts": 25,
+     "reb": 16,
+     "ast": 9,
+     "stl": 1,
+     "blk": 2,
+     "tov": 3,
+     "pm": -2
+    },
+    {
+     "name": "Christian Braun",
+     "starter": true,
+     "min": 32,
+     "pts": 4,
+     "reb": 5,
+     "ast": 3,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Cameron Johnson",
+     "starter": true,
+     "min": 31,
+     "pts": 8,
+     "reb": 2,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": -2
+    },
+    {
+     "name": "Aaron Gordon",
+     "starter": true,
+     "min": 30,
+     "pts": 3,
+     "reb": 5,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 6
+    },
+    {
+     "name": "DeMar DeRozan",
+     "starter": false,
+     "min": 19,
+     "pts": 7,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -16
+    },
+    {
+     "name": "Trevon Brazile",
+     "starter": false,
+     "min": 14,
+     "pts": 5,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    },
+    {
+     "name": "Spencer Jones",
+     "starter": false,
+     "min": 14,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -19
+    },
+    {
+     "name": "Marvin Bagley III",
+     "starter": false,
+     "min": 12,
+     "pts": 6,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Tyus Jones",
+     "starter": false,
+     "min": 6,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Bryce Hopkins",
+     "starter": false,
+     "min": 3,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Alpha Diallo",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "DaRon Holmes II",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Kevin Durant",
+    "pts": 23,
+    "reb": 12,
+    "ast": 8
+   },
+   "away": {
+    "name": "Jamal Murray",
+    "pts": 38,
+    "reb": 2,
+    "ast": 2
+   }
+  }
  },
  {
   "date": "2026-11-09",
