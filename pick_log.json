@@ -19006,6 +19006,34 @@
       "away": 64.0,
       "home": 36.0
      }
+    },
+    {
+     "at": "2026-11-10T13:33-05:00",
+     "expected_margin": -5.99,
+     "gtd": {
+      "away": [
+       "Giannis Antetokounmpo"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Keyonte George",
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Lauri Markkanen (UTA) now out",
+     "report": "2026-11-10T13:30-05:00",
+     "win_prob": {
+      "away": 66.0,
+      "home": 34.0
+     }
     }
    ]
   },

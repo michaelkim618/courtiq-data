@@ -5880,18 +5880,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 36.0,
-   "away": 64.0
+   "home": 34.0,
+   "away": 66.0
   },
   "win_prob_band": {
    "low": 34.0,
-   "high": 42.4,
-   "gtd_count": 2
+   "high": 40.2,
+   "gtd_count": 1
   },
-  "expected_margin": -5.19,
+  "expected_margin": -5.99,
   "expected_score": {
-   "home": 114.3,
-   "away": 119.5
+   "home": 113.9,
+   "away": 119.9
   },
   "margin_breakdown": [
    {
@@ -5911,8 +5911,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.09,
-    "detail": "Utah Jazz 3 out (78 min) costing 2.1 pts"
+    "points": -2.9,
+    "detail": "Utah Jazz 4 out (104 min) costing 2.9 pts"
    }
   ],
   "ratings": {
@@ -5954,6 +5954,14 @@
      "no_minutes": false
     },
     {
+     "player": "Lauri Markkanen",
+     "mpg": 26.9,
+     "nth_out": 1,
+     "value": 3.8,
+     "cost": -0.8,
+     "no_minutes": false
+    },
+    {
      "player": "Jusuf Nurkic",
      "mpg": 25.9,
      "nth_out": 1,
@@ -5965,14 +5973,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Lauri Markkanen",
-     "mpg": 26.9,
-     "value": 3.8,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Giannis Antetokounmpo",
@@ -5989,19 +5990,6 @@
     "away": 10
    },
    "home": [
-    {
-     "player": "Lauri Markkanen",
-     "player_id": 1628374,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 30.9,
-     "ppg": 18.0,
-     "rpg": 6.8,
-     "apg": 2.0
-    },
     {
      "player": "Darryn Peterson",
      "player_id": 1643408,
@@ -6058,7 +6046,7 @@
      "player": "Josh Green",
      "player_id": 1630182,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 8,
      "starts": 0,
      "start_rate": 0,
@@ -6092,6 +6080,19 @@
      "ppg": 6.2,
      "rpg": 3.4,
      "apg": 4.1
+    },
+    {
+     "player": "Svi Mykhailiuk",
+     "player_id": 1629004,
+     "position": "G",
+     "starter": false,
+     "games": 10,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.2,
+     "ppg": 3.3,
+     "rpg": 1.7,
+     "apg": 0.8
     }
    ],
    "away": [
@@ -6217,6 +6218,12 @@
     "pick": "MIA",
     "prob": 64.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-10T13:33-05:00",
+    "pick": "MIA",
+    "prob": 66.0,
+    "reason": "Lauri Markkanen (UTA) now out"
    }
   ]
  },
