@@ -19246,6 +19246,38 @@
       "away": 51.1,
       "home": 48.9
      }
+    },
+    {
+     "at": "2026-11-10T15:48-05:00",
+     "expected_margin": -0.41,
+     "gtd": {
+      "away": [
+       "Tristan da Silva"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Domantas Sabonis (SAC) cleared to play",
+     "report": "2026-11-10T15:45-05:00",
+     "win_prob": {
+      "away": 51.1,
+      "home": 48.9
+     }
     }
    ]
   }

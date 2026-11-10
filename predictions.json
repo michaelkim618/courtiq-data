@@ -6328,7 +6328,7 @@
   "win_prob_band": {
    "low": 48.9,
    "high": 50.8,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -0.41,
   "expected_score": {
@@ -6440,14 +6440,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Domantas Sabonis",
-     "mpg": 32.8,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Tristan da Silva",
@@ -6698,6 +6691,12 @@
     "pick": "ORL",
     "prob": 51.1,
     "reason": "Tristan da Silva (ORL) now questionable"
+   },
+   {
+    "at": "2026-11-10T15:48-05:00",
+    "pick": "ORL",
+    "prob": 51.1,
+    "reason": "Domantas Sabonis (SAC) cleared to play"
    }
   ]
  },
