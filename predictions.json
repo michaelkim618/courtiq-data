@@ -4570,8 +4570,8 @@
   },
   "win_prob_band": {
    "low": 83.9,
-   "high": 86.6,
-   "gtd_count": 2
+   "high": 87.0,
+   "gtd_count": 3
   },
   "expected_margin": 14.39,
   "expected_score": {
@@ -4638,6 +4638,12 @@
      "player": "Tyler Herro",
      "mpg": 28.3,
      "value": 8.0,
+     "status": "Questionable"
+    },
+    {
+     "player": "Kel'el Ware",
+     "mpg": 20.3,
+     "value": 1.4,
      "status": "Questionable"
     }
    ]
@@ -4877,6 +4883,12 @@
     "pick": "NYK",
     "prob": 83.9,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-10T13:03-05:00",
+    "pick": "NYK",
+    "prob": 83.9,
+    "reason": "Kel'el Ware (MIL) now questionable"
    }
   ]
  },
@@ -6312,8 +6324,8 @@
   },
   "win_prob_band": {
    "low": 48.9,
-   "high": 48.9,
-   "gtd_count": 1
+   "high": 50.8,
+   "gtd_count": 2
   },
   "expected_margin": -0.41,
   "expected_score": {
@@ -6433,7 +6445,14 @@
      "status": "Questionable"
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Tristan da Silva",
+     "mpg": 26.8,
+     "value": 3.3,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -6670,6 +6689,12 @@
     "pick": "ORL",
     "prob": 51.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-10T13:03-05:00",
+    "pick": "ORL",
+    "prob": 51.1,
+    "reason": "Tristan da Silva (ORL) now questionable"
    }
   ]
  },

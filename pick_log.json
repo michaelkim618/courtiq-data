@@ -19043,6 +19043,32 @@
       "away": 16.1,
       "home": 83.9
      }
+    },
+    {
+     "at": "2026-11-10T13:03-05:00",
+     "expected_margin": 14.39,
+     "gtd": {
+      "away": [
+       "Tyler Herro",
+       "Kel'el Ware"
+      ],
+      "home": [
+       "Josh Hart"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Kel'el Ware (MIL) now questionable",
+     "report": "2026-11-10T13:00-05:00",
+     "win_prob": {
+      "away": 16.1,
+      "home": 83.9
+     }
     }
    ]
   },
@@ -19126,6 +19152,40 @@
      "pick_code": "ORL",
      "reason": "Opening pick",
      "report": "2026-11-10T00:30-05:00",
+     "win_prob": {
+      "away": 51.1,
+      "home": 48.9
+     }
+    },
+    {
+     "at": "2026-11-10T13:03-05:00",
+     "expected_margin": -0.41,
+     "gtd": {
+      "away": [
+       "Tristan da Silva"
+      ],
+      "home": [
+       "Domantas Sabonis"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Tristan da Silva (ORL) now questionable",
+     "report": "2026-11-10T13:00-05:00",
      "win_prob": {
       "away": 51.1,
       "home": 48.9
