@@ -19125,6 +19125,31 @@
       "away": 16.1,
       "home": 83.9
      }
+    },
+    {
+     "at": "2026-11-10T18:17-05:00",
+     "expected_margin": 16.07,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyler Herro"
+      ],
+      "home": [
+       "Josh Hart"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Tyler Herro (MIL) now out; Kel'el Ware (MIL) cleared to play; Josh Hart (NYK) now out",
+     "report": "2026-11-10T18:15-05:00",
+     "win_prob": {
+      "away": 13.4,
+      "home": 86.6
+     }
     }
    ]
   },

@@ -4565,18 +4565,18 @@
    "streak": -6
   },
   "win_prob": {
-   "home": 83.9,
-   "away": 16.1
+   "home": 86.6,
+   "away": 13.4
   },
   "win_prob_band": {
-   "low": 83.9,
-   "high": 87.0,
-   "gtd_count": 3
+   "low": 86.6,
+   "high": 86.6,
+   "gtd_count": 0
   },
-  "expected_margin": 14.39,
+  "expected_margin": 16.07,
   "expected_score": {
-   "home": 119.1,
-   "away": 104.7
+   "home": 120.0,
+   "away": 103.9
   },
   "margin_breakdown": [
    {
@@ -4596,8 +4596,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "No absences for either team"
+    "points": 1.68,
+    "detail": "New York Knicks 1 out (28 min), Milwaukee Bucks 1 out (28 min) costing 1.7 pts"
    }
   ],
   "ratings": {
@@ -4621,32 +4621,30 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
-  },
-  "gtd": {
    "home": [
     {
      "player": "Josh Hart",
      "mpg": 27.9,
+     "nth_out": 2,
      "value": 0.0,
-     "status": "Doubtful"
+     "cost": -0.0,
+     "no_minutes": false
     }
    ],
    "away": [
     {
      "player": "Tyler Herro",
      "mpg": 28.3,
+     "nth_out": 1,
      "value": 8.0,
-     "status": "Questionable"
-    },
-    {
-     "player": "Kel'el Ware",
-     "mpg": 20.3,
-     "value": 1.4,
-     "status": "Questionable"
+     "cost": -1.68,
+     "no_minutes": false
     }
    ]
+  },
+  "gtd": {
+   "home": [],
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4682,19 +4680,6 @@
      "apg": 2.4
     },
     {
-     "player": "Josh Hart",
-     "player_id": 1628404,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 31.7,
-     "ppg": 8.6,
-     "rpg": 7.3,
-     "apg": 3.9
-    },
-    {
      "player": "Karl-Anthony Towns",
      "player_id": 1626157,
      "position": "C",
@@ -4724,7 +4709,7 @@
      "player": "Landry Shamet",
      "player_id": 1629013,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 9,
      "starts": 0,
      "start_rate": 0,
@@ -4758,22 +4743,22 @@
      "ppg": 5.0,
      "rpg": 7.8,
      "apg": 1.0
+    },
+    {
+     "player": "Tyler Kolek",
+     "player_id": 1642278,
+     "position": "G",
+     "starter": false,
+     "games": 7,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.5,
+     "ppg": 2.1,
+     "rpg": 1.7,
+     "apg": 5.1
     }
    ],
    "away": [
-    {
-     "player": "Tyler Herro",
-     "player_id": 1629639,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 30.7,
-     "ppg": 21.4,
-     "rpg": 4.6,
-     "apg": 4.3
-    },
     {
      "player": "Jaime Jaquez Jr.",
      "player_id": 1631170,
@@ -4830,7 +4815,7 @@
      "player": "Brayden Burries",
      "player_id": 1643415,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -4864,6 +4849,19 @@
      "ppg": 6.4,
      "rpg": 2.5,
      "apg": 3.4
+    },
+    {
+     "player": "Kel'el Ware",
+     "player_id": 1642276,
+     "position": "C",
+     "starter": false,
+     "games": 10,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.3,
+     "ppg": 8.6,
+     "rpg": 6.9,
+     "apg": 0.7
     }
    ]
   },
@@ -4889,6 +4887,12 @@
     "pick": "NYK",
     "prob": 83.9,
     "reason": "Kel'el Ware (MIL) now questionable"
+   },
+   {
+    "at": "2026-11-10T18:17-05:00",
+    "pick": "NYK",
+    "prob": 86.6,
+    "reason": "Tyler Herro (MIL) now out; Kel'el Ware (MIL) cleared to play; Josh Hart (NYK) now out"
    }
   ]
  },
