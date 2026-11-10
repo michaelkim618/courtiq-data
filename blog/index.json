@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-10-film-session-mil-nyk",
+      "title": "Film Session: MIL @ NYK",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Point Guard Expert",
+      "date": "2026-11-10",
+      "type": "daily",
+      "tag": "Preview",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "A point guard's read on MIL @ NYK — where the matchup is actually won and lost, possession by possession, before the jump ball even goes up.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-09-the-numbers-going-into-2026-11-09",
       "title": "The Numbers Going Into 2026-11-09",
       "author": "Stan",

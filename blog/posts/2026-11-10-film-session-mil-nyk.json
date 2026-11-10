@@ -1,0 +1,32 @@
+{
+  "slug": "2026-11-10-film-session-mil-nyk",
+  "title": "Film Session: MIL @ NYK",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_color": "#D97706",
+  "author_role": "Point Guard Expert",
+  "date": "2026-11-10",
+  "type": "daily",
+  "tag": "Preview",
+  "tag_color": "#D97706",
+  "read_time": "3 min",
+  "summary": "A point guard's read on MIL @ NYK — where the matchup is actually won and lost, possession by possession, before the jump ball even goes up.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Reading the Floor\n\nMIL @ NYK on 2026-11-10. Forget the final number for a second — here's where it actually comes from."
+    },
+    {
+      "type": "text",
+      "value": "- **Net Rating Diff**: +12.1 pts — New York Knicks +4.1 vs Milwaukee Bucks -8.2, proj. 98.7 possessions\n\nThat's the foundation right there. You've got New York running at a +4.1 net rating while Milwaukee is underwater at -8.2. Over 98.7 possessions, that 12.1-point gap tells you everything about how these teams are actually executing. The Knicks are taking care of business on both ends, and the Bucks are giving back more than they're getting. Film doesn't lie.\n\n- **Home Advantage**: +2.3 pts — League-measured average\n\nStandard home bump. Nothing exotic here — just the crowd, the familiarity, all the little edges that show up when you're sleeping in your own bed and the rims feel true. That's another 2.3 points in New York's favor before anyone checks in.\n\n- **Back-to-Back**: +0.0 pts — Both teams rested\n\nClean slate on the schedule. Nobody's dragging through a second night, nobody's got heavy legs in the fourth quarter. Both sides come in fresh, so this one's decided by what happens between the lines, not what happened yesterday.\n\n- **Absences**: +0.0 pts — No absences for either team\n\nFull rosters. No injury report games, no rotation scrambles. Coaches get to run their actual sets with their actual guys. When you're breaking down the tape later, you won't have to asterisk anything."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#D97706",
+      "title": "ACE'S READ",
+      "value": "NYK in the driver's seat",
+      "sub": "Model margin: {:+.1f} (home − away). Doesn't mean the game is played that way — means that's who should be."
+    }
+  ],
+  "post_kind": "feature"
+}
