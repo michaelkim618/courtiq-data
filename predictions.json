@@ -4783,7 +4783,7 @@
  },
  {
   "date": "2026-11-09",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Washington Wizards",
   "home": "Detroit Pistons",
   "away_code": "WAS",
@@ -5001,229 +5001,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 9,
-    "away": 10
-   },
-   "home": [
-    {
-     "player": "Cade Cunningham",
-     "player_id": 1630595,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 34.0,
-     "ppg": 22.9,
-     "rpg": 5.4,
-     "apg": 7.7
-    },
-    {
-     "player": "Duncan Robinson",
-     "player_id": 1629130,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 30.4,
-     "ppg": 18.2,
-     "rpg": 1.7,
-     "apg": 2.3
-    },
-    {
-     "player": "Ausar Thompson",
-     "player_id": 1641709,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 27.1,
-     "ppg": 9.5,
-     "rpg": 8.9,
-     "apg": 4.5
-    },
-    {
-     "player": "John Collins",
-     "player_id": 1628381,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 26.3,
-     "ppg": 9.2,
-     "rpg": 5.7,
-     "apg": 0.6
-    },
-    {
-     "player": "Paul Reed",
-     "player_id": 1630194,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 4,
-     "start_rate": 44,
-     "mpg": 26.5,
-     "ppg": 12.2,
-     "rpg": 7.1,
-     "apg": 2.1
-    },
-    {
-     "player": "Daniss Jenkins",
-     "player_id": 1642450,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 2,
-     "start_rate": 22,
-     "mpg": 24.8,
-     "ppg": 11.7,
-     "rpg": 3.3,
-     "apg": 4.3
-    },
-    {
-     "player": "Kevin Huerter",
-     "player_id": 1628989,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.1,
-     "ppg": 8.4,
-     "rpg": 2.7,
-     "apg": 2.2
-    },
-    {
-     "player": "Javonte Green",
-     "player_id": 1629750,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.3,
-     "ppg": 6.1,
-     "rpg": 2.6,
-     "apg": 0.7
-    }
-   ],
-   "away": [
-    {
-     "player": "Trae Young",
-     "player_id": 1629027,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 35.2,
-     "ppg": 18.4,
-     "rpg": 3.5,
-     "apg": 8.9
-    },
-    {
-     "player": "Anthony Davis",
-     "player_id": 203076,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 23.4,
-     "rpg": 9.2,
-     "apg": 2.1
-    },
-    {
-     "player": "Kyshawn George",
-     "player_id": 1642273,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 18.5,
-     "rpg": 4.5,
-     "apg": 5.1
-    },
-    {
-     "player": "Alex Sarr",
-     "player_id": 1642259,
-     "position": "C",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 26.0,
-     "ppg": 10.6,
-     "rpg": 7.1,
-     "apg": 2.0
-    },
-    {
-     "player": "AJ Dybantsa",
-     "player_id": 1643407,
-     "position": "F",
-     "starter": true,
-     "games": 6,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 31.5,
-     "ppg": 16.0,
-     "rpg": 6.0,
-     "apg": 2.3
-    },
-    {
-     "player": "Tre Johnson",
-     "player_id": 1642848,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.6,
-     "ppg": 9.6,
-     "rpg": 1.8,
-     "apg": 0.9
-    },
-    {
-     "player": "Bub Carrington",
-     "player_id": 1642267,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.2,
-     "ppg": 5.7,
-     "rpg": 2.1,
-     "apg": 2.1
-    },
-    {
-     "player": "Deandre Ayton",
-     "player_id": 1629028,
-     "position": "C",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.2,
-     "ppg": 5.3,
-     "rpg": 4.7,
-     "apg": 1.0
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 122,
+   "away": 111
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Detroit Pistons",
   "model_winner": "Detroit Pistons",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T19:00-05:00",
@@ -5255,7 +5040,315 @@
     "prob": 77.0,
     "reason": "Bilal Coulibaly (WAS) now out; Anthony Davis (WAS) cleared to play; Elijah Harkless (DET) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Daniss Jenkins",
+     "starter": true,
+     "min": 36,
+     "pts": 22,
+     "reb": 6,
+     "ast": 8,
+     "stl": 4,
+     "blk": 0,
+     "tov": 2,
+     "pm": 5
+    },
+    {
+     "name": "Duncan Robinson",
+     "starter": true,
+     "min": 34,
+     "pts": 22,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 12
+    },
+    {
+     "name": "Kevin Huerter",
+     "starter": false,
+     "min": 33,
+     "pts": 12,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": 15
+    },
+    {
+     "name": "John Collins",
+     "starter": true,
+     "min": 28,
+     "pts": 24,
+     "reb": 10,
+     "ast": 3,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": 12
+    },
+    {
+     "name": "Ausar Thompson",
+     "starter": true,
+     "min": 28,
+     "pts": 8,
+     "reb": 5,
+     "ast": 4,
+     "stl": 2,
+     "blk": 1,
+     "tov": 5,
+     "pm": 9
+    },
+    {
+     "name": "Cade Cunningham",
+     "starter": true,
+     "min": 27,
+     "pts": 17,
+     "reb": 3,
+     "ast": 7,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Paul Reed",
+     "starter": false,
+     "min": 21,
+     "pts": 4,
+     "reb": 10,
+     "ast": 2,
+     "stl": 1,
+     "blk": 3,
+     "tov": 2,
+     "pm": 2
+    },
+    {
+     "name": "Ronald Holland II",
+     "starter": false,
+     "min": 15,
+     "pts": 1,
+     "reb": 5,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    },
+    {
+     "name": "Javonte Green",
+     "starter": false,
+     "min": 11,
+     "pts": 7,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Ebuka Okorie",
+     "starter": false,
+     "min": 6,
+     "pts": 5,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Isaac Jones",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Chaz Lanier",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    }
+   ],
+   "away": [
+    {
+     "name": "Trae Young",
+     "starter": true,
+     "min": 38,
+     "pts": 20,
+     "reb": 1,
+     "ast": 7,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": -13
+    },
+    {
+     "name": "AJ Dybantsa",
+     "starter": true,
+     "min": 37,
+     "pts": 21,
+     "reb": 8,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "tov": 5,
+     "pm": -12
+    },
+    {
+     "name": "Kyshawn George",
+     "starter": true,
+     "min": 35,
+     "pts": 12,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 5,
+     "pm": -9
+    },
+    {
+     "name": "Anthony Davis",
+     "starter": true,
+     "min": 34,
+     "pts": 44,
+     "reb": 13,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -10
+    },
+    {
+     "name": "Tre Johnson",
+     "starter": false,
+     "min": 29,
+     "pts": 2,
+     "reb": 2,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Alex Sarr",
+     "starter": true,
+     "min": 25,
+     "pts": 4,
+     "reb": 8,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": -15
+    },
+    {
+     "name": "Bub Carrington",
+     "starter": false,
+     "min": 19,
+     "pts": 4,
+     "reb": 0,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -5
+    },
+    {
+     "name": "Deandre Ayton",
+     "starter": false,
+     "min": 13,
+     "pts": 2,
+     "reb": 8,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Will Riley",
+     "starter": false,
+     "min": 4,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Felix Okpara",
+     "starter": false,
+     "min": 2,
+     "pts": 2,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Anthony Gill",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Tre Mann",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "John Collins",
+    "pts": 24,
+    "reb": 10,
+    "ast": 3
+   },
+   "away": {
+    "name": "Anthony Davis",
+    "pts": 44,
+    "reb": 13,
+    "ast": 1
+   }
+  }
  },
  {
   "date": "2026-11-09",
@@ -7590,7 +7683,7 @@
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T22:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "9:45 PM ET"
   },
   "pick_updates": [
    {

@@ -18348,6 +18348,11 @@
   "2026-11-09_NOP@GSW": {
    "away": "NOP",
    "date": "2026-11-09",
+   "final_check": {
+    "at": "2026-11-09T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-09T21:45-05:00"
+   },
    "home": "GSW",
    "late": false,
    "locked_at": null,
@@ -18653,6 +18658,13 @@
    "home": "DET",
    "late": false,
    "locked_at": "2026-11-09T19:00-05:00",
+   "result": {
+    "score": {
+     "away": 111,
+     "home": 122
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-09T19:00-05:00",
    "tip_known": true,

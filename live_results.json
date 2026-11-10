@@ -1182,5 +1182,13 @@
   "home": "ATL",
   "conf": 63.3,
   "correct": false
+ },
+ {
+  "date": "2026-11-09",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "DET",
+  "conf": 77.0,
+  "correct": true
  }
 ]
