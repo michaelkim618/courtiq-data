@@ -18186,6 +18186,11 @@
   "2026-11-09_MEM@TOR": {
    "away": "MEM",
    "date": "2026-11-09",
+   "final_check": {
+    "at": "2026-11-09T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-09T19:15-05:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,
