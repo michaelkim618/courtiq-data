@@ -1210,6 +1210,14 @@
  {
   "date": "2026-11-09",
   "season": "2026-2027",
+  "away": "NOP",
+  "home": "GSW",
+  "conf": 69.7,
+  "correct": true
+ },
+ {
+  "date": "2026-11-09",
+  "season": "2026-2027",
   "away": "SAS",
   "home": "PHX",
   "conf": 69.4,
