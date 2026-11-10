@@ -6073,7 +6073,7 @@
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T20:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6715,7 +6715,7 @@
    {
     "label": "Absences",
     "points": 0.07,
-    "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, San Antonio Spurs 2 out (57 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
+    "detail": "Phoenix Suns 2 out (41 min) costing 0.2 pts, San Antonio Spurs 2 out (57 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6746,6 +6746,14 @@
      "nth_out": 1,
      "value": 1.0,
      "cost": -0.22,
+     "no_minutes": false
+    },
+    {
+     "player": "Jordan Goodwin",
+     "mpg": 17.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
      "no_minutes": false
     }
    ],
@@ -6879,17 +6887,17 @@
      "apg": 3.5
     },
     {
-     "player": "Jordan Goodwin",
-     "player_id": 1630692,
+     "player": "Luke Kennard",
+     "player_id": 1628379,
      "position": "G",
      "starter": false,
-     "games": 5,
+     "games": 7,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.9,
-     "ppg": 7.8,
-     "rpg": 3.4,
-     "apg": 2.6
+     "mpg": 16.2,
+     "ppg": 8.3,
+     "rpg": 1.4,
+     "apg": 2.0
     }
    ],
    "away": [
@@ -7027,6 +7035,12 @@
     "pick": "SAS",
     "prob": 69.4,
     "reason": "Devin Vassell (SAS) now out"
+   },
+   {
+    "at": "2026-11-09T19:47-05:00",
+    "pick": "SAS",
+    "prob": 69.4,
+    "reason": "Jordan Goodwin (PHX) now out"
    }
   ]
  },

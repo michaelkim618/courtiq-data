@@ -17921,6 +17921,11 @@
   "2026-11-09_IND@DAL": {
    "away": "IND",
    "date": "2026-11-09",
+   "final_check": {
+    "at": "2026-11-09T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-09T19:45-05:00"
+   },
    "home": "DAL",
    "late": false,
    "locked_at": null,
@@ -18519,6 +18524,34 @@
      "pick_code": "SAS",
      "reason": "Devin Vassell (SAS) now out",
      "report": "2026-11-09T14:15-05:00",
+     "win_prob": {
+      "away": 69.4,
+      "home": 30.6
+     }
+    },
+    {
+     "at": "2026-11-09T19:47-05:00",
+     "expected_margin": -7.35,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Devin Vassell",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Mark Williams",
+       "Jordan Goodwin"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Jordan Goodwin (PHX) now out",
+     "report": "2026-11-09T19:45-05:00",
      "win_prob": {
       "away": 69.4,
       "home": 30.6
