@@ -18551,6 +18551,13 @@
    "home": "PHX",
    "late": false,
    "locked_at": "2026-11-09T21:00-05:00",
+   "result": {
+    "score": {
+     "away": 122,
+     "home": 96
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-09T21:00-05:00",
    "tip_known": true,
