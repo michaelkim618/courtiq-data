@@ -18465,12 +18465,49 @@
       "away": 30.3,
       "home": 69.7
      }
+    },
+    {
+     "at": "2026-11-09T20:47-05:00",
+     "expected_margin": 7.48,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Zion Williamson",
+       "Trey Murphy III",
+       "Yves Missi",
+       "Trendon Watford"
+      ],
+      "home": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody",
+       "Will Richard",
+       "Gary Payton II"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Gary Payton II (GSW) now out; Gui Santos (GSW) cleared to play",
+     "report": "2026-11-09T20:45-05:00",
+     "win_prob": {
+      "away": 30.3,
+      "home": 69.7
+     }
     }
    ]
   },
   "2026-11-09_SAS@PHX": {
    "away": "SAS",
    "date": "2026-11-09",
+   "final_check": {
+    "at": "2026-11-09T20:47-05:00",
+    "label": "8:45 PM ET",
+    "report": "2026-11-09T20:45-05:00"
+   },
    "home": "PHX",
    "late": false,
    "locked_at": null,

@@ -6984,7 +6984,7 @@
   "data_through": "2026-11-08",
   "tip_et": "2026-11-09T21:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "8:45 PM ET"
   },
   "pick_updates": [
    {
@@ -7118,7 +7118,7 @@
   "win_prob_band": {
    "low": 69.7,
    "high": 69.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 7.48,
   "expected_score": {
@@ -7144,7 +7144,7 @@
    {
     "label": "Absences",
     "points": -1.69,
-    "detail": "Golden State Warriors 4 out (97 min) costing 2.7 pts, New Orleans Pelicans 4 out (93 min) costing 1.0 pts"
+    "detail": "Golden State Warriors 5 out (112 min) costing 2.7 pts, New Orleans Pelicans 4 out (93 min) costing 1.0 pts"
    }
   ],
   "ratings": {
@@ -7200,6 +7200,14 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
+    },
+    {
+     "player": "Gary Payton II",
+     "mpg": 14.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ],
    "away": [
@@ -7238,14 +7246,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Gui Santos",
-     "mpg": 20.7,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -7501,6 +7502,12 @@
     "pick": "GSW",
     "prob": 69.7,
     "reason": "Zion Williamson (NOP) now out"
+   },
+   {
+    "at": "2026-11-09T20:47-05:00",
+    "pick": "GSW",
+    "prob": 69.7,
+    "reason": "Gary Payton II (GSW) now out; Gui Santos (GSW) cleared to play"
    }
   ]
  }
