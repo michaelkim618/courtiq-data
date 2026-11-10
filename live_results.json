@@ -1178,6 +1178,14 @@
  {
   "date": "2026-11-09",
   "season": "2026-2027",
+  "away": "IND",
+  "home": "DAL",
+  "conf": 70.2,
+  "correct": true
+ },
+ {
+  "date": "2026-11-09",
+  "season": "2026-2027",
   "away": "LAL",
   "home": "ATL",
   "conf": 63.3,
