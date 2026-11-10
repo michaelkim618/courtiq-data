@@ -18936,6 +18936,35 @@
       "away": 40.7,
       "home": 59.3
      }
+    },
+    {
+     "at": "2026-11-10T09:30-05:00",
+     "expected_margin": -0.35,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Mark Williams",
+       "Jordan Goodwin"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "pick flipped to LAC",
+     "report": "2026-11-10T09:30-05:00",
+     "win_prob": {
+      "away": 51.0,
+      "home": 49.0
+     }
     }
    ]
   },

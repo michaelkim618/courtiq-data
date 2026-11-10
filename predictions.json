@@ -4866,7 +4866,7 @@
   "model_winner": "New York Knicks",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-08",
+  "data_through": "2026-11-09",
   "tip_et": "2026-11-10T19:30-05:00",
   "injury_report": {
    "final_check": null
@@ -5291,7 +5291,7 @@
   "model_winner": "Boston Celtics",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-08",
+  "data_through": "2026-11-09",
   "tip_et": "2026-11-10T20:00-05:00",
   "injury_report": {
    "final_check": null
@@ -5317,8 +5317,8 @@
   "neutral": false,
   "home_standing": {
    "wins": 3,
-   "losses": 5,
-   "win_pct": 0.375,
+   "losses": 6,
+   "win_pct": 0.333,
    "conference": "West",
    "rank": 12
   },
@@ -5331,12 +5331,6 @@
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-10-30",
-     "result": "L",
-     "score": "120-127",
-     "home": true
-    },
     {
      "date": "2026-11-02",
      "result": "L",
@@ -5360,11 +5354,17 @@
      "result": "W",
      "score": "102-99",
      "home": true
+    },
+    {
+     "date": "2026-11-09",
+     "result": "L",
+     "score": "96-122",
+     "home": true
     }
    ],
    "wins": 3,
-   "losses": 5,
-   "streak": 2
+   "losses": 6,
+   "streak": -1
   },
   "away_recent_form": {
    "games": [
@@ -5404,24 +5404,24 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 59.3,
-   "away": 40.7
+   "home": 49.0,
+   "away": 51.0
   },
   "win_prob_band": {
-   "low": 59.3,
-   "high": 59.3,
+   "low": 49.0,
+   "high": 49.0,
    "gtd_count": 0
   },
-  "expected_margin": 3.42,
+  "expected_margin": -0.35,
   "expected_score": {
-   "home": 114.8,
-   "away": 111.3
+   "home": 112.8,
+   "away": 113.1
   },
   "margin_breakdown": [
    {
     "label": "Net Rating Diff",
-    "points": 0.09,
-    "detail": "Phoenix Suns -2.2 vs LA Clippers -2.3, proj. 98.7 possessions"
+    "points": -1.18,
+    "detail": "Phoenix Suns -3.5 vs LA Clippers -2.3, proj. 98.6 possessions"
    },
    {
     "label": "Home Advantage",
@@ -5430,8 +5430,8 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 0.0,
-    "detail": "Both teams rested"
+    "points": -2.5,
+    "detail": "Phoenix Suns on no rest"
    },
    {
     "label": "Absences",
@@ -5441,13 +5441,13 @@
   ],
   "ratings": {
    "home": {
-    "net": -2.2,
-    "off": 113.6,
-    "def": 115.8,
-    "pace": 98.6,
-    "games": 8,
-    "carry": 0.556,
-    "roster": 0.528
+    "net": -3.5,
+    "off": 113.1,
+    "def": 116.6,
+    "pace": 98.3,
+    "games": 9,
+    "carry": 0.526,
+    "roster": 0.5
    },
    "away": {
     "net": -2.3,
@@ -5522,7 +5522,7 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 8,
+    "home": 9,
     "away": 9
    },
    "home": [
@@ -5531,104 +5531,104 @@
      "player_id": 1626164,
      "position": "G",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 35.1,
-     "ppg": 25.1,
-     "rpg": 2.8,
-     "apg": 4.9
+     "mpg": 34.4,
+     "ppg": 25.9,
+     "rpg": 2.7,
+     "apg": 4.8
     },
     {
      "player": "Miles Bridges",
      "player_id": 1628970,
      "position": "F",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 32.3,
-     "ppg": 16.9,
-     "rpg": 8.1,
-     "apg": 3.6
+     "mpg": 31.6,
+     "ppg": 15.8,
+     "rpg": 7.8,
+     "apg": 3.2
     },
     {
      "player": "Dillon Brooks",
      "player_id": 1628415,
      "position": "G",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 31.1,
-     "ppg": 16.8,
+     "mpg": 30.6,
+     "ppg": 15.7,
      "rpg": 3.9,
-     "apg": 2.5
+     "apg": 2.2
     },
     {
      "player": "Jalen Green",
      "player_id": 1630224,
      "position": "G",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 29.1,
-     "ppg": 12.4,
-     "rpg": 2.9,
-     "apg": 3.6
+     "mpg": 28.5,
+     "ppg": 11.7,
+     "rpg": 3.1,
+     "apg": 3.7
     },
     {
      "player": "Khaman Maluach",
      "player_id": 1642863,
      "position": "C",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 19.5,
-     "ppg": 7.4,
-     "rpg": 6.5,
-     "apg": 1.1
+     "mpg": 19.6,
+     "ppg": 7.8,
+     "rpg": 6.3,
+     "apg": 1.2
     },
     {
      "player": "Collin Gillespie",
      "player_id": 1631221,
      "position": "G",
      "starter": false,
-     "games": 8,
+     "games": 9,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 24.6,
-     "ppg": 6.8,
+     "mpg": 24.5,
+     "ppg": 6.7,
      "rpg": 2.2,
-     "apg": 4.1
+     "apg": 4.0
     },
     {
      "player": "Oso Ighodaro",
      "player_id": 1642345,
      "position": "F",
      "starter": false,
-     "games": 6,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.6,
-     "ppg": 6.5,
-     "rpg": 5.3,
-     "apg": 3.5
-    },
-    {
-     "player": "Luke Kennard",
-     "player_id": 1628379,
-     "position": "G",
-     "starter": false,
      "games": 7,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 16.2,
-     "ppg": 8.3,
-     "rpg": 1.4,
-     "apg": 2.0
+     "mpg": 21.1,
+     "ppg": 6.6,
+     "rpg": 5.1,
+     "apg": 3.3
+    },
+    {
+     "player": "Ryan Dunn",
+     "player_id": 1642346,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.7,
+     "ppg": 5.3,
+     "rpg": 3.6,
+     "apg": 1.2
     }
    ],
    "away": [
@@ -5740,10 +5740,10 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Phoenix Suns",
+  "model_winner": "LA Clippers",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-08",
+  "data_through": "2026-11-09",
   "tip_et": "2026-11-10T21:00-05:00",
   "injury_report": {
    "final_check": null
@@ -5760,6 +5760,12 @@
     "pick": "PHX",
     "prob": 59.3,
     "reason": "pick flipped to PHX"
+   },
+   {
+    "at": "2026-11-10T09:30-05:00",
+    "pick": "LAC",
+    "prob": 51.0,
+    "reason": "pick flipped to LAC"
    }
   ]
  },
@@ -5785,7 +5791,7 @@
    "losses": 6,
    "win_pct": 0.4,
    "conference": "East",
-   "rank": 9
+   "rank": 8
   },
   "home_recent_form": {
    "games": [
@@ -6188,7 +6194,7 @@
   "model_winner": "Miami Heat",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-08",
+  "data_through": "2026-11-09",
   "tip_et": "2026-11-10T21:00-05:00",
   "injury_report": {
    "final_check": null
@@ -6653,7 +6659,7 @@
   "model_winner": "Orlando Magic",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-08",
+  "data_through": "2026-11-09",
   "tip_et": "2026-11-10T22:00-05:00",
   "injury_report": {
    "final_check": null
@@ -7124,7 +7130,7 @@
   "model_winner": "Oklahoma City Thunder",
   "model_correct": null,
   "model_version": "nba-v1.8",
-  "data_through": "2026-11-08",
+  "data_through": "2026-11-09",
   "tip_et": "2026-11-10T23:00-05:00",
   "injury_report": {
    "final_check": null
