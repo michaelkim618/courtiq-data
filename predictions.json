@@ -5627,7 +5627,7 @@
   "win_prob_band": {
    "low": 15.3,
    "high": 18.1,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -13.19,
   "expected_score": {
@@ -5653,7 +5653,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "No absences for either team"
+    "detail": "Milwaukee Bucks 1 out (26 min), Los Angeles Lakers 1 out (25 min)"
    },
    {
     "label": "Returning Players",
@@ -5682,8 +5682,26 @@
    }
   },
   "absences": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Myles Turner",
+     "mpg": 25.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
+   "away": [
+    {
+     "player": "Quentin Grimes",
+     "mpg": 25.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [
@@ -5694,14 +5712,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Quentin Grimes",
-     "mpg": 25.4,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5750,19 +5761,6 @@
      "apg": 2.7
     },
     {
-     "player": "Myles Turner",
-     "player_id": 1626167,
-     "position": "C",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 27.2,
-     "ppg": 6.7,
-     "rpg": 5.5,
-     "apg": 2.7
-    },
-    {
      "player": "Ryan Rollins",
      "player_id": 1631157,
      "position": "G",
@@ -5779,7 +5777,7 @@
      "player": "Brayden Burries",
      "player_id": 1643415,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -5813,6 +5811,19 @@
      "ppg": 6.8,
      "rpg": 2.3,
      "apg": 3.5
+    },
+    {
+     "player": "Kel'el Ware",
+     "player_id": 1642276,
+     "position": "C",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.3,
+     "ppg": 8.5,
+     "rpg": 6.6,
+     "apg": 0.7
     }
    ],
    "away": [
@@ -5882,19 +5893,6 @@
      "apg": 1.1
     },
     {
-     "player": "Quentin Grimes",
-     "player_id": 1629656,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 26.1,
-     "ppg": 8.0,
-     "rpg": 2.5,
-     "apg": 2.5
-    },
-    {
      "player": "Jake LaRavia",
      "player_id": 1631222,
      "position": "F",
@@ -5919,6 +5917,19 @@
      "ppg": 9.8,
      "rpg": 4.6,
      "apg": 1.6
+    },
+    {
+     "player": "Collin Sexton",
+     "player_id": 1629012,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.2,
+     "ppg": 10.3,
+     "rpg": 1.9,
+     "apg": 2.5
     }
    ]
   },
@@ -5956,6 +5967,12 @@
     "pick": "LAL",
     "prob": 81.9,
     "reason": "Tyler Herro (MIL) no longer out; Tyler Herro (MIL) now questionable"
+   },
+   {
+    "at": "2026-11-11T15:39-05:00",
+    "pick": "LAL",
+    "prob": 81.9,
+    "reason": "Quentin Grimes (LAL) now out; Myles Turner (MIL) now out"
    }
   ]
  },
@@ -6518,18 +6535,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 48.7,
-   "away": 51.3
+   "home": 46.5,
+   "away": 53.5
   },
   "win_prob_band": {
    "low": 43.1,
-   "high": 50.6,
-   "gtd_count": 3
+   "high": 48.4,
+   "gtd_count": 2
   },
-  "expected_margin": -0.47,
+  "expected_margin": -1.27,
   "expected_score": {
-   "home": 113.0,
-   "away": 113.5
+   "home": 112.6,
+   "away": 113.9
   },
   "margin_breakdown": [
    {
@@ -6549,8 +6566,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.27,
-    "detail": "Utah Jazz 2 out (50 min) costing 0.8 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Utah Jazz and Orlando Magic: official report not filed yet, ESPN injury list used · Izaiyah Nelson out all season, already baked into team rating"
+    "points": 0.47,
+    "detail": "Utah Jazz 3 out (76 min) costing 1.6 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6581,8 +6598,15 @@
      "nth_out": 1,
      "value": 4.0,
      "cost": -0.84,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Lauri Markkanen",
+     "mpg": 26.9,
+     "nth_out": 1,
+     "value": 3.8,
+     "cost": -0.8,
+     "no_minutes": false
     },
     {
      "player": "Jusuf Nurkic",
@@ -6590,8 +6614,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     }
    ],
    "away": [
@@ -6601,8 +6624,7 @@
      "nth_out": 1,
      "value": 9.4,
      "cost": -1.98,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Jalen Suggs",
@@ -6610,8 +6632,7 @@
      "nth_out": 1,
      "value": 0.7,
      "cost": -0.14,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Noah Penda",
@@ -6619,8 +6640,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Jonathan Isaac",
@@ -6628,8 +6648,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Izaiyah Nelson",
@@ -6637,8 +6656,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ]
   },
@@ -6648,12 +6666,6 @@
      "player": "Keyonte George",
      "mpg": 27.9,
      "value": 6.0,
-     "status": "Questionable"
-    },
-    {
-     "player": "Lauri Markkanen",
-     "mpg": 26.9,
-     "value": 3.8,
      "status": "Questionable"
     }
    ],
@@ -6685,19 +6697,6 @@
      "ppg": 21.1,
      "rpg": 4.3,
      "apg": 6.4
-    },
-    {
-     "player": "Lauri Markkanen",
-     "player_id": 1628374,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 30.9,
-     "ppg": 18.0,
-     "rpg": 6.8,
-     "apg": 2.0
     },
     {
      "player": "Darryn Peterson",
@@ -6742,7 +6741,7 @@
      "player": "Josh Green",
      "player_id": 1630182,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 9,
      "starts": 0,
      "start_rate": 0,
@@ -6776,6 +6775,19 @@
      "ppg": 7.6,
      "rpg": 6.1,
      "apg": 0.6
+    },
+    {
+     "player": "Isaiah Collier",
+     "player_id": 1642268,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.3,
+     "ppg": 7.2,
+     "rpg": 3.5,
+     "apg": 4.2
     }
    ],
    "away": [
@@ -6919,6 +6931,12 @@
     "pick": "ORL",
     "prob": 51.3,
     "reason": "Tristan da Silva (ORL) no longer out; Tristan da Silva (ORL) now questionable; Keyonte George (UTA) no longer out; Lauri Markkanen (UTA) no longer out; Keyonte George (UTA) now questionable; Lauri Markkanen (UTA) now questionable"
+   },
+   {
+    "at": "2026-11-11T15:39-05:00",
+    "pick": "ORL",
+    "prob": 53.5,
+    "reason": "Lauri Markkanen (UTA) now out"
    }
   ]
  },

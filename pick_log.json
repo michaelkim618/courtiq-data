@@ -20010,6 +20010,33 @@
       "away": 81.9,
       "home": 18.1
      }
+    },
+    {
+     "at": "2026-11-11T15:39-05:00",
+     "expected_margin": -13.19,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Tyler Herro"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Quentin Grimes"
+      ],
+      "home": [
+       "Myles Turner"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Quentin Grimes (LAL) now out; Myles Turner (MIL) now out",
+     "report": "2026-11-11T15:30-05:00",
+     "win_prob": {
+      "away": 81.9,
+      "home": 18.1
+     }
     }
    ]
   },
@@ -20229,6 +20256,41 @@
      "win_prob": {
       "away": 51.3,
       "home": 48.7
+     }
+    },
+    {
+     "at": "2026-11-11T15:39-05:00",
+     "expected_margin": -1.27,
+     "gtd": {
+      "away": [
+       "Tristan da Silva"
+      ],
+      "home": [
+       "Keyonte George"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Lauri Markkanen (UTA) now out",
+     "report": "2026-11-11T15:30-05:00",
+     "win_prob": {
+      "away": 53.5,
+      "home": 46.5
      }
     }
    ]
