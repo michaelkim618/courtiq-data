@@ -19534,6 +19534,37 @@
       "away": 35.9,
       "home": 64.1
      }
+    },
+    {
+     "at": "2026-11-11T13:03-05:00",
+     "expected_margin": 5.24,
+     "gtd": {
+      "away": [
+       "Nolan Traore"
+      ],
+      "home": [
+       "Trey Murphy III"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mikel Brown Jr."
+      ],
+      "home": [
+       "Yves Missi",
+       "Bennedict Mathurin",
+       "Trendon Watford"
+      ]
+     },
+     "pick": "New Orleans Pelicans",
+     "pick_code": "NOP",
+     "reason": "Egor Demin (BKN) cleared to play",
+     "report": "2026-11-11T13:00-05:00",
+     "win_prob": {
+      "away": 35.9,
+      "home": 64.1
+     }
     }
    ]
   },
@@ -19630,6 +19661,37 @@
       "away": 63.7,
       "home": 36.3
      }
+    },
+    {
+     "at": "2026-11-11T13:03-05:00",
+     "expected_margin": -4.27,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Immanuel Quickley",
+       "Collin Murray-Boyles"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paul George"
+      ],
+      "home": [
+       "Kawhi Leonard",
+       "Scottie Barnes",
+       "Trayce Jackson-Davis",
+       "Nate Bittle"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Paul George (BOS) now out; Trayce Jackson-Davis (TOR) now out",
+     "report": "2026-11-11T13:00-05:00",
+     "win_prob": {
+      "away": 61.6,
+      "home": 38.4
+     }
     }
    ]
   },
@@ -19722,6 +19784,35 @@
      "pick_code": "NYK",
      "reason": "win probability moved with the latest report",
      "report": "2026-11-11T09:30-05:00",
+     "win_prob": {
+      "away": 41.4,
+      "home": 58.6
+     }
+    },
+    {
+     "at": "2026-11-11T13:03-05:00",
+     "expected_margin": 3.15,
+     "gtd": {
+      "away": [
+       "Jaylon Tyson"
+      ],
+      "home": [
+       "Karl-Anthony Towns",
+       "Josh Hart"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Josh Hart (NYK) no longer out; Josh Hart (NYK) now questionable; Karl-Anthony Towns (NYK) now questionable",
+     "report": "2026-11-11T13:00-05:00",
      "win_prob": {
       "away": 41.4,
       "home": 58.6
