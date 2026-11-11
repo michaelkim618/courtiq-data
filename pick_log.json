@@ -19245,6 +19245,11 @@
   "2026-11-10_OKC@POR": {
    "away": "OKC",
    "date": "2026-11-10",
+   "final_check": {
+    "at": "2026-11-10T22:47-05:00",
+    "label": "10:45 PM ET",
+    "report": "2026-11-10T22:45-05:00"
+   },
    "home": "POR",
    "late": false,
    "locked_at": null,
