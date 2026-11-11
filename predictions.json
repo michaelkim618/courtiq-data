@@ -5545,7 +5545,7 @@
  },
  {
   "date": "2026-11-10",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "LA Clippers",
   "home": "Phoenix Suns",
   "away_code": "LAC",
@@ -5755,229 +5755,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 9,
-    "away": 9
-   },
-   "home": [
-    {
-     "player": "Devin Booker",
-     "player_id": 1626164,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 34.4,
-     "ppg": 25.9,
-     "rpg": 2.7,
-     "apg": 4.8
-    },
-    {
-     "player": "Miles Bridges",
-     "player_id": 1628970,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 31.6,
-     "ppg": 15.8,
-     "rpg": 7.8,
-     "apg": 3.2
-    },
-    {
-     "player": "Dillon Brooks",
-     "player_id": 1628415,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 30.6,
-     "ppg": 15.7,
-     "rpg": 3.9,
-     "apg": 2.2
-    },
-    {
-     "player": "Jalen Green",
-     "player_id": 1630224,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 28.5,
-     "ppg": 11.7,
-     "rpg": 3.1,
-     "apg": 3.7
-    },
-    {
-     "player": "Khaman Maluach",
-     "player_id": 1642863,
-     "position": "C",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 19.6,
-     "ppg": 7.8,
-     "rpg": 6.3,
-     "apg": 1.2
-    },
-    {
-     "player": "Collin Gillespie",
-     "player_id": 1631221,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.5,
-     "ppg": 6.7,
-     "rpg": 2.2,
-     "apg": 4.0
-    },
-    {
-     "player": "Oso Ighodaro",
-     "player_id": 1642345,
-     "position": "F",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.1,
-     "ppg": 6.6,
-     "rpg": 5.1,
-     "apg": 3.3
-    },
-    {
-     "player": "Jordan Goodwin",
-     "player_id": 1630692,
-     "position": "G",
-     "starter": false,
-     "games": 5,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.9,
-     "ppg": 7.8,
-     "rpg": 3.4,
-     "apg": 2.6
-    }
-   ],
-   "away": [
-    {
-     "player": "Darius Garland",
-     "player_id": 1629636,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 21.2,
-     "rpg": 1.4,
-     "apg": 7.0
-    },
-    {
-     "player": "Rui Hachimura",
-     "player_id": 1629060,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 30.4,
-     "ppg": 14.6,
-     "rpg": 6.0,
-     "apg": 1.7
-    },
-    {
-     "player": "Derrick Jones Jr.",
-     "player_id": 1627884,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 29.8,
-     "ppg": 11.1,
-     "rpg": 5.1,
-     "apg": 1.6
-    },
-    {
-     "player": "Kris Dunn",
-     "player_id": 1627739,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 29.7,
-     "ppg": 9.1,
-     "rpg": 4.2,
-     "apg": 4.4
-    },
-    {
-     "player": "Isaiah Jackson",
-     "player_id": 1630543,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 21.1,
-     "ppg": 8.6,
-     "rpg": 6.1,
-     "apg": 2.2
-    },
-    {
-     "player": "Kobe Sanders",
-     "player_id": 1642920,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.1,
-     "ppg": 9.9,
-     "rpg": 2.9,
-     "apg": 2.2
-    },
-    {
-     "player": "Brook Lopez",
-     "player_id": 201572,
-     "position": "C",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.9,
-     "ppg": 14.2,
-     "rpg": 5.3,
-     "apg": 1.0
-    },
-    {
-     "player": "Keaton Wagler",
-     "player_id": 1643413,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.1,
-     "ppg": 12.3,
-     "rpg": 3.9,
-     "apg": 3.3
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 133,
+   "away": 110
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Phoenix Suns",
   "model_winner": "LA Clippers",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v1.8",
   "data_through": "2026-11-09",
   "tip_et": "2026-11-10T21:00-05:00",
@@ -6015,7 +5800,327 @@
     "prob": 51.0,
     "reason": "Cam Christie (LAC) now out"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Devin Booker",
+     "starter": true,
+     "min": 29,
+     "pts": 17,
+     "reb": 3,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": 20
+    },
+    {
+     "name": "Ryan Dunn",
+     "starter": false,
+     "min": 25,
+     "pts": 10,
+     "reb": 8,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 10
+    },
+    {
+     "name": "Luke Kennard",
+     "starter": false,
+     "min": 22,
+     "pts": 14,
+     "reb": 1,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 12
+    },
+    {
+     "name": "Collin Gillespie",
+     "starter": false,
+     "min": 22,
+     "pts": 12,
+     "reb": 2,
+     "ast": 8,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 8
+    },
+    {
+     "name": "Khaman Maluach",
+     "starter": false,
+     "min": 22,
+     "pts": 11,
+     "reb": 7,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Dillon Brooks",
+     "starter": true,
+     "min": 22,
+     "pts": 8,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 16
+    },
+    {
+     "name": "Jalen Green",
+     "starter": true,
+     "min": 21,
+     "pts": 13,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 15
+    },
+    {
+     "name": "Oso Ighodaro",
+     "starter": true,
+     "min": 20,
+     "pts": 6,
+     "reb": 8,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": 18
+    },
+    {
+     "name": "Miles Bridges",
+     "starter": true,
+     "min": 18,
+     "pts": 8,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 11
+    },
+    {
+     "name": "Jordan Goodwin",
+     "starter": false,
+     "min": 14,
+     "pts": 18,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Rasheer Fleming",
+     "starter": false,
+     "min": 12,
+     "pts": 4,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -4
+    },
+    {
+     "name": "Jamaree Bouyea",
+     "starter": false,
+     "min": 8,
+     "pts": 7,
+     "reb": 1,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Koa Peat",
+     "starter": false,
+     "min": 6,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    }
+   ],
+   "away": [
+    {
+     "name": "Kobe Sanders",
+     "starter": false,
+     "min": 26,
+     "pts": 9,
+     "reb": 3,
+     "ast": 7,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": -9
+    },
+    {
+     "name": "Darius Garland",
+     "starter": true,
+     "min": 25,
+     "pts": 13,
+     "reb": 5,
+     "ast": 6,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -21
+    },
+    {
+     "name": "Derrick Jones Jr.",
+     "starter": true,
+     "min": 24,
+     "pts": 11,
+     "reb": 3,
+     "ast": 0,
+     "stl": 2,
+     "blk": 1,
+     "tov": 1,
+     "pm": -19
+    },
+    {
+     "name": "Rui Hachimura",
+     "starter": true,
+     "min": 23,
+     "pts": 13,
+     "reb": 5,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": -17
+    },
+    {
+     "name": "Keaton Wagler",
+     "starter": false,
+     "min": 23,
+     "pts": 11,
+     "reb": 0,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -12
+    },
+    {
+     "name": "Max Strus",
+     "starter": false,
+     "min": 22,
+     "pts": 12,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -13
+    },
+    {
+     "name": "Gradey Dick",
+     "starter": false,
+     "min": 19,
+     "pts": 10,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Brook Lopez",
+     "starter": true,
+     "min": 19,
+     "pts": 8,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Kris Dunn",
+     "starter": true,
+     "min": 19,
+     "pts": 3,
+     "reb": 2,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Baba Miller",
+     "starter": false,
+     "min": 16,
+     "pts": 13,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 9
+    },
+    {
+     "name": "Isaiah Jackson",
+     "starter": false,
+     "min": 16,
+     "pts": 4,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -16
+    },
+    {
+     "name": "Jalen Pickett",
+     "starter": false,
+     "min": 8,
+     "pts": 3,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Jordan Goodwin",
+    "pts": 18,
+    "reb": 3,
+    "ast": 1
+   },
+   "away": {
+    "name": "Darius Garland",
+    "pts": 13,
+    "reb": 5,
+    "ast": 6
+   }
+  }
  },
  {
   "date": "2026-11-10",
