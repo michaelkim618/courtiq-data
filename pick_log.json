@@ -19565,6 +19565,36 @@
       "away": 35.9,
       "home": 64.1
      }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": 2.4,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Trey Murphy III"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Nolan Traore",
+       "Mikel Brown Jr."
+      ],
+      "home": [
+       "Yves Missi",
+       "Bennedict Mathurin",
+       "Trendon Watford"
+      ]
+     },
+     "pick": "New Orleans Pelicans",
+     "pick_code": "NOP",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 43.3,
+      "home": 56.7
+     }
     }
    ]
   },
@@ -19692,6 +19722,34 @@
       "away": 61.6,
       "home": 38.4
      }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": -4.12,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Paul George"
+      ],
+      "home": [
+       "Kawhi Leonard",
+       "Scottie Barnes",
+       "Trayce Jackson-Davis",
+       "Nate Bittle"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 61.5,
+      "home": 38.5
+     }
     }
    ]
   },
@@ -19817,6 +19875,32 @@
       "away": 41.4,
       "home": 58.6
      }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": 4.32,
+     "gtd": {
+      "away": [
+       "Jaylon Tyson"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 38.0,
+      "home": 62.0
+     }
     }
    ]
   },
@@ -19855,6 +19939,33 @@
      "win_prob": {
       "away": 38.9,
       "home": 61.1
+     }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": 2.21,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Scotty Pippen Jr.",
+       "Quinten Post",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 43.8,
+      "home": 56.2
      }
     }
    ]
@@ -19897,6 +20008,36 @@
      "win_prob": {
       "away": 30.9,
       "home": 69.1
+     }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": 6.48,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody",
+       "Gary Payton II"
+      ],
+      "home": [
+       "Steven Adams",
+       "Clint Capela"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 32.3,
+      "home": 67.7
      }
     }
    ]
@@ -20037,6 +20178,33 @@
       "away": 81.9,
       "home": 18.1
      }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": -19.22,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Tyler Herro"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Quentin Grimes"
+      ],
+      "home": [
+       "Myles Turner"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 91.3,
+      "home": 8.7
+     }
     }
    ]
   },
@@ -20143,6 +20311,39 @@
      "win_prob": {
       "away": 51.3,
       "home": 48.7
+     }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": 0.98,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Ajay Mitchell",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 47.2,
+      "home": 52.8
      }
     }
    ]
@@ -20325,6 +20526,41 @@
       "away": 53.5,
       "home": 46.5
      }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": -7.93,
+     "gtd": {
+      "away": [
+       "Tristan da Silva"
+      ],
+      "home": [
+       "Keyonte George"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 71.3,
+      "home": 28.7
+     }
     }
    ]
   },
@@ -20396,6 +20632,37 @@
       "away": 87.1,
       "home": 12.9
      }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": -18.51,
+     "gtd": {
+      "away": [
+       "Devin Vassell"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Tobe Awaka"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 90.5,
+      "home": 9.5
+     }
     }
    ]
   },
@@ -20437,6 +20704,36 @@
      "win_prob": {
       "away": 40.9,
       "home": 59.1
+     }
+    },
+    {
+     "at": "2026-11-11T18:02-05:00",
+     "expected_margin": 3.06,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Indiana Pacers",
+     "pick_code": "IND",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-11T18:00-05:00",
+     "win_prob": {
+      "away": 41.4,
+      "home": 58.6
      }
     }
    ]
