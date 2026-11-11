@@ -19502,6 +19502,38 @@
       "away": 37.2,
       "home": 62.8
      }
+    },
+    {
+     "at": "2026-11-11T12:03-05:00",
+     "expected_margin": 5.24,
+     "gtd": {
+      "away": [
+       "Nolan Traore",
+       "Egor Demin"
+      ],
+      "home": [
+       "Trey Murphy III"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mikel Brown Jr."
+      ],
+      "home": [
+       "Yves Missi",
+       "Bennedict Mathurin",
+       "Trendon Watford"
+      ]
+     },
+     "pick": "New Orleans Pelicans",
+     "pick_code": "NOP",
+     "reason": "Mikel Brown Jr. (BKN) now out; Bennedict Mathurin (NOP) now out",
+     "report": "2026-11-11T12:00-05:00",
+     "win_prob": {
+      "away": 35.9,
+      "home": 64.1
+     }
     }
    ]
   },

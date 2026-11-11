@@ -6005,18 +6005,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 62.8,
-   "away": 37.2
+   "home": 64.1,
+   "away": 35.9
   },
   "win_prob_band": {
-   "low": 62.6,
-   "high": 64.7,
+   "low": 64.0,
+   "high": 66.0,
    "gtd_count": 3
   },
-  "expected_margin": 4.72,
+  "expected_margin": 5.24,
   "expected_score": {
-   "home": 115.8,
-   "away": 111.1
+   "home": 116.1,
+   "away": 110.8
   },
   "margin_breakdown": [
    {
@@ -6036,8 +6036,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "New Orleans Pelicans 2 out (36 min)"
+    "points": 0.53,
+    "detail": "New Orleans Pelicans 3 out (52 min) costing 0.0 pts, Brooklyn Nets 1 out (22 min) costing 0.5 pts"
    }
   ],
   "ratings": {
@@ -6071,6 +6071,14 @@
      "no_minutes": false
     },
     {
+     "player": "Bennedict Mathurin",
+     "mpg": 15.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.01,
+     "no_minutes": false
+    },
+    {
      "player": "Trendon Watford",
      "mpg": 15.3,
      "nth_out": 1,
@@ -6079,7 +6087,16 @@
      "no_minutes": false
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Mikel Brown Jr.",
+     "mpg": 22.2,
+     "nth_out": 1,
+     "value": 2.5,
+     "cost": -0.53,
+     "no_minutes": false
+    }
+   ]
   },
   "gtd": {
    "home": [
@@ -6087,7 +6104,7 @@
      "player": "Trey Murphy III",
      "mpg": 28.1,
      "value": 0.2,
-     "status": "Probable"
+     "status": "Doubtful"
     }
    ],
    "away": [
@@ -6297,19 +6314,6 @@
      "apg": 2.6
     },
     {
-     "player": "Mikel Brown Jr.",
-     "player_id": 1643414,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.2,
-     "ppg": 12.9,
-     "rpg": 2.1,
-     "apg": 3.9
-    },
-    {
      "player": "Danny Wolf",
      "player_id": 1642874,
      "position": "F",
@@ -6321,6 +6325,19 @@
      "ppg": 9.6,
      "rpg": 5.0,
      "apg": 1.8
+    },
+    {
+     "player": "Noah Clowney",
+     "player_id": 1641730,
+     "position": "F",
+     "starter": false,
+     "games": 10,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.8,
+     "ppg": 5.0,
+     "rpg": 4.4,
+     "apg": 0.7
     }
    ]
   },
@@ -6340,6 +6357,12 @@
     "pick": "NOP",
     "prob": 62.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-11T12:03-05:00",
+    "pick": "NOP",
+    "prob": 64.1,
+    "reason": "Mikel Brown Jr. (BKN) now out; Bennedict Mathurin (NOP) now out"
    }
   ]
  },
