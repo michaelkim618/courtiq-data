@@ -5568,18 +5568,18 @@
    "streak": 6
   },
   "win_prob": {
-   "home": 15.3,
-   "away": 84.7
+   "home": 18.1,
+   "away": 81.9
   },
   "win_prob_band": {
    "low": 15.3,
-   "high": 15.3,
-   "gtd_count": 1
+   "high": 18.1,
+   "gtd_count": 2
   },
-  "expected_margin": -14.87,
+  "expected_margin": -13.19,
   "expected_score": {
-   "home": 107.5,
-   "away": 122.3
+   "home": 108.3,
+   "away": 121.5
   },
   "margin_breakdown": [
    {
@@ -5599,8 +5599,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.68,
-    "detail": "Milwaukee Bucks 1 out (28 min) costing 1.7 pts · Milwaukee Bucks: official report not filed yet, ESPN injury list used"
+    "points": 0.0,
+    "detail": "No absences for either team"
    },
    {
     "label": "Returning Players",
@@ -5629,21 +5629,18 @@
    }
   },
   "absences": {
+   "home": [],
+   "away": []
+  },
+  "gtd": {
    "home": [
     {
      "player": "Tyler Herro",
      "mpg": 28.3,
-     "nth_out": 1,
      "value": 8.0,
-     "cost": -1.68,
-     "no_minutes": false,
-     "source": "espn"
+     "status": "Questionable"
     }
    ],
-   "away": []
-  },
-  "gtd": {
-   "home": [],
    "away": [
     {
      "player": "Quentin Grimes",
@@ -5660,6 +5657,19 @@
     "away": 12
    },
    "home": [
+    {
+     "player": "Tyler Herro",
+     "player_id": 1629639,
+     "position": "G",
+     "starter": true,
+     "games": 10,
+     "starts": 10,
+     "start_rate": 100,
+     "mpg": 30.7,
+     "ppg": 21.4,
+     "rpg": 4.6,
+     "apg": 4.3
+    },
     {
      "player": "Jaime Jaquez Jr.",
      "player_id": 1631170,
@@ -5716,7 +5726,7 @@
      "player": "Brayden Burries",
      "player_id": 1643415,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -5750,19 +5760,6 @@
      "ppg": 6.8,
      "rpg": 2.3,
      "apg": 3.5
-    },
-    {
-     "player": "Kel'el Ware",
-     "player_id": 1642276,
-     "position": "C",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.3,
-     "ppg": 8.5,
-     "rpg": 6.6,
-     "apg": 0.7
     }
    ],
    "away": [
@@ -5900,6 +5897,12 @@
     "pick": "LAL",
     "prob": 84.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-11T10:33-05:00",
+    "pick": "LAL",
+    "prob": 81.9,
+    "reason": "Tyler Herro (MIL) no longer out; Tyler Herro (MIL) now questionable"
    }
   ]
  },
@@ -6439,18 +6442,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 45.0,
-   "away": 55.0
+   "home": 48.7,
+   "away": 51.3
   },
   "win_prob_band": {
-   "low": 45.0,
-   "high": 45.0,
-   "gtd_count": 0
+   "low": 43.1,
+   "high": 50.6,
+   "gtd_count": 3
   },
-  "expected_margin": -1.83,
+  "expected_margin": -0.47,
   "expected_score": {
-   "home": 112.4,
-   "away": 114.2
+   "home": 113.0,
+   "away": 113.5
   },
   "margin_breakdown": [
    {
@@ -6470,8 +6473,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.09,
-    "detail": "Utah Jazz 4 out (104 min) costing 2.9 pts, Orlando Magic 5 out (104 min) costing 2.8 pts · Utah Jazz and Orlando Magic: official report not filed yet, ESPN injury list used · Izaiyah Nelson out all season, already baked into team rating"
+    "points": 1.27,
+    "detail": "Utah Jazz 2 out (50 min) costing 0.8 pts, Orlando Magic 4 out (77 min) costing 2.1 pts · Utah Jazz and Orlando Magic: official report not filed yet, ESPN injury list used · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6497,29 +6500,11 @@
   "absences": {
    "home": [
     {
-     "player": "Keyonte George",
-     "mpg": 27.9,
-     "nth_out": 1,
-     "value": 6.0,
-     "cost": -1.25,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
      "player": "Jaren Jackson Jr.",
      "mpg": 23.7,
      "nth_out": 1,
      "value": 4.0,
      "cost": -0.84,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
-     "player": "Lauri Markkanen",
-     "mpg": 26.9,
-     "nth_out": 1,
-     "value": 3.8,
-     "cost": -0.8,
      "no_minutes": false,
      "source": "espn"
     },
@@ -6540,15 +6525,6 @@
      "nth_out": 1,
      "value": 9.4,
      "cost": -1.98,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
-     "player": "Tristan da Silva",
-     "mpg": 26.8,
-     "nth_out": 1,
-     "value": 3.3,
-     "cost": -0.7,
      "no_minutes": false,
      "source": "espn"
     },
@@ -6591,8 +6567,28 @@
    ]
   },
   "gtd": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Keyonte George",
+     "mpg": 27.9,
+     "value": 6.0,
+     "status": "Questionable"
+    },
+    {
+     "player": "Lauri Markkanen",
+     "mpg": 26.9,
+     "value": 3.8,
+     "status": "Questionable"
+    }
+   ],
+   "away": [
+    {
+     "player": "Tristan da Silva",
+     "mpg": 26.8,
+     "value": 3.3,
+     "status": "Questionable"
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -6601,6 +6597,32 @@
     "away": 10
    },
    "home": [
+    {
+     "player": "Keyonte George",
+     "player_id": 1641718,
+     "position": "G",
+     "starter": true,
+     "games": 10,
+     "starts": 10,
+     "start_rate": 100,
+     "mpg": 32.1,
+     "ppg": 21.1,
+     "rpg": 4.3,
+     "apg": 6.4
+    },
+    {
+     "player": "Lauri Markkanen",
+     "player_id": 1628374,
+     "position": "F",
+     "starter": true,
+     "games": 8,
+     "starts": 8,
+     "start_rate": 100,
+     "mpg": 30.9,
+     "ppg": 18.0,
+     "rpg": 6.8,
+     "apg": 2.0
+    },
     {
      "player": "Darryn Peterson",
      "player_id": 1643408,
@@ -6644,7 +6666,7 @@
      "player": "Josh Green",
      "player_id": 1630182,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 9,
      "starts": 0,
      "start_rate": 0,
@@ -6657,7 +6679,7 @@
      "player": "Josh Okogie",
      "player_id": 1629006,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -6678,32 +6700,6 @@
      "ppg": 7.6,
      "rpg": 6.1,
      "apg": 0.6
-    },
-    {
-     "player": "Isaiah Collier",
-     "player_id": 1642268,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 7.2,
-     "rpg": 3.5,
-     "apg": 4.2
-    },
-    {
-     "player": "Svi Mykhailiuk",
-     "player_id": 1629004,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.7,
-     "ppg": 3.6,
-     "rpg": 1.7,
-     "apg": 1.0
     }
    ],
    "away": [
@@ -6773,6 +6769,19 @@
      "apg": 5.1
     },
     {
+     "player": "Tristan da Silva",
+     "player_id": 1641783,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 30.5,
+     "ppg": 15.1,
+     "rpg": 3.7,
+     "apg": 1.7
+    },
+    {
      "player": "Jamal Cain",
      "player_id": 1631288,
      "position": "F",
@@ -6797,19 +6806,6 @@
      "ppg": 3.3,
      "rpg": 0.5,
      "apg": 1.3
-    },
-    {
-     "player": "Alex Morales",
-     "player_id": 1631457,
-     "position": "G",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 11.9,
-     "ppg": 1.7,
-     "rpg": 2.1,
-     "apg": 0.3
     }
    ]
   },
@@ -6841,6 +6837,12 @@
     "pick": "ORL",
     "prob": 55.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-11T10:33-05:00",
+    "pick": "ORL",
+    "prob": 51.3,
+    "reason": "Tristan da Silva (ORL) no longer out; Tristan da Silva (ORL) now questionable; Keyonte George (UTA) no longer out; Lauri Markkanen (UTA) no longer out; Keyonte George (UTA) now questionable; Lauri Markkanen (UTA) now questionable"
    }
   ]
  },

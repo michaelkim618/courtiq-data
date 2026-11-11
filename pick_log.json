@@ -19862,6 +19862,31 @@
       "away": 84.7,
       "home": 15.3
      }
+    },
+    {
+     "at": "2026-11-11T10:33-05:00",
+     "expected_margin": -13.19,
+     "gtd": {
+      "away": [
+       "Quentin Grimes"
+      ],
+      "home": [
+       "Tyler Herro"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Tyler Herro (MIL) no longer out; Tyler Herro (MIL) now questionable",
+     "report": "2026-11-11T10:30-05:00",
+     "win_prob": {
+      "away": 81.9,
+      "home": 18.1
+     }
     }
    ]
   },
@@ -20046,6 +20071,41 @@
      "win_prob": {
       "away": 55.0,
       "home": 45.0
+     }
+    },
+    {
+     "at": "2026-11-11T10:33-05:00",
+     "expected_margin": -0.47,
+     "gtd": {
+      "away": [
+       "Tristan da Silva"
+      ],
+      "home": [
+       "Keyonte George",
+       "Lauri Markkanen"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Tristan da Silva (ORL) no longer out; Tristan da Silva (ORL) now questionable; Keyonte George (UTA) no longer out; Lauri Markkanen (UTA) no longer out; Keyonte George (UTA) now questionable; Lauri Markkanen (UTA) now questionable",
+     "report": "2026-11-11T10:30-05:00",
+     "win_prob": {
+      "away": 51.3,
+      "home": 48.7
      }
     }
    ]
