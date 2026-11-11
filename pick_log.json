@@ -19901,6 +19901,30 @@
       "away": 38.0,
       "home": 62.0
      }
+    },
+    {
+     "at": "2026-11-11T18:32-05:00",
+     "expected_margin": 4.32,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Jaylon Tyson (CLE) cleared to play",
+     "report": "2026-11-11T18:30-05:00",
+     "win_prob": {
+      "away": 38.0,
+      "home": 62.0
+     }
     }
    ]
   },
@@ -20662,6 +20686,36 @@
      "win_prob": {
       "away": 90.5,
       "home": 9.5
+     }
+    },
+    {
+     "at": "2026-11-11T18:32-05:00",
+     "expected_margin": -18.42,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Devin Vassell",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Tobe Awaka"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Devin Vassell (SAS) now out",
+     "report": "2026-11-11T18:30-05:00",
+     "win_prob": {
+      "away": 90.4,
+      "home": 9.6
      }
     }
    ]

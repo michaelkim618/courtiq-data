@@ -3831,8 +3831,8 @@
   },
   "win_prob_band": {
    "low": 62.0,
-   "high": 62.7,
-   "gtd_count": 1
+   "high": 62.0,
+   "gtd_count": 0
   },
   "expected_margin": 4.32,
   "expected_score": {
@@ -3909,14 +3909,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jaylon Tyson",
-     "mpg": 21.2,
-     "value": 1.3,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4185,6 +4178,12 @@
     "pick": "NYK",
     "prob": 62.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-11T18:32-05:00",
+    "pick": "NYK",
+    "prob": 62.0,
+    "reason": "Jaylon Tyson (CLE) cleared to play"
    }
   ]
  },
@@ -4766,17 +4765,17 @@
    "streak": 9
   },
   "win_prob": {
-   "home": 9.5,
-   "away": 90.5
+   "home": 9.6,
+   "away": 90.4
   },
   "win_prob_band": {
-   "low": 7.0,
-   "high": 9.5,
-   "gtd_count": 3
+   "low": 7.1,
+   "high": 9.6,
+   "gtd_count": 2
   },
-  "expected_margin": -18.51,
+  "expected_margin": -18.42,
   "expected_score": {
-   "home": 107.0,
+   "home": 107.1,
    "away": 125.5
   },
   "margin_breakdown": [
@@ -4802,8 +4801,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.11,
-    "detail": "Chicago Bulls 1 out (17 min), San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
+    "points": 0.2,
+    "detail": "Chicago Bulls 1 out (17 min), San Antonio Spurs 2 out (57 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4847,6 +4846,14 @@
      "no_minutes": false
     },
     {
+     "player": "Devin Vassell",
+     "mpg": 28.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Jayden Quaintance",
      "mpg": 0.0,
      "nth_out": 1,
@@ -4871,14 +4878,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Devin Vassell",
-     "mpg": 28.3,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5007,19 +5007,6 @@
      "apg": 4.3
     },
     {
-     "player": "Devin Vassell",
-     "player_id": 1630170,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 30.1,
-     "ppg": 11.9,
-     "rpg": 3.8,
-     "apg": 3.1
-    },
-    {
      "player": "Victor Wembanyama",
      "player_id": 1641705,
      "position": "F",
@@ -5062,7 +5049,7 @@
      "player": "Julian Champagnie",
      "player_id": 1630577,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -5096,6 +5083,19 @@
      "ppg": 3.1,
      "rpg": 4.2,
      "apg": 1.0
+    },
+    {
+     "player": "Harrison Barnes",
+     "player_id": 203084,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.9,
+     "ppg": 5.8,
+     "rpg": 0.9,
+     "apg": 0.0
     }
    ]
   },
@@ -5135,6 +5135,12 @@
     "pick": "SAS",
     "prob": 90.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-11T18:32-05:00",
+    "pick": "SAS",
+    "prob": 90.4,
+    "reason": "Devin Vassell (SAS) now out"
    }
   ]
  },
