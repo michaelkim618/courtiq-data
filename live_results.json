@@ -1230,5 +1230,13 @@
   "home": "DET",
   "conf": 77.0,
   "correct": true
+ },
+ {
+  "date": "2026-11-10",
+  "season": "2026-2027",
+  "away": "MIL",
+  "home": "NYK",
+  "conf": 86.6,
+  "correct": true
  }
 ]
