@@ -5899,8 +5899,8 @@
   },
   "win_prob_band": {
    "low": 34.0,
-   "high": 40.2,
-   "gtd_count": 1
+   "high": 34.0,
+   "gtd_count": 0
   },
   "expected_margin": -5.99,
   "expected_score": {
@@ -5988,14 +5988,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Giannis Antetokounmpo",
-     "mpg": 29.2,
-     "value": 11.4,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6238,6 +6231,12 @@
     "pick": "MIA",
     "prob": 66.0,
     "reason": "Lauri Markkanen (UTA) now out"
+   },
+   {
+    "at": "2026-11-10T20:02-05:00",
+    "pick": "MIA",
+    "prob": 66.0,
+    "reason": "Giannis Antetokounmpo (MIA) cleared to play"
    }
   ]
  },
