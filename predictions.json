@@ -3710,7 +3710,7 @@
   },
   "tip_et": "2026-11-11T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -4146,7 +4146,7 @@
   },
   "tip_et": "2026-11-11T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -4631,7 +4631,7 @@
   },
   "tip_et": "2026-11-11T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6164,18 +6164,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 56.7,
-   "away": 43.3
+   "home": 55.7,
+   "away": 44.3
   },
   "win_prob_band": {
-   "low": 56.6,
-   "high": 56.7,
-   "gtd_count": 1
+   "low": 55.7,
+   "high": 55.7,
+   "gtd_count": 0
   },
-  "expected_margin": 2.4,
+  "expected_margin": 2.03,
   "expected_score": {
-   "home": 114.7,
-   "away": 112.3
+   "home": 114.5,
+   "away": 112.4
   },
   "margin_breakdown": [
    {
@@ -6200,8 +6200,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.04,
-    "detail": "New Orleans Pelicans 3 out (52 min) costing 0.0 pts, Brooklyn Nets 2 out (43 min) costing 1.3 pts"
+    "points": -0.33,
+    "detail": "New Orleans Pelicans 4 out (80 min) costing 0.0 pts, Brooklyn Nets 2 out (43 min) costing 1.3 pts"
    }
   ],
   "ratings": {
@@ -6226,6 +6226,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Trey Murphy III",
+     "mpg": 28.1,
+     "nth_out": 1,
+     "value": 0.2,
+     "cost": -0.03,
+     "no_minutes": false
+    },
     {
      "player": "Yves Missi",
      "mpg": 20.8,
@@ -6271,14 +6279,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Trey Murphy III",
-     "mpg": 28.1,
-     "value": 0.2,
-     "status": "Doubtful"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6300,19 +6301,6 @@
      "ppg": 21.0,
      "rpg": 5.3,
      "apg": 2.7
-    },
-    {
-     "player": "Trey Murphy III",
-     "player_id": 1630530,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 15.6,
-     "rpg": 4.8,
-     "apg": 3.6
     },
     {
      "player": "Dejounte Murray",
@@ -6357,7 +6345,7 @@
      "player": "Saddiq Bey",
      "player_id": 1630180,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -6391,6 +6379,19 @@
      "ppg": 12.5,
      "rpg": 6.9,
      "apg": 2.5
+    },
+    {
+     "player": "Jordan Poole",
+     "player_id": 1629673,
+     "position": "G",
+     "starter": false,
+     "games": 5,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.5,
+     "ppg": 6.2,
+     "rpg": 2.2,
+     "apg": 2.8
     }
    ],
    "away": [
@@ -6508,7 +6509,7 @@
   "data_through": "2026-11-10",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 6.0,
+   "expected_margin": 5.97,
    "win_prob": {
     "home": 66.0,
     "away": 34.0
@@ -6542,6 +6543,12 @@
     "pick": "NOP",
     "prob": 56.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-11T18:47-05:00",
+    "pick": "NOP",
+    "prob": 55.7,
+    "reason": "Trey Murphy III (NOP) now out"
    }
   ]
  },
