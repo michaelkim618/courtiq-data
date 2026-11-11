@@ -4873,7 +4873,7 @@
   "data_through": "2026-11-09",
   "tip_et": "2026-11-10T19:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:15 PM ET"
   },
   "pick_updates": [
    {
@@ -5979,7 +5979,7 @@
      "player": "Giannis Antetokounmpo",
      "mpg": 29.2,
      "value": 11.4,
-     "status": "Probable"
+     "status": "Questionable"
     }
    ]
   },
