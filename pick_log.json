@@ -19274,6 +19274,11 @@
   "2026-11-10_ORL@SAC": {
    "away": "ORL",
    "date": "2026-11-10",
+   "final_check": {
+    "at": "2026-11-10T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-10T21:45-05:00"
+   },
    "home": "SAC",
    "late": false,
    "locked_at": null,
