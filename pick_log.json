@@ -20270,6 +20270,37 @@
       "away": 87.1,
       "home": 12.9
      }
+    },
+    {
+     "at": "2026-11-11T13:18-05:00",
+     "expected_margin": -16.39,
+     "gtd": {
+      "away": [
+       "Devin Vassell"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Tobe Awaka"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Tobe Awaka (CHI) now out; Caleb Wilson (CHI) now questionable",
+     "report": "2026-11-11T13:15-05:00",
+     "win_prob": {
+      "away": 87.1,
+      "home": 12.9
+     }
     }
    ]
   },

@@ -4739,9 +4739,9 @@
    "away": 87.1
   },
   "win_prob_band": {
-   "low": 11.0,
+   "low": 9.8,
    "high": 12.9,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": -16.39,
   "expected_score": {
@@ -4767,7 +4767,7 @@
    {
     "label": "Absences",
     "points": 0.29,
-    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
+    "detail": "Chicago Bulls 1 out (17 min), San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4791,7 +4791,16 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Tobe Awaka",
+     "mpg": 16.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    }
+   ],
    "away": [
     {
      "player": "Tobias Harris",
@@ -4817,6 +4826,12 @@
      "player": "Norman Powell",
      "mpg": 25.4,
      "value": 6.7,
+     "status": "Questionable"
+    },
+    {
+     "player": "Caleb Wilson",
+     "mpg": 30.3,
+     "value": 4.6,
      "status": "Questionable"
     }
    ],
@@ -5064,6 +5079,12 @@
     "pick": "SAS",
     "prob": 87.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-11T13:18-05:00",
+    "pick": "SAS",
+    "prob": 87.1,
+    "reason": "Tobe Awaka (CHI) now out; Caleb Wilson (CHI) now questionable"
    }
   ]
  },
