@@ -1,0 +1,104 @@
+{
+  "slug": "2026-11-11-checking-the-model-s-work-4-seasons-graded",
+  "title": "Checking the Model's Work: 4 Seasons Graded",
+  "author": "Doc",
+  "author_emoji": "🧠",
+  "author_color": "#7C3AED",
+  "author_role": "Analytics Guru",
+  "date": "2026-11-11",
+  "type": "weekly",
+  "tag": "Analysis",
+  "tag_color": "#7C3AED",
+  "read_time": "5 min",
+  "summary": "The season-by-season accuracy trend across four years and over a thousand games, plus the model's latest projections for the slate ahead.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Trend, Not Just the Number\n\n4 graded seasons on the board. The latest: 68.1% across 1321 games.\n\nWhen we evaluate any predictive model, the immediate temptation is to zoom in on the headline number—in this case, a 68.1% hit rate over 1321 games. That's a meaningful sample size, large enough to brush aside concerns about small-sample noise, and the accuracy itself sits comfortably above the breakeven threshold for most betting markets. But the single-season snapshot, however robust, tells only part of the story. What we're really after is consistency: does the model maintain its edge year over year, or are we looking at regression artifacts and lucky stretches masquerading as signal? With four graded seasons now in the ledger, we have enough temporal spread to start answering that question with some confidence. The 68.1% figure represents the most recent campaign, a data point that gains interpretive weight only when placed alongside its predecessors. Pattern recognition across multiple seasons is where we separate durable forecasting skill from statistical happenstance."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "2022-2023",
+          "value": "62.1%"
+        },
+        {
+          "label": "2023-2024",
+          "value": "66.2%"
+        },
+        {
+          "label": "2024-2025",
+          "value": "66.7%"
+        },
+        {
+          "label": "2025-2026",
+          "value": "68.1%"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "Hit Rate by Season",
+      "data": [
+        {
+          "season": "2022-2023",
+          "hit_rate": 62.1
+        },
+        {
+          "season": "2023-2024",
+          "hit_rate": 66.2
+        },
+        {
+          "season": "2024-2025",
+          "hit_rate": 66.7
+        },
+        {
+          "season": "2025-2026",
+          "hit_rate": 68.1
+        }
+      ],
+      "x_key": "season",
+      "lines": [
+        {
+          "key": "hit_rate",
+          "color": "#7C3AED",
+          "label": "Hit Rate %"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "### What's Next\n\nThe model's current read on the upcoming slate:\n\nThis is where theory meets practice. We've dissected the historical performance, examined the cross-seasonal consistency, and established that the model carries a defensible track record. Now the question becomes operational: what does the framework actually project for the games on the immediate horizon? The slate ahead represents the live testing ground, the place where calibrated probabilities either translate into continued accuracy or reveal cracks in the underlying assumptions. Every upcoming game is both a prediction and a diagnostic—another data point that will eventually fold back into the graded sample, either reinforcing the model's credibility or prompting a deeper dive into potential drift. The projections below reflect the current state of the system, applied to real matchups with real stakes."
+    },
+    {
+      "type": "table",
+      "title": "Upcoming",
+      "headers": [
+        "Matchup",
+        "Favored",
+        "Projected Margin"
+      ],
+      "rows": [
+        [
+          "WAS @ IND",
+          "IND, 59.1%",
+          "+3.3"
+        ],
+        [
+          "CLE @ NYK",
+          "NYK, 58.6%",
+          "+3.1"
+        ],
+        [
+          "BOS @ TOR",
+          "BOS, 63.7%",
+          "-5.1"
+        ]
+      ]
+    }
+  ],
+  "post_kind": "feature",
+  "editor_note": "Hit rates above are graded, closed-book results. Anything listed under \"What's Next\" is today's projection and will move before tip-off."
+}
