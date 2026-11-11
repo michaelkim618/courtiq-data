@@ -1262,5 +1262,13 @@
   "home": "NYK",
   "conf": 86.6,
   "correct": true
+ },
+ {
+  "date": "2026-11-10",
+  "season": "2026-2027",
+  "away": "ORL",
+  "home": "SAC",
+  "conf": 50.8,
+  "correct": false
  }
 ]
