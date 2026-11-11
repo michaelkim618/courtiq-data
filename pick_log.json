@@ -19368,6 +19368,37 @@
       "away": 51.1,
       "home": 48.9
      }
+    },
+    {
+     "at": "2026-11-10T20:32-05:00",
+     "expected_margin": 0.29,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Tristan da Silva",
+       "Jalen Suggs",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Sacramento Kings",
+     "pick_code": "SAC",
+     "reason": "Tristan da Silva (ORL) now out; pick flipped to SAC",
+     "report": "2026-11-10T20:30-05:00",
+     "win_prob": {
+      "away": 49.2,
+      "home": 50.8
+     }
     }
    ]
   }
