@@ -18835,6 +18835,11 @@
   "2026-11-10_BOS@PHI": {
    "away": "BOS",
    "date": "2026-11-10",
+   "final_check": {
+    "at": "2026-11-10T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-10T19:45-05:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
@@ -18989,6 +18994,35 @@
      "pick_code": "LAC",
      "reason": "Jordan Goodwin (PHX) no longer out",
      "report": "2026-11-10T15:15-05:00",
+     "win_prob": {
+      "away": 51.0,
+      "home": 49.0
+     }
+    },
+    {
+     "at": "2026-11-10T19:47-05:00",
+     "expected_margin": -0.35,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Cam Christie",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Mark Williams"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "Cam Christie (LAC) now out",
+     "report": "2026-11-10T19:45-05:00",
      "win_prob": {
       "away": 51.0,
       "home": 49.0
