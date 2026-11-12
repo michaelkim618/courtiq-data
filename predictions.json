@@ -7119,7 +7119,7 @@
   "win_prob_band": {
    "low": 67.7,
    "high": 67.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 6.5,
   "expected_score": {
@@ -7213,14 +7213,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Moussa Diabate",
-     "mpg": 26.6,
-     "value": 0.0,
-     "status": "Probable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7471,6 +7464,12 @@
     "pick": "PHX",
     "prob": 67.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-12T14:03-05:00",
+    "pick": "PHX",
+    "prob": 67.7,
+    "reason": "Moussa Diabate (CHA) cleared to play"
    }
   ]
  }
