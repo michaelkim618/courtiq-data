@@ -19997,6 +19997,13 @@
    "home": "MEM",
    "late": false,
    "locked_at": "2026-11-11T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 123,
+     "home": 118
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-11T20:00-05:00",
    "tip_known": true,
@@ -20340,7 +20347,7 @@
    },
    "home": "POR",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-11T22:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-11T22:00-05:00",
    "tip_known": true,
@@ -20773,6 +20780,13 @@
    "home": "CHI",
    "late": false,
    "locked_at": "2026-11-11T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 124,
+     "home": 119
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-11T20:00-05:00",
    "tip_known": true,
