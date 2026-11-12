@@ -1282,6 +1282,22 @@
  {
   "date": "2026-11-11",
   "season": "2026-2027",
+  "away": "BOS",
+  "home": "TOR",
+  "conf": 61.5,
+  "correct": true
+ },
+ {
+  "date": "2026-11-11",
+  "season": "2026-2027",
+  "away": "CLE",
+  "home": "NYK",
+  "conf": 62.0,
+  "correct": false
+ },
+ {
+  "date": "2026-11-11",
+  "season": "2026-2027",
   "away": "WAS",
   "home": "IND",
   "conf": 58.6,
