@@ -5671,9 +5671,9 @@
    "away": 33.0
   },
   "win_prob_band": {
-   "low": 64.9,
+   "low": 67.0,
    "high": 67.0,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 6.21,
   "expected_score": {
@@ -5798,14 +5798,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Joel Embiid",
-     "mpg": 31.0,
-     "value": 3.8,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6075,6 +6068,12 @@
     "pick": "PHI",
     "prob": 67.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-12T18:32-05:00",
+    "pick": "PHI",
+    "prob": 67.0,
+    "reason": "Joel Embiid (PHI) cleared to play"
    }
   ]
  },

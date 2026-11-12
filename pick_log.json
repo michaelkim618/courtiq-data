@@ -21589,6 +21589,37 @@
       "away": 33.0,
       "home": 67.0
      }
+    },
+    {
+     "at": "2026-11-12T18:32-05:00",
+     "expected_margin": 6.21,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Scottie Barnes",
+       "Trayce Jackson-Davis",
+       "Nate Bittle"
+      ],
+      "home": [
+       "LeBron James",
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Joel Embiid (PHI) cleared to play",
+     "report": "2026-11-12T18:30-05:00",
+     "win_prob": {
+      "away": 33.0,
+      "home": 67.0
+     }
     }
    ]
   }
