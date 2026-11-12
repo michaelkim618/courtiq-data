@@ -5667,18 +5667,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 59.1,
-   "away": 40.9
+   "home": 60.4,
+   "away": 39.6
   },
   "win_prob_band": {
-   "low": 56.6,
-   "high": 59.1,
-   "gtd_count": 2
+   "low": 58.2,
+   "high": 60.4,
+   "gtd_count": 1
   },
-  "expected_margin": 3.26,
+  "expected_margin": 3.71,
   "expected_score": {
-   "home": 114.2,
-   "away": 110.9
+   "home": 114.4,
+   "away": 110.7
   },
   "margin_breakdown": [
    {
@@ -5703,8 +5703,8 @@
    },
    {
     "label": "Absences",
-    "points": 4.61,
-    "detail": "Philadelphia 76ers 3 out (46 min), Toronto Raptors 2 out (60 min) costing 4.5 pts · Toronto Raptors: official report not filed yet, ESPN injury list used · Nate Bittle out all season, already baked into team rating"
+    "points": 5.06,
+    "detail": "Philadelphia 76ers 4 out (76 min) costing 0.1 pts, Toronto Raptors 3 out (69 min) costing 4.8 pts · Nate Bittle out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5729,6 +5729,14 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "LeBron James",
+     "mpg": 30.8,
+     "nth_out": 1,
+     "value": 0.6,
+     "cost": -0.14,
+     "no_minutes": false
+    },
     {
      "player": "Dominick Barlow",
      "mpg": 22.4,
@@ -5761,8 +5769,7 @@
      "nth_out": 2,
      "value": 12.9,
      "cost": -2.72,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Scottie Barnes",
@@ -5770,8 +5777,15 @@
      "nth_out": 1,
      "value": 8.5,
      "cost": -1.79,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Trayce Jackson-Davis",
+     "mpg": 9.1,
+     "nth_out": 1,
+     "value": 1.5,
+     "cost": -0.32,
+     "no_minutes": false
     },
     {
      "player": "Nate Bittle",
@@ -5779,8 +5793,7 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ]
   },
@@ -5790,12 +5803,6 @@
      "player": "Joel Embiid",
      "mpg": 31.0,
      "value": 3.8,
-     "status": "Questionable"
-    },
-    {
-     "player": "LeBron James",
-     "mpg": 30.8,
-     "value": 0.6,
      "status": "Questionable"
     }
    ],
@@ -5848,19 +5855,6 @@
      "apg": 3.1
     },
     {
-     "player": "LeBron James",
-     "player_id": 2544,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 32.5,
-     "ppg": 15.1,
-     "rpg": 7.2,
-     "apg": 6.5
-    },
-    {
      "player": "Joel Embiid",
      "player_id": 203954,
      "position": "C",
@@ -5877,7 +5871,7 @@
      "player": "Dean Wade",
      "player_id": 1629731,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 10,
      "start_rate": 100,
@@ -5911,6 +5905,19 @@
      "ppg": 9.7,
      "rpg": 2.2,
      "apg": 1.2
+    },
+    {
+     "player": "Jabari Walker",
+     "player_id": 1631133,
+     "position": "F",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 11.4,
+     "ppg": 4.9,
+     "rpg": 3.8,
+     "apg": 0.5
     }
    ],
    "away": [
@@ -6028,10 +6035,10 @@
   "data_through": "2026-11-10",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 4.74,
+   "expected_margin": 4.93,
    "win_prob": {
-    "home": 62.8,
-    "away": 37.2
+    "home": 63.3,
+    "away": 36.7
    }
   },
   "tip_et": "2026-11-12T19:00-05:00",
@@ -6056,6 +6063,12 @@
     "pick": "PHI",
     "prob": 59.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-12T13:03-05:00",
+    "pick": "PHI",
+    "prob": 60.4,
+    "reason": "Trayce Jackson-Davis (TOR) now out; LeBron James (PHI) now out"
    }
   ]
  },

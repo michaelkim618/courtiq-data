@@ -21467,6 +21467,39 @@
       "away": 40.9,
       "home": 59.1
      }
+    },
+    {
+     "at": "2026-11-12T13:03-05:00",
+     "expected_margin": 3.71,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Joel Embiid"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Scottie Barnes",
+       "Trayce Jackson-Davis",
+       "Nate Bittle"
+      ],
+      "home": [
+       "LeBron James",
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Trayce Jackson-Davis (TOR) now out; LeBron James (PHI) now out",
+     "report": "2026-11-12T13:00-05:00",
+     "win_prob": {
+      "away": 39.6,
+      "home": 60.4
+     }
     }
    ]
   }
