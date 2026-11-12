@@ -5667,23 +5667,23 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 58.6,
-   "away": 41.4
+   "home": 59.1,
+   "away": 40.9
   },
   "win_prob_band": {
-   "low": 56.1,
-   "high": 58.6,
+   "low": 56.6,
+   "high": 59.1,
    "gtd_count": 2
   },
-  "expected_margin": 3.08,
+  "expected_margin": 3.26,
   "expected_score": {
-   "home": 114.1,
-   "away": 111.0
+   "home": 114.2,
+   "away": 110.9
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -2.08,
+    "points": -2.28,
     "detail": "Philadelphia 76ers vs Toronto Raptors: each rostered player's value x his expected minutes, full strength"
    },
    {
@@ -5693,8 +5693,8 @@
    },
    {
     "label": "Season Form",
-    "points": -0.45,
-    "detail": "Philadelphia 76ers +1.0 vs Toronto Raptors +3.3 points per game so far, weighted by games played"
+    "points": -0.32,
+    "detail": "Philadelphia 76ers +1.0 vs Toronto Raptors +2.5 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -5703,7 +5703,7 @@
    },
    {
     "label": "Absences",
-    "points": 4.36,
+    "points": 4.61,
     "detail": "Philadelphia 76ers 3 out (46 min), Toronto Raptors 2 out (60 min) costing 4.5 pts · Toronto Raptors: official report not filed yet, ESPN injury list used · Nate Bittle out all season, already baked into team rating"
    }
   ],
@@ -6050,6 +6050,12 @@
     "pick": "PHI",
     "prob": 58.6,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-12T12:48-05:00",
+    "pick": "PHI",
+    "prob": 59.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6152,23 +6158,23 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 19.6,
-   "away": 80.4
+   "home": 18.5,
+   "away": 81.5
   },
   "win_prob_band": {
-   "low": 19.6,
-   "high": 19.6,
+   "low": 18.5,
+   "high": 18.5,
    "gtd_count": 0
   },
-  "expected_margin": -12.09,
+  "expected_margin": -12.69,
   "expected_score": {
-   "home": 106.2,
-   "away": 118.3
+   "home": 105.9,
+   "away": 118.6
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -9.71,
+    "points": -10.24,
     "detail": "Washington Wizards vs Detroit Pistons: each rostered player's value x his expected minutes, full strength"
    },
    {
@@ -6178,8 +6184,8 @@
    },
    {
     "label": "Season Form",
-    "points": -2.61,
-    "detail": "Washington Wizards -5.3 vs Detroit Pistons +8.1 points per game so far, weighted by games played"
+    "points": -2.74,
+    "detail": "Washington Wizards -5.9 vs Detroit Pistons +8.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -6188,7 +6194,7 @@
    },
    {
     "label": "Absences",
-    "points": -1.02,
+    "points": -0.96,
     "detail": "Washington Wizards 3 out (52 min) costing 0.7 pts, Detroit Pistons 2 out (45 min) costing 1.4 pts · Washington Wizards: official report not filed yet, ESPN injury list used · Reece Beekman out all season, already baked into team rating"
    }
   ],
@@ -6529,6 +6535,12 @@
     "pick": "DET",
     "prob": 80.4,
     "reason": "Elijah Harkless (DET) cleared to play"
+   },
+   {
+    "at": "2026-11-12T12:48-05:00",
+    "pick": "DET",
+    "prob": 81.5,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6631,23 +6643,23 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 69.1,
-   "away": 30.9
+   "home": 68.6,
+   "away": 31.4
   },
   "win_prob_band": {
-   "low": 69.1,
-   "high": 69.1,
+   "low": 68.6,
+   "high": 68.6,
    "gtd_count": 0
   },
-  "expected_margin": 7.03,
+  "expected_margin": 6.83,
   "expected_score": {
-   "home": 117.2,
-   "away": 110.1
+   "home": 117.1,
+   "away": 110.2
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 5.25,
+    "points": 4.94,
     "detail": "Minnesota Timberwolves vs Dallas Mavericks: each rostered player's value x his expected minutes, full strength"
    },
    {
@@ -6667,7 +6679,7 @@
    },
    {
     "label": "Absences",
-    "points": -0.86,
+    "points": -0.75,
     "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Dallas Mavericks 1 out (20 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
@@ -6984,6 +6996,12 @@
     "pick": "MIN",
     "prob": 69.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-12T12:48-05:00",
+    "pick": "MIN",
+    "prob": 68.6,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -7086,23 +7104,23 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 68.2,
-   "away": 31.8
+   "home": 67.7,
+   "away": 32.3
   },
   "win_prob_band": {
-   "low": 68.2,
-   "high": 68.2,
+   "low": 67.7,
+   "high": 67.7,
    "gtd_count": 1
   },
-  "expected_margin": 6.69,
+  "expected_margin": 6.5,
   "expected_score": {
-   "home": 114.3,
-   "away": 107.6
+   "home": 114.2,
+   "away": 107.7
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 3.26,
+    "points": 3.14,
     "detail": "Phoenix Suns vs Charlotte Hornets: each rostered player's value x his expected minutes, full strength"
    },
    {
@@ -7122,7 +7140,7 @@
    },
    {
     "label": "Absences",
-    "points": 1.02,
+    "points": 0.95,
     "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, Charlotte Hornets 3 out (89 min) costing 2.3 pts"
    }
   ],
@@ -7438,6 +7456,12 @@
     "pick": "PHX",
     "prob": 68.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-12T12:48-05:00",
+    "pick": "PHX",
+    "prob": 67.7,
+    "reason": "win probability moved with the latest report"
    }
   ]
  }
