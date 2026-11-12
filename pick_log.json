@@ -19467,6 +19467,11 @@
   "2026-11-11_BKN@NOP": {
    "away": "BKN",
    "date": "2026-11-11",
+   "final_check": {
+    "at": "2026-11-11T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-11T19:45-05:00"
+   },
    "home": "NOP",
    "late": false,
    "locked_at": null,
@@ -19970,6 +19975,11 @@
   "2026-11-11_DEN@MEM": {
    "away": "DEN",
    "date": "2026-11-11",
+   "final_check": {
+    "at": "2026-11-11T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-11T19:45-05:00"
+   },
    "home": "MEM",
    "late": false,
    "locked_at": null,
@@ -20108,6 +20118,11 @@
   "2026-11-11_LAL@MIL": {
    "away": "LAL",
    "date": "2026-11-11",
+   "final_check": {
+    "at": "2026-11-11T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-11T19:45-05:00"
+   },
    "home": "MIL",
    "late": false,
    "locked_at": null,
@@ -20655,6 +20670,11 @@
   "2026-11-11_SAS@CHI": {
    "away": "SAS",
    "date": "2026-11-11",
+   "final_check": {
+    "at": "2026-11-11T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-11T19:45-05:00"
+   },
    "home": "CHI",
    "late": false,
    "locked_at": null,
