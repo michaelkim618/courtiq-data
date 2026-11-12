@@ -6158,7 +6158,7 @@
   "win_prob_band": {
    "low": 19.6,
    "high": 19.6,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -12.09,
   "expected_score": {
@@ -6272,14 +6272,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Elijah Harkless",
-     "mpg": 20.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6530,6 +6523,12 @@
     "pick": "DET",
     "prob": 80.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-12T12:33-05:00",
+    "pick": "DET",
+    "prob": 80.4,
+    "reason": "Elijah Harkless (DET) cleared to play"
    }
   ]
  },
