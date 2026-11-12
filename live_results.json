@@ -1282,6 +1282,14 @@
  {
   "date": "2026-11-11",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "NOP",
+  "conf": 55.7,
+  "correct": false
+ },
+ {
+  "date": "2026-11-11",
+  "season": "2026-2027",
   "away": "BOS",
   "home": "TOR",
   "conf": 61.5,
@@ -1302,6 +1310,14 @@
   "home": "MEM",
   "conf": 56.2,
   "correct": false
+ },
+ {
+  "date": "2026-11-11",
+  "season": "2026-2027",
+  "away": "LAL",
+  "home": "MIL",
+  "conf": 91.3,
+  "correct": true
  },
  {
   "date": "2026-11-11",

@@ -19475,6 +19475,13 @@
    "home": "NOP",
    "late": false,
    "locked_at": "2026-11-11T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 145,
+     "home": 111
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-11T20:00-05:00",
    "tip_known": true,
@@ -20152,6 +20159,13 @@
    "home": "MIL",
    "late": false,
    "locked_at": "2026-11-11T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 123,
+     "home": 112
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-11T20:00-05:00",
    "tip_known": true,
