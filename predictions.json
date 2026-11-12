@@ -4765,18 +4765,18 @@
    "streak": 9
   },
   "win_prob": {
-   "home": 9.6,
-   "away": 90.4
+   "home": 8.2,
+   "away": 91.8
   },
   "win_prob_band": {
-   "low": 7.1,
-   "high": 9.6,
-   "gtd_count": 2
+   "low": 7.2,
+   "high": 8.2,
+   "gtd_count": 1
   },
-  "expected_margin": -18.42,
+  "expected_margin": -19.64,
   "expected_score": {
-   "home": 107.1,
-   "away": 125.5
+   "home": 106.4,
+   "away": 126.1
   },
   "margin_breakdown": [
    {
@@ -4801,8 +4801,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.2,
-    "detail": "Chicago Bulls 1 out (17 min), San Antonio Spurs 2 out (57 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
+    "points": -1.02,
+    "detail": "Chicago Bulls 3 out (59 min) costing 1.4 pts, San Antonio Spurs 2 out (57 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4828,9 +4828,25 @@
   "absences": {
    "home": [
     {
+     "player": "Norman Powell",
+     "mpg": 25.4,
+     "nth_out": 1,
+     "value": 6.7,
+     "cost": -1.41,
+     "no_minutes": false
+    },
+    {
      "player": "Tobe Awaka",
      "mpg": 16.8,
      "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Dailyn Swain",
+     "mpg": 16.4,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4866,12 +4882,6 @@
   "gtd": {
    "home": [
     {
-     "player": "Norman Powell",
-     "mpg": 25.4,
-     "value": 6.7,
-     "status": "Questionable"
-    },
-    {
      "player": "Caleb Wilson",
      "mpg": 30.3,
      "value": 4.6,
@@ -4899,19 +4909,6 @@
      "ppg": 19.3,
      "rpg": 6.3,
      "apg": 2.1
-    },
-    {
-     "player": "Norman Powell",
-     "player_id": 1626181,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 28.8,
-     "ppg": 19.2,
-     "rpg": 2.5,
-     "apg": 1.6
     },
     {
      "player": "Josh Giddey",
@@ -4956,7 +4953,7 @@
      "player": "Patrick Williams",
      "player_id": 1630172,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 2,
      "starts": 0,
      "start_rate": 0,
@@ -4990,6 +4987,19 @@
      "ppg": 10.3,
      "rpg": 2.7,
      "apg": 2.9
+    },
+    {
+     "player": "Leonard Miller",
+     "player_id": 1631159,
+     "position": "F",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.6,
+     "ppg": 7.1,
+     "rpg": 4.1,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -5107,10 +5117,10 @@
   "data_through": "2026-11-10",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -16.39,
+   "expected_margin": -17.8,
    "win_prob": {
-    "home": 12.9,
-    "away": 87.1
+    "home": 11.0,
+    "away": 89.0
    }
   },
   "tip_et": "2026-11-11T20:00-05:00",
@@ -5141,6 +5151,12 @@
     "pick": "SAS",
     "prob": 90.4,
     "reason": "Devin Vassell (SAS) now out"
+   },
+   {
+    "at": "2026-11-11T19:17-05:00",
+    "pick": "SAS",
+    "prob": 91.8,
+    "reason": "Dailyn Swain (CHI) now out; Norman Powell (CHI) now out"
    }
   ]
  },
