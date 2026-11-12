@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T01:33-05:00",
+ "generated": "2026-11-11T21:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1533,13 +1533,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-11",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 109,
+   "cum_games": 161,
+   "cum_pct": 67.7,
+   "picks": [
+    {
+     "away": "WAS",
+     "home": "IND",
+     "pick": "IND",
+     "prob": 58.6,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 160,
-  "wins": 108,
+  "games": 161,
+  "wins": 109,
   "losses": 52,
-  "pct": 67.5
+  "pct": 67.7
  },
  "unscored": 0
 }

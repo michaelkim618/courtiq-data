@@ -1278,5 +1278,13 @@
   "home": "SAC",
   "conf": 50.8,
   "correct": false
+ },
+ {
+  "date": "2026-11-11",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "IND",
+  "conf": 58.6,
+  "correct": true
  }
 ]

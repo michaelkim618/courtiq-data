@@ -20053,7 +20053,7 @@
    },
    "home": "HOU",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-11T21:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-11T21:30-05:00",
    "tip_known": true,
@@ -20951,6 +20951,13 @@
    "home": "IND",
    "late": false,
    "locked_at": "2026-11-11T19:00-05:00",
+   "result": {
+    "score": {
+     "away": 101,
+     "home": 114
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-11T19:00-05:00",
    "tip_known": true,
