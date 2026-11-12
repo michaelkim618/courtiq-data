@@ -21260,6 +21260,11 @@
   "2026-11-12_DET@WAS": {
    "away": "DET",
    "date": "2026-11-12",
+   "final_check": {
+    "at": "2026-11-12T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-12T18:45-05:00"
+   },
    "home": "WAS",
    "late": false,
    "locked_at": null,
@@ -21421,6 +21426,11 @@
   "2026-11-12_TOR@PHI": {
    "away": "TOR",
    "date": "2026-11-12",
+   "final_check": {
+    "at": "2026-11-12T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-12T18:45-05:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
