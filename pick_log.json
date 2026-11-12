@@ -21213,6 +21213,37 @@
       "away": 84.9,
       "home": 15.1
      }
+    },
+    {
+     "at": "2026-11-12T10:33-05:00",
+     "expected_margin": -12.09,
+     "gtd": {
+      "away": [
+       "Elijah Harkless"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-12T10:30-05:00",
+     "win_prob": {
+      "away": 80.4,
+      "home": 19.6
+     }
     }
    ]
   },
@@ -21256,6 +21287,38 @@
      "win_prob": {
       "away": 34.6,
       "home": 65.4
+     }
+    },
+    {
+     "at": "2026-11-12T10:33-05:00",
+     "expected_margin": 3.08,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Joel Embiid",
+       "LeBron James"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "Scottie Barnes",
+       "Nate Bittle"
+      ],
+      "home": [
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-12T10:30-05:00",
+     "win_prob": {
+      "away": 41.4,
+      "home": 58.6
      }
     }
    ]
