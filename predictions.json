@@ -4442,7 +4442,7 @@
  },
  {
   "date": "2026-11-11",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Golden State Warriors",
   "home": "Houston Rockets",
   "away_code": "GSW",
@@ -4665,229 +4665,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 11,
-    "away": 11
-   },
-   "home": [
-    {
-     "player": "Jabari Smith Jr.",
-     "player_id": 1631095,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 35.3,
-     "ppg": 17.0,
-     "rpg": 6.5,
-     "apg": 2.4
-    },
-    {
-     "player": "Alperen Sengun",
-     "player_id": 1630578,
-     "position": "C",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 34.8,
-     "ppg": 21.3,
-     "rpg": 9.1,
-     "apg": 7.8
-    },
-    {
-     "player": "Kevin Durant",
-     "player_id": 201142,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 34.3,
-     "ppg": 21.0,
-     "rpg": 6.3,
-     "apg": 3.5
-    },
-    {
-     "player": "Amen Thompson",
-     "player_id": 1641708,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 14.9,
-     "rpg": 6.6,
-     "apg": 3.0
-    },
-    {
-     "player": "Fred VanVleet",
-     "player_id": 1627832,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 30.0,
-     "ppg": 13.2,
-     "rpg": 3.2,
-     "apg": 5.6
-    },
-    {
-     "player": "Reed Sheppard",
-     "player_id": 1642263,
-     "position": "G",
-     "starter": false,
-     "games": 8,
-     "starts": 3,
-     "start_rate": 38,
-     "mpg": 20.2,
-     "ppg": 9.8,
-     "rpg": 1.8,
-     "apg": 2.8
-    },
-    {
-     "player": "Tari Eason",
-     "player_id": 1631106,
-     "position": "F",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.8,
-     "ppg": 9.6,
-     "rpg": 5.9,
-     "apg": 1.4
-    },
-    {
-     "player": "Marcus Smart",
-     "player_id": 203935,
-     "position": "G",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.0,
-     "ppg": 8.6,
-     "rpg": 2.6,
-     "apg": 2.1
-    }
-   ],
-   "away": [
-    {
-     "player": "Brandin Podziemski",
-     "player_id": 1641764,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 16.8,
-     "rpg": 5.0,
-     "apg": 4.2
-    },
-    {
-     "player": "Yaxel Lendeborg",
-     "player_id": 1642865,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 31.8,
-     "ppg": 21.4,
-     "rpg": 7.2,
-     "apg": 4.0
-    },
-    {
-     "player": "Stephen Curry",
-     "player_id": 201939,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 28.7,
-     "ppg": 30.6,
-     "rpg": 4.1,
-     "apg": 4.3
-    },
-    {
-     "player": "Draymond Green",
-     "player_id": 203110,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 26.9,
-     "ppg": 2.8,
-     "rpg": 4.9,
-     "apg": 7.6
-    },
-    {
-     "player": "Gui Santos",
-     "player_id": 1630611,
-     "position": "F",
-     "starter": true,
-     "games": 8,
-     "starts": 6,
-     "start_rate": 75,
-     "mpg": 19.2,
-     "ppg": 6.1,
-     "rpg": 4.0,
-     "apg": 1.5
-    },
-    {
-     "player": "Graham Ike",
-     "player_id": 1643633,
-     "position": "F",
-     "starter": false,
-     "games": 8,
-     "starts": 4,
-     "start_rate": 50,
-     "mpg": 9.9,
-     "ppg": 4.9,
-     "rpg": 2.8,
-     "apg": 0.9
-    },
-    {
-     "player": "De'Anthony Melton",
-     "player_id": 1629001,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 3,
-     "start_rate": 27,
-     "mpg": 22.2,
-     "ppg": 10.0,
-     "rpg": 4.3,
-     "apg": 2.2
-    },
-    {
-     "player": "Will Richard",
-     "player_id": 1642954,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 2,
-     "start_rate": 20,
-     "mpg": 17.2,
-     "ppg": 5.1,
-     "rpg": 1.8,
-     "apg": 1.0
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 115,
+   "away": 108
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Houston Rockets",
   "model_winner": "Houston Rockets",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-10",
   "team_model": {
@@ -4915,7 +4700,339 @@
     "prob": 67.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Alperen Sengun",
+     "starter": true,
+     "min": 37,
+     "pts": 19,
+     "reb": 13,
+     "ast": 9,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 11
+    },
+    {
+     "name": "Jabari Smith Jr.",
+     "starter": true,
+     "min": 35,
+     "pts": 14,
+     "reb": 8,
+     "ast": 0,
+     "stl": 1,
+     "blk": 3,
+     "tov": 2,
+     "pm": 20
+    },
+    {
+     "name": "Kevin Durant",
+     "starter": true,
+     "min": 34,
+     "pts": 20,
+     "reb": 4,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 17
+    },
+    {
+     "name": "Fred VanVleet",
+     "starter": true,
+     "min": 30,
+     "pts": 18,
+     "reb": 2,
+     "ast": 6,
+     "stl": 3,
+     "blk": 0,
+     "tov": 0,
+     "pm": 25
+    },
+    {
+     "name": "Amen Thompson",
+     "starter": true,
+     "min": 29,
+     "pts": 19,
+     "reb": 7,
+     "ast": 4,
+     "stl": 1,
+     "blk": 2,
+     "tov": 2,
+     "pm": 9
+    },
+    {
+     "name": "Tari Eason",
+     "starter": false,
+     "min": 22,
+     "pts": 6,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -11
+    },
+    {
+     "name": "Reed Sheppard",
+     "starter": false,
+     "min": 20,
+     "pts": 13,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Marcus Smart",
+     "starter": false,
+     "min": 17,
+     "pts": 6,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Bogdan Bogdanovic",
+     "starter": false,
+     "min": 10,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Bruce Thornton",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Jae'Sean Tate",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Isaiah Crawford",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Oscar Tshiebwe",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    }
+   ],
+   "away": [
+    {
+     "name": "Brandin Podziemski",
+     "starter": true,
+     "min": 37,
+     "pts": 22,
+     "reb": 6,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": -17
+    },
+    {
+     "name": "Yaxel Lendeborg",
+     "starter": true,
+     "min": 36,
+     "pts": 25,
+     "reb": 10,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": -15
+    },
+    {
+     "name": "Draymond Green",
+     "starter": true,
+     "min": 27,
+     "pts": 7,
+     "reb": 5,
+     "ast": 7,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -20
+    },
+    {
+     "name": "De'Anthony Melton",
+     "starter": false,
+     "min": 25,
+     "pts": 11,
+     "reb": 4,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -5
+    },
+    {
+     "name": "Al Horford",
+     "starter": true,
+     "min": 21,
+     "pts": 2,
+     "reb": 1,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Will Richard",
+     "starter": false,
+     "min": 19,
+     "pts": 9,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -2
+    },
+    {
+     "name": "Georges Niang",
+     "starter": false,
+     "min": 19,
+     "pts": 5,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "LJ Cryer",
+     "starter": false,
+     "min": 18,
+     "pts": 13,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 18
+    },
+    {
+     "name": "Charles Bassey",
+     "starter": false,
+     "min": 13,
+     "pts": 7,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Gui Santos",
+     "starter": false,
+     "min": 12,
+     "pts": 0,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 4,
+     "pm": 7
+    },
+    {
+     "name": "Stephen Curry",
+     "starter": true,
+     "min": 6,
+     "pts": 3,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -9
+    },
+    {
+     "name": "Graham Ike",
+     "starter": false,
+     "min": 4,
+     "pts": 4,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Malevy Leons",
+     "starter": false,
+     "min": 4,
+     "pts": 0,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "tov": 0,
+     "pm": 11
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Kevin Durant",
+    "pts": 20,
+    "reb": 4,
+    "ast": 5
+   },
+   "away": {
+    "name": "Yaxel Lendeborg",
+    "pts": 25,
+    "reb": 10,
+    "ast": 0
+   }
+  }
  },
  {
   "date": "2026-11-11",
@@ -6398,7 +6515,7 @@
    "losses": 3,
    "win_pct": 0.727,
    "conference": "West",
-   "rank": 3
+   "rank": 4
   },
   "away_standing": {
    "wins": 7,

@@ -20082,6 +20082,13 @@
    "home": "HOU",
    "late": false,
    "locked_at": "2026-11-11T21:30-05:00",
+   "result": {
+    "score": {
+     "away": 108,
+     "home": 115
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-11T21:30-05:00",
    "tip_known": true,
