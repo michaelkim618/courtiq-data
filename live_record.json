@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T22:47-05:00",
+ "generated": "2026-11-12T00:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1536,13 +1536,13 @@
   },
   {
    "date": "2026-11-11",
-   "games": 7,
-   "wins": 4,
+   "games": 8,
+   "wins": 5,
    "losses": 3,
-   "pct": 57.1,
-   "cum_wins": 112,
-   "cum_games": 167,
-   "cum_pct": 67.1,
+   "pct": 62.5,
+   "cum_wins": 113,
+   "cum_games": 168,
+   "cum_pct": 67.3,
    "picks": [
     {
      "away": "BKN",
@@ -1585,6 +1585,14 @@
      "updated": true
     },
     {
+     "away": "ORL",
+     "home": "UTA",
+     "pick": "ORL",
+     "prob": 75.0,
+     "correct": true,
+     "updated": true
+    },
+    {
      "away": "SAS",
      "home": "CHI",
      "pick": "SAS",
@@ -1604,10 +1612,10 @@
   }
  ],
  "total": {
-  "games": 167,
-  "wins": 112,
+  "games": 168,
+  "wins": 113,
   "losses": 55,
-  "pct": 67.1
+  "pct": 67.3
  },
  "unscored": 0
 }
