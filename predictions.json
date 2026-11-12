@@ -4769,9 +4769,9 @@
    "away": 91.8
   },
   "win_prob_band": {
-   "low": 7.2,
+   "low": 8.2,
    "high": 8.2,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -19.64,
   "expected_score": {
@@ -4880,14 +4880,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Caleb Wilson",
-     "mpg": 30.3,
-     "value": 4.6,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5157,6 +5150,12 @@
     "pick": "SAS",
     "prob": 91.8,
     "reason": "Dailyn Swain (CHI) now out; Norman Powell (CHI) now out"
+   },
+   {
+    "at": "2026-11-11T19:32-05:00",
+    "pick": "SAS",
+    "prob": 91.8,
+    "reason": "Caleb Wilson (CHI) cleared to play"
    }
   ]
  },
@@ -5716,9 +5715,9 @@
    "away": 91.3
   },
   "win_prob_band": {
-   "low": 7.0,
+   "low": 8.7,
    "high": 8.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -19.22,
   "expected_score": {
@@ -5795,14 +5794,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Tyler Herro",
-     "mpg": 28.3,
-     "value": 8.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6078,6 +6070,12 @@
     "pick": "LAL",
     "prob": 91.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-11T19:32-05:00",
+    "pick": "LAL",
+    "prob": 91.3,
+    "reason": "Tyler Herro (MIL) cleared to play"
    }
   ]
  },
