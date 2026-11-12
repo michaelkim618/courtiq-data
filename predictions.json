@@ -6669,9 +6669,9 @@
    "away": 71.3
   },
   "win_prob_band": {
-   "low": 25.8,
+   "low": 28.7,
    "high": 30.4,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -7.93,
   "expected_score": {
@@ -6796,14 +6796,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Keyonte George",
-     "mpg": 27.9,
-     "value": 6.0,
-     "status": "Questionable"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Tristan da Silva",
@@ -7086,6 +7079,12 @@
     "pick": "ORL",
     "prob": 71.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-11T20:17-05:00",
+    "pick": "ORL",
+    "prob": 71.3,
+    "reason": "Keyonte George (UTA) cleared to play"
    }
   ]
  },
