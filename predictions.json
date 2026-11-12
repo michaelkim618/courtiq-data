@@ -6208,7 +6208,7 @@
    {
     "label": "Absences",
     "points": -0.96,
-    "detail": "Washington Wizards 3 out (52 min) costing 0.7 pts, Detroit Pistons 2 out (45 min) costing 1.4 pts · Washington Wizards: official report not filed yet, ESPN injury list used · Reece Beekman out all season, already baked into team rating"
+    "detail": "Washington Wizards 3 out (52 min) costing 0.7 pts, Detroit Pistons 2 out (45 min) costing 1.4 pts · Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6239,8 +6239,7 @@
      "nth_out": 10,
      "value": 3.0,
      "cost": -0.63,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Justin Champagnie",
@@ -6248,8 +6247,7 @@
      "nth_out": 7,
      "value": 0.2,
      "cost": -0.05,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Jamir Watkins",
@@ -6257,8 +6255,7 @@
      "nth_out": 10,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Reece Beekman",
@@ -6266,8 +6263,7 @@
      "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ],
    "away": [
