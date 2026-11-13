@@ -21670,6 +21670,390 @@
      }
     }
    ]
+  },
+  "2026-11-13_ATL@CHI": {
+   "away": "ATL",
+   "date": "2026-11-13",
+   "home": "CHI",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": -6.84,
+     "gtd": {
+      "away": [
+       "Kingston Flemings"
+      ],
+      "home": [
+       "Norman Powell"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ],
+      "home": [
+       "Caleb Wilson",
+       "Tobe Awaka"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 68.6,
+      "home": 31.4
+     }
+    }
+   ]
+  },
+  "2026-11-13_CLE@MIA": {
+   "away": "CLE",
+   "date": "2026-11-13",
+   "home": "MIA",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": 1.85,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Giannis Antetokounmpo",
+       "Klay Thompson",
+       "Pelle Larsson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 44.8,
+      "home": 55.2
+     }
+    }
+   ]
+  },
+  "2026-11-13_GSW@SAS": {
+   "away": "GSW",
+   "date": "2026-11-13",
+   "home": "SAS",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T21:30-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": 10.47,
+     "gtd": {
+      "away": [],
+      "home": [
+       "De'Aaron Fox",
+       "Devin Vassell"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody"
+      ],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 22.9,
+      "home": 77.1
+     }
+    }
+   ]
+  },
+  "2026-11-13_MEM@NOP": {
+   "away": "MEM",
+   "date": "2026-11-13",
+   "home": "NOP",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": -3.78,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Trey Murphy III",
+       "Yves Missi"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Zach Edey",
+       "Scotty Pippen Jr.",
+       "Quinten Post",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Trendon Watford"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 60.5,
+      "home": 39.5
+     }
+    }
+   ]
+  },
+  "2026-11-13_MIL@ORL": {
+   "away": "MIL",
+   "date": "2026-11-13",
+   "home": "ORL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T19:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": 11.0,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Tristan da Silva",
+       "Jalen Suggs"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 21.8,
+      "home": 78.2
+     }
+    }
+   ]
+  },
+  "2026-11-13_NYK@IND": {
+   "away": "NYK",
+   "date": "2026-11-13",
+   "home": "IND",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T19:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": -8.58,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Aaron Nesmith"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 72.8,
+      "home": 27.2
+     }
+    }
+   ]
+  },
+  "2026-11-13_OKC@LAC": {
+   "away": "OKC",
+   "date": "2026-11-13",
+   "home": "LAC",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T22:30-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": -8.11,
+     "gtd": {
+      "away": [
+       "Ajay Mitchell"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 71.7,
+      "home": 28.3
+     }
+    }
+   ]
+  },
+  "2026-11-13_POR@SAC": {
+   "away": "POR",
+   "date": "2026-11-13",
+   "home": "SAC",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T22:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": -13.37,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Precious Achiuwa"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 82.8,
+      "home": 17.2
+     }
+    }
+   ]
+  },
+  "2026-11-13_UTA@HOU": {
+   "away": "UTA",
+   "date": "2026-11-13",
+   "home": "HOU",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-13T20:30-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-13T00:33-05:00",
+     "expected_margin": 20.6,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic"
+      ],
+      "home": [
+       "Steven Adams",
+       "Marcus Smart",
+       "Clint Capela"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Opening pick",
+     "report": "2026-11-13T00:30-05:00",
+     "win_prob": {
+      "away": 7.2,
+      "home": 92.8
+     }
+    }
+   ]
   }
  }
 }
