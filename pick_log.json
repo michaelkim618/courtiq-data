@@ -22090,6 +22090,11 @@
   "2026-11-13_MIL@ORL": {
    "away": "MIL",
    "date": "2026-11-13",
+   "final_check": {
+    "at": "2026-11-13T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-13T18:45-05:00"
+   },
    "home": "ORL",
    "late": false,
    "locked_at": null,
@@ -22186,6 +22191,11 @@
   "2026-11-13_NYK@IND": {
    "away": "NYK",
    "date": "2026-11-13",
+   "final_check": {
+    "at": "2026-11-13T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-13T18:45-05:00"
+   },
    "home": "IND",
    "late": false,
    "locked_at": null,
