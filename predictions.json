@@ -7282,7 +7282,7 @@
  },
  {
   "date": "2026-11-12",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Charlotte Hornets",
   "home": "Phoenix Suns",
   "away_code": "CHA",
@@ -7481,229 +7481,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 10,
-    "away": 11
-   },
-   "home": [
-    {
-     "player": "Devin Booker",
-     "player_id": 1626164,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 33.9,
-     "ppg": 25.0,
-     "rpg": 2.7,
-     "apg": 4.8
-    },
-    {
-     "player": "Miles Bridges",
-     "player_id": 1628970,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 15.0,
-     "rpg": 7.4,
-     "apg": 3.1
-    },
-    {
-     "player": "Dillon Brooks",
-     "player_id": 1628415,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 29.7,
-     "ppg": 14.9,
-     "rpg": 3.9,
-     "apg": 2.2
-    },
-    {
-     "player": "Jalen Green",
-     "player_id": 1630224,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 27.8,
-     "ppg": 11.8,
-     "rpg": 3.3,
-     "apg": 3.4
-    },
-    {
-     "player": "Khaman Maluach",
-     "player_id": 1642863,
-     "position": "C",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 19.8,
-     "ppg": 8.1,
-     "rpg": 6.4,
-     "apg": 1.4
-    },
-    {
-     "player": "Collin Gillespie",
-     "player_id": 1631221,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.3,
-     "ppg": 7.2,
-     "rpg": 2.2,
-     "apg": 4.4
-    },
-    {
-     "player": "Oso Ighodaro",
-     "player_id": 1642345,
-     "position": "F",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.0,
-     "ppg": 6.5,
-     "rpg": 5.5,
-     "apg": 3.1
-    },
-    {
-     "player": "Jordan Goodwin",
-     "player_id": 1630692,
-     "position": "G",
-     "starter": false,
-     "games": 6,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.1,
-     "ppg": 9.5,
-     "rpg": 3.3,
-     "apg": 2.3
-    }
-   ],
-   "away": [
-    {
-     "player": "Naz Reid",
-     "player_id": 1629675,
-     "position": "C",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 29.5,
-     "ppg": 17.4,
-     "rpg": 8.5,
-     "apg": 2.1
-    },
-    {
-     "player": "Moussa Diabaté",
-     "player_id": 1631217,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 28.7,
-     "ppg": 8.9,
-     "rpg": 9.1,
-     "apg": 2.1
-    },
-    {
-     "player": "Sion James",
-     "player_id": 1642883,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 25.6,
-     "ppg": 6.3,
-     "rpg": 3.1,
-     "apg": 2.6
-    },
-    {
-     "player": "Grayson Allen",
-     "player_id": 1628960,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 26.7,
-     "ppg": 15.3,
-     "rpg": 2.8,
-     "apg": 3.0
-    },
-    {
-     "player": "Royce O'Neale",
-     "player_id": 1626220,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.2,
-     "ppg": 5.2,
-     "rpg": 3.1,
-     "apg": 0.7
-    },
-    {
-     "player": "Ryan Kalkbrenner",
-     "player_id": 1641750,
-     "position": "C",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.8,
-     "ppg": 4.8,
-     "rpg": 5.4,
-     "apg": 1.5
-    },
-    {
-     "player": "Coby White",
-     "player_id": 1629632,
-     "position": "G",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.5,
-     "ppg": 7.0,
-     "rpg": 2.0,
-     "apg": 3.8
-    },
-    {
-     "player": "Tidjane Salaün",
-     "player_id": 1642275,
-     "position": "F",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.2,
-     "ppg": 6.9,
-     "rpg": 3.4,
-     "apg": 0.1
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 101,
+   "away": 96
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Phoenix Suns",
   "model_winner": "Phoenix Suns",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-11",
   "team_model": {
@@ -7737,6 +7522,266 @@
     "prob": 67.7,
     "reason": "Moussa Diabate (CHA) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Devin Booker",
+     "starter": true,
+     "min": 35,
+     "pts": 30,
+     "reb": 1,
+     "ast": 7,
+     "stl": 3,
+     "blk": 1,
+     "tov": 2,
+     "pm": -9
+    },
+    {
+     "name": "Oso Ighodaro",
+     "starter": true,
+     "min": 32,
+     "pts": 2,
+     "reb": 3,
+     "ast": 7,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 14
+    },
+    {
+     "name": "Dillon Brooks",
+     "starter": true,
+     "min": 30,
+     "pts": 15,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -13
+    },
+    {
+     "name": "Collin Gillespie",
+     "starter": false,
+     "min": 27,
+     "pts": 13,
+     "reb": 2,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 12
+    },
+    {
+     "name": "Miles Bridges",
+     "starter": true,
+     "min": 25,
+     "pts": 11,
+     "reb": 6,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Jordan Goodwin",
+     "starter": false,
+     "min": 24,
+     "pts": 6,
+     "reb": 5,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 18
+    },
+    {
+     "name": "Jalen Green",
+     "starter": true,
+     "min": 21,
+     "pts": 12,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -16
+    },
+    {
+     "name": "Luke Kennard",
+     "starter": false,
+     "min": 21,
+     "pts": 8,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 16
+    },
+    {
+     "name": "Khaman Maluach",
+     "starter": false,
+     "min": 16,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Ryan Dunn",
+     "starter": false,
+     "min": 10,
+     "pts": 0,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 9
+    }
+   ],
+   "away": [
+    {
+     "name": "Naz Reid",
+     "starter": true,
+     "min": 34,
+     "pts": 16,
+     "reb": 8,
+     "ast": 3,
+     "stl": 2,
+     "blk": 1,
+     "tov": 4,
+     "pm": -10
+    },
+    {
+     "name": "Grayson Allen",
+     "starter": true,
+     "min": 34,
+     "pts": 14,
+     "reb": 4,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 4,
+     "pm": -4
+    },
+    {
+     "name": "Moussa Diabate",
+     "starter": true,
+     "min": 32,
+     "pts": 7,
+     "reb": 13,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 4,
+     "pm": 0
+    },
+    {
+     "name": "Sion James",
+     "starter": true,
+     "min": 32,
+     "pts": 3,
+     "reb": 7,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 5,
+     "pm": 2
+    },
+    {
+     "name": "Royce O'Neale",
+     "starter": false,
+     "min": 22,
+     "pts": 7,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -1
+    },
+    {
+     "name": "Coby White",
+     "starter": true,
+     "min": 20,
+     "pts": 21,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -2
+    },
+    {
+     "name": "Christian Anderson",
+     "starter": false,
+     "min": 18,
+     "pts": 13,
+     "reb": 0,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -5
+    },
+    {
+     "name": "Grant Williams",
+     "starter": false,
+     "min": 16,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Tidjane Salaun",
+     "starter": false,
+     "min": 16,
+     "pts": 2,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Ryan Kalkbrenner",
+     "starter": false,
+     "min": 16,
+     "pts": 2,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -9
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Devin Booker",
+    "pts": 30,
+    "reb": 1,
+    "ast": 7
+   },
+   "away": {
+    "name": "Coby White",
+    "pts": 21,
+    "reb": 3,
+    "ast": 3
+   }
+  }
  }
 ]

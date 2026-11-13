@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T22:17-05:00",
+ "generated": "2026-11-12T23:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1628,14 +1628,22 @@
   },
   {
    "date": "2026-11-12",
-   "games": 3,
-   "wins": 3,
+   "games": 4,
+   "wins": 4,
    "losses": 0,
    "pct": 100.0,
-   "cum_wins": 118,
-   "cum_games": 173,
-   "cum_pct": 68.2,
+   "cum_wins": 119,
+   "cum_games": 174,
+   "cum_pct": 68.4,
    "picks": [
+    {
+     "away": "CHA",
+     "home": "PHX",
+     "pick": "PHX",
+     "prob": 67.7,
+     "correct": true,
+     "updated": true
+    },
     {
      "away": "DAL",
      "home": "MIN",
@@ -1664,10 +1672,10 @@
   }
  ],
  "total": {
-  "games": 173,
-  "wins": 118,
+  "games": 174,
+  "wins": 119,
   "losses": 55,
-  "pct": 68.2
+  "pct": 68.4
  },
  "unscored": 0
 }
