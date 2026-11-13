@@ -3718,7 +3718,7 @@
   "win_prob_band": {
    "low": 27.9,
    "high": 31.4,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -6.86,
   "expected_score": {
@@ -3840,15 +3840,7 @@
      "ppg": 18.0
     }
    ],
-   "away": [
-    {
-     "player": "Kingston Flemings",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 9.1
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4093,6 +4085,12 @@
     "pick": "ATL",
     "prob": 68.6,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T18:32-05:00",
+    "pick": "ATL",
+    "prob": 68.6,
+    "reason": "Kingston Flemings (ATL) cleared to play"
    }
   ]
  },
