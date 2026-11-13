@@ -21192,6 +21192,11 @@
   "2026-11-12_DAL@MIN": {
    "away": "DAL",
    "date": "2026-11-12",
+   "final_check": {
+    "at": "2026-11-12T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-12T19:45-05:00"
+   },
    "home": "MIN",
    "late": false,
    "locked_at": null,
