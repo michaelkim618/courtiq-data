@@ -2314,15 +2314,15 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 27.2,
-   "away": 72.8
+   "home": 27.1,
+   "away": 72.9
   },
   "win_prob_band": {
-   "low": 26.2,
-   "high": 27.2,
+   "low": 26.1,
+   "high": 27.1,
    "gtd_count": 1
   },
-  "expected_margin": -8.58,
+  "expected_margin": -8.62,
   "expected_score": {
    "home": 107.5,
    "away": 116.1
@@ -2330,12 +2330,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -5.7,
+    "points": -5.78,
     "detail": "Indiana Pacers vs New York Knicks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -2350,7 +2350,7 @@
    },
    {
     "label": "Absences",
-    "points": -2.25,
+    "points": -2.24,
     "detail": "Indiana Pacers 3 out (65 min) costing 1.6 pts"
    }
   ],
@@ -2382,7 +2382,8 @@
      "nth_out": 2,
      "value": 7.6,
      "cost": -1.59,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 18.8
     },
     {
      "player": "Ben Sheppard",
@@ -2390,7 +2391,8 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 7.0
     },
     {
      "player": "Johnny Furphy",
@@ -2398,7 +2400,8 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 5.4
     }
    ],
    "away": []
@@ -2409,7 +2412,8 @@
      "player": "Aaron Nesmith",
      "mpg": 24.1,
      "value": 2.1,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 12.8
     }
    ],
    "away": []
@@ -2657,6 +2661,12 @@
     "pick": "NYK",
     "prob": 72.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T15:02-05:00",
+    "pick": "NYK",
+    "prob": 72.9,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -2759,28 +2769,28 @@
    "streak": -8
   },
   "win_prob": {
-   "home": 78.2,
-   "away": 21.8
+   "home": 78.1,
+   "away": 21.9
   },
   "win_prob_band": {
    "low": 76.4,
-   "high": 78.2,
+   "high": 78.1,
    "gtd_count": 2
   },
-  "expected_margin": 11.0,
+  "expected_margin": 10.98,
   "expected_score": {
    "home": 118.1,
-   "away": 107.1
+   "away": 107.2
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 7.24,
+    "points": 7.18,
     "detail": "Orlando Magic vs Milwaukee Bucks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -2795,7 +2805,7 @@
    },
    {
     "label": "Absences",
-    "points": 0.67,
+    "points": 0.68,
     "detail": "Orlando Magic 3 out (48 min) costing 2.0 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
@@ -2827,7 +2837,8 @@
      "nth_out": 1,
      "value": 9.4,
      "cost": -1.98,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 20.8
     },
     {
      "player": "Noah Penda",
@@ -2835,7 +2846,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 3.9
     },
     {
      "player": "Jonathan Isaac",
@@ -2843,7 +2855,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 2.9
     },
     {
      "player": "Izaiyah Nelson",
@@ -2862,13 +2875,15 @@
      "player": "Tristan da Silva",
      "mpg": 26.8,
      "value": 3.3,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 15.2
     },
     {
      "player": "Jalen Suggs",
      "mpg": 28.5,
      "value": 0.7,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 13.3
     }
    ],
    "away": []
@@ -3116,6 +3131,12 @@
     "pick": "ORL",
     "prob": 78.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T15:02-05:00",
+    "pick": "ORL",
+    "prob": 78.1,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -3218,15 +3239,15 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 55.2,
-   "away": 44.8
+   "home": 55.0,
+   "away": 45.0
   },
   "win_prob_band": {
-   "low": 54.1,
-   "high": 55.2,
+   "low": 53.9,
+   "high": 55.0,
    "gtd_count": 2
   },
-  "expected_margin": 1.85,
+  "expected_margin": 1.77,
   "expected_score": {
    "home": 117.4,
    "away": 115.6
@@ -3234,12 +3255,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 0.44,
+    "points": 0.33,
     "detail": "Miami Heat vs Cleveland Cavaliers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -3287,7 +3308,8 @@
      "nth_out": 1,
      "value": 2.9,
      "cost": -0.61,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 16.4
     },
     {
      "player": "Sam Merrill",
@@ -3295,7 +3317,8 @@
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 8.2
     },
     {
      "player": "Nae'Qwan Tomlin",
@@ -3303,7 +3326,8 @@
      "nth_out": 11,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 5.4
     }
    ]
   },
@@ -3313,13 +3337,15 @@
      "player": "Klay Thompson",
      "mpg": 22.0,
      "value": 1.9,
-     "status": "Probable"
+     "status": "Probable",
+     "ppg": 11.7
     },
     {
      "player": "Pelle Larsson",
      "mpg": 27.3,
      "value": 0.0,
-     "status": "Doubtful"
+     "status": "Doubtful",
+     "ppg": 11.5
     }
    ],
    "away": []
@@ -3573,6 +3599,12 @@
     "pick": "MIA",
     "prob": 55.2,
     "reason": "Giannis Antetokounmpo (MIA) cleared to play"
+   },
+   {
+    "at": "2026-11-13T15:02-05:00",
+    "pick": "MIA",
+    "prob": 55.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -3679,11 +3711,11 @@
    "away": 68.6
   },
   "win_prob_band": {
-   "low": 28.0,
+   "low": 27.9,
    "high": 31.4,
    "gtd_count": 2
   },
-  "expected_margin": -6.84,
+  "expected_margin": -6.86,
   "expected_score": {
    "home": 115.0,
    "away": 121.8
@@ -3691,12 +3723,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -5.93,
+    "points": -5.96,
     "detail": "Chicago Bulls vs Atlanta Hawks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -3711,7 +3743,7 @@
    },
    {
     "label": "Absences",
-    "points": 1.28,
+    "points": 1.26,
     "detail": "Chicago Bulls 2 out (47 min) costing 1.0 pts, Atlanta Hawks 2 out (30 min) costing 0.2 pts · Henri Veesaar, Keshon Gilbert out all season, already baked into team rating"
    }
   ],
@@ -3743,7 +3775,8 @@
      "nth_out": 1,
      "value": 4.6,
      "cost": -0.96,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 18.1
     },
     {
      "player": "Tobe Awaka",
@@ -3751,7 +3784,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 4.4
     }
    ],
    "away": [
@@ -3761,7 +3795,8 @@
      "nth_out": 1,
      "value": 0.8,
      "cost": -0.16,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 7.3
     },
     {
      "player": "Mouhamed Gueye",
@@ -3769,7 +3804,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 4.2
     },
     {
      "player": "Henri Veesaar",
@@ -3795,7 +3831,8 @@
      "player": "Norman Powell",
      "mpg": 25.4,
      "value": 6.7,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 18.0
     }
    ],
    "away": [
@@ -3803,7 +3840,8 @@
      "player": "Kingston Flemings",
      "mpg": 21.9,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 9.1
     }
    ]
   },
@@ -4168,12 +4206,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -3.83,
+    "points": -3.85,
     "detail": "New Orleans Pelicans vs Memphis Grizzlies: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -4188,7 +4226,7 @@
    },
    {
     "label": "Absences",
-    "points": 0.64,
+    "points": 0.63,
     "detail": "New Orleans Pelicans 4 out (75 min) costing 0.0 pts, Memphis Grizzlies 3 out (50 min) · Richie Saunders out all season, already baked into team rating"
    }
   ],
@@ -4220,7 +4258,8 @@
      "nth_out": 1,
      "value": 0.2,
      "cost": -0.03,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 12.7
     },
     {
      "player": "Yves Missi",
@@ -4228,7 +4267,8 @@
      "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 8.4
     },
     {
      "player": "Trendon Watford",
@@ -4236,7 +4276,8 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 5.8
     },
     {
      "player": "Bryce McGowens",
@@ -4244,7 +4285,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 3.2
     }
    ],
    "away": [
@@ -4254,7 +4296,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 8.0
     },
     {
      "player": "Scotty Pippen Jr.",
@@ -4262,7 +4305,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 6.2
     },
     {
      "player": "Quinten Post",
@@ -4270,7 +4314,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 6.2
     },
     {
      "player": "Richie Saunders",
@@ -4288,7 +4333,8 @@
      "player": "Dejounte Murray",
      "mpg": 30.4,
      "value": 0.0,
-     "status": "Doubtful"
+     "status": "Doubtful",
+     "ppg": 13.6
     }
    ],
    "away": []
@@ -4644,28 +4690,28 @@
    "streak": -10
   },
   "win_prob": {
-   "home": 92.8,
-   "away": 7.2
+   "home": 92.9,
+   "away": 7.1
   },
   "win_prob_band": {
-   "low": 92.8,
-   "high": 92.8,
+   "low": 92.9,
+   "high": 92.9,
    "gtd_count": 0
   },
-  "expected_margin": 20.6,
+  "expected_margin": 20.76,
   "expected_score": {
    "home": 123.3,
-   "away": 102.7
+   "away": 102.6
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 13.03,
+    "points": 13.11,
     "detail": "Houston Rockets vs Utah Jazz: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -4680,7 +4726,7 @@
    },
    {
     "label": "Absences",
-    "points": 2.01,
+    "points": 2.06,
     "detail": "Houston Rockets 3 out (60 min), Utah Jazz 3 out (76 min) costing 1.6 pts"
    }
   ],
@@ -4712,7 +4758,8 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 5.7
     },
     {
      "player": "Marcus Smart",
@@ -4720,7 +4767,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 8.9
     },
     {
      "player": "Clint Capela",
@@ -4728,7 +4776,8 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 3.7
     }
    ],
    "away": [
@@ -4738,7 +4787,8 @@
      "nth_out": 1,
      "value": 4.0,
      "cost": -0.84,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 14.6
     },
     {
      "player": "Lauri Markkanen",
@@ -4746,7 +4796,8 @@
      "nth_out": 1,
      "value": 3.8,
      "cost": -0.8,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 15.8
     },
     {
      "player": "Jusuf Nurkic",
@@ -4754,7 +4805,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 11.0
     }
    ]
   },
@@ -5005,6 +5057,12 @@
     "pick": "HOU",
     "prob": 92.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T15:02-05:00",
+    "pick": "HOU",
+    "prob": 92.9,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5107,15 +5165,15 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 77.1,
-   "away": 22.9
+   "home": 77.0,
+   "away": 23.0
   },
   "win_prob_band": {
-   "low": 76.5,
-   "high": 77.1,
+   "low": 76.4,
+   "high": 77.0,
    "gtd_count": 2
   },
-  "expected_margin": 10.47,
+  "expected_margin": 10.43,
   "expected_score": {
    "home": 118.9,
    "away": 108.5
@@ -5123,12 +5181,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 5.11,
+    "points": 5.06,
     "detail": "San Antonio Spurs vs Golden State Warriors: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -5143,7 +5201,7 @@
    },
    {
     "label": "Absences",
-    "points": 3.35,
+    "points": 3.33,
     "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Golden State Warriors 5 out (122 min) costing 6.3 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
@@ -5175,7 +5233,8 @@
      "nth_out": 1,
      "value": 1.4,
      "cost": -0.29,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 14.1
     },
     {
      "player": "Jayden Quaintance",
@@ -5193,7 +5252,8 @@
      "nth_out": 1,
      "value": 13.2,
      "cost": -2.77,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 24.3
     },
     {
      "player": "Jimmy Butler III",
@@ -5201,7 +5261,8 @@
      "nth_out": 2,
      "value": 6.0,
      "cost": -1.27,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 19.5
     },
     {
      "player": "Kristaps Porzingis",
@@ -5209,7 +5270,8 @@
      "nth_out": 2,
      "value": 5.8,
      "cost": -1.22,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 16.4
     },
     {
      "player": "Brandon Williams",
@@ -5217,7 +5279,8 @@
      "nth_out": 2,
      "value": 3.9,
      "cost": -0.82,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 11.6
     },
     {
      "player": "Moses Moody",
@@ -5225,7 +5288,8 @@
      "nth_out": 2,
      "value": 0.9,
      "cost": -0.19,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 12.2
     }
    ]
   },
@@ -5235,13 +5299,15 @@
      "player": "De'Aaron Fox",
      "mpg": 28.1,
      "value": 1.2,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 13.7
     },
     {
      "player": "Devin Vassell",
      "mpg": 28.3,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 11.2
     }
    ],
    "away": []
@@ -5489,6 +5555,12 @@
     "pick": "SAS",
     "prob": 77.1,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T15:02-05:00",
+    "pick": "SAS",
+    "prob": 77.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5591,15 +5663,15 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 17.2,
-   "away": 82.8
+   "home": 17.1,
+   "away": 82.9
   },
   "win_prob_band": {
-   "low": 17.2,
-   "high": 17.2,
+   "low": 17.1,
+   "high": 17.1,
    "gtd_count": 1
   },
-  "expected_margin": -13.37,
+  "expected_margin": -13.4,
   "expected_score": {
    "home": 108.5,
    "away": 121.9
@@ -5607,12 +5679,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -9.81,
+    "points": -9.86,
     "detail": "Sacramento Kings vs Portland Trail Blazers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -5627,7 +5699,7 @@
    },
    {
     "label": "Absences",
-    "points": -0.68,
+    "points": -0.69,
     "detail": "Sacramento Kings 1 out (26 min) costing 0.1 pts, Portland Trail Blazers 4 out (77 min) costing 2.2 pts · Ben Simmons out all season, already baked into team rating"
    }
   ],
@@ -5659,7 +5731,8 @@
      "nth_out": 1,
      "value": 0.6,
      "cost": -0.12,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 12.1
     },
     {
      "player": "Ben Simmons",
@@ -5677,7 +5750,8 @@
      "nth_out": 1,
      "value": 7.1,
      "cost": -1.48,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 19.4
     },
     {
      "player": "Ja Morant",
@@ -5685,7 +5759,8 @@
      "nth_out": 1,
      "value": 3.2,
      "cost": -0.67,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 13.6
     },
     {
      "player": "Chris Youngblood",
@@ -5693,7 +5768,8 @@
      "nth_out": 1,
      "value": 0.1,
      "cost": -0.03,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 6.0
     },
     {
      "player": "Vit Krejci",
@@ -5701,7 +5777,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 3.4
     }
    ]
   },
@@ -5711,7 +5788,8 @@
      "player": "Precious Achiuwa",
      "mpg": 25.8,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 10.5
     }
    ],
    "away": []
@@ -5959,6 +6037,12 @@
     "pick": "POR",
     "prob": 82.8,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T15:02-05:00",
+    "pick": "POR",
+    "prob": 82.9,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6061,28 +6145,28 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 28.3,
-   "away": 71.7
+   "home": 28.6,
+   "away": 71.4
   },
   "win_prob_band": {
-   "low": 28.3,
-   "high": 30.8,
+   "low": 28.6,
+   "high": 31.0,
    "gtd_count": 1
   },
-  "expected_margin": -8.11,
+  "expected_margin": -8.0,
   "expected_score": {
    "home": 107.9,
-   "away": 116.0
+   "away": 115.9
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -8.72,
+    "points": -8.62,
     "detail": "LA Clippers vs Oklahoma City Thunder: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -6097,7 +6181,7 @@
    },
    {
     "label": "Absences",
-    "points": 1.36,
+    "points": 1.34,
     "detail": "LA Clippers 3 out (65 min) costing 1.3 pts, Oklahoma City Thunder 4 out (98 min) costing 1.9 pts · Bradley Beal, Thomas Sorber out all season, already baked into team rating"
    }
   ],
@@ -6129,7 +6213,8 @@
      "nth_out": 1,
      "value": 5.8,
      "cost": -1.22,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 20.3
     },
     {
      "player": "Jordan Miller",
@@ -6137,7 +6222,8 @@
      "nth_out": 1,
      "value": 0.2,
      "cost": -0.04,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 9.7
     },
     {
      "player": "Yanic Konan Niederhauser",
@@ -6145,7 +6231,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 4.4
     },
     {
      "player": "Bradley Beal",
@@ -6163,7 +6250,8 @@
      "nth_out": 1,
      "value": 5.2,
      "cost": -1.1,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 16.6
     },
     {
      "player": "Chet Holmgren",
@@ -6171,7 +6259,8 @@
      "nth_out": 1,
      "value": 3.6,
      "cost": -0.75,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 16.2
     },
     {
      "player": "Cason Wallace",
@@ -6179,7 +6268,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 8.5
     },
     {
      "player": "Jaylin Williams",
@@ -6187,7 +6277,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 2.8
     },
     {
      "player": "Thomas Sorber",
@@ -6206,7 +6297,8 @@
      "player": "Ajay Mitchell",
      "mpg": 25.5,
      "value": 4.8,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 16.2
     }
    ]
   },
@@ -6453,6 +6545,12 @@
     "pick": "OKC",
     "prob": 71.7,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T15:02-05:00",
+    "pick": "OKC",
+    "prob": 71.4,
+    "reason": "win probability moved with the latest report"
    }
   ]
  }
