@@ -3228,18 +3228,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 54.7,
-   "away": 45.3
+   "home": 58.0,
+   "away": 42.0
   },
   "win_prob_band": {
-   "low": 53.6,
-   "high": 54.7,
-   "gtd_count": 1
+   "low": 58.0,
+   "high": 58.0,
+   "gtd_count": 0
   },
-  "expected_margin": 1.66,
+  "expected_margin": 2.87,
   "expected_score": {
-   "home": 117.3,
-   "away": 115.7
+   "home": 118.0,
+   "away": 115.1
   },
   "margin_breakdown": [
    {
@@ -3264,8 +3264,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.24,
-    "detail": "Miami Heat 1 out (27 min), Cleveland Cavaliers 3 out (67 min) costing 0.6 pts"
+    "points": 2.45,
+    "detail": "Miami Heat 2 out (49 min) costing 0.4 pts, Cleveland Cavaliers 3 out (67 min) costing 0.6 pts"
    }
   ],
   "ratings": {
@@ -3290,6 +3290,15 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Klay Thompson",
+     "mpg": 22.0,
+     "nth_out": 1,
+     "value": 1.9,
+     "cost": -0.41,
+     "no_minutes": false,
+     "ppg": 11.7
+    },
     {
      "player": "Pelle Larsson",
      "mpg": 27.3,
@@ -3331,15 +3340,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Klay Thompson",
-     "mpg": 22.0,
-     "value": 1.9,
-     "status": "Questionable",
-     "ppg": 11.7
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -3402,23 +3403,10 @@
      "apg": 1.5
     },
     {
-     "player": "Klay Thompson",
-     "player_id": 202691,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 24.8,
-     "ppg": 14.4,
-     "rpg": 1.5,
-     "apg": 1.9
-    },
-    {
      "player": "Bobby Portis Jr.",
      "player_id": 1626171,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -3452,6 +3440,19 @@
      "ppg": 4.2,
      "rpg": 1.2,
      "apg": 1.2
+    },
+    {
+     "player": "Nikola Jović",
+     "player_id": 1631107,
+     "position": "F",
+     "starter": false,
+     "games": 7,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.3,
+     "ppg": 2.4,
+     "rpg": 2.6,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -3569,10 +3570,10 @@
   "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -1.49,
+   "expected_margin": -1.89,
    "win_prob": {
-    "home": 45.9,
-    "away": 54.1
+    "home": 44.8,
+    "away": 55.2
    }
   },
   "tip_et": "2026-11-13T20:00-05:00",
@@ -3603,6 +3604,12 @@
     "pick": "MIA",
     "prob": 54.7,
     "reason": "Pelle Larsson (MIA) now out"
+   },
+   {
+    "at": "2026-11-13T18:17-05:00",
+    "pick": "MIA",
+    "prob": 58.0,
+    "reason": "Klay Thompson (MIA) now out"
    }
   ]
  },
