@@ -21810,6 +21810,35 @@
       "away": 45.0,
       "home": 55.0
      }
+    },
+    {
+     "at": "2026-11-13T18:02-05:00",
+     "expected_margin": 1.66,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Klay Thompson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Pelle Larsson"
+      ]
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Pelle Larsson (MIA) now out",
+     "report": "2026-11-13T18:00-05:00",
+     "win_prob": {
+      "away": 45.3,
+      "home": 54.7
+     }
     }
    ]
   },
@@ -22154,6 +22183,31 @@
      "pick_code": "NYK",
      "reason": "win probability moved with the latest report",
      "report": "2026-11-13T15:00-05:00",
+     "win_prob": {
+      "away": 72.9,
+      "home": 27.1
+     }
+    },
+    {
+     "at": "2026-11-13T18:02-05:00",
+     "expected_margin": -8.62,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Aaron Nesmith (IND) cleared to play",
+     "report": "2026-11-13T18:00-05:00",
      "win_prob": {
       "away": 72.9,
       "home": 27.1
