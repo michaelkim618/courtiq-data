@@ -21095,6 +21095,11 @@
   "2026-11-12_CHA@PHX": {
    "away": "CHA",
    "date": "2026-11-12",
+   "final_check": {
+    "at": "2026-11-12T20:47-05:00",
+    "label": "8:45 PM ET",
+    "report": "2026-11-12T20:45-05:00"
+   },
    "home": "PHX",
    "late": false,
    "locked_at": null,
