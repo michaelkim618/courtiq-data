@@ -2773,9 +2773,9 @@
    "away": 21.9
   },
   "win_prob_band": {
-   "low": 76.4,
+   "low": 78.1,
    "high": 78.1,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": 10.98,
   "expected_score": {
@@ -2870,22 +2870,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Tristan da Silva",
-     "mpg": 26.8,
-     "value": 3.3,
-     "status": "Questionable",
-     "ppg": 15.2
-    },
-    {
-     "player": "Jalen Suggs",
-     "mpg": 28.5,
-     "value": 0.7,
-     "status": "Questionable",
-     "ppg": 13.3
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -3137,6 +3122,12 @@
     "pick": "ORL",
     "prob": 78.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-13T17:32-05:00",
+    "pick": "ORL",
+    "prob": 78.1,
+    "reason": "Jalen Suggs (ORL) cleared to play; Tristan da Silva (ORL) cleared to play"
    }
   ]
  },
