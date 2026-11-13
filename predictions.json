@@ -2379,7 +2379,7 @@
     {
      "player": "Tyrese Haliburton",
      "mpg": 25.3,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 7.6,
      "cost": -1.59,
      "no_minutes": false
@@ -2387,7 +2387,7 @@
     {
      "player": "Ben Sheppard",
      "mpg": 21.2,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -2395,7 +2395,7 @@
     {
      "player": "Johnny Furphy",
      "mpg": 18.2,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3292,7 +3292,7 @@
     {
      "player": "Sam Merrill",
      "mpg": 22.3,
-     "nth_out": 1,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -3300,7 +3300,7 @@
     {
      "player": "Nae'Qwan Tomlin",
      "mpg": 14.5,
-     "nth_out": 1,
+     "nth_out": 11,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4217,7 +4217,7 @@
     {
      "player": "Trendon Watford",
      "mpg": 15.3,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4685,7 +4685,7 @@
     {
      "player": "Steven Adams",
      "mpg": 22.7,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4701,7 +4701,7 @@
     {
      "player": "Clint Capela",
      "mpg": 15.7,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -5174,7 +5174,7 @@
     {
      "player": "Jimmy Butler III",
      "mpg": 30.3,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 6.0,
      "cost": -1.27,
      "no_minutes": false
@@ -5182,7 +5182,7 @@
     {
      "player": "Kristaps Porzingis",
      "mpg": 23.7,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 5.8,
      "cost": -1.22,
      "no_minutes": false
@@ -5190,7 +5190,7 @@
     {
      "player": "Brandon Williams",
      "mpg": 17.4,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 3.9,
      "cost": -0.82,
      "no_minutes": false
@@ -5198,7 +5198,7 @@
     {
      "player": "Moses Moody",
      "mpg": 25.4,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 0.9,
      "cost": -0.19,
      "no_minutes": false
