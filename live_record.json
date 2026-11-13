@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T00:32-05:00",
+ "generated": "2026-11-12T21:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1625,13 +1625,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-12",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 116,
+   "cum_games": 171,
+   "cum_pct": 67.8,
+   "picks": [
+    {
+     "away": "TOR",
+     "home": "PHI",
+     "pick": "PHI",
+     "prob": 67.0,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 170,
-  "wins": 115,
+  "games": 171,
+  "wins": 116,
   "losses": 55,
-  "pct": 67.6
+  "pct": 67.8
  },
  "unscored": 0
 }
