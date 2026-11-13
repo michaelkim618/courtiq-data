@@ -4190,18 +4190,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 37.2,
-   "away": 62.8
+   "home": 40.1,
+   "away": 59.9
   },
   "win_prob_band": {
-   "low": 37.2,
-   "high": 37.2,
-   "gtd_count": 1
+   "low": 40.1,
+   "high": 40.1,
+   "gtd_count": 0
   },
-  "expected_margin": -4.62,
+  "expected_margin": -3.56,
   "expected_score": {
-   "home": 114.1,
-   "away": 118.7
+   "home": 114.6,
+   "away": 118.2
   },
   "margin_breakdown": [
    {
@@ -4226,8 +4226,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.63,
-    "detail": "New Orleans Pelicans 4 out (75 min) costing 0.0 pts, Memphis Grizzlies 3 out (50 min) · Richie Saunders out all season, already baked into team rating"
+    "points": 1.69,
+    "detail": "New Orleans Pelicans 5 out (105 min) costing 0.0 pts, Memphis Grizzlies 3 out (50 min) · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4260,6 +4260,15 @@
      "cost": -0.03,
      "no_minutes": false,
      "ppg": 12.7
+    },
+    {
+     "player": "Dejounte Murray",
+     "mpg": 30.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 13.6
     },
     {
      "player": "Yves Missi",
@@ -4328,15 +4337,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Dejounte Murray",
-     "mpg": 30.4,
-     "value": 0.0,
-     "status": "Doubtful",
-     "ppg": 13.6
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4358,19 +4359,6 @@
      "ppg": 21.7,
      "rpg": 5.2,
      "apg": 2.6
-    },
-    {
-     "player": "Dejounte Murray",
-     "player_id": 1627749,
-     "position": "G",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 31.5,
-     "ppg": 13.4,
-     "rpg": 4.6,
-     "apg": 4.4
     },
     {
      "player": "Jeremiah Fears",
@@ -4415,7 +4403,7 @@
      "player": "Herbert Jones",
      "player_id": 1630529,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 12,
      "starts": 0,
      "start_rate": 0,
@@ -4449,6 +4437,19 @@
      "ppg": 7.5,
      "rpg": 1.8,
      "apg": 2.5
+    },
+    {
+     "player": "Karlo Matković",
+     "player_id": 1631255,
+     "position": "F",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.8,
+     "ppg": 8.5,
+     "rpg": 4.3,
+     "apg": 1.2
     }
    ],
    "away": [
@@ -4566,7 +4567,7 @@
   "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -5.4,
+   "expected_margin": -5.41,
    "win_prob": {
     "home": 35.5,
     "away": 64.5
@@ -4588,6 +4589,12 @@
     "pick": "MEM",
     "prob": 62.8,
     "reason": "Bryce McGowens (NOP) now out; Trey Murphy III (NOP) now out; Yves Missi (NOP) now out; Dejounte Murray (NOP) now questionable"
+   },
+   {
+    "at": "2026-11-13T15:57-05:00",
+    "pick": "MEM",
+    "prob": 59.9,
+    "reason": "Dejounte Murray (NOP) now out"
    }
   ]
  },
