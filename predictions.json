@@ -4152,18 +4152,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 39.5,
-   "away": 60.5
+   "home": 37.2,
+   "away": 62.8
   },
   "win_prob_band": {
-   "low": 39.3,
-   "high": 39.5,
-   "gtd_count": 2
+   "low": 37.2,
+   "high": 37.2,
+   "gtd_count": 1
   },
-  "expected_margin": -3.78,
+  "expected_margin": -4.62,
   "expected_score": {
-   "home": 114.5,
-   "away": 118.3
+   "home": 114.1,
+   "away": 118.7
   },
   "margin_breakdown": [
    {
@@ -4188,8 +4188,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.48,
-    "detail": "New Orleans Pelicans 1 out (15 min), Memphis Grizzlies 3 out (50 min) · Richie Saunders out all season, already baked into team rating"
+    "points": 0.64,
+    "detail": "New Orleans Pelicans 4 out (75 min) costing 0.0 pts, Memphis Grizzlies 3 out (50 min) · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4215,9 +4215,33 @@
   "absences": {
    "home": [
     {
+     "player": "Trey Murphy III",
+     "mpg": 28.1,
+     "nth_out": 1,
+     "value": 0.2,
+     "cost": -0.03,
+     "no_minutes": false
+    },
+    {
+     "player": "Yves Missi",
+     "mpg": 20.8,
+     "nth_out": 4,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
      "player": "Trendon Watford",
      "mpg": 15.3,
      "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
+    },
+    {
+     "player": "Bryce McGowens",
+     "mpg": 10.7,
+     "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false
@@ -4261,14 +4285,8 @@
   "gtd": {
    "home": [
     {
-     "player": "Trey Murphy III",
-     "mpg": 28.1,
-     "value": 0.2,
-     "status": "Doubtful"
-    },
-    {
-     "player": "Yves Missi",
-     "mpg": 20.8,
+     "player": "Dejounte Murray",
+     "mpg": 30.4,
      "value": 0.0,
      "status": "Doubtful"
     }
@@ -4294,19 +4312,6 @@
      "ppg": 21.7,
      "rpg": 5.2,
      "apg": 2.6
-    },
-    {
-     "player": "Trey Murphy III",
-     "player_id": 1630530,
-     "position": "F",
-     "starter": true,
-     "games": 9,
-     "starts": 9,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 15.6,
-     "rpg": 4.8,
-     "apg": 3.6
     },
     {
      "player": "Dejounte Murray",
@@ -4335,23 +4340,10 @@
      "apg": 4.9
     },
     {
-     "player": "Yves Missi",
-     "player_id": 1642274,
-     "position": "C",
-     "starter": true,
-     "games": 2,
-     "starts": 2,
-     "start_rate": 100,
-     "mpg": 19.6,
-     "ppg": 9.5,
-     "rpg": 7.5,
-     "apg": 2.5
-    },
-    {
      "player": "DeAndre Jordan",
      "player_id": 201599,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 3,
      "start_rate": 100,
@@ -4364,7 +4356,7 @@
      "player": "Saddiq Bey",
      "player_id": 1630180,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 12,
      "starts": 0,
      "start_rate": 0,
@@ -4385,6 +4377,32 @@
      "ppg": 5.7,
      "rpg": 3.0,
      "apg": 1.1
+    },
+    {
+     "player": "Derik Queen",
+     "player_id": 1642852,
+     "position": "C",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 21.6,
+     "ppg": 12.2,
+     "rpg": 6.3,
+     "apg": 2.3
+    },
+    {
+     "player": "Jordan Poole",
+     "player_id": 1629673,
+     "position": "G",
+     "starter": false,
+     "games": 6,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.7,
+     "ppg": 7.5,
+     "rpg": 1.8,
+     "apg": 2.5
     }
    ],
    "away": [
@@ -4502,10 +4520,10 @@
   "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -5.37,
+   "expected_margin": -5.4,
    "win_prob": {
-    "home": 35.6,
-    "away": 64.4
+    "home": 35.5,
+    "away": 64.5
    }
   },
   "tip_et": "2026-11-13T20:00-05:00",
@@ -4518,6 +4536,12 @@
     "pick": "MEM",
     "prob": 60.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T13:03-05:00",
+    "pick": "MEM",
+    "prob": 62.8,
+    "reason": "Bryce McGowens (NOP) now out; Trey Murphy III (NOP) now out; Yves Missi (NOP) now out; Dejounte Murray (NOP) now questionable"
    }
   ]
  },

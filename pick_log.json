@@ -21842,6 +21842,39 @@
       "away": 60.5,
       "home": 39.5
      }
+    },
+    {
+     "at": "2026-11-13T13:03-05:00",
+     "expected_margin": -4.62,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Dejounte Murray"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Zach Edey",
+       "Scotty Pippen Jr.",
+       "Quinten Post",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Yves Missi",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Bryce McGowens (NOP) now out; Trey Murphy III (NOP) now out; Yves Missi (NOP) now out; Dejounte Murray (NOP) now questionable",
+     "report": "2026-11-13T13:00-05:00",
+     "win_prob": {
+      "away": 62.8,
+      "home": 37.2
+     }
     }
    ]
   },
