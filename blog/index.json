@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-13-hot-take-cade-cunningham-s-historic-night-puts-pistons-past",
+      "title": "Hot Take: Cade Cunningham's historic night puts Pistons past Wizards in 2OT thr…",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-11-13",
+      "type": "daily",
+      "tag": "Hot Take",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "Cade Cunningham drops 52 points, 11 assists, and zero turnovers in double OT—but it's the Wizards, so let's see if this ages like wine or milk.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-11-checking-the-model-s-work-4-seasons-graded",
       "title": "Checking the Model's Work: 4 Seasons Graded",
       "author": "Doc",
