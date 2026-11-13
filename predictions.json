@@ -3222,9 +3222,9 @@
    "away": 44.8
   },
   "win_prob_band": {
-   "low": 47.2,
+   "low": 54.1,
    "high": 55.2,
-   "gtd_count": 3
+   "gtd_count": 2
   },
   "expected_margin": 1.85,
   "expected_score": {
@@ -3310,22 +3310,16 @@
   "gtd": {
    "home": [
     {
-     "player": "Giannis Antetokounmpo",
-     "mpg": 29.6,
-     "value": 11.6,
-     "status": "Probable"
-    },
-    {
      "player": "Klay Thompson",
      "mpg": 22.0,
      "value": 1.9,
-     "status": "Questionable"
+     "status": "Probable"
     },
     {
      "player": "Pelle Larsson",
      "mpg": 27.3,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Doubtful"
     }
    ],
    "away": []
@@ -3573,6 +3567,12 @@
     "pick": "MIA",
     "prob": 55.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-13T13:18-05:00",
+    "pick": "MIA",
+    "prob": 55.2,
+    "reason": "Giannis Antetokounmpo (MIA) cleared to play"
    }
   ]
  },

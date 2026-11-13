@@ -21754,6 +21754,34 @@
       "away": 44.8,
       "home": 55.2
      }
+    },
+    {
+     "at": "2026-11-13T13:18-05:00",
+     "expected_margin": 1.85,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Klay Thompson",
+       "Pelle Larsson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": []
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Giannis Antetokounmpo (MIA) cleared to play",
+     "report": "2026-11-13T13:15-05:00",
+     "win_prob": {
+      "away": 44.8,
+      "home": 55.2
+     }
     }
    ]
   },
