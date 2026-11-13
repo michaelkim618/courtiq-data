@@ -2226,27 +2226,21 @@
   "game_type": "regular",
   "neutral": false,
   "home_standing": {
-   "wins": 3,
+   "wins": 4,
    "losses": 8,
-   "win_pct": 0.273,
+   "win_pct": 0.333,
    "conference": "East",
-   "rank": 12
+   "rank": 10
   },
   "away_standing": {
    "wins": 6,
-   "losses": 4,
-   "win_pct": 0.6,
+   "losses": 5,
+   "win_pct": 0.545,
    "conference": "East",
-   "rank": 4
+   "rank": 5
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-11-01",
-     "result": "L",
-     "score": "90-98",
-     "home": true
-    },
     {
      "date": "2026-11-02",
      "result": "L",
@@ -2270,20 +2264,20 @@
      "result": "L",
      "score": "122-125",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "W",
+     "score": "114-101",
+     "home": true
     }
    ],
-   "wins": 2,
-   "losses": 8,
-   "streak": -2
+   "wins": 3,
+   "losses": 7,
+   "streak": 1
   },
   "away_recent_form": {
    "games": [
-    {
-     "date": "2026-10-30",
-     "result": "L",
-     "score": "93-98",
-     "home": false
-    },
     {
      "date": "2026-11-02",
      "result": "W",
@@ -2307,11 +2301,17 @@
      "result": "W",
      "score": "117-85",
      "home": true
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "107-115",
+     "home": true
     }
    ],
    "wins": 6,
    "losses": 4,
-   "streak": 4
+   "streak": -1
   },
   "win_prob": {
    "home": 27.2,
@@ -2324,8 +2324,8 @@
   },
   "expected_margin": -8.58,
   "expected_score": {
-   "home": 107.6,
-   "away": 116.2
+   "home": 107.5,
+   "away": 116.1
   },
   "margin_breakdown": [
    {
@@ -2356,22 +2356,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -4.0,
-    "off": 110.7,
-    "def": 114.7,
-    "pace": 101.6,
+    "net": -3.3,
+    "off": 111.0,
+    "def": 114.3,
+    "pace": 101.4,
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
+   },
+   "away": {
+    "net": 4.9,
+    "off": 115.7,
+    "def": 110.8,
+    "pace": 96.6,
     "games": 11,
     "carry": 0.476,
     "roster": 0.452
-   },
-   "away": {
-    "net": 5.6,
-    "off": 115.6,
-    "def": 110.1,
-    "pace": 96.8,
-    "games": 10,
-    "carry": 0.5,
-    "roster": 0.475
    }
   },
   "absences": {
@@ -2407,8 +2407,8 @@
    "home": [
     {
      "player": "Aaron Nesmith",
-     "mpg": 23.1,
-     "value": 2.0,
+     "mpg": 24.1,
+     "value": 2.1,
      "status": "Questionable"
     }
    ],
@@ -2417,8 +2417,8 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 11,
-    "away": 10
+    "home": 12,
+    "away": 11
    },
    "home": [
     {
@@ -2426,64 +2426,64 @@
      "player_id": 1629614,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 33.2,
+     "mpg": 33.3,
      "ppg": 17.1,
      "rpg": 2.1,
-     "apg": 7.7
+     "apg": 7.9
     },
     {
      "player": "Pascal Siakam",
      "player_id": 1627783,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
      "mpg": 32.2,
-     "ppg": 22.2,
-     "rpg": 6.7,
-     "apg": 4.3
+     "ppg": 22.7,
+     "rpg": 6.8,
+     "apg": 4.4
     },
     {
      "player": "Ivica Zubac",
      "player_id": 1627826,
      "position": "C",
      "starter": true,
-     "games": 6,
-     "starts": 6,
+     "games": 7,
+     "starts": 7,
      "start_rate": 100,
-     "mpg": 21.7,
-     "ppg": 9.0,
-     "rpg": 7.7,
-     "apg": 1.8
+     "mpg": 23.0,
+     "ppg": 10.6,
+     "rpg": 8.3,
+     "apg": 1.7
     },
     {
      "player": "Aaron Nesmith",
      "player_id": 1630174,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 6,
-     "start_rate": 67,
-     "mpg": 25.5,
-     "ppg": 12.8,
-     "rpg": 2.4,
-     "apg": 1.8
+     "games": 10,
+     "starts": 7,
+     "start_rate": 70,
+     "mpg": 25.1,
+     "ppg": 11.7,
+     "rpg": 2.3,
+     "apg": 1.7
     },
     {
      "player": "Kelly Oubre Jr.",
      "player_id": 1626162,
      "position": "F",
      "starter": true,
-     "games": 9,
-     "starts": 4,
-     "start_rate": 44,
-     "mpg": 22.4,
-     "ppg": 9.1,
-     "rpg": 2.3,
+     "games": 10,
+     "starts": 5,
+     "start_rate": 50,
+     "mpg": 23.5,
+     "ppg": 9.6,
+     "rpg": 2.7,
      "apg": 1.4
     },
     {
@@ -2491,39 +2491,39 @@
      "player_id": 1630643,
      "position": "C",
      "starter": false,
-     "games": 9,
+     "games": 10,
      "starts": 3,
-     "start_rate": 33,
-     "mpg": 18.3,
-     "ppg": 7.1,
+     "start_rate": 30,
+     "mpg": 17.6,
+     "ppg": 7.0,
      "rpg": 3.8,
-     "apg": 1.0
+     "apg": 0.9
     },
     {
      "player": "Jarace Walker",
      "player_id": 1641716,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 3,
-     "start_rate": 27,
-     "mpg": 22.3,
-     "ppg": 7.4,
-     "rpg": 5.7,
-     "apg": 1.8
+     "start_rate": 25,
+     "mpg": 21.0,
+     "ppg": 6.8,
+     "rpg": 5.3,
+     "apg": 1.7
     },
     {
-     "player": "Obi Toppin",
-     "player_id": 1630167,
-     "position": "F",
+     "player": "Quenton Jackson",
+     "player_id": 1631245,
+     "position": "G",
      "starter": false,
-     "games": 8,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 21.9,
-     "ppg": 13.4,
-     "rpg": 5.0,
-     "apg": 1.6
+     "mpg": 21.6,
+     "ppg": 9.5,
+     "rpg": 3.5,
+     "apg": 2.6
     }
    ],
    "away": [
@@ -2532,11 +2532,11 @@
      "player_id": 1628973,
      "position": "G",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 25.9,
+     "mpg": 33.6,
+     "ppg": 26.0,
      "rpg": 3.1,
      "apg": 5.2
     },
@@ -2545,51 +2545,51 @@
      "player_id": 1628384,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 16.7,
-     "rpg": 5.3,
+     "mpg": 32.7,
+     "ppg": 16.5,
+     "rpg": 5.4,
      "apg": 2.4
-    },
-    {
-     "player": "Josh Hart",
-     "player_id": 1628404,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 31.7,
-     "ppg": 8.6,
-     "rpg": 7.3,
-     "apg": 3.9
     },
     {
      "player": "Karl-Anthony Towns",
      "player_id": 1626157,
      "position": "C",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 31.1,
+     "mpg": 31.3,
      "ppg": 20.9,
-     "rpg": 13.8,
-     "apg": 3.1
+     "rpg": 13.5,
+     "apg": 3.5
+    },
+    {
+     "player": "Josh Hart",
+     "player_id": 1628404,
+     "position": "G",
+     "starter": true,
+     "games": 8,
+     "starts": 8,
+     "start_rate": 100,
+     "mpg": 31.0,
+     "ppg": 8.2,
+     "rpg": 6.9,
+     "apg": 3.8
     },
     {
      "player": "Mikal Bridges",
      "player_id": 1628969,
      "position": "G",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 25.1,
-     "ppg": 6.3,
-     "rpg": 3.4,
+     "mpg": 24.3,
+     "ppg": 5.9,
+     "rpg": 3.2,
      "apg": 2.1
     },
     {
@@ -2597,39 +2597,39 @@
      "player_id": 1629013,
      "position": "G",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 25.6,
-     "ppg": 9.4,
+     "mpg": 25.9,
+     "ppg": 9.6,
      "rpg": 1.6,
-     "apg": 1.9
+     "apg": 2.1
     },
     {
      "player": "Miles McBride",
      "player_id": 1630540,
      "position": "G",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.0,
-     "ppg": 6.8,
+     "mpg": 18.9,
+     "ppg": 7.9,
      "rpg": 1.5,
-     "apg": 1.1
+     "apg": 1.2
     },
     {
      "player": "Andre Drummond",
      "player_id": 203083,
      "position": "C",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
      "mpg": 13.5,
-     "ppg": 4.7,
-     "rpg": 8.4,
-     "apg": 1.2
+     "ppg": 4.3,
+     "rpg": 8.0,
+     "apg": 1.4
     }
    ]
   },
@@ -2638,13 +2638,13 @@
   "model_winner": "New York Knicks",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -8.78,
+   "expected_margin": -7.37,
    "win_prob": {
-    "home": 27.2,
-    "away": 72.8
+    "home": 30.6,
+    "away": 69.4
    }
   },
   "tip_et": "2026-11-13T19:00-05:00",
@@ -2671,27 +2671,21 @@
   "game_type": "regular",
   "neutral": false,
   "home_standing": {
-   "wins": 3,
+   "wins": 4,
    "losses": 7,
-   "win_pct": 0.3,
+   "win_pct": 0.364,
    "conference": "East",
-   "rank": 11
+   "rank": 9
   },
   "away_standing": {
    "wins": 1,
-   "losses": 10,
-   "win_pct": 0.091,
+   "losses": 11,
+   "win_pct": 0.083,
    "conference": "East",
    "rank": 15
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-11-01",
-     "result": "L",
-     "score": "97-108",
-     "home": true
-    },
     {
      "date": "2026-11-02",
      "result": "L",
@@ -2715,20 +2709,20 @@
      "result": "W",
      "score": "107-100",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "W",
+     "score": "123-108",
+     "home": false
     }
    ],
-   "wins": 3,
-   "losses": 7,
-   "streak": 1
+   "wins": 4,
+   "losses": 6,
+   "streak": 2
   },
   "away_recent_form": {
    "games": [
-    {
-     "date": "2026-11-02",
-     "result": "L",
-     "score": "100-112",
-     "home": false
-    },
     {
      "date": "2026-11-04",
      "result": "L",
@@ -2752,11 +2746,17 @@
      "result": "L",
      "score": "85-117",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "112-123",
+     "home": true
     }
    ],
    "wins": 1,
    "losses": 9,
-   "streak": -7
+   "streak": -8
   },
   "win_prob": {
    "home": 78.2,
@@ -2769,8 +2769,8 @@
   },
   "expected_margin": 11.0,
   "expected_score": {
-   "home": 118.0,
-   "away": 107.0
+   "home": 118.1,
+   "away": 107.1
   },
   "margin_breakdown": [
    {
@@ -2801,22 +2801,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -3.4,
-    "off": 110.3,
-    "def": 113.7,
+    "net": -2.6,
+    "off": 111.0,
+    "def": 113.5,
     "pace": 99.4,
-    "games": 10,
-    "carry": 0.5,
-    "roster": 0.475
-   },
-   "away": {
-    "net": -9.4,
-    "off": 109.3,
-    "def": 118.6,
-    "pace": 99.7,
     "games": 11,
     "carry": 0.476,
     "roster": 0.452
+   },
+   "away": {
+    "net": -9.4,
+    "off": 109.4,
+    "def": 118.8,
+    "pace": 99.7,
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
    }
   },
   "absences": {
@@ -2876,8 +2876,8 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 10,
-    "away": 11
+    "home": 11,
+    "away": 12
    },
    "home": [
     {
@@ -2885,25 +2885,25 @@
      "player_id": 1630532,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 36.7,
-     "ppg": 22.0,
-     "rpg": 6.4,
-     "apg": 8.6
+     "mpg": 36.9,
+     "ppg": 23.5,
+     "rpg": 6.5,
+     "apg": 7.9
     },
     {
      "player": "Desmond Bane",
      "player_id": 1630217,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 34.7,
-     "ppg": 17.2,
-     "rpg": 4.1,
+     "mpg": 34.6,
+     "ppg": 18.0,
+     "rpg": 4.0,
      "apg": 2.4
     },
     {
@@ -2924,25 +2924,25 @@
      "player_id": 1628976,
      "position": "C",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 14.1,
-     "rpg": 9.7,
-     "apg": 1.0
+     "mpg": 32.8,
+     "ppg": 13.6,
+     "rpg": 9.5,
+     "apg": 1.2
     },
     {
      "player": "Jase Richardson",
      "player_id": 1642859,
      "position": "G",
      "starter": true,
-     "games": 10,
-     "starts": 3,
-     "start_rate": 30,
-     "mpg": 21.9,
+     "games": 11,
+     "starts": 4,
+     "start_rate": 36,
+     "mpg": 21.7,
      "ppg": 5.9,
-     "rpg": 2.0,
+     "rpg": 1.9,
      "apg": 2.5
     },
     {
@@ -2950,13 +2950,13 @@
      "player_id": 1641710,
      "position": "G",
      "starter": false,
-     "games": 7,
+     "games": 8,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 30.6,
-     "ppg": 17.1,
-     "rpg": 5.9,
-     "apg": 5.1
+     "mpg": 31.6,
+     "ppg": 17.8,
+     "rpg": 6.0,
+     "apg": 5.5
     },
     {
      "player": "Tristan da Silva",
@@ -2991,39 +2991,26 @@
      "player_id": 1629639,
      "position": "G",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 30.7,
-     "ppg": 21.4,
-     "rpg": 4.6,
-     "apg": 4.3
+     "mpg": 31.1,
+     "ppg": 21.9,
+     "rpg": 4.4,
+     "apg": 4.5
     },
     {
      "player": "Jaime Jaquez Jr.",
      "player_id": 1631170,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 27.6,
-     "ppg": 15.3,
+     "mpg": 27.8,
+     "ppg": 16.1,
      "rpg": 5.7,
-     "apg": 2.7
-    },
-    {
-     "player": "Kyle Kuzma",
-     "player_id": 1628398,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 27.3,
-     "ppg": 11.0,
-     "rpg": 5.7,
-     "apg": 2.7
+     "apg": 2.8
     },
     {
      "player": "Myles Turner",
@@ -3039,16 +3026,29 @@
      "apg": 2.7
     },
     {
+     "player": "Kyle Kuzma",
+     "player_id": 1628398,
+     "position": "F",
+     "starter": true,
+     "games": 12,
+     "starts": 12,
+     "start_rate": 100,
+     "mpg": 27.0,
+     "ppg": 10.8,
+     "rpg": 5.3,
+     "apg": 2.6
+    },
+    {
      "player": "Ryan Rollins",
      "player_id": 1631157,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 23.3,
-     "ppg": 11.0,
-     "rpg": 4.5,
+     "mpg": 23.4,
+     "ppg": 10.8,
+     "rpg": 4.7,
      "apg": 4.1
     },
     {
@@ -3056,39 +3056,39 @@
      "player_id": 1643415,
      "position": "G",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 21.5,
-     "ppg": 9.8,
-     "rpg": 5.3,
-     "apg": 2.3
+     "mpg": 21.6,
+     "ppg": 9.7,
+     "rpg": 5.2,
+     "apg": 2.2
     },
     {
      "player": "AJ Green",
      "player_id": 1631260,
      "position": "G",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 19.1,
-     "ppg": 6.8,
+     "mpg": 18.2,
+     "ppg": 6.5,
      "rpg": 1.7,
-     "apg": 1.4
+     "apg": 1.3
     },
     {
-     "player": "Kasparas Jakučionis",
-     "player_id": 1642857,
-     "position": "G",
+     "player": "Kel'el Ware",
+     "player_id": 1642276,
+     "position": "C",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 19.0,
-     "ppg": 6.8,
-     "rpg": 2.3,
-     "apg": 3.5
+     "mpg": 17.8,
+     "ppg": 8.5,
+     "rpg": 6.5,
+     "apg": 0.8
     }
    ]
   },
@@ -3097,13 +3097,13 @@
   "model_winner": "Orlando Magic",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 6.22,
+   "expected_margin": 7.17,
    "win_prob": {
-    "home": 66.6,
-    "away": 33.4
+    "home": 68.9,
+    "away": 31.1
    }
   },
   "tip_et": "2026-11-13T19:00-05:00",
@@ -3134,14 +3134,14 @@
    "losses": 6,
    "win_pct": 0.455,
    "conference": "East",
-   "rank": 8
+   "rank": 7
   },
   "away_standing": {
-   "wins": 5,
+   "wins": 6,
    "losses": 6,
-   "win_pct": 0.455,
+   "win_pct": 0.5,
    "conference": "East",
-   "rank": 7
+   "rank": 6
   },
   "home_recent_form": {
    "games": [
@@ -3183,12 +3183,6 @@
   "away_recent_form": {
    "games": [
     {
-     "date": "2026-11-02",
-     "result": "L",
-     "score": "112-117",
-     "home": true
-    },
-    {
      "date": "2026-11-04",
      "result": "L",
      "score": "116-124",
@@ -3211,11 +3205,17 @@
      "result": "L",
      "score": "112-124",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "W",
+     "score": "115-107",
+     "home": false
     }
    ],
    "wins": 5,
    "losses": 5,
-   "streak": -2
+   "streak": 1
   },
   "win_prob": {
    "home": 55.2,
@@ -3228,8 +3228,8 @@
   },
   "expected_margin": 1.85,
   "expected_score": {
-   "home": 117.5,
-   "away": 115.7
+   "home": 117.4,
+   "away": 115.6
   },
   "margin_breakdown": [
    {
@@ -3255,7 +3255,7 @@
    {
     "label": "Absences",
     "points": 1.35,
-    "detail": "Cleveland Cavaliers 3 out (68 min) costing 0.7 pts"
+    "detail": "Cleveland Cavaliers 3 out (67 min) costing 0.6 pts"
    }
   ],
   "ratings": {
@@ -3269,13 +3269,13 @@
     "roster": 0.452
    },
    "away": {
-    "net": 2.2,
-    "off": 115.7,
-    "def": 113.5,
-    "pace": 100.4,
-    "games": 11,
-    "carry": 0.476,
-    "roster": 0.452
+    "net": 2.4,
+    "off": 116.0,
+    "def": 113.6,
+    "pace": 100.0,
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
    }
   },
   "absences": {
@@ -3283,10 +3283,10 @@
    "away": [
     {
      "player": "Evan Mobley",
-     "mpg": 30.7,
+     "mpg": 30.2,
      "nth_out": 1,
-     "value": 3.3,
-     "cost": -0.69,
+     "value": 2.9,
+     "cost": -0.61,
      "no_minutes": false
     },
     {
@@ -3334,7 +3334,7 @@
    "season": "2026-27",
    "games": {
     "home": 11,
-    "away": 11
+    "away": 12
    },
    "home": [
     {
@@ -3444,68 +3444,68 @@
    ],
    "away": [
     {
-     "player": "James Harden",
-     "player_id": 201935,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 15.3,
-     "rpg": 4.8,
-     "apg": 5.7
-    },
-    {
      "player": "Donovan Mitchell",
      "player_id": 1628378,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 32.6,
+     "mpg": 32.9,
      "ppg": 22.8,
-     "rpg": 4.8,
+     "rpg": 5.0,
      "apg": 5.5
+    },
+    {
+     "player": "James Harden",
+     "player_id": 201935,
+     "position": "G",
+     "starter": true,
+     "games": 12,
+     "starts": 12,
+     "start_rate": 100,
+     "mpg": 32.7,
+     "ppg": 16.7,
+     "rpg": 4.6,
+     "apg": 5.6
     },
     {
      "player": "Peyton Watson",
      "player_id": 1631212,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 27.6,
-     "ppg": 11.4,
+     "mpg": 27.8,
+     "ppg": 11.0,
      "rpg": 4.6,
-     "apg": 2.7
+     "apg": 2.8
     },
     {
      "player": "Jarrett Allen",
      "player_id": 1628386,
      "position": "C",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 24.5,
-     "ppg": 13.1,
-     "rpg": 7.7,
-     "apg": 1.2
+     "mpg": 25.3,
+     "ppg": 12.9,
+     "rpg": 8.3,
+     "apg": 1.4
     },
     {
      "player": "Meleek Thomas",
      "player_id": 1643509,
      "position": "G",
      "starter": true,
-     "games": 8,
+     "games": 9,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 23.0,
-     "ppg": 13.0,
-     "rpg": 2.6,
+     "mpg": 22.9,
+     "ppg": 13.1,
+     "rpg": 2.8,
      "apg": 1.2
     },
     {
@@ -3513,39 +3513,39 @@
      "player_id": 1642281,
      "position": "G",
      "starter": false,
-     "games": 5,
+     "games": 6,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 20.8,
-     "ppg": 7.8,
-     "rpg": 3.6,
-     "apg": 2.8
+     "mpg": 21.1,
+     "ppg": 7.0,
+     "rpg": 3.0,
+     "apg": 2.5
     },
     {
      "player": "Mario Hezonja",
      "player_id": 1626209,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 20.0,
-     "ppg": 8.5,
-     "rpg": 5.9,
-     "apg": 1.6
+     "mpg": 18.9,
+     "ppg": 7.8,
+     "rpg": 5.4,
+     "apg": 1.5
     },
     {
      "player": "Tyrese Proctor",
      "player_id": 1642878,
      "position": "G",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 16.6,
-     "ppg": 6.0,
+     "mpg": 17.2,
+     "ppg": 6.8,
      "rpg": 2.8,
-     "apg": 2.3
+     "apg": 2.2
     }
    ]
   },
@@ -3554,13 +3554,13 @@
   "model_winner": "Miami Heat",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -1.15,
+   "expected_margin": -1.49,
    "win_prob": {
-    "home": 46.8,
-    "away": 53.2
+    "home": 45.9,
+    "away": 54.1
    }
   },
   "tip_et": "2026-11-13T20:00-05:00",
@@ -3588,8 +3588,8 @@
   "neutral": false,
   "home_standing": {
    "wins": 1,
-   "losses": 8,
-   "win_pct": 0.111,
+   "losses": 9,
+   "win_pct": 0.1,
    "conference": "East",
    "rank": 14
   },
@@ -3598,16 +3598,10 @@
    "losses": 5,
    "win_pct": 0.583,
    "conference": "East",
-   "rank": 5
+   "rank": 4
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-10-28",
-     "result": "L",
-     "score": "127-133",
-     "home": true
-    },
     {
      "date": "2026-10-30",
      "result": "L",
@@ -3631,11 +3625,17 @@
      "result": "L",
      "score": "121-127",
      "home": true
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "119-124",
+     "home": true
     }
    ],
    "wins": 1,
-   "losses": 8,
-   "streak": -7
+   "losses": 9,
+   "streak": -8
   },
   "away_recent_form": {
    "games": [
@@ -3685,7 +3685,7 @@
   },
   "expected_margin": -6.84,
   "expected_score": {
-   "home": 114.9,
+   "home": 115.0,
    "away": 121.8
   },
   "margin_breakdown": [
@@ -3717,13 +3717,13 @@
   ],
   "ratings": {
    "home": {
-    "net": -10.1,
-    "off": 109.8,
-    "def": 120.0,
-    "pace": 104.3,
-    "games": 9,
-    "carry": 0.526,
-    "roster": 0.5
+    "net": -9.9,
+    "off": 110.4,
+    "def": 120.3,
+    "pace": 104.0,
+    "games": 10,
+    "carry": 0.5,
+    "roster": 0.475
    },
    "away": {
     "net": 1.7,
@@ -3739,10 +3739,10 @@
    "home": [
     {
      "player": "Caleb Wilson",
-     "mpg": 30.3,
+     "mpg": 30.4,
      "nth_out": 1,
      "value": 4.6,
-     "cost": -0.97,
+     "cost": -0.96,
      "no_minutes": false
     },
     {
@@ -3810,7 +3810,7 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 9,
+    "home": 10,
     "away": 12
    },
    "home": [
@@ -3832,25 +3832,25 @@
      "player_id": 1630581,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 27.9,
-     "ppg": 10.3,
-     "rpg": 4.9,
-     "apg": 8.4
+     "mpg": 27.6,
+     "ppg": 10.2,
+     "rpg": 4.6,
+     "apg": 8.3
     },
     {
      "player": "Matas Buzelis",
      "player_id": 1641824,
      "position": "F",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 25.8,
-     "ppg": 13.6,
-     "rpg": 4.4,
+     "mpg": 26.3,
+     "ppg": 13.5,
+     "rpg": 4.3,
      "apg": 2.0
     },
     {
@@ -3858,65 +3858,65 @@
      "player_id": 1630188,
      "position": "F",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 23.3,
-     "ppg": 11.7,
-     "rpg": 7.8,
-     "apg": 1.8
+     "mpg": 24.0,
+     "ppg": 12.8,
+     "rpg": 7.4,
+     "apg": 1.9
     },
     {
      "player": "Patrick Williams",
      "player_id": 1630172,
      "position": "F",
      "starter": true,
-     "games": 2,
+     "games": 3,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 22.5,
-     "ppg": 5.5,
-     "rpg": 1.5,
-     "apg": 2.5
+     "mpg": 24.3,
+     "ppg": 6.7,
+     "rpg": 3.3,
+     "apg": 3.0
     },
     {
      "player": "Isaac Okoro",
      "player_id": 1630171,
      "position": "F",
      "starter": false,
-     "games": 9,
+     "games": 10,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.6,
-     "ppg": 5.8,
-     "rpg": 1.3,
-     "apg": 1.1
+     "mpg": 19.0,
+     "ppg": 5.2,
+     "rpg": 1.4,
+     "apg": 1.4
     },
     {
      "player": "Tre Jones",
      "player_id": 1630200,
      "position": "G",
      "starter": false,
-     "games": 9,
+     "games": 10,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 17.7,
-     "ppg": 10.3,
-     "rpg": 2.7,
+     "mpg": 18.8,
+     "ppg": 10.6,
+     "rpg": 2.5,
      "apg": 2.9
     },
     {
-     "player": "Leonard Miller",
-     "player_id": 1631159,
-     "position": "F",
+     "player": "Nic Claxton",
+     "player_id": 1629651,
+     "position": "C",
      "starter": false,
-     "games": 8,
+     "games": 2,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 17.6,
-     "ppg": 7.1,
-     "rpg": 4.1,
-     "apg": 1.0
+     "mpg": 17.0,
+     "ppg": 10.5,
+     "rpg": 5.0,
+     "apg": 2.5
     }
    ],
    "away": [
@@ -4031,13 +4031,13 @@
   "model_winner": "Atlanta Hawks",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -10.76,
+   "expected_margin": -10.51,
    "win_prob": {
-    "home": 22.9,
-    "away": 77.1
+    "home": 23.4,
+    "away": 76.6
    }
   },
   "tip_et": "2026-11-13T20:00-05:00",
@@ -4065,26 +4065,20 @@
   "neutral": false,
   "home_standing": {
    "wins": 4,
-   "losses": 7,
-   "win_pct": 0.364,
+   "losses": 8,
+   "win_pct": 0.333,
    "conference": "West",
    "rank": 12
   },
   "away_standing": {
    "wins": 7,
-   "losses": 3,
-   "win_pct": 0.7,
+   "losses": 4,
+   "win_pct": 0.636,
    "conference": "West",
-   "rank": 7
+   "rank": 8
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-11-02",
-     "result": "W",
-     "score": "135-134",
-     "home": false
-    },
     {
      "date": "2026-11-04",
      "result": "W",
@@ -4108,20 +4102,20 @@
      "result": "L",
      "score": "87-138",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "111-145",
+     "home": true
     }
    ],
    "wins": 4,
    "losses": 6,
-   "streak": -3
+   "streak": -4
   },
   "away_recent_form": {
    "games": [
-    {
-     "date": "2026-10-31",
-     "result": "W",
-     "score": "136-105",
-     "home": true
-    },
     {
      "date": "2026-11-02",
      "result": "L",
@@ -4145,11 +4139,17 @@
      "result": "W",
      "score": "118-102",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "118-123",
+     "home": true
     }
    ],
-   "wins": 7,
-   "losses": 3,
-   "streak": 1
+   "wins": 6,
+   "losses": 4,
+   "streak": -1
   },
   "win_prob": {
    "home": 39.5,
@@ -4162,8 +4162,8 @@
   },
   "expected_margin": -3.78,
   "expected_score": {
-   "home": 114.1,
-   "away": 117.9
+   "home": 114.5,
+   "away": 118.3
   },
   "margin_breakdown": [
    {
@@ -4194,22 +4194,22 @@
   ],
   "ratings": {
    "home": {
-    "net": -3.8,
+    "net": -5.1,
     "off": 113.0,
-    "def": 116.8,
-    "pace": 101.6,
+    "def": 118.1,
+    "pace": 101.4,
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
+   },
+   "away": {
+    "net": 2.5,
+    "off": 115.5,
+    "def": 113.0,
+    "pace": 101.1,
     "games": 11,
     "carry": 0.476,
     "roster": 0.452
-   },
-   "away": {
-    "net": 2.8,
-    "off": 115.2,
-    "def": 112.4,
-    "pace": 101.3,
-    "games": 10,
-    "carry": 0.5,
-    "roster": 0.475
    }
   },
   "absences": {
@@ -4226,7 +4226,7 @@
    "away": [
     {
      "player": "Zach Edey",
-     "mpg": 19.3,
+     "mpg": 19.6,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
@@ -4278,8 +4278,8 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 11,
-    "away": 10
+    "home": 12,
+    "away": 11
    },
    "home": [
     {
@@ -4287,13 +4287,13 @@
      "player_id": 1629627,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 21.0,
-     "rpg": 5.3,
-     "apg": 2.7
+     "mpg": 32.8,
+     "ppg": 21.7,
+     "rpg": 5.2,
+     "apg": 2.6
     },
     {
      "player": "Trey Murphy III",
@@ -4313,24 +4313,24 @@
      "player_id": 1627749,
      "position": "G",
      "starter": true,
-     "games": 8,
-     "starts": 8,
+     "games": 9,
+     "starts": 9,
      "start_rate": 100,
-     "mpg": 31.9,
-     "ppg": 14.5,
-     "rpg": 4.9,
-     "apg": 4.5
+     "mpg": 31.5,
+     "ppg": 13.4,
+     "rpg": 4.6,
+     "apg": 4.4
     },
     {
      "player": "Jeremiah Fears",
      "player_id": 1642847,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 28.9,
-     "ppg": 15.4,
+     "mpg": 28.8,
+     "ppg": 15.2,
      "rpg": 4.5,
      "apg": 4.9
     },
@@ -4352,39 +4352,39 @@
      "player_id": 201599,
      "position": "C",
      "starter": false,
-     "games": 2,
-     "starts": 2,
+     "games": 3,
+     "starts": 3,
      "start_rate": 100,
-     "mpg": 16.6,
-     "ppg": 6.0,
-     "rpg": 6.5,
-     "apg": 1.0
+     "mpg": 14.8,
+     "ppg": 4.0,
+     "rpg": 5.3,
+     "apg": 0.7
     },
     {
      "player": "Saddiq Bey",
      "player_id": 1630180,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 26.7,
-     "ppg": 15.5,
-     "rpg": 3.6,
-     "apg": 2.4
+     "mpg": 26.9,
+     "ppg": 15.4,
+     "rpg": 3.4,
+     "apg": 2.3
     },
     {
      "player": "Herbert Jones",
      "player_id": 1630529,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 22.7,
-     "ppg": 6.0,
-     "rpg": 3.1,
-     "apg": 0.9
+     "mpg": 22.9,
+     "ppg": 5.7,
+     "rpg": 3.0,
+     "apg": 1.1
     }
    ],
    "away": [
@@ -4393,12 +4393,12 @@
      "player_id": 1643409,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 16.2,
-     "rpg": 9.7,
+     "mpg": 32.2,
+     "ppg": 15.9,
+     "rpg": 9.8,
      "apg": 5.5
     },
     {
@@ -4406,12 +4406,12 @@
      "player_id": 1629660,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 30.6,
-     "ppg": 26.7,
-     "rpg": 3.7,
+     "mpg": 30.7,
+     "ppg": 26.2,
+     "rpg": 3.5,
      "apg": 4.9
     },
     {
@@ -4419,25 +4419,25 @@
      "player_id": 1642907,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 28.5,
-     "ppg": 12.6,
-     "rpg": 8.4,
-     "apg": 2.6
+     "mpg": 28.3,
+     "ppg": 12.8,
+     "rpg": 8.7,
+     "apg": 2.7
     },
     {
      "player": "Jaylen Wells",
      "player_id": 1642377,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 26.9,
-     "ppg": 11.0,
-     "rpg": 3.0,
+     "mpg": 27.3,
+     "ppg": 12.0,
+     "rpg": 2.9,
      "apg": 1.3
     },
     {
@@ -4445,37 +4445,37 @@
      "player_id": 1630191,
      "position": "F",
      "starter": true,
-     "games": 7,
-     "starts": 2,
-     "start_rate": 29,
+     "games": 8,
+     "starts": 3,
+     "start_rate": 38,
      "mpg": 18.4,
-     "ppg": 11.9,
-     "rpg": 3.4,
-     "apg": 0.6
+     "ppg": 10.8,
+     "rpg": 3.1,
+     "apg": 0.8
     },
     {
      "player": "GG Jackson",
      "player_id": 1641713,
      "position": "F",
      "starter": false,
-     "games": 9,
+     "games": 10,
      "starts": 2,
-     "start_rate": 22,
-     "mpg": 15.7,
-     "ppg": 6.8,
-     "rpg": 3.2,
-     "apg": 0.9
+     "start_rate": 20,
+     "mpg": 15.5,
+     "ppg": 6.3,
+     "rpg": 3.0,
+     "apg": 0.8
     },
     {
      "player": "Jerami Grant",
      "player_id": 203924,
      "position": "F",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 23.8,
-     "ppg": 10.4,
+     "mpg": 23.5,
+     "ppg": 10.7,
      "rpg": 2.2,
      "apg": 2.1
     },
@@ -4484,12 +4484,12 @@
      "player_id": 1642914,
      "position": "G",
      "starter": false,
-     "games": 3,
+     "games": 4,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 21.7,
-     "ppg": 8.7,
-     "rpg": 2.3,
+     "mpg": 20.0,
+     "ppg": 7.2,
+     "rpg": 2.0,
      "apg": 4.0
     }
    ]
@@ -4499,13 +4499,13 @@
   "model_winner": "Memphis Grizzlies",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -4.4,
+   "expected_margin": -5.37,
    "win_prob": {
-    "home": 38.1,
-    "away": 61.9
+    "home": 35.6,
+    "away": 64.4
    }
   },
   "tip_et": "2026-11-13T20:00-05:00",
@@ -4532,27 +4532,21 @@
   "game_type": "regular",
   "neutral": false,
   "home_standing": {
-   "wins": 8,
+   "wins": 9,
    "losses": 3,
-   "win_pct": 0.727,
+   "win_pct": 0.75,
    "conference": "West",
-   "rank": 5
+   "rank": 4
   },
   "away_standing": {
    "wins": 1,
-   "losses": 10,
-   "win_pct": 0.091,
+   "losses": 11,
+   "win_pct": 0.083,
    "conference": "West",
-   "rank": 14
+   "rank": 15
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-10-31",
-     "result": "W",
-     "score": "119-98",
-     "home": true
-    },
     {
      "date": "2026-11-02",
      "result": "W",
@@ -4576,20 +4570,20 @@
      "result": "W",
      "score": "110-100",
      "home": true
+    },
+    {
+     "date": "2026-11-11",
+     "result": "W",
+     "score": "115-108",
+     "home": true
     }
    ],
    "wins": 7,
    "losses": 3,
-   "streak": 1
+   "streak": 2
   },
   "away_recent_form": {
    "games": [
-    {
-     "date": "2026-11-02",
-     "result": "L",
-     "score": "97-119",
-     "home": false
-    },
     {
      "date": "2026-11-04",
      "result": "L",
@@ -4613,11 +4607,17 @@
      "result": "L",
      "score": "109-115",
      "home": true
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "108-123",
+     "home": true
     }
    ],
-   "wins": 1,
-   "losses": 9,
-   "streak": -9
+   "wins": 0,
+   "losses": 10,
+   "streak": -10
   },
   "win_prob": {
    "home": 92.8,
@@ -4630,8 +4630,8 @@
   },
   "expected_margin": 20.6,
   "expected_score": {
-   "home": 123.2,
-   "away": 102.6
+   "home": 123.3,
+   "away": 102.7
   },
   "margin_breakdown": [
    {
@@ -4662,22 +4662,22 @@
   ],
   "ratings": {
    "home": {
-    "net": 6.0,
-    "off": 116.9,
-    "def": 110.8,
+    "net": 6.1,
+    "off": 117.0,
+    "def": 110.9,
     "pace": 97.2,
-    "games": 11,
-    "carry": 0.476,
-    "roster": 0.452
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
    },
    "away": {
-    "net": -7.5,
+    "net": -7.8,
     "off": 109.0,
-    "def": 116.4,
-    "pace": 102.2,
-    "games": 11,
-    "carry": 0.476,
-    "roster": 0.452
+    "def": 116.8,
+    "pace": 102.0,
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
    }
   },
   "absences": {
@@ -4692,7 +4692,7 @@
     },
     {
      "player": "Marcus Smart",
-     "mpg": 21.6,
+     "mpg": 21.2,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
@@ -4741,8 +4741,8 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 11,
-    "away": 11
+    "home": 12,
+    "away": 12
    },
    "home": [
     {
@@ -4750,64 +4750,64 @@
      "player_id": 1631095,
      "position": "F",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
      "mpg": 35.3,
-     "ppg": 17.0,
-     "rpg": 6.5,
-     "apg": 2.4
+     "ppg": 16.8,
+     "rpg": 6.6,
+     "apg": 2.2
     },
     {
      "player": "Alperen Sengun",
      "player_id": 1630578,
      "position": "C",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 34.8,
-     "ppg": 21.3,
-     "rpg": 9.1,
-     "apg": 7.8
+     "mpg": 35.0,
+     "ppg": 21.1,
+     "rpg": 9.5,
+     "apg": 7.9
     },
     {
      "player": "Kevin Durant",
      "player_id": 201142,
      "position": "F",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
      "mpg": 34.3,
-     "ppg": 21.0,
-     "rpg": 6.3,
-     "apg": 3.5
+     "ppg": 20.9,
+     "rpg": 6.1,
+     "apg": 3.6
     },
     {
      "player": "Amen Thompson",
      "player_id": 1641708,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 14.9,
-     "rpg": 6.6,
-     "apg": 3.0
+     "mpg": 33.0,
+     "ppg": 15.2,
+     "rpg": 6.7,
+     "apg": 3.1
     },
     {
      "player": "Fred VanVleet",
      "player_id": 1627832,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
      "mpg": 30.0,
-     "ppg": 13.2,
-     "rpg": 3.2,
+     "ppg": 13.7,
+     "rpg": 3.1,
      "apg": 5.6
     },
     {
@@ -4815,39 +4815,39 @@
      "player_id": 1642263,
      "position": "G",
      "starter": false,
-     "games": 8,
+     "games": 9,
      "starts": 3,
-     "start_rate": 38,
-     "mpg": 20.2,
-     "ppg": 9.8,
-     "rpg": 1.8,
-     "apg": 2.8
+     "start_rate": 33,
+     "mpg": 20.1,
+     "ppg": 10.1,
+     "rpg": 1.7,
+     "apg": 2.6
     },
     {
      "player": "Tari Eason",
      "player_id": 1631106,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 23.8,
-     "ppg": 9.6,
-     "rpg": 5.9,
-     "apg": 1.4
+     "mpg": 23.7,
+     "ppg": 9.3,
+     "rpg": 5.7,
+     "apg": 1.2
     },
     {
      "player": "Bogdan Bogdanović",
      "player_id": 203992,
      "position": "G",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 11.3,
-     "ppg": 5.3,
-     "rpg": 1.3,
-     "apg": 1.0
+     "mpg": 11.2,
+     "ppg": 4.8,
+     "rpg": 1.2,
+     "apg": 0.9
     }
    ],
    "away": [
@@ -4856,38 +4856,38 @@
      "player_id": 1641718,
      "position": "G",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 21.1,
-     "rpg": 4.3,
-     "apg": 6.4
+     "mpg": 32.2,
+     "ppg": 20.4,
+     "rpg": 4.5,
+     "apg": 6.5
     },
     {
      "player": "Darryn Peterson",
      "player_id": 1643408,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 30.8,
-     "ppg": 15.7,
+     "mpg": 31.0,
+     "ppg": 16.2,
      "rpg": 4.0,
-     "apg": 3.9
+     "apg": 4.0
     },
     {
      "player": "Ace Bailey",
      "player_id": 1642846,
      "position": "F",
      "starter": true,
-     "games": 11,
-     "starts": 8,
-     "start_rate": 73,
+     "games": 12,
+     "starts": 9,
+     "start_rate": 75,
      "mpg": 31.0,
-     "ppg": 12.9,
-     "rpg": 6.6,
+     "ppg": 13.3,
+     "rpg": 6.7,
      "apg": 1.9
     },
     {
@@ -4895,24 +4895,24 @@
      "player_id": 1629637,
      "position": "C",
      "starter": true,
-     "games": 10,
-     "starts": 3,
-     "start_rate": 30,
-     "mpg": 24.5,
-     "ppg": 8.3,
-     "rpg": 5.9,
-     "apg": 1.8
+     "games": 11,
+     "starts": 4,
+     "start_rate": 36,
+     "mpg": 25.0,
+     "ppg": 8.5,
+     "rpg": 6.1,
+     "apg": 1.6
     },
     {
      "player": "Josh Green",
      "player_id": 1630182,
      "position": "G",
      "starter": true,
-     "games": 9,
+     "games": 10,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 19.3,
-     "ppg": 3.7,
+     "mpg": 20.0,
+     "ppg": 3.6,
      "rpg": 1.8,
      "apg": 1.1
     },
@@ -4921,39 +4921,39 @@
      "player_id": 1629006,
      "position": "G",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.7,
-     "ppg": 3.7,
+     "mpg": 18.4,
+     "ppg": 4.0,
      "rpg": 3.3,
-     "apg": 1.2
+     "apg": 1.1
     },
     {
      "player": "Mo Bamba",
      "player_id": 1628964,
      "position": "C",
      "starter": false,
-     "games": 7,
+     "games": 8,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 17.5,
-     "ppg": 7.6,
-     "rpg": 6.1,
+     "mpg": 17.6,
+     "ppg": 7.2,
+     "rpg": 5.5,
      "apg": 0.6
     },
     {
-     "player": "Isaiah Collier",
-     "player_id": 1642268,
+     "player": "Svi Mykhailiuk",
+     "player_id": 1629004,
      "position": "G",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 7.2,
-     "rpg": 3.5,
-     "apg": 4.2
+     "mpg": 16.1,
+     "ppg": 3.6,
+     "rpg": 1.6,
+     "apg": 1.1
     }
    ]
   },
@@ -4962,13 +4962,13 @@
   "model_winner": "Houston Rockets",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 17.92,
+   "expected_margin": 18.31,
    "win_prob": {
-    "home": 89.2,
-    "away": 10.8
+    "home": 89.7,
+    "away": 10.3
    }
   },
   "tip_et": "2026-11-13T20:30-05:00",
@@ -4995,27 +4995,21 @@
   "game_type": "regular",
   "neutral": false,
   "home_standing": {
-   "wins": 9,
+   "wins": 10,
    "losses": 2,
-   "win_pct": 0.818,
+   "win_pct": 0.833,
    "conference": "West",
    "rank": 2
   },
   "away_standing": {
    "wins": 8,
-   "losses": 3,
-   "win_pct": 0.727,
+   "losses": 4,
+   "win_pct": 0.667,
    "conference": "West",
-   "rank": 4
+   "rank": 6
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-11-02",
-     "result": "W",
-     "score": "119-97",
-     "home": true
-    },
     {
      "date": "2026-11-04",
      "result": "W",
@@ -5039,20 +5033,20 @@
      "result": "W",
      "score": "122-96",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "W",
+     "score": "124-119",
+     "home": false
     }
    ],
-   "wins": 9,
-   "losses": 1,
-   "streak": 9
+   "wins": 10,
+   "losses": 0,
+   "streak": 10
   },
   "away_recent_form": {
    "games": [
-    {
-     "date": "2026-11-01",
-     "result": "W",
-     "score": "124-112",
-     "home": true
-    },
     {
      "date": "2026-11-02",
      "result": "W",
@@ -5076,25 +5070,31 @@
      "result": "W",
      "score": "138-87",
      "home": true
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "108-115",
+     "home": false
     }
    ],
    "wins": 8,
    "losses": 2,
-   "streak": 8
+   "streak": -1
   },
   "win_prob": {
    "home": 77.1,
    "away": 22.9
   },
   "win_prob_band": {
-   "low": 76.6,
+   "low": 76.5,
    "high": 77.1,
    "gtd_count": 2
   },
   "expected_margin": 10.47,
   "expected_score": {
-   "home": 118.8,
-   "away": 108.3
+   "home": 118.9,
+   "away": 108.5
   },
   "margin_breakdown": [
    {
@@ -5120,27 +5120,27 @@
    {
     "label": "Absences",
     "points": 3.35,
-    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Golden State Warriors 5 out (122 min) costing 6.2 pts · Jayden Quaintance out all season, already baked into team rating"
+    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts, Golden State Warriors 5 out (122 min) costing 6.3 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
    "home": {
-    "net": 8.5,
-    "off": 117.2,
-    "def": 108.7,
-    "pace": 99.8,
-    "games": 11,
-    "carry": 0.476,
-    "roster": 0.452
+    "net": 8.3,
+    "off": 117.6,
+    "def": 109.3,
+    "pace": 99.7,
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
    },
    "away": {
-    "net": 5.1,
-    "off": 117.0,
-    "def": 111.9,
-    "pace": 100.0,
-    "games": 11,
-    "carry": 0.476,
-    "roster": 0.452
+    "net": 4.6,
+    "off": 116.8,
+    "def": 112.2,
+    "pace": 99.9,
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
    }
   },
   "absences": {
@@ -5165,10 +5165,10 @@
    "away": [
     {
      "player": "Stephen Curry",
-     "mpg": 25.2,
+     "mpg": 24.9,
      "nth_out": 1,
-     "value": 13.0,
-     "cost": -2.73,
+     "value": 13.2,
+     "cost": -2.77,
      "no_minutes": false
     },
     {
@@ -5209,8 +5209,8 @@
    "home": [
     {
      "player": "De'Aaron Fox",
-     "mpg": 28.0,
-     "value": 1.1,
+     "mpg": 28.1,
+     "value": 1.2,
      "status": "Questionable"
     },
     {
@@ -5225,8 +5225,8 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 11,
-    "away": 11
+    "home": 12,
+    "away": 12
    },
    "home": [
     {
@@ -5234,13 +5234,13 @@
      "player_id": 1642844,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 31.4,
+     "mpg": 31.8,
      "ppg": 18.0,
      "rpg": 5.4,
-     "apg": 4.3
+     "apg": 4.8
     },
     {
      "player": "Devin Vassell",
@@ -5260,51 +5260,51 @@
      "player_id": 1641705,
      "position": "F",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 29.8,
-     "ppg": 30.1,
-     "rpg": 11.9,
-     "apg": 3.0
+     "mpg": 30.0,
+     "ppg": 30.2,
+     "rpg": 11.7,
+     "apg": 2.8
     },
     {
      "player": "De'Aaron Fox",
      "player_id": 1628368,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 29.5,
-     "ppg": 13.9,
-     "rpg": 4.4,
-     "apg": 5.9
+     "mpg": 29.6,
+     "ppg": 14.2,
+     "rpg": 4.3,
+     "apg": 6.2
     },
     {
      "player": "Stephon Castle",
      "player_id": 1642264,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
      "mpg": 29.1,
-     "ppg": 14.3,
-     "rpg": 6.1,
-     "apg": 5.2
+     "ppg": 14.0,
+     "rpg": 5.7,
+     "apg": 5.0
     },
     {
      "player": "Julian Champagnie",
      "player_id": 1630577,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 25.7,
-     "ppg": 10.1,
-     "rpg": 4.0,
+     "mpg": 26.5,
+     "ppg": 10.2,
+     "rpg": 3.7,
      "apg": 1.4
     },
     {
@@ -5312,24 +5312,24 @@
      "player_id": 1629640,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 23.6,
-     "ppg": 7.8,
-     "rpg": 5.6,
-     "apg": 2.1
+     "mpg": 24.0,
+     "ppg": 8.0,
+     "rpg": 5.7,
+     "apg": 2.2
     },
     {
      "player": "Luke Kornet",
      "player_id": 1628436,
      "position": "C",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 14.9,
-     "ppg": 3.1,
+     "mpg": 14.8,
+     "ppg": 3.4,
      "rpg": 4.2,
      "apg": 1.0
     }
@@ -5340,12 +5340,12 @@
      "player_id": 1641764,
      "position": "G",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
-     "mpg": 33.1,
-     "ppg": 16.8,
-     "rpg": 5.0,
+     "mpg": 33.5,
+     "ppg": 17.3,
+     "rpg": 5.1,
      "apg": 4.2
     },
     {
@@ -5353,51 +5353,64 @@
      "player_id": 1642865,
      "position": "F",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 31.8,
-     "ppg": 21.4,
-     "rpg": 7.2,
-     "apg": 4.0
+     "mpg": 32.1,
+     "ppg": 21.7,
+     "rpg": 7.4,
+     "apg": 3.7
     },
     {
      "player": "Draymond Green",
      "player_id": 203110,
      "position": "F",
      "starter": true,
-     "games": 9,
-     "starts": 9,
+     "games": 10,
+     "starts": 10,
      "start_rate": 100,
      "mpg": 26.9,
-     "ppg": 2.8,
+     "ppg": 3.2,
      "rpg": 4.9,
-     "apg": 7.6
+     "apg": 7.5
     },
     {
      "player": "Gui Santos",
      "player_id": 1630611,
      "position": "F",
      "starter": true,
-     "games": 8,
-     "starts": 6,
-     "start_rate": 75,
-     "mpg": 19.2,
-     "ppg": 6.1,
-     "rpg": 4.0,
-     "apg": 1.5
+     "games": 9,
+     "starts": 7,
+     "start_rate": 78,
+     "mpg": 18.4,
+     "ppg": 5.4,
+     "rpg": 3.9,
+     "apg": 1.4
     },
     {
      "player": "Graham Ike",
      "player_id": 1643633,
      "position": "F",
      "starter": true,
-     "games": 8,
+     "games": 9,
      "starts": 4,
-     "start_rate": 50,
-     "mpg": 9.9,
-     "ppg": 4.9,
-     "rpg": 2.8,
+     "start_rate": 44,
+     "mpg": 9.3,
+     "ppg": 4.8,
+     "rpg": 2.4,
+     "apg": 0.9
+    },
+    {
+     "player": "Will Richard",
+     "player_id": 1642954,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 3,
+     "start_rate": 27,
+     "mpg": 17.3,
+     "ppg": 5.5,
+     "rpg": 2.0,
      "apg": 0.9
     },
     {
@@ -5405,39 +5418,26 @@
      "player_id": 1629001,
      "position": "G",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 3,
-     "start_rate": 27,
-     "mpg": 22.2,
-     "ppg": 10.0,
-     "rpg": 4.3,
-     "apg": 2.2
-    },
-    {
-     "player": "Will Richard",
-     "player_id": 1642954,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 2,
-     "start_rate": 20,
-     "mpg": 17.2,
-     "ppg": 5.1,
-     "rpg": 1.8,
-     "apg": 1.0
+     "start_rate": 25,
+     "mpg": 22.4,
+     "ppg": 10.1,
+     "rpg": 4.2,
+     "apg": 2.3
     },
     {
      "player": "Georges Niang",
      "player_id": 1627777,
      "position": "F",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 20.5,
-     "ppg": 8.3,
-     "rpg": 2.9,
-     "apg": 1.6
+     "mpg": 20.4,
+     "ppg": 8.0,
+     "rpg": 3.1,
+     "apg": 1.5
     }
    ]
   },
@@ -5446,13 +5446,13 @@
   "model_winner": "San Antonio Spurs",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 11.62,
+   "expected_margin": 12.03,
    "win_prob": {
-    "home": 78.8,
-    "away": 21.2
+    "home": 79.7,
+    "away": 20.3
    }
   },
   "tip_et": "2026-11-13T21:30-05:00",
@@ -5483,14 +5483,14 @@
    "losses": 10,
    "win_pct": 0.091,
    "conference": "West",
-   "rank": 15
+   "rank": 14
   },
   "away_standing": {
-   "wins": 7,
+   "wins": 8,
    "losses": 3,
-   "win_pct": 0.7,
+   "win_pct": 0.727,
    "conference": "West",
-   "rank": 8
+   "rank": 5
   },
   "home_recent_form": {
    "games": [
@@ -5532,12 +5532,6 @@
   "away_recent_form": {
    "games": [
     {
-     "date": "2026-11-02",
-     "result": "W",
-     "score": "118-110",
-     "home": false
-    },
-    {
      "date": "2026-11-04",
      "result": "W",
      "score": "132-119",
@@ -5560,11 +5554,17 @@
      "result": "W",
      "score": "123-103",
      "home": true
+    },
+    {
+     "date": "2026-11-11",
+     "result": "W",
+     "score": "118-108",
+     "home": true
     }
    ],
    "wins": 7,
    "losses": 3,
-   "streak": 1
+   "streak": 2
   },
   "win_prob": {
    "home": 17.2,
@@ -5577,8 +5577,8 @@
   },
   "expected_margin": -13.37,
   "expected_score": {
-   "home": 108.6,
-   "away": 122.0
+   "home": 108.5,
+   "away": 121.9
   },
   "margin_breakdown": [
    {
@@ -5618,13 +5618,13 @@
     "roster": 0.452
    },
    "away": {
-    "net": 3.1,
-    "off": 115.8,
-    "def": 112.7,
-    "pace": 101.2,
-    "games": 10,
-    "carry": 0.5,
-    "roster": 0.475
+    "net": 3.4,
+    "off": 115.9,
+    "def": 112.5,
+    "pace": 101.1,
+    "games": 11,
+    "carry": 0.476,
+    "roster": 0.452
    }
   },
   "absences": {
@@ -5696,7 +5696,7 @@
    "season": "2026-27",
    "games": {
     "home": 11,
-    "away": 10
+    "away": 11
    },
    "home": [
     {
@@ -5810,12 +5810,12 @@
      "player_id": 1630166,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 32.3,
-     "ppg": 22.5,
-     "rpg": 6.4,
+     "mpg": 32.6,
+     "ppg": 23.0,
+     "rpg": 6.1,
      "apg": 6.5
     },
     {
@@ -5823,38 +5823,38 @@
      "player_id": 203081,
      "position": "G",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 28.9,
-     "ppg": 20.0,
+     "mpg": 29.2,
+     "ppg": 19.8,
      "rpg": 3.2,
-     "apg": 4.3
+     "apg": 4.2
     },
     {
      "player": "Toumani Camara",
      "player_id": 1641739,
      "position": "F",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 27.5,
-     "ppg": 13.0,
-     "rpg": 3.3,
-     "apg": 1.3
+     "mpg": 28.5,
+     "ppg": 13.1,
+     "rpg": 3.5,
+     "apg": 1.5
     },
     {
      "player": "Donovan Clingan",
      "player_id": 1642270,
      "position": "C",
      "starter": true,
-     "games": 10,
-     "starts": 10,
+     "games": 11,
+     "starts": 11,
      "start_rate": 100,
-     "mpg": 24.8,
-     "ppg": 11.4,
-     "rpg": 10.3,
+     "mpg": 25.3,
+     "ppg": 10.8,
+     "rpg": 10.5,
      "apg": 1.5
     },
     {
@@ -5862,52 +5862,52 @@
      "player_id": 201950,
      "position": "G",
      "starter": true,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 25.8,
-     "ppg": 12.8,
+     "mpg": 26.1,
+     "ppg": 13.4,
      "rpg": 3.3,
-     "apg": 3.8
-    },
-    {
-     "player": "Scoot Henderson",
-     "player_id": 1630703,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.5,
-     "ppg": 8.7,
-     "rpg": 2.1,
-     "apg": 1.5
+     "apg": 3.9
     },
     {
      "player": "Sidy Cissoko",
      "player_id": 1631321,
      "position": "G",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 22.4,
-     "ppg": 7.2,
-     "rpg": 3.7,
-     "apg": 2.2
+     "mpg": 23.0,
+     "ppg": 8.3,
+     "rpg": 3.5,
+     "apg": 2.0
+    },
+    {
+     "player": "Scoot Henderson",
+     "player_id": 1630703,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 22.1,
+     "ppg": 8.4,
+     "rpg": 2.1,
+     "apg": 1.5
     },
     {
      "player": "Robert Williams III",
      "player_id": 1629057,
      "position": "C",
      "starter": false,
-     "games": 8,
+     "games": 9,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 7.2,
-     "rpg": 6.5,
-     "apg": 1.0
+     "mpg": 16.4,
+     "ppg": 7.6,
+     "rpg": 6.6,
+     "apg": 0.9
     }
    ]
   },
@@ -5916,13 +5916,13 @@
   "model_winner": "Portland Trail Blazers",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -7.14,
+   "expected_margin": -7.47,
    "win_prob": {
-    "home": 31.1,
-    "away": 68.9
+    "home": 30.3,
+    "away": 69.7
    }
   },
   "tip_et": "2026-11-13T22:00-05:00",
@@ -5957,10 +5957,10 @@
   },
   "away_standing": {
    "wins": 8,
-   "losses": 3,
-   "win_pct": 0.727,
+   "losses": 4,
+   "win_pct": 0.667,
    "conference": "West",
-   "rank": 6
+   "rank": 7
   },
   "home_recent_form": {
    "games": [
@@ -6002,12 +6002,6 @@
   "away_recent_form": {
    "games": [
     {
-     "date": "2026-11-02",
-     "result": "W",
-     "score": "117-112",
-     "home": false
-    },
-    {
      "date": "2026-11-04",
      "result": "W",
      "score": "124-116",
@@ -6030,11 +6024,17 @@
      "result": "L",
      "score": "103-123",
      "home": false
+    },
+    {
+     "date": "2026-11-11",
+     "result": "L",
+     "score": "108-118",
+     "home": false
     }
    ],
-   "wins": 7,
-   "losses": 3,
-   "streak": -1
+   "wins": 6,
+   "losses": 4,
+   "streak": -2
   },
   "win_prob": {
    "home": 28.3,
@@ -6047,8 +6047,8 @@
   },
   "expected_margin": -8.11,
   "expected_score": {
-   "home": 107.8,
-   "away": 115.9
+   "home": 107.9,
+   "away": 116.0
   },
   "margin_breakdown": [
    {
@@ -6088,13 +6088,13 @@
     "roster": 0.475
    },
    "away": {
-    "net": 6.2,
-    "off": 114.0,
-    "def": 107.8,
+    "net": 5.5,
+    "off": 113.7,
+    "def": 108.3,
     "pace": 99.5,
-    "games": 11,
-    "carry": 0.476,
-    "roster": 0.452
+    "games": 12,
+    "carry": 0.455,
+    "roster": 0.432
    }
   },
   "absences": {
@@ -6190,7 +6190,7 @@
    "season": "2026-27",
    "games": {
     "home": 10,
-    "away": 11
+    "away": 12
    },
    "home": [
     {
@@ -6304,26 +6304,26 @@
      "player_id": 1628983,
      "position": "G",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 29.5,
-     "rpg": 4.3,
-     "apg": 4.7
+     "mpg": 32.9,
+     "ppg": 29.7,
+     "rpg": 4.2,
+     "apg": 4.5
     },
     {
      "player": "Isaiah Hartenstein",
      "player_id": 1628392,
      "position": "C",
      "starter": true,
-     "games": 11,
-     "starts": 11,
+     "games": 12,
+     "starts": 12,
      "start_rate": 100,
-     "mpg": 24.2,
-     "ppg": 6.9,
-     "rpg": 10.0,
-     "apg": 3.5
+     "mpg": 25.0,
+     "ppg": 8.0,
+     "rpg": 10.1,
+     "apg": 3.7
     },
     {
      "player": "Ajay Mitchell",
@@ -6343,38 +6343,38 @@
      "player_id": 1642272,
      "position": "G",
      "starter": true,
-     "games": 11,
+     "games": 12,
      "starts": 3,
-     "start_rate": 27,
-     "mpg": 25.7,
-     "ppg": 12.8,
-     "rpg": 3.4,
-     "apg": 1.8
+     "start_rate": 25,
+     "mpg": 26.1,
+     "ppg": 12.6,
+     "rpg": 3.6,
+     "apg": 1.9
     },
     {
      "player": "Kenrich Williams",
      "player_id": 1629026,
      "position": "G",
      "starter": true,
-     "games": 11,
+     "games": 12,
      "starts": 3,
-     "start_rate": 27,
-     "mpg": 18.4,
-     "ppg": 6.5,
-     "rpg": 3.6,
-     "apg": 1.1
+     "start_rate": 25,
+     "mpg": 19.1,
+     "ppg": 6.8,
+     "rpg": 3.5,
+     "apg": 1.2
     },
     {
      "player": "Aday Mara",
      "player_id": 1643530,
      "position": "C",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 20.3,
-     "ppg": 8.3,
-     "rpg": 6.3,
+     "mpg": 21.3,
+     "ppg": 8.5,
+     "rpg": 6.2,
      "apg": 1.4
     },
     {
@@ -6382,26 +6382,26 @@
      "player_id": 1627936,
      "position": "G",
      "starter": false,
-     "games": 8,
+     "games": 9,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 18.5,
-     "ppg": 6.8,
-     "rpg": 4.2,
-     "apg": 3.0
+     "mpg": 19.6,
+     "ppg": 7.6,
+     "rpg": 4.6,
+     "apg": 2.9
     },
     {
      "player": "Bennett Stirtz",
      "player_id": 1642892,
      "position": "G",
      "starter": false,
-     "games": 11,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 17.9,
-     "ppg": 8.1,
+     "mpg": 18.5,
+     "ppg": 7.9,
      "rpg": 1.2,
-     "apg": 1.3
+     "apg": 1.2
     }
    ]
   },
@@ -6410,13 +6410,13 @@
   "model_winner": "Oklahoma City Thunder",
   "model_correct": null,
   "model_version": "nba-v2.0",
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -6.55,
+   "expected_margin": -5.82,
    "win_prob": {
-    "home": 32.6,
-    "away": 67.4
+    "home": 34.4,
+    "away": 65.6
    }
   },
   "tip_et": "2026-11-13T22:30-05:00",
