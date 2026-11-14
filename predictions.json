@@ -5020,15 +5020,15 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 21.8,
-   "away": 78.2
+   "home": 21.9,
+   "away": 78.1
   },
   "win_prob_band": {
-   "low": 21.8,
-   "high": 21.8,
-   "gtd_count": 0
+   "low": 21.9,
+   "high": 21.9,
+   "gtd_count": 1
   },
-  "expected_margin": -11.01,
+  "expected_margin": -10.96,
   "expected_score": {
    "home": 110.9,
    "away": 121.9
@@ -5056,8 +5056,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.68,
-    "detail": "New Orleans Pelicans 4 out (95 min) costing 0.0 pts, Denver Nuggets 1 out (15 min) costing 0.1 pts · New Orleans Pelicans: official report not filed yet, ESPN injury list used"
+    "points": 0.73,
+    "detail": "New Orleans Pelicans 4 out (84 min) costing 0.0 pts, Denver Nuggets 1 out (15 min) costing 0.1 pts"
    }
   ],
   "ratings": {
@@ -5088,8 +5088,7 @@
      "nth_out": 1,
      "value": 0.2,
      "cost": -0.03,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Dejounte Murray",
@@ -5097,17 +5096,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
-    },
-    {
-     "player": "Yves Missi",
-     "mpg": 20.8,
-     "nth_out": 4,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Trendon Watford",
@@ -5115,8 +5104,15 @@
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Bryce McGowens",
+     "mpg": 10.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ],
    "away": [
@@ -5131,7 +5127,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Yves Missi",
+     "mpg": 20.8,
+     "value": 0.0,
+     "status": "Probable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -5168,6 +5171,19 @@
      "apg": 5.1
     },
     {
+     "player": "Yves Missi",
+     "player_id": 1642274,
+     "position": "C",
+     "starter": true,
+     "games": 2,
+     "starts": 2,
+     "start_rate": 100,
+     "mpg": 19.6,
+     "ppg": 9.5,
+     "rpg": 7.5,
+     "apg": 2.5
+    },
+    {
      "player": "DeAndre Jordan",
      "player_id": 201599,
      "position": "C",
@@ -5197,7 +5213,7 @@
      "player": "Herbert Jones",
      "player_id": 1630529,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 13,
      "starts": 0,
      "start_rate": 0,
@@ -5231,19 +5247,6 @@
      "ppg": 8.3,
      "rpg": 1.9,
      "apg": 2.9
-    },
-    {
-     "player": "Karlo Matković",
-     "player_id": 1631255,
-     "position": "F",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.8,
-     "ppg": 7.9,
-     "rpg": 4.2,
-     "apg": 1.1
     }
    ],
    "away": [
@@ -5395,6 +5398,12 @@
     "pick": "DEN",
     "prob": 78.2,
     "reason": "Bryce McGowens (NOP) no longer out"
+   },
+   {
+    "at": "2026-11-14T12:48-05:00",
+    "pick": "DEN",
+    "prob": 78.1,
+    "reason": "Bryce McGowens (NOP) now out; Yves Missi (NOP) no longer out; Yves Missi (NOP) now questionable"
    }
   ]
  },
@@ -5985,7 +5994,7 @@
   "win_prob_band": {
    "low": 28.7,
    "high": 29.6,
-   "gtd_count": 3
+   "gtd_count": 2
   },
   "expected_margin": -7.56,
   "expected_score": {
@@ -6075,14 +6084,7 @@
      "status": "Questionable"
     }
    ],
-   "away": [
-    {
-     "player": "Elijah Harkless",
-     "mpg": 20.1,
-     "value": 0.0,
-     "status": "Questionable"
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6345,6 +6347,12 @@
     "pick": "DET",
     "prob": 70.4,
     "reason": "Klay Thompson (MIA) no longer out; Pelle Larsson (MIA) no longer out; Klay Thompson (MIA) now questionable; Pelle Larsson (MIA) now questionable"
+   },
+   {
+    "at": "2026-11-14T12:48-05:00",
+    "pick": "DET",
+    "prob": 70.4,
+    "reason": "Elijah Harkless (DET) cleared to play"
    }
   ]
  },
@@ -6910,18 +6918,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 89.5,
-   "away": 10.5
+   "home": 89.1,
+   "away": 10.9
   },
   "win_prob_band": {
-   "low": 89.5,
-   "high": 90.2,
-   "gtd_count": 1
+   "low": 89.1,
+   "high": 91.4,
+   "gtd_count": 3
   },
-  "expected_margin": 17.75,
+  "expected_margin": 17.43,
   "expected_score": {
-   "home": 125.2,
-   "away": 107.4
+   "home": 125.0,
+   "away": 107.6
   },
   "margin_breakdown": [
    {
@@ -6946,8 +6954,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.41,
-    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Chicago Bulls 1 out (30 min) costing 1.0 pts · Chicago Bulls: official report not filed yet, ESPN injury list used"
+    "points": -1.73,
+    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Chicago Bulls 2 out (47 min) costing 1.0 pts"
    }
   ],
   "ratings": {
@@ -6996,8 +7004,15 @@
      "nth_out": 2,
      "value": 4.6,
      "cost": -0.96,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
+    },
+    {
+     "player": "Tobe Awaka",
+     "mpg": 16.8,
+     "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false
     }
    ]
   },
@@ -7005,9 +7020,21 @@
    "home": [],
    "away": [
     {
+     "player": "Norman Powell",
+     "mpg": 25.1,
+     "value": 6.3,
+     "status": "Questionable"
+    },
+    {
      "player": "Jalen Smith",
      "mpg": 22.0,
      "value": 2.5,
+     "status": "Questionable"
+    },
+    {
+     "player": "Nic Claxton",
+     "mpg": 27.5,
+     "value": 0.0,
      "status": "Questionable"
     }
    ]
@@ -7273,6 +7300,12 @@
     "pick": "MIN",
     "prob": 89.5,
     "reason": "Dailyn Swain (CHI) no longer out; Tobe Awaka (CHI) no longer out"
+   },
+   {
+    "at": "2026-11-14T12:48-05:00",
+    "pick": "MIN",
+    "prob": 89.1,
+    "reason": "Tobe Awaka (CHI) now out; Nic Claxton (CHI) now questionable; Norman Powell (CHI) now questionable"
    }
   ]
  }
