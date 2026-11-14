@@ -22879,6 +22879,37 @@
       "away": 35.5,
       "home": 64.5
      }
+    },
+    {
+     "at": "2026-11-14T15:02-05:00",
+     "expected_margin": 3.93,
+     "gtd": {
+      "away": [
+       "Nolan Traore",
+       "Mikel Brown Jr."
+      ],
+      "home": [
+       "Jerami Grant"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Ty Jerome",
+       "Scotty Pippen Jr.",
+       "Quinten Post",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Quinten Post (MEM) now out; Ty Jerome (MEM) now out; Jerami Grant (MEM) now questionable",
+     "report": "2026-11-14T15:00-05:00",
+     "win_prob": {
+      "away": 39.0,
+      "home": 61.0
+     }
     }
    ]
   },

@@ -6534,18 +6534,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 64.5,
-   "away": 35.5
+   "home": 61.0,
+   "away": 39.0
   },
   "win_prob_band": {
-   "low": 64.5,
-   "high": 67.9,
-   "gtd_count": 2
+   "low": 60.8,
+   "high": 64.4,
+   "gtd_count": 3
   },
-  "expected_margin": 5.27,
+  "expected_margin": 3.93,
   "expected_score": {
-   "home": 116.2,
-   "away": 110.9
+   "home": 115.5,
+   "away": 111.6
   },
   "margin_breakdown": [
    {
@@ -6570,8 +6570,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.29,
-    "detail": "Memphis Grizzlies 1 out (16 min) · Memphis Grizzlies: official report not filed yet, ESPN injury list used · Richie Saunders out all season, already baked into team rating"
+    "points": -1.05,
+    "detail": "Memphis Grizzlies 3 out (58 min) costing 2.3 pts · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6597,14 +6597,31 @@
   "absences": {
    "home": [
     {
+     "player": "Ty Jerome",
+     "mpg": 27.0,
+     "nth_out": 1,
+     "value": 11.1,
+     "cost": -2.34,
+     "no_minutes": false,
+     "ppg": 23.1
+    },
+    {
      "player": "Scotty Pippen Jr.",
      "mpg": 15.5,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 6.2,
-     "source": "espn"
+     "ppg": 6.2
+    },
+    {
+     "player": "Quinten Post",
+     "mpg": 15.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 6.2
     },
     {
      "player": "Richie Saunders",
@@ -6612,14 +6629,21 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ],
    "away": []
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Jerami Grant",
+     "mpg": 21.7,
+     "value": 0.3,
+     "status": "Questionable",
+     "ppg": 10.0
+    }
+   ],
    "away": [
     {
      "player": "Nolan Traore",
@@ -6656,19 +6680,6 @@
      "ppg": 15.6,
      "rpg": 9.8,
      "apg": 5.2
-    },
-    {
-     "player": "Ty Jerome",
-     "player_id": 1629660,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 30.6,
-     "ppg": 25.4,
-     "rpg": 3.4,
-     "apg": 5.3
     },
     {
      "player": "Cedric Coward",
@@ -6713,7 +6724,7 @@
      "player": "Isaiah Stewart",
      "player_id": 1630191,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 9,
      "starts": 3,
      "start_rate": 33,
@@ -6747,6 +6758,19 @@
      "ppg": 11.7,
      "rpg": 2.1,
      "apg": 2.0
+    },
+    {
+     "player": "Cam Spencer",
+     "player_id": 1642285,
+     "position": "G",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.8,
+     "ppg": 9.7,
+     "rpg": 3.2,
+     "apg": 4.8
     }
    ],
    "away": [
@@ -6864,10 +6888,10 @@
   "data_through": "2026-11-13",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 7.84,
+   "expected_margin": 5.5,
    "win_prob": {
-    "home": 70.6,
-    "away": 29.4
+    "home": 64.8,
+    "away": 35.2
    }
   },
   "tip_et": "2026-11-14T20:00-05:00",
@@ -6904,6 +6928,12 @@
     "pick": "MEM",
     "prob": 64.5,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-14T15:02-05:00",
+    "pick": "MEM",
+    "prob": 61.0,
+    "reason": "Quinten Post (MEM) now out; Ty Jerome (MEM) now out; Jerami Grant (MEM) now questionable"
    }
   ]
  },
