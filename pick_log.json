@@ -23299,6 +23299,39 @@
       "away": 53.8,
       "home": 46.2
      }
+    },
+    {
+     "at": "2026-11-14T17:47-05:00",
+     "expected_margin": -9.4,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Donovan Mitchell",
+       "Evan Mobley",
+       "James Harden",
+       "Jarrett Allen",
+       "Peyton Watson",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Donovan Mitchell (CLE) now out; James Harden (CLE) now out; Jarrett Allen (CLE) now out; Peyton Watson (CLE) now out",
+     "report": "2026-11-14T17:45-05:00",
+     "win_prob": {
+      "away": 74.7,
+      "home": 25.3
+     }
     }
    ]
   },
@@ -23513,6 +23546,35 @@
      "win_prob": {
       "away": 80.0,
       "home": 20.0
+     }
+    },
+    {
+     "at": "2026-11-14T17:47-05:00",
+     "expected_margin": -11.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Bennedict Mathurin (NOP) now out",
+     "report": "2026-11-14T17:45-05:00",
+     "win_prob": {
+      "away": 78.9,
+      "home": 21.1
      }
     }
    ]
