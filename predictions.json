@@ -2217,7 +2217,7 @@
  },
  {
   "date": "2026-11-13",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "New York Knicks",
   "home": "Indiana Pacers",
   "away_code": "NYK",
@@ -2410,229 +2410,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 12,
-    "away": 11
-   },
-   "home": [
-    {
-     "player": "Andrew Nembhard",
-     "player_id": 1629614,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 17.1,
-     "rpg": 2.1,
-     "apg": 7.9
-    },
-    {
-     "player": "Pascal Siakam",
-     "player_id": 1627783,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 32.2,
-     "ppg": 22.7,
-     "rpg": 6.8,
-     "apg": 4.4
-    },
-    {
-     "player": "Ivica Zubac",
-     "player_id": 1627826,
-     "position": "C",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 23.0,
-     "ppg": 10.6,
-     "rpg": 8.3,
-     "apg": 1.7
-    },
-    {
-     "player": "Aaron Nesmith",
-     "player_id": 1630174,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 7,
-     "start_rate": 70,
-     "mpg": 25.1,
-     "ppg": 11.7,
-     "rpg": 2.3,
-     "apg": 1.7
-    },
-    {
-     "player": "Kelly Oubre Jr.",
-     "player_id": 1626162,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 5,
-     "start_rate": 50,
-     "mpg": 23.5,
-     "ppg": 9.6,
-     "rpg": 2.7,
-     "apg": 1.4
-    },
-    {
-     "player": "Jay Huff",
-     "player_id": 1630643,
-     "position": "C",
-     "starter": false,
-     "games": 10,
-     "starts": 3,
-     "start_rate": 30,
-     "mpg": 17.6,
-     "ppg": 7.0,
-     "rpg": 3.8,
-     "apg": 0.9
-    },
-    {
-     "player": "Jarace Walker",
-     "player_id": 1641716,
-     "position": "F",
-     "starter": false,
-     "games": 12,
-     "starts": 3,
-     "start_rate": 25,
-     "mpg": 21.0,
-     "ppg": 6.8,
-     "rpg": 5.3,
-     "apg": 1.7
-    },
-    {
-     "player": "Quenton Jackson",
-     "player_id": 1631245,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.6,
-     "ppg": 9.5,
-     "rpg": 3.5,
-     "apg": 2.6
-    }
-   ],
-   "away": [
-    {
-     "player": "Jalen Brunson",
-     "player_id": 1628973,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 33.6,
-     "ppg": 26.0,
-     "rpg": 3.1,
-     "apg": 5.2
-    },
-    {
-     "player": "OG Anunoby",
-     "player_id": 1628384,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 32.7,
-     "ppg": 16.5,
-     "rpg": 5.4,
-     "apg": 2.4
-    },
-    {
-     "player": "Karl-Anthony Towns",
-     "player_id": 1626157,
-     "position": "C",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 31.3,
-     "ppg": 20.9,
-     "rpg": 13.5,
-     "apg": 3.5
-    },
-    {
-     "player": "Josh Hart",
-     "player_id": 1628404,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 8,
-     "start_rate": 100,
-     "mpg": 31.0,
-     "ppg": 8.2,
-     "rpg": 6.9,
-     "apg": 3.8
-    },
-    {
-     "player": "Mikal Bridges",
-     "player_id": 1628969,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 24.3,
-     "ppg": 5.9,
-     "rpg": 3.2,
-     "apg": 2.1
-    },
-    {
-     "player": "Landry Shamet",
-     "player_id": 1629013,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 25.9,
-     "ppg": 9.6,
-     "rpg": 1.6,
-     "apg": 2.1
-    },
-    {
-     "player": "Miles McBride",
-     "player_id": 1630540,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.9,
-     "ppg": 7.9,
-     "rpg": 1.5,
-     "apg": 1.2
-    },
-    {
-     "player": "Andre Drummond",
-     "player_id": 203083,
-     "position": "C",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.5,
-     "ppg": 4.3,
-     "rpg": 8.0,
-     "apg": 1.4
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 106,
+   "away": 104
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Indiana Pacers",
   "model_winner": "New York Knicks",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-12",
   "team_model": {
@@ -2666,7 +2451,291 @@
     "prob": 72.9,
     "reason": "Aaron Nesmith (IND) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Andrew Nembhard",
+     "starter": true,
+     "min": 34,
+     "pts": 12,
+     "reb": 4,
+     "ast": 6,
+     "stl": 0,
+     "blk": 0,
+     "tov": 6,
+     "pm": -14
+    },
+    {
+     "name": "Aaron Nesmith",
+     "starter": true,
+     "min": 33,
+     "pts": 18,
+     "reb": 7,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -12
+    },
+    {
+     "name": "Pascal Siakam",
+     "starter": true,
+     "min": 32,
+     "pts": 19,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -6
+    },
+    {
+     "name": "Kelly Oubre Jr.",
+     "starter": true,
+     "min": 30,
+     "pts": 16,
+     "reb": 5,
+     "ast": 0,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Ivica Zubac",
+     "starter": true,
+     "min": 26,
+     "pts": 12,
+     "reb": 13,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 4
+    },
+    {
+     "name": "Quenton Jackson",
+     "starter": false,
+     "min": 20,
+     "pts": 3,
+     "reb": 5,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 22
+    },
+    {
+     "name": "T.J. McConnell",
+     "starter": false,
+     "min": 17,
+     "pts": 6,
+     "reb": 3,
+     "ast": 7,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 16
+    },
+    {
+     "name": "Obi Toppin",
+     "starter": false,
+     "min": 16,
+     "pts": 9,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 8
+    },
+    {
+     "name": "Larry Nance Jr.",
+     "starter": false,
+     "min": 14,
+     "pts": 2,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Jalen Slawson",
+     "starter": false,
+     "min": 10,
+     "pts": 1,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Jay Huff",
+     "starter": false,
+     "min": 8,
+     "pts": 8,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -1
+    }
+   ],
+   "away": [
+    {
+     "name": "Jalen Brunson",
+     "starter": true,
+     "min": 36,
+     "pts": 33,
+     "reb": 1,
+     "ast": 11,
+     "stl": 2,
+     "blk": 0,
+     "tov": 4,
+     "pm": 8
+    },
+    {
+     "name": "Karl-Anthony Towns",
+     "starter": true,
+     "min": 34,
+     "pts": 23,
+     "reb": 15,
+     "ast": 5,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": -3
+    },
+    {
+     "name": "OG Anunoby",
+     "starter": true,
+     "min": 33,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": 8
+    },
+    {
+     "name": "Mikal Bridges",
+     "starter": true,
+     "min": 29,
+     "pts": 18,
+     "reb": 3,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": -5
+    },
+    {
+     "name": "Josh Hart",
+     "starter": true,
+     "min": 23,
+     "pts": 0,
+     "reb": 5,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Miles McBride",
+     "starter": false,
+     "min": 22,
+     "pts": 9,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Landry Shamet",
+     "starter": false,
+     "min": 21,
+     "pts": 5,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 9
+    },
+    {
+     "name": "Tyler Kolek",
+     "starter": false,
+     "min": 19,
+     "pts": 5,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Andre Drummond",
+     "starter": false,
+     "min": 14,
+     "pts": 0,
+     "reb": 6,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": 3
+    },
+    {
+     "name": "Jordan Clarkson",
+     "starter": false,
+     "min": 9,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Pacome Dadiet",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Pascal Siakam",
+    "pts": 19,
+    "reb": 3,
+    "ast": 2
+   },
+   "away": {
+    "name": "Jalen Brunson",
+    "pts": 33,
+    "reb": 1,
+    "ast": 11
+   }
+  }
  },
  {
   "date": "2026-11-13",
@@ -6095,7 +6164,7 @@
   },
   "tip_et": "2026-11-13T22:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "9:45 PM ET"
   },
   "pick_updates": [
    {

@@ -1398,5 +1398,13 @@
   "home": "ORL",
   "conf": 78.1,
   "correct": true
+ },
+ {
+  "date": "2026-11-13",
+  "season": "2026-2027",
+  "away": "NYK",
+  "home": "IND",
+  "conf": 72.9,
+  "correct": false
  }
 ]

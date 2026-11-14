@@ -22286,6 +22286,13 @@
    "home": "IND",
    "late": false,
    "locked_at": "2026-11-13T19:00-05:00",
+   "result": {
+    "score": {
+     "away": 104,
+     "home": 106
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-13T19:00-05:00",
    "tip_known": true,
@@ -22487,6 +22494,11 @@
   "2026-11-13_POR@SAC": {
    "away": "POR",
    "date": "2026-11-13",
+   "final_check": {
+    "at": "2026-11-13T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-13T21:45-05:00"
+   },
    "home": "SAC",
    "late": false,
    "locked_at": null,
