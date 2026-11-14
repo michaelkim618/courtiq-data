@@ -5379,7 +5379,7 @@
   },
   "tip_et": "2026-11-14T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6574,8 +6574,8 @@
   },
   "win_prob_band": {
    "low": 60.8,
-   "high": 68.7,
-   "gtd_count": 4
+   "high": 65.4,
+   "gtd_count": 2
   },
   "expected_margin": 3.93,
   "expected_score": {
@@ -6686,20 +6686,6 @@
      "value": 7.9,
      "status": "Questionable",
      "ppg": 21.5
-    },
-    {
-     "player": "Nolan Traore",
-     "mpg": 20.6,
-     "value": 3.6,
-     "status": "Probable",
-     "ppg": 12.8
-    },
-    {
-     "player": "Mikel Brown Jr.",
-     "mpg": 22.2,
-     "value": 2.5,
-     "status": "Probable",
-     "ppg": 12.4
     }
    ]
   },
@@ -6982,6 +6968,12 @@
     "pick": "MEM",
     "prob": 61.0,
     "reason": "Michael Porter Jr. (BKN) now questionable"
+   },
+   {
+    "at": "2026-11-14T18:47-05:00",
+    "pick": "MEM",
+    "prob": 61.0,
+    "reason": "Mikel Brown Jr. (BKN) cleared to play; Nolan Traore (BKN) cleared to play"
    }
   ]
  },
@@ -7084,18 +7076,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 89.7,
-   "away": 10.3
+   "home": 90.4,
+   "away": 9.6
   },
   "win_prob_band": {
-   "low": 89.7,
-   "high": 91.9,
-   "gtd_count": 3
+   "low": 90.4,
+   "high": 90.4,
+   "gtd_count": 0
   },
-  "expected_margin": 17.88,
+  "expected_margin": 18.45,
   "expected_score": {
-   "home": 125.2,
-   "away": 107.4
+   "home": 125.5,
+   "away": 107.1
   },
   "margin_breakdown": [
    {
@@ -7120,8 +7112,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.73,
-    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Chicago Bulls 2 out (47 min) costing 1.0 pts"
+    "points": -1.16,
+    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Chicago Bulls 4 out (97 min) costing 1.5 pts"
    }
   ],
   "ratings": {
@@ -7176,6 +7168,24 @@
      "ppg": 18.1
     },
     {
+     "player": "Jalen Smith",
+     "mpg": 22.0,
+     "nth_out": 1,
+     "value": 2.5,
+     "cost": -0.53,
+     "no_minutes": false,
+     "ppg": 12.3
+    },
+    {
+     "player": "Nic Claxton",
+     "mpg": 27.5,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 11.6
+    },
+    {
      "player": "Tobe Awaka",
      "mpg": 16.8,
      "nth_out": 2,
@@ -7188,29 +7198,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Norman Powell",
-     "mpg": 25.1,
-     "value": 6.3,
-     "status": "Questionable",
-     "ppg": 17.5
-    },
-    {
-     "player": "Jalen Smith",
-     "mpg": 22.0,
-     "value": 2.5,
-     "status": "Questionable",
-     "ppg": 12.3
-    },
-    {
-     "player": "Nic Claxton",
-     "mpg": 27.5,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 11.6
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7365,19 +7353,6 @@
      "apg": 2.0
     },
     {
-     "player": "Jalen Smith",
-     "player_id": 1630188,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 24.7,
-     "ppg": 13.0,
-     "rpg": 7.8,
-     "apg": 2.0
-    },
-    {
      "player": "Patrick Williams",
      "player_id": 1630172,
      "position": "F",
@@ -7394,7 +7369,7 @@
      "player": "Isaac Okoro",
      "player_id": 1630171,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -7402,19 +7377,6 @@
      "ppg": 6.1,
      "rpg": 1.5,
      "apg": 1.5
-    },
-    {
-     "player": "Nic Claxton",
-     "player_id": 1629651,
-     "position": "C",
-     "starter": false,
-     "games": 3,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.7,
-     "ppg": 7.7,
-     "rpg": 5.3,
-     "apg": 2.3
     },
     {
      "player": "Tre Jones",
@@ -7428,6 +7390,32 @@
      "ppg": 10.0,
      "rpg": 2.4,
      "apg": 2.9
+    },
+    {
+     "player": "Leonard Miller",
+     "player_id": 1631159,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.9,
+     "ppg": 6.3,
+     "rpg": 3.7,
+     "apg": 0.9
+    },
+    {
+     "player": "Buddy Hield",
+     "player_id": 1627741,
+     "position": "G",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.3,
+     "ppg": 6.3,
+     "rpg": 1.9,
+     "apg": 1.8
     }
    ]
   },
@@ -7439,10 +7427,10 @@
   "data_through": "2026-11-13",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 20.79,
+   "expected_margin": 21.32,
    "win_prob": {
-    "home": 92.4,
-    "away": 7.6
+    "home": 92.9,
+    "away": 7.1
    }
   },
   "tip_et": "2026-11-14T20:00-05:00",
@@ -7485,6 +7473,12 @@
     "pick": "MIN",
     "prob": 89.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-14T18:47-05:00",
+    "pick": "MIN",
+    "prob": 90.4,
+    "reason": "Jalen Smith (CHI) now out; Nic Claxton (CHI) now out; Norman Powell (CHI) cleared to play"
    }
   ]
  }
