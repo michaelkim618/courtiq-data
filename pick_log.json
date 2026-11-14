@@ -23486,6 +23486,34 @@
       "away": 80.0,
       "home": 20.0
      }
+    },
+    {
+     "at": "2026-11-14T17:32-05:00",
+     "expected_margin": -11.89,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Yves Missi (NOP) cleared to play",
+     "report": "2026-11-14T17:30-05:00",
+     "win_prob": {
+      "away": 80.0,
+      "home": 20.0
+     }
     }
    ]
   },

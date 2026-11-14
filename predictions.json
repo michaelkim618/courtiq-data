@@ -5026,7 +5026,7 @@
   "win_prob_band": {
    "low": 20.0,
    "high": 20.0,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -11.89,
   "expected_score": {
@@ -5132,15 +5132,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Yves Missi",
-     "mpg": 20.8,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 8.4
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5416,6 +5408,12 @@
     "pick": "DEN",
     "prob": 80.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-14T17:32-05:00",
+    "pick": "DEN",
+    "prob": 80.0,
+    "reason": "Yves Missi (NOP) cleared to play"
    }
   ]
  },
