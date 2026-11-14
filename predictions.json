@@ -5020,34 +5020,34 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 21.9,
-   "away": 78.1
+   "home": 20.0,
+   "away": 80.0
   },
   "win_prob_band": {
-   "low": 21.9,
-   "high": 21.9,
+   "low": 20.0,
+   "high": 20.0,
    "gtd_count": 1
   },
-  "expected_margin": -10.96,
+  "expected_margin": -11.89,
   "expected_score": {
-   "home": 110.9,
-   "away": 121.9
+   "home": 110.5,
+   "away": 122.3
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -8.8,
+    "points": -8.91,
     "detail": "New Orleans Pelicans vs Denver Nuggets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": -1.64,
-    "detail": "New Orleans Pelicans -7.2 vs Denver Nuggets +1.2 points per game so far, weighted by games played"
+    "points": -1.99,
+    "detail": "New Orleans Pelicans -9.0 vs Denver Nuggets +1.2 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -5056,7 +5056,7 @@
    },
    {
     "label": "Absences",
-    "points": 0.73,
+    "points": 0.23,
     "detail": "New Orleans Pelicans 4 out (84 min) costing 0.0 pts, Denver Nuggets 1 out (15 min) costing 0.1 pts"
    }
   ],
@@ -5088,7 +5088,8 @@
      "nth_out": 1,
      "value": 0.2,
      "cost": -0.03,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 12.7
     },
     {
      "player": "Dejounte Murray",
@@ -5096,7 +5097,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 13.6
     },
     {
      "player": "Trendon Watford",
@@ -5104,7 +5106,8 @@
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 5.8
     },
     {
      "player": "Bryce McGowens",
@@ -5112,7 +5115,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 3.2
     }
    ],
    "away": [
@@ -5122,7 +5126,8 @@
      "nth_out": 1,
      "value": 0.6,
      "cost": -0.12,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 7.2
     }
    ]
   },
@@ -5132,7 +5137,8 @@
      "player": "Yves Missi",
      "mpg": 20.8,
      "value": 0.0,
-     "status": "Probable"
+     "status": "Probable",
+     "ppg": 8.4
     }
    ],
    "away": []
@@ -5404,6 +5410,12 @@
     "pick": "DEN",
     "prob": 78.1,
     "reason": "Bryce McGowens (NOP) now out; Yves Missi (NOP) no longer out; Yves Missi (NOP) now questionable"
+   },
+   {
+    "at": "2026-11-14T14:23-05:00",
+    "pick": "DEN",
+    "prob": 80.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5506,34 +5518,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 43.6,
-   "away": 56.4
+   "home": 46.2,
+   "away": 53.8
   },
   "win_prob_band": {
-   "low": 37.5,
-   "high": 43.6,
+   "low": 40.0,
+   "high": 46.2,
    "gtd_count": 4
   },
-  "expected_margin": -2.28,
+  "expected_margin": -1.36,
   "expected_score": {
-   "home": 113.6,
-   "away": 115.9
+   "home": 114.0,
+   "away": 115.4
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 1.5,
+    "points": 2.31,
     "detail": "Cleveland Cavaliers vs Dallas Mavericks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": -0.52,
-    "detail": "Cleveland Cavaliers +1.8 vs Dallas Mavericks +4.4 points per game so far, weighted by games played"
+    "points": 0.0,
+    "detail": "Cleveland Cavaliers +0.8 vs Dallas Mavericks +0.8 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -5542,7 +5554,7 @@
    },
    {
     "label": "Absences",
-    "points": -2.01,
+    "points": -2.45,
     "detail": "Cleveland Cavaliers 3 out (67 min) costing 0.6 pts, Dallas Mavericks 1 out (20 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
@@ -5574,7 +5586,8 @@
      "nth_out": 2,
      "value": 2.9,
      "cost": -0.61,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 16.4
     },
     {
      "player": "Sam Merrill",
@@ -5582,7 +5595,8 @@
      "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 8.2
     },
     {
      "player": "Nae'Qwan Tomlin",
@@ -5590,7 +5604,8 @@
      "nth_out": 12,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 5.4
     }
    ],
    "away": [
@@ -5600,7 +5615,8 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 8.4
     },
     {
      "player": "Dereck Lively II",
@@ -5626,25 +5642,29 @@
      "player": "Donovan Mitchell",
      "mpg": 30.8,
      "value": 7.0,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 20.7
     },
     {
      "player": "James Harden",
      "mpg": 31.8,
      "value": 2.8,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 16.9
     },
     {
      "player": "Jarrett Allen",
      "mpg": 24.6,
      "value": 0.7,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 11.6
     },
     {
      "player": "Peyton Watson",
      "mpg": 26.2,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 10.2
     }
    ],
    "away": []
@@ -5916,6 +5936,12 @@
     "pick": "DAL",
     "prob": 56.4,
     "reason": "Evan Mobley (CLE) now out; Donovan Mitchell (CLE) now questionable; James Harden (CLE) now questionable; Jarrett Allen (CLE) now questionable; Peyton Watson (CLE) now questionable"
+   },
+   {
+    "at": "2026-11-14T14:23-05:00",
+    "pick": "DAL",
+    "prob": 53.8,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6018,18 +6044,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 29.6,
-   "away": 70.4
+   "home": 30.6,
+   "away": 69.4
   },
   "win_prob_band": {
-   "low": 23.0,
-   "high": 29.6,
+   "low": 23.9,
+   "high": 30.6,
    "gtd_count": 3
   },
-  "expected_margin": -7.56,
+  "expected_margin": -7.15,
   "expected_score": {
-   "home": 110.7,
-   "away": 118.3
+   "home": 110.9,
+   "away": 118.1
   },
   "margin_breakdown": [
    {
@@ -6039,13 +6065,13 @@
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": -2.37,
-    "detail": "Miami Heat -4.0 vs Detroit Pistons +8.1 points per game so far, weighted by games played"
+    "points": -2.12,
+    "detail": "Miami Heat -2.7 vs Detroit Pistons +7.7 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -6054,7 +6080,7 @@
    },
    {
     "label": "Absences",
-    "points": -0.18,
+    "points": -0.05,
     "detail": "Detroit Pistons 2 out (45 min) costing 1.4 pts"
    }
   ],
@@ -6087,7 +6113,8 @@
      "nth_out": 2,
      "value": 5.2,
      "cost": -1.09,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 17.4
     },
     {
      "player": "Isaiah Joe",
@@ -6095,7 +6122,8 @@
      "nth_out": 2,
      "value": 1.3,
      "cost": -0.28,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 9.0
     }
    ]
   },
@@ -6105,19 +6133,22 @@
      "player": "Giannis Antetokounmpo",
      "mpg": 29.7,
      "value": 11.9,
-     "status": "Probable"
+     "status": "Probable",
+     "ppg": 25.1
     },
     {
      "player": "Klay Thompson",
      "mpg": 22.0,
      "value": 1.9,
-     "status": "Probable"
+     "status": "Probable",
+     "ppg": 11.7
     },
     {
      "player": "Pelle Larsson",
      "mpg": 27.3,
      "value": 0.0,
-     "status": "Doubtful"
+     "status": "Doubtful",
+     "ppg": 11.5
     }
    ],
    "away": []
@@ -6395,6 +6426,12 @@
     "pick": "DET",
     "prob": 70.4,
     "reason": "Giannis Antetokounmpo (MIA) now questionable"
+   },
+   {
+    "at": "2026-11-14T14:23-05:00",
+    "pick": "DET",
+    "prob": 69.4,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6497,34 +6534,34 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 61.6,
-   "away": 38.4
+   "home": 64.5,
+   "away": 35.5
   },
   "win_prob_band": {
-   "low": 61.6,
-   "high": 65.0,
+   "low": 64.5,
+   "high": 67.9,
    "gtd_count": 2
   },
-  "expected_margin": 4.15,
+  "expected_margin": 5.27,
   "expected_score": {
-   "home": 115.6,
-   "away": 111.5
+   "home": 116.2,
+   "away": 110.9
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 2.9,
+    "points": 3.52,
     "detail": "Memphis Grizzlies vs Brooklyn Nets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 2.26,
-    "detail": "Memphis Grizzlies +6.0 vs Brooklyn Nets -5.1 points per game so far, weighted by games played"
+    "points": 2.68,
+    "detail": "Memphis Grizzlies +8.1 vs Brooklyn Nets -5.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -6533,7 +6570,7 @@
    },
    {
     "label": "Absences",
-    "points": 0.24,
+    "points": 0.29,
     "detail": "Memphis Grizzlies 1 out (16 min) · Memphis Grizzlies: official report not filed yet, ESPN injury list used · Richie Saunders out all season, already baked into team rating"
    }
   ],
@@ -6566,6 +6603,7 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
+     "ppg": 6.2,
      "source": "espn"
     },
     {
@@ -6587,13 +6625,15 @@
      "player": "Nolan Traore",
      "mpg": 20.6,
      "value": 3.6,
-     "status": "Probable"
+     "status": "Probable",
+     "ppg": 12.8
     },
     {
      "player": "Mikel Brown Jr.",
      "mpg": 22.2,
      "value": 2.5,
-     "status": "Probable"
+     "status": "Probable",
+     "ppg": 12.4
     }
    ]
   },
@@ -6858,6 +6898,12 @@
     "pick": "MEM",
     "prob": 61.6,
     "reason": "Quinten Post (MEM) no longer out; Zach Edey (MEM) no longer out"
+   },
+   {
+    "at": "2026-11-14T14:23-05:00",
+    "pick": "MEM",
+    "prob": 64.5,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6960,34 +7006,34 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 89.1,
-   "away": 10.9
+   "home": 89.7,
+   "away": 10.3
   },
   "win_prob_band": {
-   "low": 89.1,
-   "high": 91.4,
+   "low": 89.7,
+   "high": 91.9,
    "gtd_count": 3
   },
-  "expected_margin": 17.43,
+  "expected_margin": 17.88,
   "expected_score": {
-   "home": 125.0,
-   "away": 107.6
+   "home": 125.2,
+   "away": 107.4
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 10.19,
+    "points": 10.36,
     "detail": "Minnesota Timberwolves vs Chicago Bulls: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.25,
+    "points": 1.28,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 5.22,
-    "detail": "Minnesota Timberwolves +11.2 vs Chicago Bulls -15.5 points per game so far, weighted by games played"
+    "points": 5.47,
+    "detail": "Minnesota Timberwolves +13.5 vs Chicago Bulls -13.4 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -7028,7 +7074,8 @@
      "nth_out": 1,
      "value": 11.9,
      "cost": -2.49,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 23.6
     },
     {
      "player": "Donte DiVincenzo",
@@ -7036,7 +7083,8 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 11.8
     }
    ],
    "away": [
@@ -7046,7 +7094,8 @@
      "nth_out": 2,
      "value": 4.6,
      "cost": -0.96,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 18.1
     },
     {
      "player": "Tobe Awaka",
@@ -7054,7 +7103,8 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false
+     "no_minutes": false,
+     "ppg": 4.4
     }
    ]
   },
@@ -7065,19 +7115,22 @@
      "player": "Norman Powell",
      "mpg": 25.1,
      "value": 6.3,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 17.5
     },
     {
      "player": "Jalen Smith",
      "mpg": 22.0,
      "value": 2.5,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 12.3
     },
     {
      "player": "Nic Claxton",
      "mpg": 27.5,
      "value": 0.0,
-     "status": "Questionable"
+     "status": "Questionable",
+     "ppg": 11.6
     }
    ]
   },
@@ -7348,6 +7401,12 @@
     "pick": "MIN",
     "prob": 89.1,
     "reason": "Tobe Awaka (CHI) now out; Nic Claxton (CHI) now questionable; Norman Powell (CHI) now questionable"
+   },
+   {
+    "at": "2026-11-14T14:23-05:00",
+    "pick": "MIN",
+    "prob": 89.7,
+    "reason": "win probability moved with the latest report"
    }
   ]
  }

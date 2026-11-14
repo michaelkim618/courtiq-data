@@ -22852,6 +22852,33 @@
       "away": 38.4,
       "home": 61.6
      }
+    },
+    {
+     "at": "2026-11-14T14:23-05:00",
+     "expected_margin": 5.27,
+     "gtd": {
+      "away": [
+       "Nolan Traore",
+       "Mikel Brown Jr."
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-14T14:15-05:00",
+     "win_prob": {
+      "away": 35.5,
+      "home": 64.5
+     }
     }
    ]
   },
@@ -23012,6 +23039,37 @@
      "win_prob": {
       "away": 10.9,
       "home": 89.1
+     }
+    },
+    {
+     "at": "2026-11-14T14:23-05:00",
+     "expected_margin": 17.88,
+     "gtd": {
+      "away": [
+       "Norman Powell",
+       "Jalen Smith",
+       "Nic Claxton"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Caleb Wilson",
+       "Tobe Awaka"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-14T14:15-05:00",
+     "win_prob": {
+      "away": 10.3,
+      "home": 89.7
      }
     }
    ]
@@ -23176,6 +23234,40 @@
       "away": 56.4,
       "home": 43.6
      }
+    },
+    {
+     "at": "2026-11-14T14:23-05:00",
+     "expected_margin": -1.36,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Donovan Mitchell",
+       "James Harden",
+       "Jarrett Allen",
+       "Peyton Watson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-14T14:15-05:00",
+     "win_prob": {
+      "away": 53.8,
+      "home": 46.2
+     }
     }
    ]
   },
@@ -23332,6 +23424,36 @@
      "win_prob": {
       "away": 78.1,
       "home": 21.9
+     }
+    },
+    {
+     "at": "2026-11-14T14:23-05:00",
+     "expected_margin": -11.89,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Yves Missi"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-14T14:15-05:00",
+     "win_prob": {
+      "away": 80.0,
+      "home": 20.0
      }
     }
    ]
@@ -23515,6 +23637,34 @@
      "win_prob": {
       "away": 70.4,
       "home": 29.6
+     }
+    },
+    {
+     "at": "2026-11-14T14:23-05:00",
+     "expected_margin": -7.15,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Giannis Antetokounmpo",
+       "Klay Thompson",
+       "Pelle Larsson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-14T14:15-05:00",
+     "win_prob": {
+      "away": 69.4,
+      "home": 30.6
      }
     }
    ]
