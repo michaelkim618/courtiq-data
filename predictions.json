@@ -5020,28 +5020,28 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 22.1,
-   "away": 77.9
+   "home": 21.8,
+   "away": 78.2
   },
   "win_prob_band": {
-   "low": 22.1,
-   "high": 22.1,
+   "low": 21.8,
+   "high": 21.8,
    "gtd_count": 0
   },
-  "expected_margin": -10.86,
+  "expected_margin": -11.01,
   "expected_score": {
-   "home": 111.0,
-   "away": 121.8
+   "home": 110.9,
+   "away": 121.9
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -8.72,
+    "points": -8.8,
     "detail": "New Orleans Pelicans vs Denver Nuggets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.28,
+    "points": 1.25,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -5056,8 +5056,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.72,
-    "detail": "New Orleans Pelicans 5 out (105 min) costing 0.0 pts, Denver Nuggets 1 out (15 min) costing 0.1 pts · New Orleans Pelicans: official report not filed yet, ESPN injury list used"
+    "points": 0.68,
+    "detail": "New Orleans Pelicans 4 out (95 min) costing 0.0 pts, Denver Nuggets 1 out (15 min) costing 0.1 pts · New Orleans Pelicans: official report not filed yet, ESPN injury list used"
    }
   ],
   "ratings": {
@@ -5089,7 +5089,6 @@
      "value": 0.2,
      "cost": -0.03,
      "no_minutes": false,
-     "ppg": 12.7,
      "source": "espn"
     },
     {
@@ -5099,7 +5098,6 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 13.6,
      "source": "espn"
     },
     {
@@ -5109,27 +5107,15 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 8.4,
      "source": "espn"
     },
     {
      "player": "Trendon Watford",
      "mpg": 15.3,
-     "nth_out": 2,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 5.8,
-     "source": "espn"
-    },
-    {
-     "player": "Bryce McGowens",
-     "mpg": 10.7,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 3.2,
      "source": "espn"
     }
    ],
@@ -5140,8 +5126,7 @@
      "nth_out": 1,
      "value": 0.6,
      "cost": -0.12,
-     "no_minutes": false,
-     "ppg": 7.2
+     "no_minutes": false
     }
    ]
   },
@@ -5404,6 +5389,12 @@
     "pick": "DEN",
     "prob": 77.9,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-14T10:33-05:00",
+    "pick": "DEN",
+    "prob": 78.2,
+    "reason": "Bryce McGowens (NOP) no longer out"
    }
   ]
  },
@@ -5506,34 +5497,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 48.2,
-   "away": 51.8
+   "home": 45.5,
+   "away": 54.5
   },
   "win_prob_band": {
-   "low": 48.2,
-   "high": 48.2,
-   "gtd_count": 0
+   "low": 43.8,
+   "high": 45.5,
+   "gtd_count": 1
   },
-  "expected_margin": -0.64,
+  "expected_margin": -1.59,
   "expected_score": {
-   "home": 114.4,
-   "away": 115.0
+   "home": 113.9,
+   "away": 115.5
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 2.6,
+    "points": 1.5,
     "detail": "Cleveland Cavaliers vs Dallas Mavericks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.28,
+    "points": 1.25,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 0.23,
-    "detail": "Cleveland Cavaliers +1.8 vs Dallas Mavericks +0.8 points per game so far, weighted by games played"
+    "points": -0.52,
+    "detail": "Cleveland Cavaliers +1.8 vs Dallas Mavericks +4.4 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -5542,8 +5533,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.25,
-    "detail": "Cleveland Cavaliers 3 out (67 min) costing 0.6 pts, Dallas Mavericks 1 out (20 min) · Cleveland Cavaliers: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": -1.32,
+    "detail": "Cleveland Cavaliers 2 out (37 min), Dallas Mavericks 1 out (20 min) · Cleveland Cavaliers: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5569,33 +5560,21 @@
   "absences": {
    "home": [
     {
-     "player": "Evan Mobley",
-     "mpg": 30.2,
-     "nth_out": 1,
-     "value": 2.9,
-     "cost": -0.61,
-     "no_minutes": false,
-     "ppg": 16.4,
-     "source": "espn"
-    },
-    {
      "player": "Sam Merrill",
      "mpg": 22.3,
-     "nth_out": 3,
+     "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 8.2,
      "source": "espn"
     },
     {
      "player": "Nae'Qwan Tomlin",
      "mpg": 14.5,
-     "nth_out": 11,
+     "nth_out": 12,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 5.4,
      "source": "espn"
     }
    ],
@@ -5606,8 +5585,7 @@
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 8.4
+     "no_minutes": false
     },
     {
      "player": "Dereck Lively II",
@@ -5628,7 +5606,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Evan Mobley",
+     "mpg": 30.2,
+     "value": 2.9,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -5665,6 +5650,19 @@
      "apg": 5.8
     },
     {
+     "player": "Evan Mobley",
+     "player_id": 1630596,
+     "position": "C",
+     "starter": true,
+     "games": 12,
+     "starts": 12,
+     "start_rate": 100,
+     "mpg": 32.1,
+     "ppg": 16.9,
+     "rpg": 7.3,
+     "apg": 3.6
+    },
+    {
      "player": "Peyton Watson",
      "player_id": 1631212,
      "position": "G",
@@ -5694,7 +5692,7 @@
      "player": "Meleek Thomas",
      "player_id": 1643509,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -5728,19 +5726,6 @@
      "ppg": 7.5,
      "rpg": 5.3,
      "apg": 1.4
-    },
-    {
-     "player": "Tyrese Proctor",
-     "player_id": 1642878,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.0,
-     "ppg": 8.1,
-     "rpg": 2.9,
-     "apg": 2.2
     }
    ],
    "away": [
@@ -5858,10 +5843,10 @@
   "data_through": "2026-11-13",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 0.51,
+   "expected_margin": 1.13,
    "win_prob": {
-    "home": 51.4,
-    "away": 48.6
+    "home": 53.1,
+    "away": 46.9
    }
   },
   "tip_et": "2026-11-14T19:30-05:00",
@@ -5886,6 +5871,12 @@
     "pick": "DAL",
     "prob": 51.8,
     "reason": "pick flipped to DAL"
+   },
+   {
+    "at": "2026-11-14T10:33-05:00",
+    "pick": "DAL",
+    "prob": 54.5,
+    "reason": "Evan Mobley (CLE) no longer out; Evan Mobley (CLE) now questionable"
    }
   ]
  },
@@ -5988,34 +5979,34 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 32.9,
-   "away": 67.1
+   "home": 29.6,
+   "away": 70.4
   },
   "win_prob_band": {
-   "low": 32.9,
-   "high": 32.9,
-   "gtd_count": 1
+   "low": 28.7,
+   "high": 29.6,
+   "gtd_count": 3
   },
-  "expected_margin": -6.26,
+  "expected_margin": -7.56,
   "expected_score": {
-   "home": 111.4,
-   "away": 117.6
+   "home": 110.7,
+   "away": 118.3
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -3.74,
+    "points": -3.76,
     "detail": "Miami Heat vs Detroit Pistons: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.28,
+    "points": 1.25,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": -2.39,
-    "detail": "Miami Heat -4.0 vs Detroit Pistons +7.7 points per game so far, weighted by games played"
+    "points": -2.37,
+    "detail": "Miami Heat -4.0 vs Detroit Pistons +8.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -6024,8 +6015,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.09,
-    "detail": "Miami Heat 2 out (49 min) costing 0.4 pts, Detroit Pistons 2 out (45 min) costing 1.4 pts · Miami Heat: official report not filed yet, ESPN injury list used"
+    "points": -0.18,
+    "detail": "Detroit Pistons 2 out (45 min) costing 1.4 pts"
    }
   ],
   "ratings": {
@@ -6049,28 +6040,7 @@
    }
   },
   "absences": {
-   "home": [
-    {
-     "player": "Klay Thompson",
-     "mpg": 22.0,
-     "nth_out": 1,
-     "value": 1.9,
-     "cost": -0.41,
-     "no_minutes": false,
-     "ppg": 11.7,
-     "source": "espn"
-    },
-    {
-     "player": "Pelle Larsson",
-     "mpg": 27.3,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 11.5,
-     "source": "espn"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Jalen Duren",
@@ -6078,8 +6048,7 @@
      "nth_out": 2,
      "value": 5.2,
      "cost": -1.09,
-     "no_minutes": false,
-     "ppg": 17.4
+     "no_minutes": false
     },
     {
      "player": "Isaiah Joe",
@@ -6087,20 +6056,31 @@
      "nth_out": 2,
      "value": 1.3,
      "cost": -0.28,
-     "no_minutes": false,
-     "ppg": 9.0
+     "no_minutes": false
     }
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Klay Thompson",
+     "mpg": 22.0,
+     "value": 1.9,
+     "status": "Questionable"
+    },
+    {
+     "player": "Pelle Larsson",
+     "mpg": 27.3,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": [
     {
      "player": "Elijah Harkless",
      "mpg": 20.1,
      "value": 0.0,
-     "status": "Questionable",
-     "ppg": 6.8
+     "status": "Questionable"
     }
    ]
   },
@@ -6164,10 +6144,36 @@
      "apg": 1.7
     },
     {
+     "player": "Klay Thompson",
+     "player_id": 202691,
+     "position": "G",
+     "starter": true,
+     "games": 11,
+     "starts": 11,
+     "start_rate": 100,
+     "mpg": 24.8,
+     "ppg": 14.4,
+     "rpg": 1.5,
+     "apg": 1.9
+    },
+    {
+     "player": "Pelle Larsson",
+     "player_id": 1641796,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 29.5,
+     "ppg": 11.4,
+     "rpg": 3.5,
+     "apg": 3.5
+    },
+    {
      "player": "Bobby Portis Jr.",
      "player_id": 1626171,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 12,
      "starts": 0,
      "start_rate": 0,
@@ -6188,32 +6194,6 @@
      "ppg": 4.5,
      "rpg": 1.5,
      "apg": 0.7
-    },
-    {
-     "player": "Ryan Conwell",
-     "player_id": 1643553,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 14.5,
-     "ppg": 5.8,
-     "rpg": 1.6,
-     "apg": 1.3
-    },
-    {
-     "player": "Nikola Jović",
-     "player_id": 1631107,
-     "position": "F",
-     "starter": false,
-     "games": 7,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 12.3,
-     "ppg": 2.4,
-     "rpg": 2.6,
-     "apg": 1.0
     }
    ],
    "away": [
@@ -6331,10 +6311,10 @@
   "data_through": "2026-11-13",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -6.63,
+   "expected_margin": -6.22,
    "win_prob": {
-    "home": 32.4,
-    "away": 67.6
+    "home": 33.4,
+    "away": 66.6
    }
   },
   "tip_et": "2026-11-14T20:00-05:00",
@@ -6359,6 +6339,12 @@
     "pick": "DET",
     "prob": 67.1,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-14T10:33-05:00",
+    "pick": "DET",
+    "prob": 70.4,
+    "reason": "Klay Thompson (MIA) no longer out; Pelle Larsson (MIA) no longer out; Klay Thompson (MIA) now questionable; Pelle Larsson (MIA) now questionable"
    }
   ]
  },
@@ -6461,28 +6447,28 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 58.8,
-   "away": 41.2
+   "home": 61.6,
+   "away": 38.4
   },
   "win_prob_band": {
-   "low": 58.8,
-   "high": 62.3,
+   "low": 61.6,
+   "high": 65.0,
    "gtd_count": 2
   },
-  "expected_margin": 3.14,
+  "expected_margin": 4.15,
   "expected_score": {
-   "home": 115.1,
-   "away": 112.0
+   "home": 115.6,
+   "away": 111.5
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 3.07,
+    "points": 2.9,
     "detail": "Memphis Grizzlies vs Brooklyn Nets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.28,
+    "points": 1.25,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -6497,8 +6483,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.97,
-    "detail": "Memphis Grizzlies 3 out (50 min) · Memphis Grizzlies: official report not filed yet, ESPN injury list used · Richie Saunders out all season, already baked into team rating"
+    "points": 0.24,
+    "detail": "Memphis Grizzlies 1 out (16 min) · Memphis Grizzlies: official report not filed yet, ESPN injury list used · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6524,33 +6510,12 @@
   "absences": {
    "home": [
     {
-     "player": "Zach Edey",
-     "mpg": 19.6,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 8.0,
-     "source": "espn"
-    },
-    {
      "player": "Scotty Pippen Jr.",
      "mpg": 15.5,
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 6.2,
-     "source": "espn"
-    },
-    {
-     "player": "Quinten Post",
-     "mpg": 15.1,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 6.2,
      "source": "espn"
     },
     {
@@ -6572,15 +6537,13 @@
      "player": "Nolan Traore",
      "mpg": 20.6,
      "value": 3.6,
-     "status": "Probable",
-     "ppg": 12.8
+     "status": "Probable"
     },
     {
      "player": "Mikel Brown Jr.",
      "mpg": 22.2,
      "value": 2.5,
-     "status": "Questionable",
-     "ppg": 12.4
+     "status": "Questionable"
     }
    ]
   },
@@ -6644,10 +6607,23 @@
      "apg": 1.2
     },
     {
+     "player": "Zach Edey",
+     "player_id": 1641744,
+     "position": "C",
+     "starter": true,
+     "games": 10,
+     "starts": 10,
+     "start_rate": 100,
+     "mpg": 20.8,
+     "ppg": 7.6,
+     "rpg": 7.7,
+     "apg": 0.9
+    },
+    {
      "player": "Isaiah Stewart",
      "player_id": 1630191,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 9,
      "starts": 3,
      "start_rate": 33,
@@ -6681,19 +6657,6 @@
      "ppg": 11.7,
      "rpg": 2.1,
      "apg": 2.0
-    },
-    {
-     "player": "Cam Spencer",
-     "player_id": 1642285,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.8,
-     "ppg": 9.7,
-     "rpg": 3.2,
-     "apg": 4.8
     }
    ],
    "away": [
@@ -6839,6 +6802,12 @@
     "pick": "MEM",
     "prob": 58.8,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-14T10:33-05:00",
+    "pick": "MEM",
+    "prob": 61.6,
+    "reason": "Quinten Post (MEM) no longer out; Zach Edey (MEM) no longer out"
    }
   ]
  },
@@ -6941,34 +6910,34 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 90.3,
-   "away": 9.7
+   "home": 89.5,
+   "away": 10.5
   },
   "win_prob_band": {
-   "low": 90.3,
-   "high": 90.9,
+   "low": 89.5,
+   "high": 90.2,
    "gtd_count": 1
   },
-  "expected_margin": 18.35,
+  "expected_margin": 17.75,
   "expected_score": {
-   "home": 125.5,
-   "away": 107.1
+   "home": 125.2,
+   "away": 107.4
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 10.79,
+    "points": 10.19,
     "detail": "Minnesota Timberwolves vs Chicago Bulls: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.28,
+    "points": 1.25,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 5.67,
-    "detail": "Minnesota Timberwolves +13.5 vs Chicago Bulls -15.5 points per game so far, weighted by games played"
+    "points": 5.22,
+    "detail": "Minnesota Timberwolves +11.2 vs Chicago Bulls -15.5 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -6977,8 +6946,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.89,
-    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Chicago Bulls 3 out (64 min) costing 1.0 pts · Chicago Bulls: official report not filed yet, ESPN injury list used"
+    "points": -1.41,
+    "detail": "Minnesota Timberwolves 2 out (56 min) costing 2.5 pts, Chicago Bulls 1 out (30 min) costing 1.0 pts · Chicago Bulls: official report not filed yet, ESPN injury list used"
    }
   ],
   "ratings": {
@@ -7009,8 +6978,7 @@
      "nth_out": 1,
      "value": 11.9,
      "cost": -2.49,
-     "no_minutes": false,
-     "ppg": 23.6
+     "no_minutes": false
     },
     {
      "player": "Donte DiVincenzo",
@@ -7018,39 +6986,17 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 11.8
+     "no_minutes": false
     }
    ],
    "away": [
     {
      "player": "Caleb Wilson",
      "mpg": 30.4,
-     "nth_out": 1,
+     "nth_out": 2,
      "value": 4.6,
      "cost": -0.96,
      "no_minutes": false,
-     "ppg": 18.1,
-     "source": "espn"
-    },
-    {
-     "player": "Tobe Awaka",
-     "mpg": 16.8,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 4.4,
-     "source": "espn"
-    },
-    {
-     "player": "Dailyn Swain",
-     "mpg": 16.4,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 4.8,
      "source": "espn"
     }
    ]
@@ -7062,8 +7008,7 @@
      "player": "Jalen Smith",
      "mpg": 22.0,
      "value": 2.5,
-     "status": "Questionable",
-     "ppg": 12.3
+     "status": "Questionable"
     }
    ]
   },
@@ -7322,6 +7267,12 @@
     "pick": "MIN",
     "prob": 90.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-14T10:33-05:00",
+    "pick": "MIN",
+    "prob": 89.5,
+    "reason": "Dailyn Swain (CHI) no longer out; Tobe Awaka (CHI) no longer out"
    }
   ]
  }

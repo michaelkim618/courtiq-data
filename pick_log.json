@@ -22825,6 +22825,33 @@
       "away": 41.2,
       "home": 58.8
      }
+    },
+    {
+     "at": "2026-11-14T10:33-05:00",
+     "expected_margin": 4.15,
+     "gtd": {
+      "away": [
+       "Nolan Traore",
+       "Mikel Brown Jr."
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Quinten Post (MEM) no longer out; Zach Edey (MEM) no longer out",
+     "report": "2026-11-14T10:30-05:00",
+     "win_prob": {
+      "away": 38.4,
+      "home": 61.6
+     }
     }
    ]
   },
@@ -22927,6 +22954,34 @@
       "away": 9.7,
       "home": 90.3
      }
+    },
+    {
+     "at": "2026-11-14T10:33-05:00",
+     "expected_margin": 17.75,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Caleb Wilson"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Dailyn Swain (CHI) no longer out; Tobe Awaka (CHI) no longer out",
+     "report": "2026-11-14T10:30-05:00",
+     "win_prob": {
+      "away": 10.5,
+      "home": 89.5
+     }
     }
    ]
   },
@@ -23025,6 +23080,36 @@
      "win_prob": {
       "away": 51.8,
       "home": 48.2
+     }
+    },
+    {
+     "at": "2026-11-14T10:33-05:00",
+     "expected_margin": -1.59,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Evan Mobley"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Evan Mobley (CLE) no longer out; Evan Mobley (CLE) now questionable",
+     "report": "2026-11-14T10:30-05:00",
+     "win_prob": {
+      "away": 54.5,
+      "home": 45.5
      }
     }
    ]
@@ -23125,6 +23210,34 @@
       "away": 77.9,
       "home": 22.1
      }
+    },
+    {
+     "at": "2026-11-14T10:33-05:00",
+     "expected_margin": -11.01,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Yves Missi",
+       "Trendon Watford"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Bryce McGowens (NOP) no longer out",
+     "report": "2026-11-14T10:30-05:00",
+     "win_prob": {
+      "away": 78.2,
+      "home": 21.8
+     }
     }
    ]
   },
@@ -23223,6 +23336,35 @@
      "win_prob": {
       "away": 67.1,
       "home": 32.9
+     }
+    },
+    {
+     "at": "2026-11-14T10:33-05:00",
+     "expected_margin": -7.56,
+     "gtd": {
+      "away": [
+       "Elijah Harkless"
+      ],
+      "home": [
+       "Klay Thompson",
+       "Pelle Larsson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Klay Thompson (MIA) no longer out; Pelle Larsson (MIA) no longer out; Klay Thompson (MIA) now questionable; Pelle Larsson (MIA) now questionable",
+     "report": "2026-11-14T10:30-05:00",
+     "win_prob": {
+      "away": 70.4,
+      "home": 29.6
      }
     }
    ]
