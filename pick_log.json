@@ -23142,6 +23142,40 @@
       "away": 54.5,
       "home": 45.5
      }
+    },
+    {
+     "at": "2026-11-14T13:18-05:00",
+     "expected_margin": -2.28,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Donovan Mitchell",
+       "James Harden",
+       "Jarrett Allen",
+       "Peyton Watson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Evan Mobley (CLE) now out; Donovan Mitchell (CLE) now questionable; James Harden (CLE) now questionable; Jarrett Allen (CLE) now questionable; Peyton Watson (CLE) now questionable",
+     "report": "2026-11-14T13:15-05:00",
+     "win_prob": {
+      "away": 56.4,
+      "home": 43.6
+     }
     }
    ]
   },

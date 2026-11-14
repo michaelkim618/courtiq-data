@@ -5506,18 +5506,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 45.5,
-   "away": 54.5
+   "home": 43.6,
+   "away": 56.4
   },
   "win_prob_band": {
-   "low": 43.8,
-   "high": 45.5,
-   "gtd_count": 1
+   "low": 37.5,
+   "high": 43.6,
+   "gtd_count": 4
   },
-  "expected_margin": -1.59,
+  "expected_margin": -2.28,
   "expected_score": {
-   "home": 113.9,
-   "away": 115.5
+   "home": 113.6,
+   "away": 115.9
   },
   "margin_breakdown": [
    {
@@ -5542,8 +5542,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.32,
-    "detail": "Cleveland Cavaliers 2 out (37 min), Dallas Mavericks 1 out (20 min) · Cleveland Cavaliers: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": -2.01,
+    "detail": "Cleveland Cavaliers 3 out (67 min) costing 0.6 pts, Dallas Mavericks 1 out (20 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5569,13 +5569,20 @@
   "absences": {
    "home": [
     {
+     "player": "Evan Mobley",
+     "mpg": 30.2,
+     "nth_out": 2,
+     "value": 2.9,
+     "cost": -0.61,
+     "no_minutes": false
+    },
+    {
      "player": "Sam Merrill",
      "mpg": 22.3,
      "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     },
     {
      "player": "Nae'Qwan Tomlin",
@@ -5583,8 +5590,7 @@
      "nth_out": 12,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": false,
-     "source": "espn"
+     "no_minutes": false
     }
    ],
    "away": [
@@ -5617,9 +5623,27 @@
   "gtd": {
    "home": [
     {
-     "player": "Evan Mobley",
-     "mpg": 30.2,
-     "value": 2.9,
+     "player": "Donovan Mitchell",
+     "mpg": 30.8,
+     "value": 7.0,
+     "status": "Questionable"
+    },
+    {
+     "player": "James Harden",
+     "mpg": 31.8,
+     "value": 2.8,
+     "status": "Questionable"
+    },
+    {
+     "player": "Jarrett Allen",
+     "mpg": 24.6,
+     "value": 0.7,
+     "status": "Questionable"
+    },
+    {
+     "player": "Peyton Watson",
+     "mpg": 26.2,
+     "value": 0.0,
      "status": "Questionable"
     }
    ],
@@ -5659,19 +5683,6 @@
      "apg": 5.8
     },
     {
-     "player": "Evan Mobley",
-     "player_id": 1630596,
-     "position": "C",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 16.9,
-     "rpg": 7.3,
-     "apg": 3.6
-    },
-    {
      "player": "Peyton Watson",
      "player_id": 1631212,
      "position": "G",
@@ -5701,7 +5712,7 @@
      "player": "Meleek Thomas",
      "player_id": 1643509,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -5735,6 +5746,19 @@
      "ppg": 7.5,
      "rpg": 5.3,
      "apg": 1.4
+    },
+    {
+     "player": "Tyrese Proctor",
+     "player_id": 1642878,
+     "position": "G",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.0,
+     "ppg": 8.1,
+     "rpg": 2.9,
+     "apg": 2.2
     }
    ],
    "away": [
@@ -5852,10 +5876,10 @@
   "data_through": "2026-11-13",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 1.13,
+   "expected_margin": 0.51,
    "win_prob": {
-    "home": 53.1,
-    "away": 46.9
+    "home": 51.4,
+    "away": 48.6
    }
   },
   "tip_et": "2026-11-14T19:30-05:00",
@@ -5886,6 +5910,12 @@
     "pick": "DAL",
     "prob": 54.5,
     "reason": "Evan Mobley (CLE) no longer out; Evan Mobley (CLE) now questionable"
+   },
+   {
+    "at": "2026-11-14T13:18-05:00",
+    "pick": "DAL",
+    "prob": 56.4,
+    "reason": "Evan Mobley (CLE) now out; Donovan Mitchell (CLE) now questionable; James Harden (CLE) now questionable; Jarrett Allen (CLE) now questionable; Peyton Watson (CLE) now questionable"
    }
   ]
  },
