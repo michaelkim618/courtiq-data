@@ -21966,6 +21966,13 @@
    "home": "SAS",
    "late": false,
    "locked_at": "2026-11-13T21:30-05:00",
+   "result": {
+    "score": {
+     "away": 85,
+     "home": 123
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-13T21:30-05:00",
    "tip_known": true,
@@ -22704,6 +22711,212 @@
      "win_prob": {
       "away": 7.1,
       "home": 92.9
+     }
+    }
+   ]
+  },
+  "2026-11-14_BKN@MEM": {
+   "away": "BKN",
+   "date": "2026-11-14",
+   "home": "MEM",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-14T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-14T00:17-05:00",
+     "expected_margin": 3.14,
+     "gtd": {
+      "away": [
+       "Nolan Traore",
+       "Mikel Brown Jr."
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Zach Edey",
+       "Scotty Pippen Jr.",
+       "Quinten Post",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Opening pick",
+     "report": "2026-11-14T00:15-05:00",
+     "win_prob": {
+      "away": 41.2,
+      "home": 58.8
+     }
+    }
+   ]
+  },
+  "2026-11-14_CHI@MIN": {
+   "away": "CHI",
+   "date": "2026-11-14",
+   "home": "MIN",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-14T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-14T00:17-05:00",
+     "expected_margin": 18.35,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Caleb Wilson",
+       "Tobe Awaka",
+       "Dailyn Swain"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Opening pick",
+     "report": "2026-11-14T00:15-05:00",
+     "win_prob": {
+      "away": 9.7,
+      "home": 90.3
+     }
+    }
+   ]
+  },
+  "2026-11-14_DAL@CLE": {
+   "away": "DAL",
+   "date": "2026-11-14",
+   "home": "CLE",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-14T19:30-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-14T00:17-05:00",
+     "expected_margin": -0.64,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Opening pick",
+     "report": "2026-11-14T00:15-05:00",
+     "win_prob": {
+      "away": 51.8,
+      "home": 48.2
+     }
+    }
+   ]
+  },
+  "2026-11-14_DEN@NOP": {
+   "away": "DEN",
+   "date": "2026-11-14",
+   "home": "NOP",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-14T19:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-14T00:17-05:00",
+     "expected_margin": -10.86,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Yves Missi",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Opening pick",
+     "report": "2026-11-14T00:15-05:00",
+     "win_prob": {
+      "away": 77.9,
+      "home": 22.1
+     }
+    }
+   ]
+  },
+  "2026-11-14_DET@MIA": {
+   "away": "DET",
+   "date": "2026-11-14",
+   "home": "MIA",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-14T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-14T00:17-05:00",
+     "expected_margin": -6.26,
+     "gtd": {
+      "away": [
+       "Elijah Harkless"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": [
+       "Klay Thompson",
+       "Pelle Larsson"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Opening pick",
+     "report": "2026-11-14T00:15-05:00",
+     "win_prob": {
+      "away": 67.1,
+      "home": 32.9
      }
     }
    ]

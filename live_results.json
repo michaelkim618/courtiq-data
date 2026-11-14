@@ -1410,6 +1410,14 @@
  {
   "date": "2026-11-13",
   "season": "2026-2027",
+  "away": "GSW",
+  "home": "SAS",
+  "conf": 77.0,
+  "correct": true
+ },
+ {
+  "date": "2026-11-13",
+  "season": "2026-2027",
   "away": "MEM",
   "home": "NOP",
   "conf": 59.9,
