@@ -5186,9 +5186,9 @@
    "away": 23.0
   },
   "win_prob_band": {
-   "low": 76.4,
+   "low": 77.0,
    "high": 77.0,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": 10.43,
   "expected_score": {
@@ -5311,22 +5311,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "De'Aaron Fox",
-     "mpg": 28.1,
-     "value": 1.2,
-     "status": "Questionable",
-     "ppg": 13.7
-    },
-    {
-     "player": "Devin Vassell",
-     "mpg": 28.3,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 11.2
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5578,6 +5563,12 @@
     "pick": "SAS",
     "prob": 77.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-13T20:47-05:00",
+    "pick": "SAS",
+    "prob": 77.0,
+    "reason": "De'Aaron Fox (SAS) cleared to play; Devin Vassell (SAS) cleared to play"
    }
   ]
  },

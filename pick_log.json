@@ -22016,6 +22016,36 @@
       "away": 23.0,
       "home": 77.0
      }
+    },
+    {
+     "at": "2026-11-13T20:47-05:00",
+     "expected_margin": 10.43,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody"
+      ],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "De'Aaron Fox (SAS) cleared to play; Devin Vassell (SAS) cleared to play",
+     "report": "2026-11-13T20:45-05:00",
+     "win_prob": {
+      "away": 23.0,
+      "home": 77.0
+     }
     }
    ]
   },
