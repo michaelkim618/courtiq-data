@@ -23454,6 +23454,34 @@
       "away": 70.4,
       "home": 29.6
      }
+    },
+    {
+     "at": "2026-11-14T13:03-05:00",
+     "expected_margin": -7.56,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Giannis Antetokounmpo",
+       "Klay Thompson",
+       "Pelle Larsson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Isaiah Joe"
+      ],
+      "home": []
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Giannis Antetokounmpo (MIA) now questionable",
+     "report": "2026-11-14T13:00-05:00",
+     "win_prob": {
+      "away": 70.4,
+      "home": 29.6
+     }
     }
    ]
   }
