@@ -21744,6 +21744,36 @@
       "away": 68.6,
       "home": 31.4
      }
+    },
+    {
+     "at": "2026-11-13T19:17-05:00",
+     "expected_margin": -6.53,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Asa Newell",
+       "Mouhamed Gueye",
+       "Henri Veesaar",
+       "Keshon Gilbert"
+      ],
+      "home": [
+       "Caleb Wilson",
+       "Tobe Awaka",
+       "Dailyn Swain"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Dailyn Swain (CHI) now out; Norman Powell (CHI) cleared to play",
+     "report": "2026-11-13T19:15-05:00",
+     "win_prob": {
+      "away": 67.8,
+      "home": 32.2
+     }
     }
    ]
   },
