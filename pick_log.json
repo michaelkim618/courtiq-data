@@ -21674,6 +21674,11 @@
   "2026-11-13_ATL@CHI": {
    "away": "ATL",
    "date": "2026-11-13",
+   "final_check": {
+    "at": "2026-11-13T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-13T19:45-05:00"
+   },
    "home": "CHI",
    "late": false,
    "locked_at": null,
@@ -21780,6 +21785,11 @@
   "2026-11-13_CLE@MIA": {
    "away": "CLE",
    "date": "2026-11-13",
+   "final_check": {
+    "at": "2026-11-13T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-13T19:45-05:00"
+   },
    "home": "MIA",
    "late": false,
    "locked_at": null,
@@ -22012,6 +22022,11 @@
   "2026-11-13_MEM@NOP": {
    "away": "MEM",
    "date": "2026-11-13",
+   "final_check": {
+    "at": "2026-11-13T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-13T19:45-05:00"
+   },
    "home": "NOP",
    "late": false,
    "locked_at": null,
