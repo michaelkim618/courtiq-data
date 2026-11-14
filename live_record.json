@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T23:32-05:00",
+ "generated": "2026-11-13T21:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1669,13 +1669,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-13",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 120,
+   "cum_games": 175,
+   "cum_pct": 68.6,
+   "picks": [
+    {
+     "away": "MIL",
+     "home": "ORL",
+     "pick": "ORL",
+     "prob": 78.1,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 174,
-  "wins": 119,
+  "games": 175,
+  "wins": 120,
   "losses": 55,
-  "pct": 68.4
+  "pct": 68.6
  },
  "unscored": 0
 }

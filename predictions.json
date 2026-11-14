@@ -2670,7 +2670,7 @@
  },
  {
   "date": "2026-11-13",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Milwaukee Bucks",
   "home": "Orlando Magic",
   "away_code": "MIL",
@@ -2871,229 +2871,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 11,
-    "away": 12
-   },
-   "home": [
-    {
-     "player": "Franz Wagner",
-     "player_id": 1630532,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 36.9,
-     "ppg": 23.5,
-     "rpg": 6.5,
-     "apg": 7.9
-    },
-    {
-     "player": "Desmond Bane",
-     "player_id": 1630217,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 34.6,
-     "ppg": 18.0,
-     "rpg": 4.0,
-     "apg": 2.4
-    },
-    {
-     "player": "Jalen Suggs",
-     "player_id": 1630591,
-     "position": "G",
-     "starter": true,
-     "games": 3,
-     "starts": 3,
-     "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 8.0,
-     "rpg": 5.0,
-     "apg": 5.7
-    },
-    {
-     "player": "Wendell Carter Jr.",
-     "player_id": 1628976,
-     "position": "C",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 13.6,
-     "rpg": 9.5,
-     "apg": 1.2
-    },
-    {
-     "player": "Jase Richardson",
-     "player_id": 1642859,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 4,
-     "start_rate": 36,
-     "mpg": 21.7,
-     "ppg": 5.9,
-     "rpg": 1.9,
-     "apg": 2.5
-    },
-    {
-     "player": "Anthony Black",
-     "player_id": 1641710,
-     "position": "G",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 31.6,
-     "ppg": 17.8,
-     "rpg": 6.0,
-     "apg": 5.5
-    },
-    {
-     "player": "Tristan da Silva",
-     "player_id": 1641783,
-     "position": "F",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 30.5,
-     "ppg": 15.1,
-     "rpg": 3.7,
-     "apg": 1.7
-    },
-    {
-     "player": "Jamal Cain",
-     "player_id": 1631288,
-     "position": "F",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.5,
-     "ppg": 7.0,
-     "rpg": 3.1,
-     "apg": 0.4
-    }
-   ],
-   "away": [
-    {
-     "player": "Tyler Herro",
-     "player_id": 1629639,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 31.1,
-     "ppg": 21.9,
-     "rpg": 4.4,
-     "apg": 4.5
-    },
-    {
-     "player": "Jaime Jaquez Jr.",
-     "player_id": 1631170,
-     "position": "G",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 27.8,
-     "ppg": 16.1,
-     "rpg": 5.7,
-     "apg": 2.8
-    },
-    {
-     "player": "Myles Turner",
-     "player_id": 1626167,
-     "position": "C",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 27.2,
-     "ppg": 6.7,
-     "rpg": 5.5,
-     "apg": 2.7
-    },
-    {
-     "player": "Kyle Kuzma",
-     "player_id": 1628398,
-     "position": "F",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 27.0,
-     "ppg": 10.8,
-     "rpg": 5.3,
-     "apg": 2.6
-    },
-    {
-     "player": "Ryan Rollins",
-     "player_id": 1631157,
-     "position": "G",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 23.4,
-     "ppg": 10.8,
-     "rpg": 4.7,
-     "apg": 4.1
-    },
-    {
-     "player": "Brayden Burries",
-     "player_id": 1643415,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.6,
-     "ppg": 9.7,
-     "rpg": 5.2,
-     "apg": 2.2
-    },
-    {
-     "player": "AJ Green",
-     "player_id": 1631260,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.2,
-     "ppg": 6.5,
-     "rpg": 1.7,
-     "apg": 1.3
-    },
-    {
-     "player": "Kel'el Ware",
-     "player_id": 1642276,
-     "position": "C",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.8,
-     "ppg": 8.5,
-     "rpg": 6.5,
-     "apg": 0.8
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 107,
+   "away": 99
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Orlando Magic",
   "model_winner": "Orlando Magic",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-12",
   "team_model": {
@@ -3127,7 +2912,279 @@
     "prob": 78.1,
     "reason": "Jalen Suggs (ORL) cleared to play; Tristan da Silva (ORL) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Anthony Black",
+     "starter": true,
+     "min": 37,
+     "pts": 5,
+     "reb": 2,
+     "ast": 5,
+     "stl": 1,
+     "blk": 2,
+     "tov": 5,
+     "pm": 0
+    },
+    {
+     "name": "Franz Wagner",
+     "starter": true,
+     "min": 36,
+     "pts": 35,
+     "reb": 9,
+     "ast": 12,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": 34
+    },
+    {
+     "name": "Desmond Bane",
+     "starter": true,
+     "min": 35,
+     "pts": 21,
+     "reb": 5,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Tristan da Silva",
+     "starter": true,
+     "min": 31,
+     "pts": 12,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 21
+    },
+    {
+     "name": "Wendell Carter Jr.",
+     "starter": true,
+     "min": 30,
+     "pts": 12,
+     "reb": 8,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -11
+    },
+    {
+     "name": "Jalen Suggs",
+     "starter": false,
+     "min": 21,
+     "pts": 3,
+     "reb": 2,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -8
+    },
+    {
+     "name": "Goga Bitadze",
+     "starter": false,
+     "min": 18,
+     "pts": 12,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": 19
+    },
+    {
+     "name": "Jevon Carter",
+     "starter": false,
+     "min": 17,
+     "pts": 5,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": -14
+    },
+    {
+     "name": "Nikola Vucevic",
+     "starter": false,
+     "min": 11,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Jamal Cain",
+     "starter": false,
+     "min": 4,
+     "pts": 0,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    }
+   ],
+   "away": [
+    {
+     "name": "Tyler Herro",
+     "starter": true,
+     "min": 34,
+     "pts": 18,
+     "reb": 1,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Kyle Kuzma",
+     "starter": true,
+     "min": 31,
+     "pts": 14,
+     "reb": 4,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "tov": 3,
+     "pm": -2
+    },
+    {
+     "name": "Myles Turner",
+     "starter": true,
+     "min": 31,
+     "pts": 14,
+     "reb": 11,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "tov": 4,
+     "pm": -3
+    },
+    {
+     "name": "Ryan Rollins",
+     "starter": false,
+     "min": 29,
+     "pts": 8,
+     "reb": 10,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -4
+    },
+    {
+     "name": "Jaime Jaquez Jr.",
+     "starter": false,
+     "min": 28,
+     "pts": 22,
+     "reb": 6,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -3
+    },
+    {
+     "name": "Nate Ament",
+     "starter": false,
+     "min": 22,
+     "pts": 9,
+     "reb": 3,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Brayden Burries",
+     "starter": true,
+     "min": 19,
+     "pts": 3,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Kel'el Ware",
+     "starter": false,
+     "min": 17,
+     "pts": 10,
+     "reb": 6,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": -5
+    },
+    {
+     "name": "Gary Trent Jr.",
+     "starter": false,
+     "min": 16,
+     "pts": 1,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -8
+    },
+    {
+     "name": "AJ Green",
+     "starter": false,
+     "min": 8,
+     "pts": 0,
+     "reb": 0,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Ousmane Dieng",
+     "starter": true,
+     "min": 5,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -8
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Franz Wagner",
+    "pts": 35,
+    "reb": 9,
+    "ast": 12
+   },
+   "away": {
+    "name": "Jaime Jaquez Jr.",
+    "pts": 22,
+    "reb": 6,
+    "ast": 4
+   }
+  }
  },
  {
   "date": "2026-11-13",
@@ -6160,18 +6217,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 28.6,
-   "away": 71.4
+   "home": 29.1,
+   "away": 70.9
   },
   "win_prob_band": {
-   "low": 28.6,
-   "high": 31.0,
-   "gtd_count": 1
+   "low": 29.1,
+   "high": 29.1,
+   "gtd_count": 0
   },
-  "expected_margin": -8.0,
+  "expected_margin": -7.76,
   "expected_score": {
-   "home": 107.9,
-   "away": 115.9
+   "home": 108.1,
+   "away": 115.8
   },
   "margin_breakdown": [
    {
@@ -6196,8 +6253,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.34,
-    "detail": "LA Clippers 3 out (65 min) costing 1.3 pts, Oklahoma City Thunder 4 out (98 min) costing 1.9 pts · Bradley Beal, Thomas Sorber out all season, already baked into team rating"
+    "points": 1.58,
+    "detail": "LA Clippers 3 out (65 min) costing 1.3 pts, Oklahoma City Thunder 5 out (124 min) costing 2.9 pts · Bradley Beal, Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6269,6 +6326,15 @@
      "ppg": 16.6
     },
     {
+     "player": "Ajay Mitchell",
+     "mpg": 25.5,
+     "nth_out": 1,
+     "value": 4.8,
+     "cost": -1.01,
+     "no_minutes": false,
+     "ppg": 16.2
+    },
+    {
      "player": "Chet Holmgren",
      "mpg": 28.3,
      "nth_out": 1,
@@ -6307,15 +6373,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Ajay Mitchell",
-     "mpg": 25.5,
-     "value": 4.8,
-     "status": "Questionable",
-     "ppg": 16.2
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6457,19 +6515,6 @@
      "apg": 3.7
     },
     {
-     "player": "Ajay Mitchell",
-     "player_id": 1642349,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 3,
-     "start_rate": 27,
-     "mpg": 27.3,
-     "ppg": 18.5,
-     "rpg": 3.6,
-     "apg": 3.3
-    },
-    {
      "player": "Jared McCain",
      "player_id": 1642272,
      "position": "G",
@@ -6499,7 +6544,7 @@
      "player": "Aday Mara",
      "player_id": 1643530,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 12,
      "starts": 0,
      "start_rate": 0,
@@ -6533,6 +6578,19 @@
      "ppg": 7.9,
      "rpg": 1.2,
      "apg": 1.2
+    },
+    {
+     "player": "Josh Dix",
+     "player_id": 1643717,
+     "position": "G",
+     "starter": false,
+     "games": 6,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.2,
+     "ppg": 2.7,
+     "rpg": 1.2,
+     "apg": 0.5
     }
    ]
   },
@@ -6544,10 +6602,10 @@
   "data_through": "2026-11-12",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -5.82,
+   "expected_margin": -4.81,
    "win_prob": {
-    "home": 34.4,
-    "away": 65.6
+    "home": 37.0,
+    "away": 63.0
    }
   },
   "tip_et": "2026-11-13T22:30-05:00",
@@ -6566,6 +6624,12 @@
     "pick": "OKC",
     "prob": 71.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-13T21:32-05:00",
+    "pick": "OKC",
+    "prob": 70.9,
+    "reason": "Ajay Mitchell (OKC) now out"
    }
   ]
  }
