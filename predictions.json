@@ -4922,8 +4922,8 @@
   },
   "win_prob_band": {
    "low": 82.7,
-   "high": 82.7,
-   "gtd_count": 0
+   "high": 86.0,
+   "gtd_count": 2
   },
   "expected_margin": 13.29,
   "expected_score": {
@@ -4954,7 +4954,7 @@
    {
     "label": "Absences",
     "points": -0.28,
-    "detail": "Dallas Mavericks 1 out (20 min) · Dallas Mavericks: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "detail": "Dallas Mavericks 1 out (20 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4987,8 +4987,7 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 8.4,
-     "source": "espn"
+     "ppg": 8.4
     },
     {
      "player": "Dereck Lively II",
@@ -4996,8 +4995,7 @@
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     },
     {
      "player": "Tarik Biberovic",
@@ -5005,14 +5003,28 @@
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Kyrie Irving",
+     "mpg": 29.0,
+     "value": 8.0,
+     "status": "Questionable",
+     "ppg": 20.9
+    },
+    {
+     "player": "Santi Aldama",
+     "mpg": 27.2,
+     "value": 1.4,
+     "status": "Questionable",
+     "ppg": 13.5
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -5275,6 +5287,12 @@
     "pick": "BOS",
     "prob": 82.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-15T13:02-05:00",
+    "pick": "BOS",
+    "prob": 82.7,
+    "reason": "Kyrie Irving (DAL) now questionable; Santi Aldama (DAL) now questionable"
    }
   ]
  },
