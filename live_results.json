@@ -1466,6 +1466,22 @@
  {
   "date": "2026-11-14",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "MEM",
+  "conf": 61.1,
+  "correct": true
+ },
+ {
+  "date": "2026-11-14",
+  "season": "2026-2027",
+  "away": "CHI",
+  "home": "MIN",
+  "conf": 90.4,
+  "correct": false
+ },
+ {
+  "date": "2026-11-14",
+  "season": "2026-2027",
   "away": "DAL",
   "home": "CLE",
   "conf": 75.8,
