@@ -1466,6 +1466,14 @@
  {
   "date": "2026-11-14",
   "season": "2026-2027",
+  "away": "DAL",
+  "home": "CLE",
+  "conf": 75.8,
+  "correct": false
+ },
+ {
+  "date": "2026-11-14",
+  "season": "2026-2027",
   "away": "DEN",
   "home": "NOP",
   "conf": 78.9,

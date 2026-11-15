@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T21:47-05:00",
+ "generated": "2026-11-14T22:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1756,14 +1756,22 @@
   },
   {
    "date": "2026-11-14",
-   "games": 1,
+   "games": 2,
    "wins": 1,
-   "losses": 0,
-   "pct": 100.0,
+   "losses": 1,
+   "pct": 50.0,
    "cum_wins": 126,
-   "cum_games": 184,
-   "cum_pct": 68.5,
+   "cum_games": 185,
+   "cum_pct": 68.1,
    "picks": [
+    {
+     "away": "DAL",
+     "home": "CLE",
+     "pick": "DAL",
+     "prob": 75.8,
+     "correct": false,
+     "updated": true
+    },
     {
      "away": "DEN",
      "home": "NOP",
@@ -1776,10 +1784,10 @@
   }
  ],
  "total": {
-  "games": 184,
+  "games": 185,
   "wins": 126,
-  "losses": 58,
-  "pct": 68.5
+  "losses": 59,
+  "pct": 68.1
  },
  "unscored": 0
 }
