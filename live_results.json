@@ -1462,5 +1462,13 @@
   "home": "HOU",
   "conf": 92.9,
   "correct": true
+ },
+ {
+  "date": "2026-11-14",
+  "season": "2026-2027",
+  "away": "DEN",
+  "home": "NOP",
+  "conf": 78.9,
+  "correct": true
  }
 ]

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T01:48-05:00",
+ "generated": "2026-11-14T21:47-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1753,13 +1753,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 126,
+   "cum_games": 184,
+   "cum_pct": 68.5,
+   "picks": [
+    {
+     "away": "DEN",
+     "home": "NOP",
+     "pick": "DEN",
+     "prob": 78.9,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 183,
-  "wins": 125,
+  "games": 184,
+  "wins": 126,
   "losses": 58,
-  "pct": 68.3
+  "pct": 68.5
  },
  "unscored": 0
 }
