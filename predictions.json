@@ -4448,8 +4448,8 @@
   },
   "win_prob_band": {
    "low": 10.5,
-   "high": 10.5,
-   "gtd_count": 0
+   "high": 10.9,
+   "gtd_count": 1
   },
   "expected_margin": -17.71,
   "expected_score": {
@@ -4564,7 +4564,15 @@
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "De'Aaron Fox",
+     "mpg": 28.3,
+     "value": 1.3,
+     "status": "Questionable",
+     "ppg": 13.9
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -4815,6 +4823,12 @@
     "pick": "SAS",
     "prob": 89.5,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-15T14:02-05:00",
+    "pick": "SAS",
+    "prob": 89.5,
+    "reason": "De'Aaron Fox (SAS) now questionable"
    }
   ]
  },

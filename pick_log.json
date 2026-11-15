@@ -25059,6 +25059,37 @@
       "away": 89.5,
       "home": 10.5
      }
+    },
+    {
+     "at": "2026-11-15T14:02-05:00",
+     "expected_margin": -17.71,
+     "gtd": {
+      "away": [
+       "De'Aaron Fox"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic",
+       "Jaxson Hayes"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "De'Aaron Fox (SAS) now questionable",
+     "report": "2026-11-15T14:00-05:00",
+     "win_prob": {
+      "away": 89.5,
+      "home": 10.5
+     }
     }
    ]
   }
