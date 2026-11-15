@@ -24950,6 +24950,30 @@
       "away": 60.2,
       "home": 39.8
      }
+    },
+    {
+     "at": "2026-11-15T16:47-05:00",
+     "expected_margin": -3.64,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Scottie Barnes (TOR) cleared to play",
+     "report": "2026-11-15T16:45-05:00",
+     "win_prob": {
+      "away": 60.2,
+      "home": 39.8
+     }
     }
    ]
   },
@@ -25107,6 +25131,11 @@
   "2026-11-15_SAS@UTA": {
    "away": "SAS",
    "date": "2026-11-15",
+   "final_check": {
+    "at": "2026-11-15T16:47-05:00",
+    "label": "4:45 PM ET",
+    "report": "2026-11-15T16:45-05:00"
+   },
    "home": "UTA",
    "late": false,
    "locked_at": null,

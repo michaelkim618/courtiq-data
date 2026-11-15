@@ -4879,7 +4879,7 @@
   },
   "tip_et": "2026-11-15T17:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "4:45 PM ET"
   },
   "pick_updates": [
    {
@@ -5506,9 +5506,9 @@
    "away": 60.2
   },
   "win_prob_band": {
-   "low": 35.1,
+   "low": 39.8,
    "high": 39.8,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -3.64,
   "expected_score": {
@@ -5585,15 +5585,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Scottie Barnes",
-     "mpg": 29.0,
-     "value": 8.5,
-     "status": "Probable",
-     "ppg": 21.5
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5851,6 +5843,12 @@
     "pick": "NYK",
     "prob": 60.2,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-15T16:47-05:00",
+    "pick": "NYK",
+    "prob": 60.2,
+    "reason": "Scottie Barnes (TOR) cleared to play"
    }
   ]
  },
