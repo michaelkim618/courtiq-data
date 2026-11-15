@@ -1,0 +1,73 @@
+{
+  "slug": "2026-11-15-the-numbers-going-into-2026-11-15",
+  "title": "The Numbers Going Into 2026-11-15",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_color": "#0EA5E9",
+  "author_role": "Data Analyst",
+  "date": "2026-11-15",
+  "type": "daily",
+  "tag": "Data",
+  "tag_color": "#0EA5E9",
+  "read_time": "3 min",
+  "summary": "No narrative here. No playoff implications, no revenge game angles, no coach on the hot seat. Just the model's current assessment of the slate — win probabilities derived from team ratings as of this morning's update, plus the projected point margins those probabilities correspond to. The numbers reflect what we know now: strength of roster, recent performance trends, home court adjustment. They don't know about lineup changes announced an hour ago or who had a bad flight. This is the baseline read before any of that noise enters the equation.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## What the Model Sees\n\n4 game(s) on the board for 2026-11-15. Here's the read, straight from the ratings."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "IND @ PHI",
+          "value": "65.9%"
+        },
+        {
+          "label": "LAL @ PHX",
+          "value": "64.4%"
+        },
+        {
+          "label": "CHA @ LAC",
+          "value": "57.8%"
+        },
+        {
+          "label": "SAS @ UTA",
+          "value": "90.0%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Slate Breakdown",
+      "headers": [
+        "Matchup",
+        "Favored",
+        "Projected Margin (home − away)"
+      ],
+      "rows": [
+        [
+          "IND @ PHI",
+          "PHI, 65.9%",
+          "+5.8"
+        ],
+        [
+          "LAL @ PHX",
+          "LAL, 64.4%",
+          "-5.2"
+        ],
+        [
+          "CHA @ LAC",
+          "LAC, 57.8%",
+          "+2.8"
+        ],
+        [
+          "SAS @ UTA",
+          "SAS, 90.0%",
+          "-18.1"
+        ]
+      ]
+    }
+  ],
+  "post_kind": "feature"
+}

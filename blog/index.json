@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-15-the-numbers-going-into-2026-11-15",
+      "title": "The Numbers Going Into 2026-11-15",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-11-15",
+      "type": "daily",
+      "tag": "Data",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "No narrative here. No playoff implications, no revenge game angles, no coach on the hot seat. Just the model's current assessment of the slate — win probabilities derived from team ratings as of this morning's update, plus the projected point margins those probabilities correspond to. The numbers reflect what we know now: strength of roster, recent performance trends, home court adjustment. They don't know about lineup changes announced an hour ago or who had a bad flight. This is the baseline read before any of that noise enters the equation.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-14-oklahoma-city-visits-sacramento-following-gilgeous-alexander",
       "title": "Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game",
       "author": "Hana",
