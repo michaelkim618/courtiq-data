@@ -4390,7 +4390,7 @@
   },
   "tip_et": "2026-11-15T16:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "4:15 PM ET"
   },
   "pick_updates": [
    {
@@ -5007,18 +5007,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 82.7,
-   "away": 17.3
+   "home": 87.5,
+   "away": 12.5
   },
   "win_prob_band": {
-   "low": 82.7,
-   "high": 86.0,
-   "gtd_count": 2
+   "low": 87.5,
+   "high": 87.9,
+   "gtd_count": 1
   },
-  "expected_margin": 13.29,
+  "expected_margin": 16.27,
   "expected_score": {
-   "home": 118.2,
-   "away": 105.0
+   "home": 119.7,
+   "away": 103.5
   },
   "margin_breakdown": [
    {
@@ -5043,8 +5043,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.28,
-    "detail": "Dallas Mavericks 1 out (20 min) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 2.7,
+    "detail": "Dallas Mavericks 3 out (69 min) costing 1.7 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5071,6 +5071,15 @@
    "home": [],
    "away": [
     {
+     "player": "Kyrie Irving",
+     "mpg": 29.0,
+     "nth_out": 1,
+     "value": 8.0,
+     "cost": -1.68,
+     "no_minutes": false,
+     "ppg": 20.9
+    },
+    {
      "player": "Sergio de Larrea",
      "mpg": 20.4,
      "nth_out": 3,
@@ -5078,6 +5087,15 @@
      "cost": -0.0,
      "no_minutes": false,
      "ppg": 8.4
+    },
+    {
+     "player": "Max Christie",
+     "mpg": 19.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 6.8
     },
     {
      "player": "Dereck Lively II",
@@ -5100,13 +5118,6 @@
   "gtd": {
    "home": [],
    "away": [
-    {
-     "player": "Kyrie Irving",
-     "mpg": 29.0,
-     "value": 8.0,
-     "status": "Questionable",
-     "ppg": 20.9
-    },
     {
      "player": "Santi Aldama",
      "mpg": 27.2,
@@ -5256,19 +5267,6 @@
      "apg": 1.1
     },
     {
-     "player": "Kyrie Irving",
-     "player_id": 202681,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 30.8,
-     "ppg": 22.7,
-     "rpg": 3.5,
-     "apg": 4.4
-    },
-    {
      "player": "Daniel Gafford",
      "player_id": 1629655,
      "position": "F",
@@ -5282,23 +5280,10 @@
      "apg": 1.8
     },
     {
-     "player": "Max Christie",
-     "player_id": 1631108,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 18.5,
-     "ppg": 5.3,
-     "rpg": 2.9,
-     "apg": 1.2
-    },
-    {
      "player": "Naji Marshall",
      "player_id": 1630230,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 3,
      "start_rate": 30,
@@ -5311,7 +5296,7 @@
      "player": "Zaccharie Risacher",
      "player_id": 1642258,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 13,
      "starts": 3,
      "start_rate": 23,
@@ -5332,6 +5317,32 @@
      "ppg": 5.2,
      "rpg": 2.9,
      "apg": 1.9
+    },
+    {
+     "player": "Walter Clayton Jr.",
+     "player_id": 1642383,
+     "position": "G",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.7,
+     "ppg": 6.6,
+     "rpg": 2.9,
+     "apg": 3.3
+    },
+    {
+     "player": "Morez Johnson Jr.",
+     "player_id": 1643516,
+     "position": "F",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.6,
+     "ppg": 6.7,
+     "rpg": 4.6,
+     "apg": 1.1
     }
    ]
   },
@@ -5343,10 +5354,10 @@
   "data_through": "2026-11-14",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 12.8,
+   "expected_margin": 16.08,
    "win_prob": {
-    "home": 81.1,
-    "away": 18.9
+    "home": 86.6,
+    "away": 13.4
    }
   },
   "tip_et": "2026-11-15T18:00-05:00",
@@ -5383,6 +5394,12 @@
     "pick": "BOS",
     "prob": 82.7,
     "reason": "Kyrie Irving (DAL) now questionable; Santi Aldama (DAL) now questionable"
+   },
+   {
+    "at": "2026-11-15T16:17-05:00",
+    "pick": "BOS",
+    "prob": 87.5,
+    "reason": "Kyrie Irving (DAL) now out; Max Christie (DAL) now out"
    }
   ]
  },
