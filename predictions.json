@@ -5007,15 +5007,15 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 87.5,
-   "away": 12.5
+   "home": 87.4,
+   "away": 12.6
   },
   "win_prob_band": {
-   "low": 87.5,
-   "high": 87.9,
-   "gtd_count": 1
+   "low": 87.4,
+   "high": 87.4,
+   "gtd_count": 0
   },
-  "expected_margin": 16.27,
+  "expected_margin": 16.16,
   "expected_score": {
    "home": 119.7,
    "away": 103.5
@@ -5043,8 +5043,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.7,
-    "detail": "Dallas Mavericks 3 out (69 min) costing 1.7 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 2.59,
+    "detail": "Dallas Mavericks 4 out (96 min) costing 2.0 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5078,6 +5078,15 @@
      "cost": -1.68,
      "no_minutes": false,
      "ppg": 20.9
+    },
+    {
+     "player": "Santi Aldama",
+     "mpg": 27.2,
+     "nth_out": 1,
+     "value": 1.4,
+     "cost": -0.29,
+     "no_minutes": false,
+     "ppg": 13.5
     },
     {
      "player": "Sergio de Larrea",
@@ -5117,15 +5126,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Santi Aldama",
-     "mpg": 27.2,
-     "value": 1.4,
-     "status": "Questionable",
-     "ppg": 13.5
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5354,10 +5355,10 @@
   "data_through": "2026-11-14",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 16.08,
+   "expected_margin": 16.37,
    "win_prob": {
-    "home": 86.6,
-    "away": 13.4
+    "home": 87.1,
+    "away": 12.9
    }
   },
   "tip_et": "2026-11-15T18:00-05:00",
@@ -5400,6 +5401,12 @@
     "pick": "BOS",
     "prob": 87.5,
     "reason": "Kyrie Irving (DAL) now out; Max Christie (DAL) now out"
+   },
+   {
+    "at": "2026-11-15T17:32-05:00",
+    "pick": "BOS",
+    "prob": 87.4,
+    "reason": "Santi Aldama (DAL) now out"
    }
   ]
  },
@@ -5951,18 +5958,18 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 21.0,
-   "away": 79.0
+   "home": 19.8,
+   "away": 80.2
   },
   "win_prob_band": {
-   "low": 21.0,
-   "high": 21.0,
-   "gtd_count": 1
+   "low": 19.8,
+   "high": 19.8,
+   "gtd_count": 0
   },
-  "expected_margin": -11.41,
+  "expected_margin": -11.98,
   "expected_score": {
-   "home": 107.0,
-   "away": 118.4
+   "home": 106.7,
+   "away": 118.7
   },
   "margin_breakdown": [
    {
@@ -5987,8 +5994,8 @@
    },
    {
     "label": "Absences",
-    "points": 3.87,
-    "detail": "Washington Wizards 3 out (52 min) costing 0.7 pts, Houston Rockets 3 out (66 min) costing 0.1 pts · Reece Beekman out all season, already baked into team rating"
+    "points": 3.3,
+    "detail": "Washington Wizards 4 out (74 min) costing 0.7 pts, Houston Rockets 3 out (66 min) costing 0.1 pts · Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6030,6 +6037,15 @@
      "cost": -0.05,
      "no_minutes": false,
      "ppg": 8.3
+    },
+    {
+     "player": "Tre Johnson",
+     "mpg": 21.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 9.5
     },
     {
      "player": "Jamir Watkins",
@@ -6080,15 +6096,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Tre Johnson",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 9.5
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6177,19 +6185,6 @@
      "apg": 2.3
     },
     {
-     "player": "Tre Johnson",
-     "player_id": 1642848,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.5,
-     "ppg": 9.7,
-     "rpg": 2.1,
-     "apg": 0.9
-    },
-    {
      "player": "Bub Carrington",
      "player_id": 1642267,
      "position": "G",
@@ -6201,6 +6196,19 @@
      "ppg": 4.8,
      "rpg": 1.6,
      "apg": 2.1
+    },
+    {
+     "player": "Deandre Ayton",
+     "player_id": 1629028,
+     "position": "C",
+     "starter": false,
+     "games": 13,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.1,
+     "ppg": 4.5,
+     "rpg": 4.7,
+     "apg": 0.8
     }
    ],
    "away": [
@@ -6352,6 +6360,12 @@
     "pick": "HOU",
     "prob": 79.0,
     "reason": "Alex Sarr (WAS) cleared to play"
+   },
+   {
+    "at": "2026-11-15T17:32-05:00",
+    "pick": "HOU",
+    "prob": 80.2,
+    "reason": "Tre Johnson (WAS) now out"
    }
   ]
  },
