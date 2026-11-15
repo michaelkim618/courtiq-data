@@ -6417,7 +6417,7 @@
   },
   "tip_et": "2026-11-14T20:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6569,18 +6569,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 66.6,
-   "away": 33.4
+   "home": 61.1,
+   "away": 38.9
   },
   "win_prob_band": {
-   "low": 66.6,
-   "high": 66.6,
+   "low": 61.1,
+   "high": 61.1,
    "gtd_count": 0
   },
-  "expected_margin": 6.06,
+  "expected_margin": 3.97,
   "expected_score": {
-   "home": 116.6,
-   "away": 110.5
+   "home": 115.5,
+   "away": 111.6
   },
   "margin_breakdown": [
    {
@@ -6605,8 +6605,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.08,
-    "detail": "Memphis Grizzlies 4 out (79 min) costing 2.4 pts, Brooklyn Nets 1 out (31 min) costing 1.7 pts · Richie Saunders out all season, already baked into team rating"
+    "points": -1.01,
+    "detail": "Memphis Grizzlies 5 out (99 min) costing 2.4 pts, Brooklyn Nets 1 out (31 min) costing 1.7 pts · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6648,6 +6648,15 @@
      "cost": -0.07,
      "no_minutes": false,
      "ppg": 10.0
+    },
+    {
+     "player": "Zach Edey",
+     "mpg": 19.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 8.0
     },
     {
      "player": "Scotty Pippen Jr.",
@@ -6739,19 +6748,6 @@
      "apg": 1.2
     },
     {
-     "player": "Zach Edey",
-     "player_id": 1641744,
-     "position": "C",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 20.8,
-     "ppg": 7.6,
-     "rpg": 7.7,
-     "apg": 0.9
-    },
-    {
      "player": "Isaiah Stewart",
      "player_id": 1630191,
      "position": "F",
@@ -6768,7 +6764,7 @@
      "player": "GG Jackson",
      "player_id": 1641713,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 3,
      "start_rate": 27,
@@ -6802,6 +6798,19 @@
      "ppg": 7.8,
      "rpg": 2.0,
      "apg": 4.2
+    },
+    {
+     "player": "Kris Murray",
+     "player_id": 1631200,
+     "position": "F",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 10.7,
+     "ppg": 1.1,
+     "rpg": 1.6,
+     "apg": 0.6
     }
    ],
    "away": [
@@ -6927,7 +6936,7 @@
   },
   "tip_et": "2026-11-14T20:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
@@ -6983,6 +6992,12 @@
     "pick": "MEM",
     "prob": 66.6,
     "reason": "Michael Porter Jr. (BKN) now out; Jerami Grant (MEM) now out"
+   },
+   {
+    "at": "2026-11-14T19:47-05:00",
+    "pick": "MEM",
+    "prob": 61.1,
+    "reason": "Zach Edey (MEM) now out"
    }
   ]
  },
@@ -7444,7 +7459,7 @@
   },
   "tip_et": "2026-11-14T20:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
