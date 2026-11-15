@@ -6054,7 +6054,7 @@
  },
  {
   "date": "2026-11-14",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Detroit Pistons",
   "home": "Miami Heat",
   "away_code": "DET",
@@ -6248,229 +6248,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 12,
-    "away": 11
-   },
-   "home": [
-    {
-     "player": "Davion Mitchell",
-     "player_id": 1630558,
-     "position": "G",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 36.0,
-     "ppg": 16.9,
-     "rpg": 2.2,
-     "apg": 9.2
-    },
-    {
-     "player": "Bam Adebayo",
-     "player_id": 1628389,
-     "position": "C",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 33.6,
-     "ppg": 19.4,
-     "rpg": 8.8,
-     "apg": 3.2
-    },
-    {
-     "player": "Giannis Antetokounmpo",
-     "player_id": 203507,
-     "position": "F",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 32.5,
-     "ppg": 28.5,
-     "rpg": 12.3,
-     "apg": 4.9
-    },
-    {
-     "player": "Andrew Wiggins",
-     "player_id": 203952,
-     "position": "F",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 26.3,
-     "ppg": 8.7,
-     "rpg": 2.8,
-     "apg": 1.7
-    },
-    {
-     "player": "Klay Thompson",
-     "player_id": 202691,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 24.8,
-     "ppg": 14.4,
-     "rpg": 1.5,
-     "apg": 1.9
-    },
-    {
-     "player": "Bobby Portis Jr.",
-     "player_id": 1626171,
-     "position": "F",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.9,
-     "ppg": 6.7,
-     "rpg": 5.6,
-     "apg": 1.8
-    },
-    {
-     "player": "Tim Hardaway Jr.",
-     "player_id": 203501,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.2,
-     "ppg": 4.5,
-     "rpg": 1.5,
-     "apg": 0.7
-    },
-    {
-     "player": "Ryan Conwell",
-     "player_id": 1643553,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 14.5,
-     "ppg": 5.8,
-     "rpg": 1.6,
-     "apg": 1.3
-    }
-   ],
-   "away": [
-    {
-     "player": "Cade Cunningham",
-     "player_id": 1630595,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 34.6,
-     "ppg": 25.0,
-     "rpg": 5.2,
-     "apg": 7.9
-    },
-    {
-     "player": "Duncan Robinson",
-     "player_id": 1629130,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 31.7,
-     "ppg": 18.1,
-     "rpg": 1.9,
-     "apg": 2.2
-    },
-    {
-     "player": "Ausar Thompson",
-     "player_id": 1641709,
-     "position": "G",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 28.8,
-     "ppg": 10.1,
-     "rpg": 8.7,
-     "apg": 5.1
-    },
-    {
-     "player": "John Collins",
-     "player_id": 1628381,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 26.4,
-     "ppg": 10.6,
-     "rpg": 5.9,
-     "apg": 0.7
-    },
-    {
-     "player": "Paul Reed",
-     "player_id": 1630194,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 6,
-     "start_rate": 55,
-     "mpg": 27.1,
-     "ppg": 11.5,
-     "rpg": 7.7,
-     "apg": 2.2
-    },
-    {
-     "player": "Daniss Jenkins",
-     "player_id": 1642450,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 3,
-     "start_rate": 27,
-     "mpg": 27.4,
-     "ppg": 13.5,
-     "rpg": 3.8,
-     "apg": 4.3
-    },
-    {
-     "player": "Kevin Huerter",
-     "player_id": 1628989,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.2,
-     "ppg": 9.0,
-     "rpg": 2.5,
-     "apg": 2.1
-    },
-    {
-     "player": "Javonte Green",
-     "player_id": 1629750,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.3,
-     "ppg": 6.1,
-     "rpg": 2.3,
-     "apg": 0.5
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 137,
+   "away": 117
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Miami Heat",
   "model_winner": "Detroit Pistons",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-13",
   "team_model": {
@@ -6534,7 +6319,327 @@
     "prob": 69.4,
     "reason": "Pelle Larsson (MIA) now out; Giannis Antetokounmpo (MIA) cleared to play; Klay Thompson (MIA) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Bam Adebayo",
+     "starter": true,
+     "min": 36,
+     "pts": 20,
+     "reb": 5,
+     "ast": 4,
+     "stl": 3,
+     "blk": 2,
+     "tov": 1,
+     "pm": 20
+    },
+    {
+     "name": "Davion Mitchell",
+     "starter": true,
+     "min": 32,
+     "pts": 15,
+     "reb": 4,
+     "ast": 9,
+     "stl": 2,
+     "blk": 2,
+     "tov": 4,
+     "pm": 16
+    },
+    {
+     "name": "Giannis Antetokounmpo",
+     "starter": true,
+     "min": 31,
+     "pts": 34,
+     "reb": 14,
+     "ast": 8,
+     "stl": 1,
+     "blk": 3,
+     "tov": 3,
+     "pm": 17
+    },
+    {
+     "name": "Myron Gardner",
+     "starter": true,
+     "min": 26,
+     "pts": 5,
+     "reb": 9,
+     "ast": 3,
+     "stl": 0,
+     "blk": 2,
+     "tov": 2,
+     "pm": 5
+    },
+    {
+     "name": "Ryan Conwell",
+     "starter": false,
+     "min": 25,
+     "pts": 9,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 8
+    },
+    {
+     "name": "Andrew Wiggins",
+     "starter": false,
+     "min": 23,
+     "pts": 10,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Klay Thompson",
+     "starter": true,
+     "min": 20,
+     "pts": 26,
+     "reb": 1,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 15
+    },
+    {
+     "name": "Bobby Portis",
+     "starter": false,
+     "min": 18,
+     "pts": 7,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Simone Fontecchio",
+     "starter": false,
+     "min": 14,
+     "pts": 7,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Nikola Jovic",
+     "starter": false,
+     "min": 11,
+     "pts": 2,
+     "reb": 1,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 4
+    },
+    {
+     "name": "Tre Donaldson",
+     "starter": false,
+     "min": 1,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "Keshad Johnson",
+     "starter": false,
+     "min": 1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    }
+   ],
+   "away": [
+    {
+     "name": "Kevin Huerter",
+     "starter": false,
+     "min": 38,
+     "pts": 20,
+     "reb": 4,
+     "ast": 7,
+     "stl": 1,
+     "blk": 3,
+     "tov": 3,
+     "pm": -5
+    },
+    {
+     "name": "Cade Cunningham",
+     "starter": true,
+     "min": 36,
+     "pts": 33,
+     "reb": 5,
+     "ast": 8,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": -12
+    },
+    {
+     "name": "Daniss Jenkins",
+     "starter": true,
+     "min": 35,
+     "pts": 10,
+     "reb": 1,
+     "ast": 5,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": -22
+    },
+    {
+     "name": "John Collins",
+     "starter": true,
+     "min": 26,
+     "pts": 8,
+     "reb": 7,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Paul Reed",
+     "starter": false,
+     "min": 23,
+     "pts": 9,
+     "reb": 9,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Ronald Holland II",
+     "starter": false,
+     "min": 22,
+     "pts": 5,
+     "reb": 7,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -27
+    },
+    {
+     "name": "Ausar Thompson",
+     "starter": true,
+     "min": 18,
+     "pts": 10,
+     "reb": 8,
+     "ast": 5,
+     "stl": 2,
+     "blk": 2,
+     "tov": 2,
+     "pm": 5
+    },
+    {
+     "name": "Duncan Robinson",
+     "starter": true,
+     "min": 17,
+     "pts": 10,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -12
+    },
+    {
+     "name": "Javonte Green",
+     "starter": false,
+     "min": 12,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 8
+    },
+    {
+     "name": "Taurean Prince",
+     "starter": false,
+     "min": 8,
+     "pts": 2,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -12
+    },
+    {
+     "name": "Isaac Jones",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Tolu Smith",
+     "starter": false,
+     "min": 1,
+     "pts": 3,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Elijah Harkless",
+     "starter": false,
+     "min": 1,
+     "pts": 2,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -2
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Giannis Antetokounmpo",
+    "pts": 34,
+    "reb": 14,
+    "ast": 8
+   },
+   "away": {
+    "name": "Cade Cunningham",
+    "pts": 33,
+    "reb": 5,
+    "ast": 8
+   }
+  }
  },
  {
   "date": "2026-11-14",

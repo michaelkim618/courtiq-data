@@ -1494,5 +1494,13 @@
   "home": "NOP",
   "conf": 78.9,
   "correct": true
+ },
+ {
+  "date": "2026-11-14",
+  "season": "2026-2027",
+  "away": "DET",
+  "home": "MIA",
+  "conf": 69.4,
+  "correct": false
  }
 ]
