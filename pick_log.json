@@ -24534,6 +24534,11 @@
   "2026-11-15_HOU@WAS": {
    "away": "HOU",
    "date": "2026-11-15",
+   "final_check": {
+    "at": "2026-11-15T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-15T18:45-05:00"
+   },
    "home": "WAS",
    "late": false,
    "locked_at": null,
@@ -24874,6 +24879,13 @@
    "home": "PHX",
    "late": false,
    "locked_at": "2026-11-15T16:00-05:00",
+   "result": {
+    "score": {
+     "away": 131,
+     "home": 123
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-15T16:00-05:00",
    "tip_known": true,
