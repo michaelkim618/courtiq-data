@@ -4965,7 +4965,7 @@
     {
      "player": "Sergio de Larrea",
      "mpg": 20.4,
-     "nth_out": 2,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
@@ -4995,7 +4995,7 @@
     {
      "player": "Dereck Lively II",
      "mpg": 0.0,
-     "nth_out": 2,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true,
@@ -5004,7 +5004,7 @@
     {
      "player": "Tarik Biberovic",
      "mpg": 0.0,
-     "nth_out": 2,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true,
