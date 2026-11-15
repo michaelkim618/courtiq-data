@@ -3004,15 +3004,15 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 65.0,
-   "away": 35.0
+   "home": 65.1,
+   "away": 34.9
   },
   "win_prob_band": {
-   "low": 65.0,
-   "high": 66.7,
-   "gtd_count": 2
+   "low": 65.1,
+   "high": 65.1,
+   "gtd_count": 0
   },
-  "expected_margin": 5.45,
+  "expected_margin": 5.47,
   "expected_score": {
    "home": 115.5,
    "away": 110.1
@@ -3040,8 +3040,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.76,
-    "detail": "Philadelphia 76ers 4 out (76 min) costing 0.8 pts, Indiana Pacers 3 out (65 min) costing 1.6 pts"
+    "points": 0.78,
+    "detail": "Philadelphia 76ers 4 out (76 min) costing 0.8 pts, Indiana Pacers 4 out (95 min) costing 1.9 pts"
    }
   ],
   "ratings": {
@@ -3114,6 +3114,15 @@
      "ppg": 18.8
     },
     {
+     "player": "Andrew Nembhard",
+     "mpg": 30.1,
+     "nth_out": 1,
+     "value": 1.7,
+     "cost": -0.35,
+     "no_minutes": false,
+     "ppg": 15.1
+    },
+    {
      "player": "Ben Sheppard",
      "mpg": 21.2,
      "nth_out": 1,
@@ -3135,22 +3144,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Andrew Nembhard",
-     "mpg": 30.1,
-     "value": 1.7,
-     "status": "Questionable",
-     "ppg": 15.1
-    },
-    {
-     "player": "Aaron Nesmith",
-     "mpg": 24.0,
-     "value": 1.3,
-     "status": "Questionable",
-     "ppg": 11.9
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -3266,19 +3260,6 @@
    ],
    "away": [
     {
-     "player": "Andrew Nembhard",
-     "player_id": 1629614,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 16.6,
-     "rpg": 2.3,
-     "apg": 7.7
-    },
-    {
      "player": "Pascal Siakam",
      "player_id": 1627783,
      "position": "F",
@@ -3334,7 +3315,7 @@
      "player": "Jay Huff",
      "player_id": 1630643,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 4,
      "start_rate": 36,
@@ -3368,6 +3349,19 @@
      "ppg": 9.0,
      "rpg": 3.6,
      "apg": 2.7
+    },
+    {
+     "player": "Obi Toppin",
+     "player_id": 1630167,
+     "position": "F",
+     "starter": false,
+     "games": 10,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 20.7,
+     "ppg": 12.4,
+     "rpg": 4.6,
+     "apg": 1.5
     }
    ]
   },
@@ -3379,10 +3373,10 @@
   "data_through": "2026-11-14",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 7.37,
+   "expected_margin": 7.73,
    "win_prob": {
-    "home": 69.4,
-    "away": 30.6
+    "home": 70.3,
+    "away": 29.7
    }
   },
   "tip_et": "2026-11-15T13:00-05:00",
@@ -3407,6 +3401,12 @@
     "pick": "PHI",
     "prob": 65.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-15T12:17-05:00",
+    "pick": "PHI",
+    "prob": 65.1,
+    "reason": "Andrew Nembhard (IND) now out; Aaron Nesmith (IND) cleared to play"
    }
   ]
  },
@@ -6338,9 +6338,9 @@
    "away": 73.3
   },
   "win_prob_band": {
-   "low": 26.7,
+   "low": 26.1,
    "high": 26.7,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": -8.8,
   "expected_score": {
@@ -6453,7 +6453,15 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Ryan Rollins",
+     "mpg": 22.1,
+     "value": 1.1,
+     "status": "Questionable",
+     "ppg": 11.0
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -6711,6 +6719,12 @@
     "pick": "ATL",
     "prob": 73.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-15T12:17-05:00",
+    "pick": "ATL",
+    "prob": 73.3,
+    "reason": "Ryan Rollins (MIL) now questionable"
    }
   ]
  },
