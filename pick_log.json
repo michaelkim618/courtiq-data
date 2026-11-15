@@ -24523,6 +24523,11 @@
   "2026-11-15_IND@PHI": {
    "away": "IND",
    "date": "2026-11-15",
+   "final_check": {
+    "at": "2026-11-15T12:47-05:00",
+    "label": "12:45 PM ET",
+    "report": "2026-11-15T12:45-05:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
