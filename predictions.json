@@ -5834,7 +5834,7 @@
   "win_prob_band": {
    "low": 21.0,
    "high": 21.0,
-   "gtd_count": 3
+   "gtd_count": 2
   },
   "expected_margin": -11.41,
   "expected_score": {
@@ -5973,15 +5973,7 @@
      "ppg": 9.5
     }
    ],
-   "away": [
-    {
-     "player": "Steven Adams",
-     "mpg": 22.7,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 5.7
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6232,6 +6224,12 @@
     "pick": "HOU",
     "prob": 79.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-15T12:32-05:00",
+    "pick": "HOU",
+    "prob": 79.0,
+    "reason": "Steven Adams (HOU) cleared to play"
    }
   ]
  },
