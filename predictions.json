@@ -4899,18 +4899,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 82.3,
-   "away": 17.7
+   "home": 81.9,
+   "away": 18.1
   },
   "win_prob_band": {
-   "low": 82.3,
-   "high": 82.3,
+   "low": 81.9,
+   "high": 81.9,
    "gtd_count": 0
   },
-  "expected_margin": 13.12,
+  "expected_margin": 12.9,
   "expected_score": {
-   "home": 118.2,
-   "away": 105.0
+   "home": 118.1,
+   "away": 105.2
   },
   "margin_breakdown": [
    {
@@ -4935,8 +4935,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.69,
-    "detail": "Dallas Mavericks 3 out (60 min) · Dallas Mavericks: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": -0.91,
+    "detail": "Dallas Mavericks 1 out (20 min) · Dallas Mavericks: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4970,26 +4970,6 @@
      "cost": -0.0,
      "no_minutes": false,
      "ppg": 8.4,
-     "source": "espn"
-    },
-    {
-     "player": "Daniel Gafford",
-     "mpg": 19.8,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 8.7,
-     "source": "espn"
-    },
-    {
-     "player": "Max Christie",
-     "mpg": 19.8,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 6.8,
      "source": "espn"
     },
     {
@@ -5169,10 +5149,36 @@
      "apg": 4.4
     },
     {
+     "player": "Daniel Gafford",
+     "player_id": 1629655,
+     "position": "F",
+     "starter": true,
+     "games": 13,
+     "starts": 13,
+     "start_rate": 100,
+     "mpg": 21.2,
+     "ppg": 9.2,
+     "rpg": 5.2,
+     "apg": 1.8
+    },
+    {
+     "player": "Max Christie",
+     "player_id": 1631108,
+     "position": "G",
+     "starter": true,
+     "games": 11,
+     "starts": 11,
+     "start_rate": 100,
+     "mpg": 18.5,
+     "ppg": 5.3,
+     "rpg": 2.9,
+     "apg": 1.2
+    },
+    {
      "player": "Naji Marshall",
      "player_id": 1630230,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 10,
      "starts": 3,
      "start_rate": 30,
@@ -5185,7 +5191,7 @@
      "player": "Zaccharie Risacher",
      "player_id": 1642258,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 13,
      "starts": 3,
      "start_rate": 23,
@@ -5206,32 +5212,6 @@
      "ppg": 5.2,
      "rpg": 2.9,
      "apg": 1.9
-    },
-    {
-     "player": "Walter Clayton Jr.",
-     "player_id": 1642383,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.7,
-     "ppg": 6.6,
-     "rpg": 2.9,
-     "apg": 3.3
-    },
-    {
-     "player": "Morez Johnson Jr.",
-     "player_id": 1643516,
-     "position": "F",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.6,
-     "ppg": 6.7,
-     "rpg": 4.6,
-     "apg": 1.1
     }
    ]
   },
@@ -5265,6 +5245,12 @@
     "pick": "BOS",
     "prob": 82.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-15T11:02-05:00",
+    "pick": "BOS",
+    "prob": 81.9,
+    "reason": "Daniel Gafford (DAL) no longer out; Max Christie (DAL) no longer out"
    }
   ]
  },

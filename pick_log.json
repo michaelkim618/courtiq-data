@@ -24263,6 +24263,31 @@
       "away": 17.7,
       "home": 82.3
      }
+    },
+    {
+     "at": "2026-11-15T11:02-05:00",
+     "expected_margin": 12.9,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": []
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Daniel Gafford (DAL) no longer out; Max Christie (DAL) no longer out",
+     "report": "2026-11-15T11:00-05:00",
+     "win_prob": {
+      "away": 18.1,
+      "home": 81.9
+     }
     }
    ]
   },
