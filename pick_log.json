@@ -24591,6 +24591,13 @@
    "home": "PHI",
    "late": false,
    "locked_at": "2026-11-15T13:00-05:00",
+   "result": {
+    "score": {
+     "away": 124,
+     "home": 131
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-15T13:00-05:00",
    "tip_known": true,
@@ -25155,6 +25162,36 @@
      "win_prob": {
       "away": 89.5,
       "home": 10.5
+     }
+    },
+    {
+     "at": "2026-11-15T15:32-05:00",
+     "expected_margin": -16.67,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tobias Harris",
+       "De'Aaron Fox",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic",
+       "Jaxson Hayes"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "De'Aaron Fox (SAS) now out",
+     "report": "2026-11-15T15:30-05:00",
+     "win_prob": {
+      "away": 88.1,
+      "home": 11.9
      }
     }
    ]
