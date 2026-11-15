@@ -22972,6 +22972,35 @@
       "away": 39.0,
       "home": 61.0
      }
+    },
+    {
+     "at": "2026-11-14T19:17-05:00",
+     "expected_margin": 6.06,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Michael Porter Jr."
+      ],
+      "home": [
+       "Ty Jerome",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Quinten Post",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Michael Porter Jr. (BKN) now out; Jerami Grant (MEM) now out",
+     "report": "2026-11-14T19:15-05:00",
+     "win_prob": {
+      "away": 33.4,
+      "home": 66.6
+     }
     }
    ]
   },
@@ -23199,6 +23228,11 @@
   "2026-11-14_DAL@CLE": {
    "away": "DAL",
    "date": "2026-11-14",
+   "final_check": {
+    "at": "2026-11-14T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-14T19:15-05:00"
+   },
    "home": "CLE",
    "late": false,
    "locked_at": null,
