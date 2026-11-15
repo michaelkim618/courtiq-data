@@ -24297,6 +24297,11 @@
   "2026-11-15_DAL@BOS": {
    "away": "DAL",
    "date": "2026-11-15",
+   "final_check": {
+    "at": "2026-11-15T17:47-05:00",
+    "label": "5:45 PM ET",
+    "report": "2026-11-15T17:45-05:00"
+   },
    "home": "BOS",
    "late": false,
    "locked_at": null,
@@ -24925,6 +24930,11 @@
   "2026-11-15_NYK@TOR": {
    "away": "NYK",
    "date": "2026-11-15",
+   "final_check": {
+    "at": "2026-11-15T17:47-05:00",
+    "label": "5:45 PM ET",
+    "report": "2026-11-15T17:45-05:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,
