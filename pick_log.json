@@ -25882,6 +25882,35 @@
       "away": 58.8,
       "home": 41.2
      }
+    },
+    {
+     "at": "2026-11-16T13:03-05:00",
+     "expected_margin": -3.22,
+     "gtd": {
+      "away": [
+       "Amen Thompson"
+      ],
+      "home": [
+       "Pelle Larsson"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Steven Adams",
+       "Marcus Smart",
+       "Clint Capela"
+      ],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Marcus Smart (HOU) now out; Steven Adams (HOU) now out; Amen Thompson (HOU) now questionable; Fred VanVleet (HOU) cleared to play",
+     "report": "2026-11-16T13:00-05:00",
+     "win_prob": {
+      "away": 58.8,
+      "home": 41.2
+     }
     }
    ]
   },
@@ -25990,6 +26019,40 @@
      "win_prob": {
       "away": 75.0,
       "home": 25.0
+     }
+    },
+    {
+     "at": "2026-11-16T13:03-05:00",
+     "expected_margin": -9.31,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Tre Johnson"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Ty Jerome",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Isaiah Stewart (MEM) now out",
+     "report": "2026-11-16T13:00-05:00",
+     "win_prob": {
+      "away": 74.0,
+      "home": 26.0
      }
     }
    ]
@@ -26173,6 +26236,34 @@
      "win_prob": {
       "away": 54.3,
       "home": 45.7
+     }
+    },
+    {
+     "at": "2026-11-16T13:03-05:00",
+     "expected_margin": -1.46,
+     "gtd": {
+      "away": [
+       "Joel Embiid"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "LeBron James",
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ],
+      "home": []
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "LeBron James (PHI) now out",
+     "report": "2026-11-16T13:00-05:00",
+     "win_prob": {
+      "away": 54.0,
+      "home": 46.0
      }
     }
    ]
