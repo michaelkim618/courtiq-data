@@ -1522,6 +1522,14 @@
  {
   "date": "2026-11-15",
   "season": "2026-2027",
+  "away": "HOU",
+  "home": "WAS",
+  "conf": 80.2,
+  "correct": true
+ },
+ {
+  "date": "2026-11-15",
+  "season": "2026-2027",
   "away": "IND",
   "home": "PHI",
   "conf": 65.1,
