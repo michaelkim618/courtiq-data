@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-16-film-session-mem-was",
+      "title": "Film Session: MEM @ WAS",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Point Guard Expert",
+      "date": "2026-11-16",
+      "type": "daily",
+      "tag": "Preview",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "A point guard's read on MEM @ WAS on 2026-11-16 — where the matchup is actually won, possession by possession, before you even look at the total.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-15-the-numbers-going-into-2026-11-15",
       "title": "The Numbers Going Into 2026-11-15",
       "author": "Stan",
