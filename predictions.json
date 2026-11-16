@@ -7109,7 +7109,7 @@
   "win_prob_band": {
    "low": 22.3,
    "high": 24.4,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": -10.79,
   "expected_score": {
@@ -7232,6 +7232,13 @@
   },
   "gtd": {
    "home": [
+    {
+     "player": "De'Andre Hunter",
+     "mpg": 27.5,
+     "value": 0.0,
+     "status": "Questionable",
+     "ppg": 10.4
+    },
     {
      "player": "Precious Achiuwa",
      "mpg": 25.8,
@@ -7511,6 +7518,12 @@
     "pick": "OKC",
     "prob": 77.7,
     "reason": "Keegan Murray (SAC) cleared to play"
+   },
+   {
+    "at": "2026-11-15T19:17-05:00",
+    "pick": "OKC",
+    "prob": 77.7,
+    "reason": "De'Andre Hunter (SAC) now questionable"
    }
   ]
  }
