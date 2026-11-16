@@ -1514,6 +1514,14 @@
  {
   "date": "2026-11-15",
   "season": "2026-2027",
+  "away": "DAL",
+  "home": "BOS",
+  "conf": 87.4,
+  "correct": true
+ },
+ {
+  "date": "2026-11-15",
+  "season": "2026-2027",
   "away": "IND",
   "home": "PHI",
   "conf": 65.1,

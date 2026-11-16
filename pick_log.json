@@ -24348,6 +24348,13 @@
    "home": "BOS",
    "late": false,
    "locked_at": "2026-11-15T18:00-05:00",
+   "result": {
+    "score": {
+     "away": 94,
+     "home": 131
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-15T18:00-05:00",
    "tip_known": true,
@@ -25352,6 +25359,39 @@
      "win_prob": {
       "away": 77.6,
       "home": 22.4
+     }
+    },
+    {
+     "at": "2026-11-15T20:17-05:00",
+     "expected_margin": -9.96,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Zach LaVine",
+       "Maxime Raynaud",
+       "De'Andre Hunter",
+       "Precious Achiuwa",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "De'Andre Hunter (SAC) now out",
+     "report": "2026-11-15T20:15-05:00",
+     "win_prob": {
+      "away": 76.0,
+      "home": 24.0
      }
     }
    ]
