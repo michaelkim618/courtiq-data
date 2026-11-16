@@ -25000,6 +25000,13 @@
    "home": "TOR",
    "late": false,
    "locked_at": "2026-11-15T18:00-05:00",
+   "result": {
+    "score": {
+     "away": 112,
+     "home": 108
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-15T18:00-05:00",
    "tip_known": true,
@@ -25118,7 +25125,7 @@
    },
    "home": "SAC",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-15T21:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-15T21:00-05:00",
    "tip_known": true,
