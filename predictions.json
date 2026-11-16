@@ -5186,7 +5186,7 @@
   "win_prob_band": {
    "low": 81.7,
    "high": 81.7,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": 13.09,
   "expected_score": {
@@ -5273,7 +5273,14 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Neemias Queta",
+     "mpg": 22.4,
+     "value": 0.0,
+     "status": "Questionable"
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -5523,6 +5530,12 @@
     "pick": "BOS",
     "prob": 81.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-16T13:18-05:00",
+    "pick": "BOS",
+    "prob": 81.7,
+    "reason": "Neemias Queta (BOS) now questionable"
    }
   ]
  },

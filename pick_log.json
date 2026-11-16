@@ -26144,6 +26144,34 @@
       "away": 18.3,
       "home": 81.7
      }
+    },
+    {
+     "at": "2026-11-16T13:18-05:00",
+     "expected_margin": 13.09,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Neemias Queta"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": []
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Neemias Queta (BOS) now questionable",
+     "report": "2026-11-16T13:15-05:00",
+     "win_prob": {
+      "away": 18.3,
+      "home": 81.7
+     }
     }
    ]
   },
