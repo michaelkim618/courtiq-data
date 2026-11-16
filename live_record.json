@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T19:02-05:00",
+ "generated": "2026-11-15T19:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1808,13 +1808,13 @@
   },
   {
    "date": "2026-11-15",
-   "games": 3,
-   "wins": 3,
+   "games": 4,
+   "wins": 4,
    "losses": 0,
    "pct": 100.0,
-   "cum_wins": 130,
-   "cum_games": 191,
-   "cum_pct": 68.1,
+   "cum_wins": 131,
+   "cum_games": 192,
+   "cum_pct": 68.2,
    "picks": [
     {
      "away": "CHA",
@@ -1839,15 +1839,23 @@
      "prob": 64.0,
      "correct": true,
      "updated": true
+    },
+    {
+     "away": "SAS",
+     "home": "UTA",
+     "pick": "SAS",
+     "prob": 88.1,
+     "correct": true,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 191,
-  "wins": 130,
+  "games": 192,
+  "wins": 131,
   "losses": 61,
-  "pct": 68.1
+  "pct": 68.2
  },
  "unscored": 0
 }
