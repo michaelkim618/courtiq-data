@@ -5180,18 +5180,18 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 71.0,
-   "away": 29.0
+   "home": 66.8,
+   "away": 33.2
   },
   "win_prob_band": {
-   "low": 71.0,
-   "high": 71.0,
-   "gtd_count": 1
+   "low": 66.8,
+   "high": 66.8,
+   "gtd_count": 0
   },
-  "expected_margin": 7.81,
+  "expected_margin": 6.14,
   "expected_score": {
-   "home": 114.0,
-   "away": 106.2
+   "home": 113.1,
+   "away": 107.0
   },
   "margin_breakdown": [
    {
@@ -5216,8 +5216,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "Orlando Magic 3 out (48 min) costing 2.0 pts · Izaiyah Nelson out all season, already baked into team rating"
+    "points": -1.67,
+    "detail": "Boston Celtics 1 out (22 min), Orlando Magic 3 out (48 min) costing 2.0 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5241,7 +5241,17 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Neemias Queta",
+     "mpg": 22.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 9.4
+    }
+   ],
    "away": [
     {
      "player": "Paolo Banchero",
@@ -5281,15 +5291,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Neemias Queta",
-     "mpg": 22.4,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 9.4
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5378,19 +5380,6 @@
      "apg": 3.8
     },
     {
-     "player": "Neemias Queta",
-     "player_id": 1629674,
-     "position": "C",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.0,
-     "ppg": 9.1,
-     "rpg": 6.7,
-     "apg": 1.8
-    },
-    {
      "player": "Baylor Scheierman",
      "player_id": 1631248,
      "position": "G",
@@ -5402,6 +5391,19 @@
      "ppg": 6.5,
      "rpg": 4.2,
      "apg": 1.5
+    },
+    {
+     "player": "Sam Hauser",
+     "player_id": 1630573,
+     "position": "F",
+     "starter": false,
+     "games": 13,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 20.2,
+     "ppg": 8.1,
+     "rpg": 3.4,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -5559,6 +5561,12 @@
     "pick": "BOS",
     "prob": 71.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-16T17:32-05:00",
+    "pick": "BOS",
+    "prob": 66.8,
+    "reason": "Neemias Queta (BOS) now out"
    }
   ]
  },
@@ -5661,18 +5669,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 65.6,
-   "away": 34.4
+   "home": 66.3,
+   "away": 33.7
   },
   "win_prob_band": {
-   "low": 65.6,
-   "high": 67.0,
-   "gtd_count": 3
+   "low": 66.3,
+   "high": 67.7,
+   "gtd_count": 1
   },
-  "expected_margin": 5.69,
+  "expected_margin": 5.95,
   "expected_score": {
-   "home": 120.2,
-   "away": 114.5
+   "home": 120.3,
+   "away": 114.4
   },
   "margin_breakdown": [
    {
@@ -5697,8 +5705,8 @@
    },
    {
     "label": "Absences",
-    "points": -3.22,
-    "detail": "Cleveland Cavaliers 3 out (67 min) costing 0.6 pts, Chicago Bulls 2 out (47 min) costing 1.0 pts"
+    "points": -2.96,
+    "detail": "Cleveland Cavaliers 4 out (89 min) costing 0.6 pts, Chicago Bulls 2 out (47 min) costing 1.0 pts"
    }
   ],
   "ratings": {
@@ -5742,6 +5750,15 @@
      "ppg": 8.2
     },
     {
+     "player": "Jaylon Tyson",
+     "mpg": 21.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 9.7
+    },
+    {
      "player": "Nae'Qwan Tomlin",
      "mpg": 14.5,
      "nth_out": 12,
@@ -5773,22 +5790,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Peyton Watson",
-     "mpg": 26.2,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 10.2
-    },
-    {
-     "player": "Jaylon Tyson",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Doubtful",
-     "ppg": 9.7
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Jalen Smith",
@@ -5859,23 +5861,10 @@
      "apg": 1.4
     },
     {
-     "player": "Jaylon Tyson",
-     "player_id": 1642281,
-     "position": "G",
-     "starter": true,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.9,
-     "ppg": 9.5,
-     "rpg": 3.1,
-     "apg": 2.5
-    },
-    {
      "player": "Meleek Thomas",
      "player_id": 1643509,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -5909,6 +5898,19 @@
      "ppg": 9.3,
      "rpg": 3.5,
      "apg": 2.8
+    },
+    {
+     "player": "Thomas Bryant",
+     "player_id": 1628418,
+     "position": "C",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.8,
+     "ppg": 10.0,
+     "rpg": 3.1,
+     "apg": 0.6
     }
    ],
    "away": [
@@ -6060,6 +6062,12 @@
     "pick": "CLE",
     "prob": 65.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-16T17:32-05:00",
+    "pick": "CLE",
+    "prob": 66.3,
+    "reason": "Jaylon Tyson (CLE) now out; Peyton Watson (CLE) cleared to play"
    }
   ]
  },
@@ -6168,7 +6176,7 @@
   "win_prob_band": {
    "low": 21.9,
    "high": 21.9,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -10.98,
   "expected_score": {
@@ -6308,15 +6316,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Tre Johnson",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 9.5
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6586,6 +6586,12 @@
     "pick": "MEM",
     "prob": 78.1,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-16T17:32-05:00",
+    "pick": "MEM",
+    "prob": 78.1,
+    "reason": "Tre Johnson (WAS) cleared to play"
    }
   ]
  },

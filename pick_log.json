@@ -25713,6 +25713,37 @@
       "away": 34.4,
       "home": 65.6
      }
+    },
+    {
+     "at": "2026-11-16T17:32-05:00",
+     "expected_margin": 5.95,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Caleb Wilson",
+       "Tobe Awaka"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Jaylon Tyson",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Jaylon Tyson (CLE) now out; Peyton Watson (CLE) cleared to play",
+     "report": "2026-11-16T17:30-05:00",
+     "win_prob": {
+      "away": 33.7,
+      "home": 66.3
+     }
     }
    ]
   },
@@ -26183,6 +26214,38 @@
       "away": 78.1,
       "home": 21.9
      }
+    },
+    {
+     "at": "2026-11-16T17:32-05:00",
+     "expected_margin": -10.98,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Ty Jerome",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Tre Johnson (WAS) cleared to play",
+     "report": "2026-11-16T17:30-05:00",
+     "win_prob": {
+      "away": 78.1,
+      "home": 21.9
+     }
     }
    ]
   },
@@ -26328,6 +26391,34 @@
      "win_prob": {
       "away": 29.0,
       "home": 71.0
+     }
+    },
+    {
+     "at": "2026-11-16T17:32-05:00",
+     "expected_margin": 6.14,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Neemias Queta"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Neemias Queta (BOS) now out",
+     "report": "2026-11-16T17:30-05:00",
+     "win_prob": {
+      "away": 33.2,
+      "home": 66.8
      }
     }
    ]
