@@ -8707,7 +8707,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Denver Nuggets 1 out (15 min) costing 0.1 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts · Phoenix Suns: official report not filed yet, ESPN injury list used"
+    "detail": "Denver Nuggets 1 out (15 min) costing 0.1 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts"
    }
   ],
   "ratings": {
@@ -8750,8 +8750,7 @@
      "value": 1.0,
      "cost": -0.22,
      "no_minutes": false,
-     "ppg": 11.5,
-     "source": "espn"
+     "ppg": 11.5
     }
    ]
   },
