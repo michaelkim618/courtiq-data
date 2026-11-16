@@ -25680,6 +25680,39 @@
       "away": 18.3,
       "home": 81.7
      }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": 5.69,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": [
+       "Peyton Watson",
+       "Jaylon Tyson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Caleb Wilson",
+       "Tobe Awaka"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Sam Merrill",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 34.4,
+      "home": 65.6
+     }
     }
    ]
   },
@@ -25790,6 +25823,39 @@
      "win_prob": {
       "away": 51.3,
       "home": 48.7
+     }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": -3.61,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 60.1,
+      "home": 39.9
      }
     }
    ]
@@ -25910,6 +25976,35 @@
      "win_prob": {
       "away": 58.8,
       "home": 41.2
+     }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": -4.06,
+     "gtd": {
+      "away": [
+       "Amen Thompson"
+      ],
+      "home": [
+       "Pelle Larsson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Steven Adams",
+       "Marcus Smart",
+       "Clint Capela"
+      ],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 61.3,
+      "home": 38.7
      }
     }
    ]
@@ -26054,6 +26149,40 @@
       "away": 74.0,
       "home": 26.0
      }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": -10.98,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Tre Johnson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Ty Jerome",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 78.1,
+      "home": 21.9
+     }
     }
    ]
   },
@@ -26171,6 +26300,34 @@
      "win_prob": {
       "away": 18.3,
       "home": 81.7
+     }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": 7.81,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Neemias Queta"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": []
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 29.0,
+      "home": 71.0
      }
     }
    ]
@@ -26293,6 +26450,34 @@
       "away": 54.0,
       "home": 46.0
      }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": -4.34,
+     "gtd": {
+      "away": [
+       "Joel Embiid"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "LeBron James",
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ],
+      "home": []
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 62.1,
+      "home": 37.9
+     }
     }
    ]
   },
@@ -26379,6 +26564,31 @@
      "win_prob": {
       "away": 27.6,
       "home": 72.4
+     }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": 10.32,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": [
+       "Julian Strawther"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 23.3,
+      "home": 76.7
      }
     }
    ]
@@ -26481,6 +26691,36 @@
      "win_prob": {
       "away": 34.6,
       "home": 65.4
+     }
+    },
+    {
+     "at": "2026-11-16T15:02-05:00",
+     "expected_margin": 1.92,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 44.6,
+      "home": 55.4
      }
     }
    ]
