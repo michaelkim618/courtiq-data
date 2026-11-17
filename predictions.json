@@ -7716,7 +7716,7 @@
    {
     "label": "Absences",
     "points": -0.87,
-    "detail": "Minnesota Timberwolves 3 out (70 min) costing 2.5 pts, Portland Trail Blazers 4 out (77 min) costing 2.2 pts"
+    "detail": "Minnesota Timberwolves 3 out (70 min) costs 0.2 pts, Portland Trail Blazers 4 out (77 min) adds 0.7 pts (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -8212,7 +8212,7 @@
    {
     "label": "Absences",
     "points": 4.28,
-    "detail": "New Orleans Pelicans 5 out (101 min) costing 0.0 pts, Golden State Warriors 5 out (122 min) costing 6.3 pts"
+    "detail": "New Orleans Pelicans 5 out (101 min) adds 0.5 pts, Golden State Warriors 5 out (122 min) costs 3.8 pts (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -8735,7 +8735,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Denver Nuggets 1 out (15 min) costing 0.1 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts"
+    "detail": "Denver Nuggets 1 out (15 min), no change to the rotation, Phoenix Suns 1 out (24 min), no change to the rotation"
    }
   ],
   "ratings": {
