@@ -1586,6 +1586,14 @@
  {
   "date": "2026-11-16",
   "season": "2026-2027",
+  "away": "GSW",
+  "home": "NOP",
+  "conf": 60.1,
+  "correct": false
+ },
+ {
+  "date": "2026-11-16",
+  "season": "2026-2027",
   "away": "HOU",
   "home": "MIA",
   "conf": 61.5,
@@ -1613,6 +1621,14 @@
   "away": "PHI",
   "home": "BKN",
   "conf": 62.1,
+  "correct": true
+ },
+ {
+  "date": "2026-11-16",
+  "season": "2026-2027",
+  "away": "POR",
+  "home": "MIN",
+  "conf": 55.4,
   "correct": true
  }
 ]
