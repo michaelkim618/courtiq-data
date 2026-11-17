@@ -25894,6 +25894,11 @@
   "2026-11-16_HOU@MIA": {
    "away": "HOU",
    "date": "2026-11-16",
+   "final_check": {
+    "at": "2026-11-16T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-16T19:15-05:00"
+   },
    "home": "MIA",
    "late": false,
    "locked_at": null,
@@ -26485,6 +26490,11 @@
   "2026-11-16_PHI@BKN": {
    "away": "PHI",
    "date": "2026-11-16",
+   "final_check": {
+    "at": "2026-11-16T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-16T19:15-05:00"
+   },
    "home": "BKN",
    "late": false,
    "locked_at": null,
