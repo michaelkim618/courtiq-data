@@ -4707,9 +4707,9 @@
    "away": 60.5
   },
   "win_prob_band": {
-   "low": 39.5,
+   "low": 35.0,
    "high": 39.5,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": -3.75,
   "expected_score": {
@@ -4786,7 +4786,15 @@
    "away": []
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Scottie Barnes",
+     "mpg": 29.3,
+     "value": 8.1,
+     "status": "Questionable",
+     "ppg": 21.1
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -5032,6 +5040,12 @@
     "pick": "NYK",
     "prob": 60.5,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-17T12:33-05:00",
+    "pick": "NYK",
+    "prob": 60.5,
+    "reason": "Scottie Barnes (TOR) now questionable"
    }
   ]
  },
