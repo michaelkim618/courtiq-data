@@ -5153,8 +5153,8 @@
   },
   "win_prob_band": {
    "low": 56.0,
-   "high": 56.0,
-   "gtd_count": 0
+   "high": 61.2,
+   "gtd_count": 1
   },
   "expected_margin": 2.14,
   "expected_score": {
@@ -5185,7 +5185,7 @@
    {
     "label": "Absences",
     "points": -1.17,
-    "detail": "Minnesota Timberwolves 5 out (113 min) costing 2.9 pts, Portland Trail Blazers 4 out (77 min) costing 2.2 pts · Portland Trail Blazers: official report not filed yet, ESPN injury list used"
+    "detail": "Minnesota Timberwolves 5 out (113 min) costing 2.9 pts, Portland Trail Blazers 4 out (77 min) costing 2.2 pts"
    }
   ],
   "ratings": {
@@ -5264,8 +5264,7 @@
      "value": 7.1,
      "cost": -1.48,
      "no_minutes": false,
-     "ppg": 19.4,
-     "source": "espn"
+     "ppg": 19.4
     },
     {
      "player": "Ja Morant",
@@ -5274,8 +5273,7 @@
      "value": 3.2,
      "cost": -0.67,
      "no_minutes": false,
-     "ppg": 13.6,
-     "source": "espn"
+     "ppg": 13.6
     },
     {
      "player": "Chris Youngblood",
@@ -5284,8 +5282,7 @@
      "value": 0.1,
      "cost": -0.03,
      "no_minutes": false,
-     "ppg": 6.0,
-     "source": "espn"
+     "ppg": 6.0
     },
     {
      "player": "Vit Krejci",
@@ -5294,14 +5291,21 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 3.4,
-     "source": "espn"
+     "ppg": 3.4
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Deni Avdija",
+     "mpg": 30.0,
+     "value": 9.0,
+     "status": "Questionable",
+     "ppg": 22.3
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -5558,6 +5562,12 @@
     "pick": "MIN",
     "prob": 56.0,
     "reason": "Jonathan Kuminga (MIN) now out; Zyon Pullin (MIN) now out"
+   },
+   {
+    "at": "2026-11-17T14:38-05:00",
+    "pick": "MIN",
+    "prob": 56.0,
+    "reason": "Deni Avdija (POR) now questionable"
    }
   ]
  },
