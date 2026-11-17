@@ -6699,8 +6699,8 @@
   },
   "win_prob_band": {
    "low": 37.9,
-   "high": 40.0,
-   "gtd_count": 1
+   "high": 37.9,
+   "gtd_count": 0
   },
   "expected_margin": -4.34,
   "expected_score": {
@@ -6797,15 +6797,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Joel Embiid",
-     "mpg": 31.0,
-     "value": 3.7,
-     "status": "Questionable",
-     "ppg": 17.5
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7074,6 +7066,12 @@
     "pick": "PHI",
     "prob": 62.1,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-16T19:02-05:00",
+    "pick": "PHI",
+    "prob": 62.1,
+    "reason": "Joel Embiid (PHI) cleared to play"
    }
   ]
  },
@@ -7176,18 +7174,18 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 39.6,
-   "away": 60.4
+   "home": 38.5,
+   "away": 61.5
   },
   "win_prob_band": {
-   "low": 39.6,
-   "high": 39.6,
-   "gtd_count": 1
+   "low": 38.5,
+   "high": 38.5,
+   "gtd_count": 0
   },
-  "expected_margin": -3.73,
+  "expected_margin": -4.12,
   "expected_score": {
-   "home": 113.7,
-   "away": 117.4
+   "home": 113.5,
+   "away": 117.6
   },
   "margin_breakdown": [
    {
@@ -7212,8 +7210,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.17,
-    "detail": "Miami Heat 2 out (43 min), Houston Rockets 3 out (60 min)"
+    "points": 1.78,
+    "detail": "Miami Heat 2 out (43 min), Houston Rockets 4 out (92 min) costing 0.0 pts"
    }
   ],
   "ratings": {
@@ -7259,6 +7257,15 @@
    ],
    "away": [
     {
+     "player": "Amen Thompson",
+     "mpg": 32.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.01,
+     "no_minutes": false,
+     "ppg": 14.3
+    },
+    {
      "player": "Steven Adams",
      "mpg": 22.7,
      "nth_out": 3,
@@ -7289,15 +7296,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Amen Thompson",
-     "mpg": 32.1,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 14.3
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7452,19 +7451,6 @@
      "apg": 3.9
     },
     {
-     "player": "Amen Thompson",
-     "player_id": 1641708,
-     "position": "G",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 15.8,
-     "rpg": 6.9,
-     "apg": 3.4
-    },
-    {
      "player": "Fred VanVleet",
      "player_id": 1627832,
      "position": "G",
@@ -7481,7 +7467,7 @@
      "player": "Reed Sheppard",
      "player_id": 1642263,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 4,
      "start_rate": 36,
@@ -7515,6 +7501,19 @@
      "ppg": 5.8,
      "rpg": 1.3,
      "apg": 1.3
+    },
+    {
+     "player": "Oscar Tshiebwe",
+     "player_id": 1631131,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 6.7,
+     "ppg": 2.3,
+     "rpg": 2.9,
+     "apg": 0.7
     }
    ]
   },
@@ -7572,6 +7571,12 @@
     "pick": "HOU",
     "prob": 60.4,
     "reason": "Nikola Jovic (MIA) now out; Pelle Larsson (MIA) now out"
+   },
+   {
+    "at": "2026-11-16T19:02-05:00",
+    "pick": "HOU",
+    "prob": 61.5,
+    "reason": "Amen Thompson (HOU) now out"
    }
   ]
  },

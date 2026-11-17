@@ -25577,7 +25577,7 @@
    "date": "2026-11-16",
    "home": "CLE",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-16T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-16T19:00-05:00",
    "tip_known": true,
@@ -26067,6 +26067,35 @@
       "away": 60.4,
       "home": 39.6
      }
+    },
+    {
+     "at": "2026-11-16T19:02-05:00",
+     "expected_margin": -4.12,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Amen Thompson",
+       "Steven Adams",
+       "Marcus Smart",
+       "Clint Capela"
+      ],
+      "home": [
+       "Pelle Larsson",
+       "Nikola Jovic"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Amen Thompson (HOU) now out",
+     "report": "2026-11-16T19:00-05:00",
+     "win_prob": {
+      "away": 61.5,
+      "home": 38.5
+     }
     }
    ]
   },
@@ -26075,7 +26104,7 @@
    "date": "2026-11-16",
    "home": "WAS",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-16T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-16T19:00-05:00",
    "tip_known": true,
@@ -26284,7 +26313,7 @@
    "date": "2026-11-16",
    "home": "BOS",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-16T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-16T19:00-05:00",
    "tip_known": true,
@@ -26595,6 +26624,32 @@
      "pick_code": "PHI",
      "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
      "report": "2026-11-16T15:00-05:00",
+     "win_prob": {
+      "away": 62.1,
+      "home": 37.9
+     }
+    },
+    {
+     "at": "2026-11-16T19:02-05:00",
+     "expected_margin": -4.34,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "LeBron James",
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ],
+      "home": []
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Joel Embiid (PHI) cleared to play",
+     "report": "2026-11-16T19:00-05:00",
      "win_prob": {
       "away": 62.1,
       "home": 37.9
