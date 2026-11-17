@@ -5148,18 +5148,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 57.7,
-   "away": 42.3
+   "home": 56.0,
+   "away": 44.0
   },
   "win_prob_band": {
-   "low": 57.7,
-   "high": 57.7,
-   "gtd_count": 1
+   "low": 56.0,
+   "high": 56.0,
+   "gtd_count": 0
   },
-  "expected_margin": 2.76,
+  "expected_margin": 2.14,
   "expected_score": {
-   "home": 115.1,
-   "away": 112.4
+   "home": 114.8,
+   "away": 112.7
   },
   "margin_breakdown": [
    {
@@ -5184,8 +5184,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.55,
-    "detail": "Minnesota Timberwolves 3 out (70 min) costing 2.5 pts, Portland Trail Blazers 4 out (77 min) costing 2.2 pts · Minnesota Timberwolves and Portland Trail Blazers: official report not filed yet, ESPN injury list used"
+    "points": -1.17,
+    "detail": "Minnesota Timberwolves 5 out (113 min) costing 2.9 pts, Portland Trail Blazers 4 out (77 min) costing 2.2 pts · Portland Trail Blazers: official report not filed yet, ESPN injury list used"
    }
   ],
   "ratings": {
@@ -5217,8 +5217,16 @@
      "value": 11.9,
      "cost": -2.49,
      "no_minutes": false,
-     "ppg": 23.6,
-     "source": "espn"
+     "ppg": 23.6
+    },
+    {
+     "player": "Zyon Pullin",
+     "mpg": 14.3,
+     "nth_out": 1,
+     "value": 1.8,
+     "cost": -0.37,
+     "no_minutes": false,
+     "ppg": 8.1
     },
     {
      "player": "Donte DiVincenzo",
@@ -5227,8 +5235,16 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 11.8,
-     "source": "espn"
+     "ppg": 11.8
+    },
+    {
+     "player": "Jonathan Kuminga",
+     "mpg": 28.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 11.6
     },
     {
      "player": "Jaylen Clark",
@@ -5237,8 +5253,7 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 4.9,
-     "source": "espn"
+     "ppg": 4.9
     }
    ],
    "away": [
@@ -5285,15 +5300,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jonathan Kuminga",
-     "mpg": 28.2,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 11.6
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5315,19 +5322,6 @@
      "ppg": 16.7,
      "rpg": 6.3,
      "apg": 3.7
-    },
-    {
-     "player": "Jonathan Kuminga",
-     "player_id": 1630228,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 30.4,
-     "ppg": 12.4,
-     "rpg": 5.6,
-     "apg": 2.8
     },
     {
      "player": "Rudy Gobert",
@@ -5372,7 +5366,7 @@
      "player": "Terrence Shannon Jr",
      "player_id": 1630545,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 11,
      "starts": 0,
      "start_rate": 0,
@@ -5406,6 +5400,19 @@
      "ppg": 5.5,
      "rpg": 6.1,
      "apg": 0.5
+    },
+    {
+     "player": "Bones Hyland",
+     "player_id": 1630538,
+     "position": "G",
+     "starter": false,
+     "games": 14,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.7,
+     "ppg": 9.6,
+     "rpg": 1.4,
+     "apg": 3.0
     }
    ],
    "away": [
@@ -5523,10 +5530,10 @@
   "data_through": "2026-11-16",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 6.27,
+   "expected_margin": 5.9,
    "win_prob": {
-    "home": 66.7,
-    "away": 33.3
+    "home": 65.8,
+    "away": 34.2
    }
   },
   "tip_et": "2026-11-17T20:00-05:00",
@@ -5545,6 +5552,12 @@
     "pick": "MIN",
     "prob": 57.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-17T14:03-05:00",
+    "pick": "MIN",
+    "prob": 56.0,
+    "reason": "Jonathan Kuminga (MIN) now out; Zyon Pullin (MIN) now out"
    }
   ]
  },
