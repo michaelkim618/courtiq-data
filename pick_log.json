@@ -26675,6 +26675,11 @@
   "2026-11-16_PHX@DEN": {
    "away": "PHX",
    "date": "2026-11-16",
+   "final_check": {
+    "at": "2026-11-16T20:47-05:00",
+    "label": "8:45 PM ET",
+    "report": "2026-11-16T20:45-05:00"
+   },
    "home": "DEN",
    "late": false,
    "locked_at": null,
