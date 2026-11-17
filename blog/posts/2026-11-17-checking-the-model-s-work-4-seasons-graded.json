@@ -1,0 +1,104 @@
+{
+  "slug": "2026-11-17-checking-the-model-s-work-4-seasons-graded",
+  "title": "Checking the Model's Work: 4 Seasons Graded",
+  "author": "Doc",
+  "author_emoji": "🧠",
+  "author_color": "#7C3AED",
+  "author_role": "Analytics Guru",
+  "date": "2026-11-17",
+  "type": "weekly",
+  "tag": "Analysis",
+  "tag_color": "#7C3AED",
+  "read_time": "5 min",
+  "summary": "The season-by-season accuracy trend across four graded seasons, plus the model's current probabilistic read on the games ahead.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Trend, Not Just the Number\n\n4 graded seasons on the board. The latest: 68.1% across 1321 games.\n\nThis isn't about cherry-picking a hot stretch or hanging our hat on a small sample. We're looking at a body of work now—four complete seasons of predictions, each one evaluated against actual outcomes. The most recent season delivered a 68.1% accuracy rate across 1321 games, which represents a meaningful sample size by any statistical standard. When you're working with predictive models, the temptation is always to tout the peak performance or highlight the best month. We're not doing that here. What matters is consistency across variance—different rosters, different rules implementations, different competitive landscapes season to season. The 68.1% figure is the latest data point in a progression that tells us more about the model's reliability than any single number in isolation ever could. Context is everything in analytics, and the context here is four years of iteration, refinement, and real-world testing against the most unpredictable league in professional sports."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "2022-2023",
+          "value": "62.1%"
+        },
+        {
+          "label": "2023-2024",
+          "value": "66.2%"
+        },
+        {
+          "label": "2024-2025",
+          "value": "66.7%"
+        },
+        {
+          "label": "2025-2026",
+          "value": "68.1%"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "Hit Rate by Season",
+      "data": [
+        {
+          "season": "2022-2023",
+          "hit_rate": 62.1
+        },
+        {
+          "season": "2023-2024",
+          "hit_rate": 66.2
+        },
+        {
+          "season": "2024-2025",
+          "hit_rate": 66.7
+        },
+        {
+          "season": "2025-2026",
+          "hit_rate": 68.1
+        }
+      ],
+      "x_key": "season",
+      "lines": [
+        {
+          "key": "hit_rate",
+          "color": "#7C3AED",
+          "label": "Hit Rate %"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "### What's Next\n\nThe model's current read on the upcoming slate:\n\nThis is where theory meets practice. We've established the historical performance, we've shown you the track record—now the question is whether that predictive power translates forward. The model has already ingested the latest data, recalibrated its priors, and generated probabilities for the games on the immediate horizon. These aren't projections made in a vacuum; they're informed by everything the system has learned across those 1321 previous contests, weighted by recency and adjusted for the specific matchup dynamics at play. We'll be tracking these predictions in real time, adding each result to the graded dataset, and continuing to refine the underlying framework. The upcoming slate is both a test and an opportunity—a chance to see whether the patterns that drove 68.1% accuracy last season continue to hold, or whether we're entering a new regime that demands further model adaptation."
+    },
+    {
+      "type": "table",
+      "title": "Upcoming",
+      "headers": [
+        "Matchup",
+        "Favored",
+        "Projected Margin"
+      ],
+      "rows": [
+        [
+          "NYK @ TOR",
+          "NYK, 60.5%",
+          "-3.8"
+        ],
+        [
+          "POR @ MIN",
+          "MIN, 55.4%",
+          "+1.9"
+        ],
+        [
+          "DET @ SAS",
+          "SAS, 63.3%",
+          "+4.8"
+        ]
+      ]
+    }
+  ],
+  "post_kind": "feature",
+  "editor_note": "Hit rates above are graded, closed-book results. Anything listed under \"What's Next\" is today's projection and will move before tip-off."
+}
