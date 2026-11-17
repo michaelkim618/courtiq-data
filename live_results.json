@@ -1626,6 +1626,14 @@
  {
   "date": "2026-11-16",
   "season": "2026-2027",
+  "away": "PHX",
+  "home": "DEN",
+  "conf": 76.7,
+  "correct": false
+ },
+ {
+  "date": "2026-11-16",
+  "season": "2026-2027",
   "away": "POR",
   "home": "MIN",
   "conf": 55.4,
