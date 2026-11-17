@@ -27195,6 +27195,38 @@
       "away": 44.6,
       "home": 55.4
      }
+    },
+    {
+     "at": "2026-11-17T13:48-05:00",
+     "expected_margin": 2.76,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jonathan Kuminga"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-17T13:45-05:00",
+     "win_prob": {
+      "away": 42.3,
+      "home": 57.7
+     }
     }
    ]
   },
@@ -27237,6 +27269,37 @@
      "win_prob": {
       "away": 30.8,
       "home": 69.2
+     }
+    },
+    {
+     "at": "2026-11-17T13:48-05:00",
+     "expected_margin": 7.05,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic",
+       "Jaxson Hayes"
+      ],
+      "home": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Yanic Konan Niederhauser",
+       "Bradley Beal"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-17T13:45-05:00",
+     "win_prob": {
+      "away": 30.9,
+      "home": 69.1
      }
     }
    ]
