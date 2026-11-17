@@ -1586,6 +1586,14 @@
  {
   "date": "2026-11-16",
   "season": "2026-2027",
+  "away": "HOU",
+  "home": "MIA",
+  "conf": 61.5,
+  "correct": false
+ },
+ {
+  "date": "2026-11-16",
+  "season": "2026-2027",
   "away": "MEM",
   "home": "WAS",
   "conf": 78.1,

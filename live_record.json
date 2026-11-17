@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T21:43-05:00",
+ "generated": "2026-11-16T22:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1892,13 +1892,13 @@
   },
   {
    "date": "2026-11-16",
-   "games": 3,
+   "games": 4,
    "wins": 2,
-   "losses": 1,
-   "pct": 66.7,
+   "losses": 2,
+   "pct": 50.0,
    "cum_wins": 138,
-   "cum_games": 200,
-   "cum_pct": 69.0,
+   "cum_games": 201,
+   "cum_pct": 68.7,
    "picks": [
     {
      "away": "CHI",
@@ -1906,6 +1906,14 @@
      "pick": "CLE",
      "prob": 66.3,
      "correct": true,
+     "updated": true
+    },
+    {
+     "away": "HOU",
+     "home": "MIA",
+     "pick": "HOU",
+     "prob": 61.5,
+     "correct": false,
      "updated": true
     },
     {
@@ -1928,10 +1936,10 @@
   }
  ],
  "total": {
-  "games": 200,
+  "games": 201,
   "wins": 138,
-  "losses": 62,
-  "pct": 69.0
+  "losses": 63,
+  "pct": 68.7
  },
  "unscored": 0
 }
