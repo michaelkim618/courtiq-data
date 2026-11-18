@@ -6145,18 +6145,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 76.0,
-   "away": 24.0
+   "home": 76.6,
+   "away": 23.4
   },
   "win_prob_band": {
-   "low": 76.0,
-   "high": 76.0,
+   "low": 76.6,
+   "high": 76.6,
    "gtd_count": 0
   },
-  "expected_margin": 9.98,
+  "expected_margin": 10.27,
   "expected_score": {
-   "home": 117.4,
-   "away": 107.5
+   "home": 117.6,
+   "away": 107.3
   },
   "margin_breakdown": [
    {
@@ -6181,8 +6181,8 @@
    },
    {
     "label": "Absences",
-    "points": -3.77,
-    "detail": "Los Angeles Lakers 2 out (64 min) costs 3.6 pts, Charlotte Hornets 2 out (58 min) adds 0.2 pts (the player model rates a team better when a low-rated player sits)"
+    "points": -3.48,
+    "detail": "Los Angeles Lakers 2 out (64 min) costs 3.6 pts, Charlotte Hornets 3 out (84 min) costs 0.1 pts"
    }
   ],
   "ratings": {
@@ -6235,6 +6235,15 @@
      "cost": -0.85,
      "no_minutes": false,
      "ppg": 17.9
+    },
+    {
+     "player": "Grayson Allen",
+     "mpg": 26.3,
+     "nth_out": 1,
+     "value": 3.3,
+     "cost": -0.69,
+     "no_minutes": false,
+     "ppg": 15.0
     },
     {
      "player": "Dennis Schroder",
@@ -6417,23 +6426,10 @@
      "apg": 3.0
     },
     {
-     "player": "Grayson Allen",
-     "player_id": 1628960,
-     "position": "G",
-     "starter": true,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 27.1,
-     "ppg": 14.9,
-     "rpg": 3.1,
-     "apg": 3.3
-    },
-    {
      "player": "Royce O'Neale",
      "player_id": 1626220,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 13,
      "starts": 0,
      "start_rate": 0,
@@ -6467,6 +6463,19 @@
      "ppg": 11.7,
      "rpg": 1.8,
      "apg": 3.2
+    },
+    {
+     "player": "Grant Williams",
+     "player_id": 1629684,
+     "position": "F",
+     "starter": false,
+     "games": 2,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.0,
+     "ppg": 11.0,
+     "rpg": 2.0,
+     "apg": 1.0
     }
    ]
   },
@@ -6478,10 +6487,10 @@
   "data_through": "2026-11-16",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 11.76,
+   "expected_margin": 12.45,
    "win_prob": {
-    "home": 79.1,
-    "away": 20.9
+    "home": 80.5,
+    "away": 19.5
    }
   },
   "tip_et": "2026-11-17T23:00-05:00",
@@ -6494,6 +6503,12 @@
     "pick": "LAL",
     "prob": 76.0,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-17T21:17-05:00",
+    "pick": "LAL",
+    "prob": 76.6,
+    "reason": "Grayson Allen (CHA) now out"
    }
   ]
  },

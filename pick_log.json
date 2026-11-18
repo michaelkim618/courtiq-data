@@ -27018,6 +27018,34 @@
       "away": 24.0,
       "home": 76.0
      }
+    },
+    {
+     "at": "2026-11-17T21:17-05:00",
+     "expected_margin": 10.27,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kon Knueppel",
+       "Grayson Allen",
+       "Dennis Schroder"
+      ],
+      "home": [
+       "Austin Reaves",
+       "Walker Kessler"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Grayson Allen (CHA) now out",
+     "report": "2026-11-17T21:15-05:00",
+     "win_prob": {
+      "away": 23.4,
+      "home": 76.6
+     }
     }
    ]
   },
