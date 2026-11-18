@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-18-around-the-league-brice-sensabaugh-scores-40-points-and-lead",
+      "title": "Around the League: Brice Sensabaugh scores 40 points and leads huge 4th quarter as Jazz…",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-11-18",
+      "type": "daily",
+      "tag": "Recap",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "A wire-style rundown of Tuesday night's action around the NBA, featuring Sensabaugh's 40-point eruption for Utah, a last-second Timberwolves win in Portland, and Detroit's upset of red-hot San Antonio.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-17-checking-the-model-s-work-4-seasons-graded",
       "title": "Checking the Model's Work: 4 Seasons Graded",
       "author": "Doc",
