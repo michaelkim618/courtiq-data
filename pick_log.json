@@ -27933,6 +27933,40 @@
       "away": 43.3,
       "home": 56.7
      }
+    },
+    {
+     "at": "2026-11-18T18:32-05:00",
+     "expected_margin": 2.91,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Santi Aldama"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody",
+       "Al Horford"
+      ],
+      "home": [
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Al Horford (GSW) now out; Draymond Green (GSW) cleared to play",
+     "report": "2026-11-18T18:30-05:00",
+     "win_prob": {
+      "away": 41.8,
+      "home": 58.2
+     }
     }
    ]
   },
@@ -28383,6 +28417,39 @@
      "win_prob": {
       "away": 53.4,
       "home": 46.6
+     }
+    },
+    {
+     "at": "2026-11-18T18:32-05:00",
+     "expected_margin": 2.6,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tyrese Maxey",
+       "Jaylen Brown",
+       "Dean Wade",
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Tyrese Maxey (PHI) now out; pick flipped to ORL",
+     "report": "2026-11-18T18:30-05:00",
+     "win_prob": {
+      "away": 42.7,
+      "home": 57.3
      }
     }
    ]

@@ -4193,18 +4193,18 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 46.6,
-   "away": 53.4
+   "home": 57.3,
+   "away": 42.7
   },
   "win_prob_band": {
-   "low": 46.6,
-   "high": 52.3,
-   "gtd_count": 1
+   "low": 57.3,
+   "high": 57.3,
+   "gtd_count": 0
   },
-  "expected_margin": -1.2,
+  "expected_margin": 2.6,
   "expected_score": {
-   "home": 111.5,
-   "away": 112.7
+   "home": 113.4,
+   "away": 110.8
   },
   "margin_breakdown": [
    {
@@ -4229,8 +4229,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.43,
-    "detail": "Orlando Magic 3 out (48 min), no change to the rotation, Philadelphia 76ers 5 out (102 min) adds 0.4 pts (the player model rates a team better when a low-rated player sits) · Izaiyah Nelson out all season, already baked into team rating"
+    "points": 3.37,
+    "detail": "Orlando Magic 3 out (48 min), no change to the rotation, Philadelphia 76ers 6 out (136 min) costs 3.4 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4293,6 +4293,15 @@
    ],
    "away": [
     {
+     "player": "Tyrese Maxey",
+     "mpg": 33.7,
+     "nth_out": 1,
+     "value": 9.6,
+     "cost": -2.01,
+     "no_minutes": false,
+     "ppg": 24.6
+    },
+    {
      "player": "Jaylen Brown",
      "mpg": 32.8,
      "nth_out": 1,
@@ -4341,15 +4350,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Tyrese Maxey",
-     "mpg": 33.7,
-     "value": 9.6,
-     "status": "Questionable",
-     "ppg": 24.6
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4465,19 +4466,6 @@
    ],
    "away": [
     {
-     "player": "Tyrese Maxey",
-     "player_id": 1630178,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 36.1,
-     "ppg": 26.5,
-     "rpg": 3.3,
-     "apg": 5.8
-    },
-    {
      "player": "VJ Edgecombe",
      "player_id": 1642845,
      "position": "G",
@@ -4533,7 +4521,7 @@
      "player": "Anfernee Simons",
      "player_id": 1629014,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 0,
      "start_rate": 0,
@@ -4572,16 +4560,16 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Philadelphia 76ers",
+  "model_winner": "Orlando Magic",
   "model_correct": null,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-17",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -1.63,
+   "expected_margin": 0.38,
    "win_prob": {
-    "home": 45.5,
-    "away": 54.5
+    "home": 51.0,
+    "away": 49.0
    }
   },
   "tip_et": "2026-11-18T19:00-05:00",
@@ -4612,6 +4600,12 @@
     "pick": "PHI",
     "prob": 53.4,
     "reason": "Dean Wade (PHI) now out"
+   },
+   {
+    "at": "2026-11-18T18:32-05:00",
+    "pick": "ORL",
+    "prob": 57.3,
+    "reason": "Tyrese Maxey (PHI) now out; pick flipped to ORL"
    }
   ]
  },
@@ -7115,18 +7109,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 56.7,
-   "away": 43.3
+   "home": 58.2,
+   "away": 41.8
   },
   "win_prob_band": {
-   "low": 55.9,
-   "high": 56.7,
-   "gtd_count": 2
+   "low": 57.3,
+   "high": 58.2,
+   "gtd_count": 1
   },
-  "expected_margin": 2.4,
+  "expected_margin": 2.91,
   "expected_score": {
-   "home": 115.1,
-   "away": 112.7
+   "home": 115.4,
+   "away": 112.5
   },
   "margin_breakdown": [
    {
@@ -7151,8 +7145,8 @@
    },
    {
     "label": "Absences",
-    "points": 4.07,
-    "detail": "Dallas Mavericks 1 out (20 min), no change to the rotation, Golden State Warriors 5 out (122 min) costs 4.1 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 4.58,
+    "detail": "Dallas Mavericks 1 out (20 min), no change to the rotation, Golden State Warriors 6 out (139 min) costs 4.6 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7248,6 +7242,15 @@
      "cost": -0.19,
      "no_minutes": false,
      "ppg": 12.2
+    },
+    {
+     "player": "Al Horford",
+     "mpg": 17.2,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 4.9
     }
    ]
   },
@@ -7261,15 +7264,7 @@
      "ppg": 13.5
     }
    ],
-   "away": [
-    {
-     "player": "Draymond Green",
-     "mpg": 24.1,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 3.4
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7520,6 +7515,12 @@
     "pick": "DAL",
     "prob": 56.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-18T18:32-05:00",
+    "pick": "DAL",
+    "prob": 58.2,
+    "reason": "Al Horford (GSW) now out; Draymond Green (GSW) cleared to play"
    }
   ]
  },
