@@ -1638,5 +1638,13 @@
   "home": "MIN",
   "conf": 55.4,
   "correct": true
+ },
+ {
+  "date": "2026-11-17",
+  "season": "2026-2027",
+  "away": "NYK",
+  "home": "TOR",
+  "conf": 60.5,
+  "correct": true
  }
 ]

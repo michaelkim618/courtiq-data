@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T23:32-05:00",
+ "generated": "2026-11-17T22:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1965,13 +1965,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-17",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 141,
+   "cum_games": 206,
+   "cum_pct": 68.4,
+   "picks": [
+    {
+     "away": "NYK",
+     "home": "TOR",
+     "pick": "NYK",
+     "prob": 60.5,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 205,
-  "wins": 140,
+  "games": 206,
+  "wins": 141,
   "losses": 65,
-  "pct": 68.3
+  "pct": 68.4
  },
  "unscored": 0
 }
