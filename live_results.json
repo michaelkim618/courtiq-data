@@ -1662,5 +1662,13 @@
   "home": "MIN",
   "conf": 58.4,
   "correct": true
+ },
+ {
+  "date": "2026-11-17",
+  "season": "2026-2027",
+  "away": "UTA",
+  "home": "LAC",
+  "conf": 69.1,
+  "correct": false
  }
 ]

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T22:47-05:00",
+ "generated": "2026-11-18T00:49-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -1968,13 +1968,13 @@
   },
   {
    "date": "2026-11-17",
-   "games": 3,
+   "games": 4,
    "wins": 2,
-   "losses": 1,
-   "pct": 66.7,
+   "losses": 2,
+   "pct": 50.0,
    "cum_wins": 142,
-   "cum_games": 208,
-   "cum_pct": 68.3,
+   "cum_games": 209,
+   "cum_pct": 67.9,
    "picks": [
     {
      "away": "DET",
@@ -1999,15 +1999,23 @@
      "prob": 58.4,
      "correct": true,
      "updated": true
+    },
+    {
+     "away": "UTA",
+     "home": "LAC",
+     "pick": "LAC",
+     "prob": 69.1,
+     "correct": false,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 208,
+  "games": 209,
   "wins": 142,
-  "losses": 66,
-  "pct": 68.3
+  "losses": 67,
+  "pct": 67.9
  },
  "unscored": 0
 }
