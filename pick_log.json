@@ -28037,6 +28037,34 @@
       "away": 80.7,
       "home": 19.3
      }
+    },
+    {
+     "at": "2026-11-18T18:17-05:00",
+     "expected_margin": -12.25,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Clint Capela"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Andrew Nembhard",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Amen Thompson (HOU) cleared to play",
+     "report": "2026-11-18T18:15-05:00",
+     "win_prob": {
+      "away": 80.7,
+      "home": 19.3
+     }
     }
    ]
   },
@@ -28116,6 +28144,38 @@
      "win_prob": {
       "away": 53.0,
       "home": 47.0
+     }
+    },
+    {
+     "at": "2026-11-18T18:17-05:00",
+     "expected_margin": -0.65,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Ty Jerome",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Peyton Watson",
+       "Jaylon Tyson",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Peyton Watson (CLE) now out; Sam Merrill (CLE) cleared to play",
+     "report": "2026-11-18T18:15-05:00",
+     "win_prob": {
+      "away": 51.8,
+      "home": 48.2
      }
     }
    ]
@@ -28289,6 +28349,40 @@
      "win_prob": {
       "away": 55.9,
       "home": 44.1
+     }
+    },
+    {
+     "at": "2026-11-18T18:17-05:00",
+     "expected_margin": -1.2,
+     "gtd": {
+      "away": [
+       "Tyrese Maxey"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Dean Wade",
+       "Dominick Barlow",
+       "Adem Bona",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Dean Wade (PHI) now out",
+     "report": "2026-11-18T18:15-05:00",
+     "win_prob": {
+      "away": 53.4,
+      "home": 46.6
      }
     }
    ]
