@@ -1642,9 +1642,25 @@
  {
   "date": "2026-11-17",
   "season": "2026-2027",
+  "away": "DET",
+  "home": "SAS",
+  "conf": 63.6,
+  "correct": false
+ },
+ {
+  "date": "2026-11-17",
+  "season": "2026-2027",
   "away": "NYK",
   "home": "TOR",
   "conf": 60.5,
+  "correct": true
+ },
+ {
+  "date": "2026-11-17",
+  "season": "2026-2027",
+  "away": "POR",
+  "home": "MIN",
+  "conf": 58.4,
   "correct": true
  }
 ]

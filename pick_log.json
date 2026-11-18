@@ -26985,6 +26985,11 @@
   "2026-11-17_CHA@LAL": {
    "away": "CHA",
    "date": "2026-11-17",
+   "final_check": {
+    "at": "2026-11-17T22:47-05:00",
+    "label": "10:45 PM ET",
+    "report": "2026-11-17T22:45-05:00"
+   },
    "home": "LAL",
    "late": false,
    "locked_at": null,
@@ -27060,6 +27065,13 @@
    "home": "SAS",
    "late": false,
    "locked_at": "2026-11-17T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 105,
+     "home": 93
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-17T20:00-05:00",
    "tip_known": true,
@@ -27234,6 +27246,13 @@
    "home": "MIN",
    "late": false,
    "locked_at": "2026-11-17T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 105,
+     "home": 106
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-17T20:00-05:00",
    "tip_known": true,
