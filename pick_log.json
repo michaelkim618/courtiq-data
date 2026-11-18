@@ -28007,6 +28007,36 @@
       "away": 80.6,
       "home": 19.4
      }
+    },
+    {
+     "at": "2026-11-18T17:32-05:00",
+     "expected_margin": -12.25,
+     "gtd": {
+      "away": [
+       "Amen Thompson"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Clint Capela"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Andrew Nembhard",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Andrew Nembhard (IND) now out",
+     "report": "2026-11-18T17:30-05:00",
+     "win_prob": {
+      "away": 80.7,
+      "home": 19.3
+     }
     }
    ]
   },

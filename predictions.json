@@ -3267,15 +3267,15 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 19.4,
-   "away": 80.6
+   "home": 19.3,
+   "away": 80.7
   },
   "win_prob_band": {
-   "low": 18.7,
-   "high": 19.4,
-   "gtd_count": 2
+   "low": 19.3,
+   "high": 19.3,
+   "gtd_count": 1
   },
-  "expected_margin": -12.18,
+  "expected_margin": -12.25,
   "expected_score": {
    "home": 107.3,
    "away": 119.5
@@ -3303,8 +3303,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.28,
-    "detail": "Indiana Pacers 3 out (65 min), no change to the rotation, Houston Rockets 1 out (16 min) costs 0.3 pts"
+    "points": 0.21,
+    "detail": "Indiana Pacers 4 out (95 min) costs 0.1 pts, Houston Rockets 1 out (16 min) costs 0.3 pts"
    }
   ],
   "ratings": {
@@ -3339,6 +3339,15 @@
      "ppg": 18.8
     },
     {
+     "player": "Andrew Nembhard",
+     "mpg": 30.1,
+     "nth_out": 1,
+     "value": 1.7,
+     "cost": -0.35,
+     "no_minutes": false,
+     "ppg": 15.1
+    },
+    {
      "player": "Ben Sheppard",
      "mpg": 21.2,
      "nth_out": 2,
@@ -3370,15 +3379,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Andrew Nembhard",
-     "mpg": 30.1,
-     "value": 1.7,
-     "status": "Questionable",
-     "ppg": 15.1
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Amen Thompson",
@@ -3396,19 +3397,6 @@
     "away": 15
    },
    "home": [
-    {
-     "player": "Andrew Nembhard",
-     "player_id": 1629614,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 33.3,
-     "ppg": 16.6,
-     "rpg": 2.3,
-     "apg": 7.7
-    },
     {
      "player": "Pascal Siakam",
      "player_id": 1627783,
@@ -3465,7 +3453,7 @@
      "player": "Jay Huff",
      "player_id": 1630643,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 12,
      "starts": 4,
      "start_rate": 33,
@@ -3499,6 +3487,19 @@
      "ppg": 9.4,
      "rpg": 3.8,
      "apg": 3.1
+    },
+    {
+     "player": "Obi Toppin",
+     "player_id": 1630167,
+     "position": "F",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 20.1,
+     "ppg": 11.7,
+     "rpg": 4.4,
+     "apg": 1.5
     }
    ],
    "away": [
@@ -3616,10 +3617,10 @@
   "data_through": "2026-11-17",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -8.99,
+   "expected_margin": -9.35,
    "win_prob": {
-    "home": 26.8,
-    "away": 73.2
+    "home": 26.0,
+    "away": 74.0
    }
   },
   "tip_et": "2026-11-18T19:00-05:00",
@@ -3638,6 +3639,12 @@
     "pick": "HOU",
     "prob": 80.6,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-18T17:32-05:00",
+    "pick": "HOU",
+    "prob": 80.7,
+    "reason": "Andrew Nembhard (IND) now out"
    }
   ]
  },
