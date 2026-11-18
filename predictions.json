@@ -7589,18 +7589,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 84.9,
-   "away": 15.1
+   "home": 81.5,
+   "away": 18.5
   },
   "win_prob_band": {
    "low": 81.5,
-   "high": 84.9,
-   "gtd_count": 3
+   "high": 81.5,
+   "gtd_count": 1
   },
-  "expected_margin": 14.57,
+  "expected_margin": 12.67,
   "expected_score": {
-   "home": 123.0,
-   "away": 108.5
+   "home": 122.1,
+   "away": 109.4
   },
   "margin_breakdown": [
    {
@@ -7625,8 +7625,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.51,
-    "detail": "Utah Jazz 3 out (76 min) costs 2.5 pts · Utah Jazz: official report not filed yet, ESPN injury list used"
+    "points": 0.61,
+    "detail": "Los Angeles Lakers 1 out (34 min) costs 1.9 pts, Utah Jazz 3 out (76 min) costs 2.5 pts"
    }
   ],
   "ratings": {
@@ -7650,7 +7650,17 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Austin Reaves",
+     "mpg": 34.2,
+     "nth_out": 1,
+     "value": 8.6,
+     "cost": -1.8,
+     "no_minutes": false,
+     "ppg": 23.8
+    }
+   ],
    "away": [
     {
      "player": "Jaren Jackson Jr.",
@@ -7659,8 +7669,7 @@
      "value": 4.0,
      "cost": -0.84,
      "no_minutes": false,
-     "ppg": 14.6,
-     "source": "espn"
+     "ppg": 14.6
     },
     {
      "player": "Lauri Markkanen",
@@ -7669,8 +7678,7 @@
      "value": 3.8,
      "cost": -0.8,
      "no_minutes": false,
-     "ppg": 15.8,
-     "source": "espn"
+     "ppg": 15.8
     },
     {
      "player": "Jusuf Nurkic",
@@ -7679,28 +7687,12 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 11.0,
-     "source": "espn"
+     "ppg": 11.0
     }
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Austin Reaves",
-     "mpg": 34.2,
-     "value": 8.6,
-     "status": "Questionable",
-     "ppg": 23.8
-    },
-    {
-     "player": "Walker Kessler",
-     "mpg": 29.8,
-     "value": 0.5,
-     "status": "Questionable",
-     "ppg": 13.7
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Jaxson Hayes",
@@ -7730,19 +7722,6 @@
      "ppg": 38.8,
      "rpg": 7.1,
      "apg": 7.7
-    },
-    {
-     "player": "Austin Reaves",
-     "player_id": 1630559,
-     "position": "G",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 35.3,
-     "ppg": 24.7,
-     "rpg": 3.3,
-     "apg": 4.7
     },
     {
      "player": "Walker Kessler",
@@ -7787,7 +7766,7 @@
      "player": "Quentin Grimes",
      "player_id": 1629656,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 13,
      "starts": 0,
      "start_rate": 0,
@@ -7821,6 +7800,19 @@
      "ppg": 9.9,
      "rpg": 4.2,
      "apg": 1.7
+    },
+    {
+     "player": "Collin Sexton",
+     "player_id": 1629012,
+     "position": "G",
+     "starter": false,
+     "games": 14,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.7,
+     "ppg": 10.6,
+     "rpg": 1.9,
+     "apg": 2.6
     }
    ],
    "away": [
@@ -7938,10 +7930,10 @@
   "data_through": "2026-11-17",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 14.57,
+   "expected_margin": 12.78,
    "win_prob": {
-    "home": 84.3,
-    "away": 15.7
+    "home": 81.1,
+    "away": 18.9
    }
   },
   "tip_et": "2026-11-18T22:00-05:00",
@@ -7966,6 +7958,12 @@
     "pick": "LAL",
     "prob": 84.9,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-18T17:02-05:00",
+    "pick": "LAL",
+    "prob": 81.5,
+    "reason": "Austin Reaves (LAL) now out; Walker Kessler (LAL) cleared to play"
    }
   ]
  },
@@ -8074,7 +8072,7 @@
   "win_prob_band": {
    "low": 31.3,
    "high": 31.3,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": -6.9,
   "expected_score": {
@@ -8161,22 +8159,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "De'Andre Hunter",
-     "mpg": 27.5,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 10.4
-    },
-    {
-     "player": "Precious Achiuwa",
-     "mpg": 25.8,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 10.5
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -8428,6 +8411,12 @@
     "pick": "PHX",
     "prob": 68.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-18T17:02-05:00",
+    "pick": "PHX",
+    "prob": 68.7,
+    "reason": "De'Andre Hunter (SAC) cleared to play; Precious Achiuwa (SAC) cleared to play"
    }
   ]
  }
