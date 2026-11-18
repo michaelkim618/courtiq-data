@@ -2797,7 +2797,7 @@
    {
     "label": "Absences",
     "points": -0.88,
-    "detail": "Cleveland Cavaliers 2 out (45 min) costs 0.5 pts, Memphis Grizzlies 4 out (75 min) adds 0.3 pts (the player model rates a team better when a low-rated player sits) · Richie Saunders out all season, already baked into team rating"
+    "detail": "Cleveland Cavaliers 2 out (45 min) costing 0.6 pts, Memphis Grizzlies 4 out (75 min) costing 3.1 pts · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3296,7 +3296,7 @@
    {
     "label": "Absences",
     "points": 0.31,
-    "detail": "Indiana Pacers 3 out (65 min), no change to the rotation, Houston Rockets 1 out (16 min) costs 0.3 pts"
+    "detail": "Indiana Pacers 3 out (65 min) costing 1.6 pts, Houston Rockets 1 out (16 min)"
    }
   ],
   "ratings": {
@@ -3763,7 +3763,7 @@
    {
     "label": "Absences",
     "points": -0.89,
-    "detail": "Milwaukee Bucks 1 out (16 min) adds 0.9 pts (the player model rates a team better when a low-rated player sits)"
+    "detail": "Milwaukee Bucks 1 out (16 min)"
    }
   ],
   "ratings": {
@@ -4194,7 +4194,7 @@
    {
     "label": "Absences",
     "points": -1.29,
-    "detail": "Orlando Magic 3 out (48 min), no change to the rotation, Philadelphia 76ers 4 out (78 min) adds 1.3 pts (the player model rates a team better when a low-rated player sits) · Izaiyah Nelson out all season, already baked into team rating"
+    "detail": "Orlando Magic 3 out (48 min) costing 2.0 pts, Philadelphia 76ers 4 out (78 min) costing 1.5 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4680,7 +4680,7 @@
    {
     "label": "Absences",
     "points": -1.83,
-    "detail": "Chicago Bulls 2 out (47 min) adds 1.8 pts (the player model rates a team better when a low-rated player sits)"
+    "detail": "Chicago Bulls 2 out (47 min) costing 1.0 pts"
    }
   ],
   "ratings": {
@@ -5112,7 +5112,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Toronto Raptors 1 out (31 min), no change to the rotation, Washington Wizards 3 out (52 min), no change to the rotation · Toronto Raptors: official report not filed yet, ESPN injury list used · Nate Bittle, Reece Beekman out all season, already baked into team rating"
+    "detail": "Toronto Raptors 1 out (31 min) costing 2.7 pts, Washington Wizards 3 out (52 min) costing 0.7 pts · Toronto Raptors: official report not filed yet, ESPN injury list used · Nate Bittle, Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5140,7 +5140,7 @@
     {
      "player": "Kawhi Leonard",
      "mpg": 30.9,
-     "nth_out": 2,
+     "nth_out": 3,
      "value": 12.9,
      "cost": -2.72,
      "no_minutes": false,
@@ -5150,7 +5150,7 @@
     {
      "player": "Nate Bittle",
      "mpg": 0.0,
-     "nth_out": 2,
+     "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": true,
@@ -5550,18 +5550,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 28.3,
-   "away": 71.7
+   "home": 32.1,
+   "away": 67.9
   },
   "win_prob_band": {
-   "low": 28.3,
-   "high": 28.3,
+   "low": 32.1,
+   "high": 32.1,
    "gtd_count": 0
   },
-  "expected_margin": -8.11,
+  "expected_margin": -6.58,
   "expected_score": {
-   "home": 109.7,
-   "away": 117.8
+   "home": 110.5,
+   "away": 117.1
   },
   "margin_breakdown": [
    {
@@ -5586,8 +5586,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.34,
-    "detail": "New Orleans Pelicans 5 out (101 min) adds 0.8 pts, Detroit Pistons 5 out (97 min) adds 0.5 pts (the player model rates a team better when a low-rated player sits) · Detroit Pistons: official report not filed yet, ESPN injury list used"
+    "points": 1.87,
+    "detail": "New Orleans Pelicans 5 out (101 min) costing 0.0 pts, Detroit Pistons 3 out (73 min) costing 2.1 pts · Detroit Pistons: official report not filed yet, ESPN injury list used"
    }
   ],
   "ratings": {
@@ -5687,26 +5687,6 @@
      "cost": -0.28,
      "no_minutes": false,
      "ppg": 9.0,
-     "source": "espn"
-    },
-    {
-     "player": "Ronald Holland II",
-     "mpg": 15.8,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 6.1,
-     "source": "espn"
-    },
-    {
-     "player": "Taurean Prince",
-     "mpg": 8.2,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 2.0,
      "source": "espn"
     }
    ]
@@ -5920,17 +5900,17 @@
      "apg": 0.5
     },
     {
-     "player": "Chaz Lanier",
-     "player_id": 1642404,
-     "position": "G",
+     "player": "Ronald Holland II",
+     "player_id": 1641842,
+     "position": "F",
      "starter": false,
-     "games": 5,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 7.7,
-     "ppg": 3.2,
-     "rpg": 0.6,
-     "apg": 0.2
+     "mpg": 15.9,
+     "ppg": 4.9,
+     "rpg": 3.8,
+     "apg": 1.8
     }
    ]
   },
@@ -5964,6 +5944,12 @@
     "pick": "DET",
     "prob": 71.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-18T11:32-05:00",
+    "pick": "DET",
+    "prob": 67.9,
+    "reason": "Ronald Holland II (DET) no longer out; Taurean Prince (DET) no longer out"
    }
   ]
  },
@@ -6103,7 +6089,7 @@
    {
     "label": "Absences",
     "points": -1.47,
-    "detail": "Oklahoma City Thunder 3 out (80 min), no change to the rotation, Atlanta Hawks 5 out (92 min) adds 1.5 pts (the player model rates a team better when a low-rated player sits) · Thomas Sorber, Henri Veesaar out all season, already baked into team rating"
+    "detail": "Oklahoma City Thunder 3 out (80 min) costing 1.9 pts, Atlanta Hawks 5 out (92 min) costing 0.8 pts · Thomas Sorber, Henri Veesaar out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6606,7 +6592,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Denver Nuggets 1 out (15 min), no change to the rotation"
+    "detail": "Denver Nuggets 1 out (15 min) costing 0.1 pts"
    }
   ],
   "ratings": {
@@ -7029,7 +7015,7 @@
    {
     "label": "Absences",
     "points": 4.07,
-    "detail": "Dallas Mavericks 1 out (20 min), no change to the rotation, Golden State Warriors 5 out (122 min) costs 4.1 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "detail": "Dallas Mavericks 1 out (20 min), Golden State Warriors 5 out (122 min) costing 6.3 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7493,18 +7479,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 83.2,
-   "away": 16.8
+   "home": 89.3,
+   "away": 10.7
   },
   "win_prob_band": {
-   "low": 83.2,
-   "high": 83.2,
-   "gtd_count": 0
+   "low": 86.6,
+   "high": 89.3,
+   "gtd_count": 3
   },
-  "expected_margin": 13.59,
+  "expected_margin": 17.53,
   "expected_score": {
-   "home": 122.6,
-   "away": 109.0
+   "home": 124.5,
+   "away": 107.0
   },
   "margin_breakdown": [
    {
@@ -7529,8 +7515,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.19,
-    "detail": "Los Angeles Lakers 2 out (64 min) costs 3.6 pts, Utah Jazz 4 out (100 min) costs 2.4 pts · Los Angeles Lakers and Utah Jazz: official report not filed yet, ESPN injury list used"
+    "points": 2.75,
+    "detail": "Utah Jazz 3 out (76 min) costing 1.6 pts · Utah Jazz: official report not filed yet, ESPN injury list used"
    }
   ],
   "ratings": {
@@ -7554,28 +7540,7 @@
    }
   },
   "absences": {
-   "home": [
-    {
-     "player": "Austin Reaves",
-     "mpg": 34.2,
-     "nth_out": 1,
-     "value": 8.6,
-     "cost": -1.8,
-     "no_minutes": false,
-     "ppg": 23.8,
-     "source": "espn"
-    },
-    {
-     "player": "Walker Kessler",
-     "mpg": 29.8,
-     "nth_out": 1,
-     "value": 0.5,
-     "cost": -0.1,
-     "no_minutes": false,
-     "ppg": 13.7,
-     "source": "espn"
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Jaren Jackson Jr.",
@@ -7606,22 +7571,35 @@
      "no_minutes": false,
      "ppg": 11.0,
      "source": "espn"
-    },
-    {
-     "player": "Jaxson Hayes",
-     "mpg": 23.2,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 8.0,
-     "source": "espn"
     }
    ]
   },
   "gtd": {
-   "home": [],
-   "away": []
+   "home": [
+    {
+     "player": "Austin Reaves",
+     "mpg": 34.2,
+     "value": 8.6,
+     "status": "Questionable",
+     "ppg": 23.8
+    },
+    {
+     "player": "Walker Kessler",
+     "mpg": 29.8,
+     "value": 0.5,
+     "status": "Questionable",
+     "ppg": 13.7
+    }
+   ],
+   "away": [
+    {
+     "player": "Jaxson Hayes",
+     "mpg": 23.2,
+     "value": 0.0,
+     "status": "Questionable",
+     "ppg": 8.0
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -7642,6 +7620,32 @@
      "ppg": 38.8,
      "rpg": 7.1,
      "apg": 7.7
+    },
+    {
+     "player": "Austin Reaves",
+     "player_id": 1630559,
+     "position": "G",
+     "starter": true,
+     "games": 12,
+     "starts": 12,
+     "start_rate": 100,
+     "mpg": 35.3,
+     "ppg": 24.7,
+     "rpg": 3.3,
+     "apg": 4.7
+    },
+    {
+     "player": "Walker Kessler",
+     "player_id": 1631117,
+     "position": "C",
+     "starter": true,
+     "games": 14,
+     "starts": 14,
+     "start_rate": 100,
+     "mpg": 30.9,
+     "ppg": 14.5,
+     "rpg": 10.9,
+     "apg": 1.9
     },
     {
      "player": "Matisse Thybulle",
@@ -7673,7 +7677,7 @@
      "player": "Quentin Grimes",
      "player_id": 1629656,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 13,
      "starts": 0,
      "start_rate": 0,
@@ -7686,7 +7690,7 @@
      "player": "Jake LaRavia",
      "player_id": 1631222,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 14,
      "starts": 0,
      "start_rate": 0,
@@ -7707,32 +7711,6 @@
      "ppg": 9.9,
      "rpg": 4.2,
      "apg": 1.7
-    },
-    {
-     "player": "Collin Sexton",
-     "player_id": 1629012,
-     "position": "G",
-     "starter": false,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.7,
-     "ppg": 10.6,
-     "rpg": 1.9,
-     "apg": 2.6
-    },
-    {
-     "player": "Jarred Vanderbilt",
-     "player_id": 1629020,
-     "position": "F",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 12.1,
-     "ppg": 2.2,
-     "rpg": 4.1,
-     "apg": 1.0
     }
    ],
    "away": [
@@ -7776,6 +7754,19 @@
      "apg": 2.1
     },
     {
+     "player": "Jaxson Hayes",
+     "player_id": 1629637,
+     "position": "C",
+     "starter": true,
+     "games": 12,
+     "starts": 4,
+     "start_rate": 33,
+     "mpg": 24.0,
+     "ppg": 8.8,
+     "rpg": 6.0,
+     "apg": 1.6
+    },
+    {
      "player": "Mo Bamba",
      "player_id": 1628964,
      "position": "C",
@@ -7792,7 +7783,7 @@
      "player": "Josh Okogie",
      "player_id": 1629006,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 14,
      "starts": 0,
      "start_rate": 0,
@@ -7826,19 +7817,6 @@
      "ppg": 10.5,
      "rpg": 3.7,
      "apg": 1.5
-    },
-    {
-     "player": "Svi Mykhailiuk",
-     "player_id": 1629004,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.9,
-     "ppg": 3.8,
-     "rpg": 1.9,
-     "apg": 1.4
     }
    ]
   },
@@ -7850,10 +7828,10 @@
   "data_through": "2026-11-17",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 13.46,
+   "expected_margin": 14.57,
    "win_prob": {
-    "home": 82.3,
-    "away": 17.7
+    "home": 84.3,
+    "away": 15.7
    }
   },
   "tip_et": "2026-11-18T22:00-05:00",
@@ -7866,6 +7844,12 @@
     "pick": "LAL",
     "prob": 83.2,
     "reason": "Opening pick"
+   },
+   {
+    "at": "2026-11-18T11:32-05:00",
+    "pick": "LAL",
+    "prob": 89.3,
+    "reason": "Jaxson Hayes (UTA) no longer out; Jaxson Hayes (UTA) now questionable; Austin Reaves (LAL) no longer out; Walker Kessler (LAL) no longer out; Austin Reaves (LAL) now questionable; Walker Kessler (LAL) now questionable"
    }
   ]
  },
@@ -8005,7 +7989,7 @@
    {
     "label": "Absences",
     "points": 0.0,
-    "detail": "Sacramento Kings 1 out (26 min), no change to the rotation, Phoenix Suns 1 out (24 min), no change to the rotation · Ben Simmons out all season, already baked into team rating"
+    "detail": "Sacramento Kings 1 out (26 min) costing 0.1 pts, Phoenix Suns 1 out (24 min) costing 0.2 pts · Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {

@@ -27706,6 +27706,37 @@
       "away": 71.7,
       "home": 28.3
      }
+    },
+    {
+     "at": "2026-11-18T11:32-05:00",
+     "expected_margin": -6.58,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Isaiah Joe"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Ronald Holland II (DET) no longer out; Taurean Prince (DET) no longer out",
+     "report": "2026-11-18T11:30-05:00",
+     "win_prob": {
+      "away": 67.9,
+      "home": 32.1
+     }
     }
    ]
   },
@@ -28003,6 +28034,36 @@
      "win_prob": {
       "away": 16.8,
       "home": 83.2
+     }
+    },
+    {
+     "at": "2026-11-18T11:32-05:00",
+     "expected_margin": 17.53,
+     "gtd": {
+      "away": [
+       "Jaxson Hayes"
+      ],
+      "home": [
+       "Austin Reaves",
+       "Walker Kessler"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic"
+      ],
+      "home": []
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Jaxson Hayes (UTA) no longer out; Jaxson Hayes (UTA) now questionable; Austin Reaves (LAL) no longer out; Walker Kessler (LAL) no longer out; Austin Reaves (LAL) now questionable; Walker Kessler (LAL) now questionable",
+     "report": "2026-11-18T11:30-05:00",
+     "win_prob": {
+      "away": 10.7,
+      "home": 89.3
      }
     }
    ]
