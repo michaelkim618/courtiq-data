@@ -26993,6 +26993,13 @@
    "home": "LAL",
    "late": false,
    "locked_at": "2026-11-17T23:00-05:00",
+   "result": {
+    "score": {
+     "away": 114,
+     "home": 118
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-17T23:00-05:00",
    "tip_known": true,
@@ -27666,6 +27673,39 @@
       "away": 77.4,
       "home": 22.6
      }
+    },
+    {
+     "at": "2026-11-18T04:43-05:00",
+     "expected_margin": -8.11,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Isaiah Joe",
+       "Ronald Holland II",
+       "Taurean Prince"
+      ],
+      "home": [
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-18T04:30-05:00",
+     "win_prob": {
+      "away": 71.7,
+      "home": 28.3
+     }
     }
    ]
   },
@@ -28004,6 +28044,35 @@
      "win_prob": {
       "away": 24.8,
       "home": 75.2
+     }
+    },
+    {
+     "at": "2026-11-18T04:43-05:00",
+     "expected_margin": 7.13,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Kawhi Leonard",
+       "Nate Bittle"
+      ]
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-18T04:30-05:00",
+     "win_prob": {
+      "away": 30.7,
+      "home": 69.3
      }
     }
    ]

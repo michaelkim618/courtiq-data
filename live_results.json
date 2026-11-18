@@ -1642,6 +1642,14 @@
  {
   "date": "2026-11-17",
   "season": "2026-2027",
+  "away": "CHA",
+  "home": "LAL",
+  "conf": 76.6,
+  "correct": true
+ },
+ {
+  "date": "2026-11-17",
+  "season": "2026-2027",
   "away": "DET",
   "home": "SAS",
   "conf": 63.6,
