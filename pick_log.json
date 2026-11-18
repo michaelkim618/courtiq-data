@@ -27102,7 +27102,7 @@
    },
    "home": "TOR",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-17T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-17T19:30-05:00",
    "tip_known": true,
@@ -27321,6 +27321,39 @@
      "win_prob": {
       "away": 44.0,
       "home": 56.0
+     }
+    },
+    {
+     "at": "2026-11-17T19:32-05:00",
+     "expected_margin": 3.01,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Deni Avdija",
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Zyon Pullin",
+       "Donte DiVincenzo",
+       "Jonathan Kuminga",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Deni Avdija (POR) now out",
+     "report": "2026-11-17T19:30-05:00",
+     "win_prob": {
+      "away": 41.6,
+      "home": 58.4
      }
     }
    ]
