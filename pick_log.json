@@ -29195,6 +29195,40 @@
       "away": 31.8,
       "home": 68.2
      }
+    },
+    {
+     "at": "2026-11-19T14:03-05:00",
+     "expected_margin": 3.56,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody",
+       "Draymond Green"
+      ],
+      "home": [
+       "Ty Jerome",
+       "GG Jackson",
+       "Zach Edey",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Draymond Green (GSW) now out; Zach Edey (MEM) now out",
+     "report": "2026-11-19T14:00-05:00",
+     "win_prob": {
+      "away": 40.1,
+      "home": 59.9
+     }
     }
    ]
   },
@@ -29587,6 +29621,40 @@
      "win_prob": {
       "away": 85.2,
       "home": 14.8
+     }
+    },
+    {
+     "at": "2026-11-19T14:03-05:00",
+     "expected_margin": -14.2,
+     "gtd": {
+      "away": [
+       "Deni Avdija",
+       "Toumani Camara"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Robert Williams III",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Myles Turner",
+       "Kyle Kuzma",
+       "Ousmane Dieng"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Kyle Kuzma (MIL) now out; Myles Turner (MIL) now out; Ryan Rollins (MIL) cleared to play",
+     "report": "2026-11-19T14:00-05:00",
+     "win_prob": {
+      "away": 84.3,
+      "home": 15.7
      }
     }
    ]

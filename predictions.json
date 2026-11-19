@@ -6912,18 +6912,18 @@
    "streak": -4
   },
   "win_prob": {
-   "home": 68.2,
-   "away": 31.8
+   "home": 59.9,
+   "away": 40.1
   },
   "win_prob_band": {
-   "low": 68.2,
-   "high": 68.2,
-   "gtd_count": 1
+   "low": 59.9,
+   "high": 59.9,
+   "gtd_count": 0
   },
-  "expected_margin": 6.68,
+  "expected_margin": 3.56,
   "expected_score": {
-   "home": 118.4,
-   "away": 111.7
+   "home": 116.8,
+   "away": 113.3
   },
   "margin_breakdown": [
    {
@@ -6948,8 +6948,8 @@
    },
    {
     "label": "Absences",
-    "points": 3.64,
-    "detail": "Memphis Grizzlies 3 out (58 min) costing 2.6 pts, Golden State Warriors 5 out (122 min) costing 6.3 pts · Memphis Grizzlies and Golden State Warriors: official report not filed yet, ESPN injury list used · Richie Saunders out all season, already baked into team rating"
+    "points": 0.52,
+    "detail": "Memphis Grizzlies 4 out (78 min) costing 2.6 pts, Golden State Warriors 6 out (146 min) costing 6.3 pts · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6981,8 +6981,7 @@
      "value": 11.1,
      "cost": -2.34,
      "no_minutes": false,
-     "ppg": 23.1,
-     "source": "espn"
+     "ppg": 23.1
     },
     {
      "player": "GG Jackson",
@@ -6991,8 +6990,16 @@
      "value": 1.5,
      "cost": -0.31,
      "no_minutes": false,
-     "ppg": 8.6,
-     "source": "espn"
+     "ppg": 8.6
+    },
+    {
+     "player": "Zach Edey",
+     "mpg": 19.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 8.6
     },
     {
      "player": "Scotty Pippen Jr.",
@@ -7001,8 +7008,7 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 6.2,
-     "source": "espn"
+     "ppg": 6.2
     },
     {
      "player": "Richie Saunders",
@@ -7010,8 +7016,7 @@
      "nth_out": 3,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ],
    "away": [
@@ -7022,8 +7027,7 @@
      "value": 13.2,
      "cost": -2.77,
      "no_minutes": false,
-     "ppg": 24.3,
-     "source": "espn"
+     "ppg": 24.3
     },
     {
      "player": "Jimmy Butler III",
@@ -7032,8 +7036,7 @@
      "value": 6.0,
      "cost": -1.27,
      "no_minutes": false,
-     "ppg": 19.5,
-     "source": "espn"
+     "ppg": 19.5
     },
     {
      "player": "Kristaps Porzingis",
@@ -7042,8 +7045,7 @@
      "value": 5.8,
      "cost": -1.22,
      "no_minutes": false,
-     "ppg": 16.4,
-     "source": "espn"
+     "ppg": 16.4
     },
     {
      "player": "Brandon Williams",
@@ -7052,8 +7054,7 @@
      "value": 3.9,
      "cost": -0.82,
      "no_minutes": false,
-     "ppg": 11.6,
-     "source": "espn"
+     "ppg": 11.6
     },
     {
      "player": "Moses Moody",
@@ -7062,22 +7063,22 @@
      "value": 0.9,
      "cost": -0.19,
      "no_minutes": false,
-     "ppg": 12.2,
-     "source": "espn"
+     "ppg": 12.2
+    },
+    {
+     "player": "Draymond Green",
+     "mpg": 24.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 3.3
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Draymond Green",
-     "mpg": 24.1,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 3.3
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7126,19 +7127,6 @@
      "apg": 1.5
     },
     {
-     "player": "Zach Edey",
-     "player_id": 1641744,
-     "position": "C",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 20.8,
-     "ppg": 9.2,
-     "rpg": 7.4,
-     "apg": 0.9
-    },
-    {
      "player": "Isaiah Stewart",
      "player_id": 1630191,
      "position": "F",
@@ -7155,7 +7143,7 @@
      "player": "Jerami Grant",
      "player_id": 203924,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 14,
      "starts": 0,
      "start_rate": 0,
@@ -7189,6 +7177,19 @@
      "ppg": 9.0,
      "rpg": 2.6,
      "apg": 5.4
+    },
+    {
+     "player": "Taylor Hendricks",
+     "player_id": 1641707,
+     "position": "F",
+     "starter": false,
+     "games": 10,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.3,
+     "ppg": 8.5,
+     "rpg": 3.6,
+     "apg": 0.9
     }
    ],
    "away": [
@@ -7217,19 +7218,6 @@
      "ppg": 20.3,
      "rpg": 7.3,
      "apg": 3.5
-    },
-    {
-     "player": "Draymond Green",
-     "player_id": 203110,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 25.6,
-     "ppg": 3.2,
-     "rpg": 4.7,
-     "apg": 6.5
     },
     {
      "player": "Gui Santos",
@@ -7261,7 +7249,7 @@
      "player": "Will Richard",
      "player_id": 1642954,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 14,
      "starts": 4,
      "start_rate": 29,
@@ -7295,6 +7283,19 @@
      "ppg": 7.5,
      "rpg": 3.0,
      "apg": 1.5
+    },
+    {
+     "player": "Al Horford",
+     "player_id": 201143,
+     "position": "C",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.9,
+     "ppg": 3.9,
+     "rpg": 3.8,
+     "apg": 1.8
     }
    ]
   },
@@ -7340,6 +7341,12 @@
     "pick": "MEM",
     "prob": 68.2,
     "reason": "Al Horford (GSW) no longer out; Draymond Green (GSW) now questionable; Isaiah Stewart (MEM) no longer out"
+   },
+   {
+    "at": "2026-11-19T14:03-05:00",
+    "pick": "MEM",
+    "prob": 59.9,
+    "reason": "Draymond Green (GSW) now out; Zach Edey (MEM) now out"
    }
   ]
  },
@@ -7442,18 +7449,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 14.8,
-   "away": 85.2
+   "home": 15.7,
+   "away": 84.3
   },
   "win_prob_band": {
-   "low": 14.4,
-   "high": 18.1,
-   "gtd_count": 3
+   "low": 15.7,
+   "high": 19.2,
+   "gtd_count": 2
   },
-  "expected_margin": -14.76,
+  "expected_margin": -14.2,
   "expected_score": {
-   "home": 106.8,
-   "away": 121.5
+   "home": 107.1,
+   "away": 121.3
   },
   "margin_breakdown": [
    {
@@ -7478,8 +7485,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.0,
-    "detail": "Milwaukee Bucks 1 out (16 min), Portland Trail Blazers 5 out (92 min) costing 2.2 pts · Milwaukee Bucks: official report not filed yet, ESPN injury list used"
+    "points": 1.56,
+    "detail": "Milwaukee Bucks 3 out (68 min), Portland Trail Blazers 5 out (92 min) costing 2.2 pts"
    }
   ],
   "ratings": {
@@ -7505,14 +7512,31 @@
   "absences": {
    "home": [
     {
+     "player": "Myles Turner",
+     "mpg": 25.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 7.9
+    },
+    {
+     "player": "Kyle Kuzma",
+     "mpg": 25.8,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 10.7
+    },
+    {
      "player": "Ousmane Dieng",
      "mpg": 16.0,
      "nth_out": 2,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 5.1,
-     "source": "espn"
+     "ppg": 5.1
     }
    ],
    "away": [
@@ -7564,15 +7588,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Ryan Rollins",
-     "mpg": 22.1,
-     "value": 1.1,
-     "status": "Questionable",
-     "ppg": 11.0
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Deni Avdija",
@@ -7624,32 +7640,6 @@
      "apg": 3.1
     },
     {
-     "player": "Kyle Kuzma",
-     "player_id": 1628398,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 27.2,
-     "ppg": 12.3,
-     "rpg": 5.3,
-     "apg": 2.4
-    },
-    {
-     "player": "Myles Turner",
-     "player_id": 1626167,
-     "position": "C",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 26.7,
-     "ppg": 7.1,
-     "rpg": 5.9,
-     "apg": 2.7
-    },
-    {
      "player": "Ryan Rollins",
      "player_id": 1631157,
      "position": "G",
@@ -7666,7 +7656,7 @@
      "player": "Brayden Burries",
      "player_id": 1643415,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 0,
      "start_rate": 0,
@@ -7679,7 +7669,7 @@
      "player": "Kasparas Jakučionis",
      "player_id": 1642857,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 14,
      "starts": 0,
      "start_rate": 0,
@@ -7700,6 +7690,32 @@
      "ppg": 8.7,
      "rpg": 6.5,
      "apg": 0.9
+    },
+    {
+     "player": "Nate Ament",
+     "player_id": 1643417,
+     "position": "F",
+     "starter": false,
+     "games": 13,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.5,
+     "ppg": 7.3,
+     "rpg": 2.7,
+     "apg": 0.6
+    },
+    {
+     "player": "AJ Green",
+     "player_id": 1631260,
+     "position": "G",
+     "starter": false,
+     "games": 15,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.4,
+     "ppg": 5.9,
+     "rpg": 1.3,
+     "apg": 1.3
     }
    ],
    "away": [
@@ -7851,6 +7867,12 @@
     "pick": "POR",
     "prob": 85.2,
     "reason": "Ryan Rollins (MIL) no longer out; Ryan Rollins (MIL) now questionable"
+   },
+   {
+    "at": "2026-11-19T14:03-05:00",
+    "pick": "POR",
+    "prob": 84.3,
+    "reason": "Kyle Kuzma (MIL) now out; Myles Turner (MIL) now out; Ryan Rollins (MIL) cleared to play"
    }
   ]
  },
