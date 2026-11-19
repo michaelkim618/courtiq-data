@@ -1678,5 +1678,13 @@
   "home": "LAC",
   "conf": 69.1,
   "correct": false
+ },
+ {
+  "date": "2026-11-18",
+  "season": "2026-2027",
+  "away": "HOU",
+  "home": "IND",
+  "conf": 80.7,
+  "correct": true
  }
 ]
