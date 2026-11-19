@@ -28216,6 +28216,13 @@
    "home": "CLE",
    "late": false,
    "locked_at": "2026-11-18T19:00-05:00",
+   "result": {
+    "score": {
+     "away": 124,
+     "home": 121
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-18T19:00-05:00",
    "tip_known": true,
@@ -28401,6 +28408,13 @@
    "home": "ORL",
    "late": false,
    "locked_at": "2026-11-18T19:00-05:00",
+   "result": {
+    "score": {
+     "away": 121,
+     "home": 116
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-18T19:00-05:00",
    "tip_known": true,
@@ -28575,6 +28589,11 @@
   "2026-11-18_PHX@SAC": {
    "away": "PHX",
    "date": "2026-11-18",
+   "final_check": {
+    "at": "2026-11-18T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-18T21:45-05:00"
+   },
    "home": "SAC",
    "late": false,
    "locked_at": null,
@@ -28671,6 +28690,11 @@
   "2026-11-18_UTA@LAL": {
    "away": "UTA",
    "date": "2026-11-18",
+   "final_check": {
+    "at": "2026-11-18T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-18T21:45-05:00"
+   },
    "home": "LAL",
    "late": false,
    "locked_at": null,

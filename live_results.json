@@ -1686,5 +1686,21 @@
   "home": "IND",
   "conf": 80.7,
   "correct": true
+ },
+ {
+  "date": "2026-11-18",
+  "season": "2026-2027",
+  "away": "MEM",
+  "home": "CLE",
+  "conf": 51.8,
+  "correct": true
+ },
+ {
+  "date": "2026-11-18",
+  "season": "2026-2027",
+  "away": "PHI",
+  "home": "ORL",
+  "conf": 57.3,
+  "correct": false
  }
 ]
