@@ -7109,18 +7109,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 58.2,
-   "away": 41.8
+   "home": 58.7,
+   "away": 41.3
   },
   "win_prob_band": {
-   "low": 57.3,
-   "high": 58.2,
-   "gtd_count": 1
+   "low": 58.7,
+   "high": 58.7,
+   "gtd_count": 0
   },
-  "expected_margin": 2.91,
+  "expected_margin": 3.11,
   "expected_score": {
-   "home": 115.4,
-   "away": 112.5
+   "home": 115.5,
+   "away": 112.4
   },
   "margin_breakdown": [
    {
@@ -7145,8 +7145,8 @@
    },
    {
     "label": "Absences",
-    "points": 4.58,
-    "detail": "Dallas Mavericks 1 out (20 min), no change to the rotation, Golden State Warriors 6 out (139 min) costs 4.6 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 4.78,
+    "detail": "Dallas Mavericks 2 out (28 min) adds 0.2 pts, Golden State Warriors 6 out (139 min) costs 4.6 pts (the player model rates a team better when a low-rated player sits) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7171,6 +7171,15 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Tobi Lawal",
+     "mpg": 7.8,
+     "nth_out": 1,
+     "value": 0.4,
+     "cost": -0.09,
+     "no_minutes": false,
+     "ppg": 3.9
+    },
     {
      "player": "Sergio de Larrea",
      "mpg": 20.4,
@@ -7255,15 +7264,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Santi Aldama",
-     "mpg": 27.2,
-     "value": 1.4,
-     "status": "Probable",
-     "ppg": 13.5
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -7493,10 +7494,10 @@
   "data_through": "2026-11-17",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 5.41,
+   "expected_margin": 5.32,
    "win_prob": {
-    "home": 64.6,
-    "away": 35.4
+    "home": 64.3,
+    "away": 35.7
    }
   },
   "tip_et": "2026-11-18T20:00-05:00",
@@ -7521,6 +7522,12 @@
     "pick": "DAL",
     "prob": 58.2,
     "reason": "Al Horford (GSW) now out; Draymond Green (GSW) cleared to play"
+   },
+   {
+    "at": "2026-11-18T19:02-05:00",
+    "pick": "DAL",
+    "prob": 58.7,
+    "reason": "Tobi Lawal (DAL) now out; Santi Aldama (DAL) cleared to play"
    }
   ]
  },
