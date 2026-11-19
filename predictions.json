@@ -6912,34 +6912,34 @@
    "streak": -4
   },
   "win_prob": {
-   "home": 59.9,
-   "away": 40.1
+   "home": 62.7,
+   "away": 37.3
   },
   "win_prob_band": {
-   "low": 59.9,
-   "high": 59.9,
+   "low": 62.7,
+   "high": 62.7,
    "gtd_count": 0
   },
-  "expected_margin": 3.56,
+  "expected_margin": 4.58,
   "expected_score": {
-   "home": 116.8,
-   "away": 113.3
+   "home": 117.3,
+   "away": 112.7
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 0.14,
+    "points": 1.41,
     "detail": "Memphis Grizzlies vs Golden State Warriors: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.3,
+    "points": 1.21,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 1.6,
-    "detail": "Memphis Grizzlies +9.4 vs Golden State Warriors +2.3 points per game so far, weighted by games played"
+    "points": 1.91,
+    "detail": "Memphis Grizzlies +9.0 vs Golden State Warriors +0.7 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -6948,8 +6948,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.52,
-    "detail": "Memphis Grizzlies 4 out (78 min) costing 2.6 pts, Golden State Warriors 6 out (146 min) costing 6.3 pts · Richie Saunders out all season, already baked into team rating"
+    "points": 0.05,
+    "detail": "Memphis Grizzlies 4 out (78 min) costs 2.9 pts, Golden State Warriors 6 out (146 min) costs 2.9 pts · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7347,6 +7347,12 @@
     "pick": "MEM",
     "prob": 59.9,
     "reason": "Draymond Green (GSW) now out; Zach Edey (MEM) now out"
+   },
+   {
+    "at": "2026-11-19T16:02-05:00",
+    "pick": "MEM",
+    "prob": 62.7,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -7449,34 +7455,34 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 15.7,
-   "away": 84.3
+   "home": 16.1,
+   "away": 83.9
   },
   "win_prob_band": {
-   "low": 15.7,
-   "high": 19.2,
+   "low": 16.1,
+   "high": 19.6,
    "gtd_count": 2
   },
-  "expected_margin": -14.2,
+  "expected_margin": -13.99,
   "expected_score": {
-   "home": 107.1,
-   "away": 121.3
+   "home": 107.2,
+   "away": 121.2
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -10.13,
+    "points": -9.44,
     "detail": "Milwaukee Bucks vs Portland Trail Blazers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.3,
+    "points": 1.21,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": -4.43,
-    "detail": "Milwaukee Bucks -13.6 vs Portland Trail Blazers +6.8 points per game so far, weighted by games played"
+    "points": -4.33,
+    "detail": "Milwaukee Bucks -13.1 vs Portland Trail Blazers +6.2 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -7485,8 +7491,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.56,
-    "detail": "Milwaukee Bucks 3 out (68 min), Portland Trail Blazers 5 out (92 min) costing 2.2 pts"
+    "points": 1.07,
+    "detail": "Milwaukee Bucks 3 out (68 min) adds 1.5 pts, Portland Trail Blazers 5 out (92 min) adds 0.4 pts (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -7873,6 +7879,12 @@
     "pick": "POR",
     "prob": 84.3,
     "reason": "Kyle Kuzma (MIL) now out; Myles Turner (MIL) now out; Ryan Rollins (MIL) cleared to play"
+   },
+   {
+    "at": "2026-11-19T16:02-05:00",
+    "pick": "POR",
+    "prob": 83.9,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -7975,34 +7987,34 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 57.4,
-   "away": 42.6
+   "home": 56.0,
+   "away": 44.0
   },
   "win_prob_band": {
-   "low": 57.4,
-   "high": 57.4,
+   "low": 56.0,
+   "high": 56.0,
    "gtd_count": 1
   },
-  "expected_margin": 2.64,
+  "expected_margin": 2.15,
   "expected_score": {
-   "home": 111.9,
-   "away": 109.2
+   "home": 111.6,
+   "away": 109.5
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 0.0,
+    "points": -0.25,
     "detail": "Minnesota Timberwolves vs New York Knicks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.3,
+    "points": 1.21,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 1.19,
-    "detail": "Minnesota Timberwolves +11.4 vs New York Knicks +5.9 points per game so far, weighted by games played"
+    "points": 1.01,
+    "detail": "Minnesota Timberwolves +10.7 vs New York Knicks +6.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -8011,8 +8023,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.15,
-    "detail": "Minnesota Timberwolves 3 out (70 min) costing 2.5 pts"
+    "points": 0.18,
+    "detail": "Minnesota Timberwolves 3 out (70 min) adds 0.2 pts (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -8340,6 +8352,12 @@
     "pick": "MIN",
     "prob": 57.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-19T16:02-05:00",
+    "pick": "MIN",
+    "prob": 56.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -8442,34 +8460,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 80.6,
-   "away": 19.4
+   "home": 81.6,
+   "away": 18.4
   },
   "win_prob_band": {
-   "low": 80.6,
-   "high": 80.6,
+   "low": 81.6,
+   "high": 81.6,
    "gtd_count": 0
   },
-  "expected_margin": 12.18,
+  "expected_margin": 12.72,
   "expected_score": {
-   "home": 118.8,
-   "away": 106.6
+   "home": 119.0,
+   "away": 106.3
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 9.04,
+    "points": 9.8,
     "detail": "San Antonio Spurs vs LA Clippers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.3,
+    "points": 1.21,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 3.6,
-    "detail": "San Antonio Spurs +12.9 vs LA Clippers -4.2 points per game so far, weighted by games played"
+    "points": 3.7,
+    "detail": "San Antonio Spurs +11.2 vs LA Clippers -5.8 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -8478,8 +8496,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.76,
-    "detail": "San Antonio Spurs 2 out (58 min) costing 1.2 pts, LA Clippers 2 out (54 min) costing 1.3 pts · Jayden Quaintance, Bradley Beal out all season, already baked into team rating"
+    "points": -1.99,
+    "detail": "San Antonio Spurs 2 out (58 min) costs 2.0 pts, LA Clippers 2 out (54 min), no change to the rotation · Jayden Quaintance, Bradley Beal out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -8824,6 +8842,12 @@
     "at": "2026-11-19T10:33-05:00",
     "pick": "SAS",
     "prob": 80.6,
+    "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-19T16:02-05:00",
+    "pick": "SAS",
+    "prob": 81.6,
     "reason": "win probability moved with the latest report"
    }
   ]
