@@ -29093,6 +29093,40 @@
       "away": 28.5,
       "home": 71.5
      }
+    },
+    {
+     "at": "2026-11-19T01:33-05:00",
+     "expected_margin": 7.97,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody",
+       "Al Horford"
+      ],
+      "home": [
+       "Ty Jerome",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-19T01:30-05:00",
+     "win_prob": {
+      "away": 28.6,
+      "home": 71.4
+     }
     }
    ]
   },
@@ -29134,6 +29168,35 @@
       "away": 18.5,
       "home": 81.5
      }
+    },
+    {
+     "at": "2026-11-19T01:33-05:00",
+     "expected_margin": 12.18,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Dylan Harper",
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-19T01:30-05:00",
+     "win_prob": {
+      "away": 19.4,
+      "home": 80.6
+     }
     }
    ]
   },
@@ -29172,6 +29235,33 @@
      "win_prob": {
       "away": 43.8,
       "home": 56.2
+     }
+    },
+    {
+     "at": "2026-11-19T01:33-05:00",
+     "expected_margin": 2.64,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jonathan Kuminga"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-19T01:30-05:00",
+     "win_prob": {
+      "away": 42.6,
+      "home": 57.4
      }
     }
    ]
@@ -29217,6 +29307,39 @@
      "win_prob": {
       "away": 87.1,
       "home": 12.9
+     }
+    },
+    {
+     "at": "2026-11-19T01:33-05:00",
+     "expected_margin": -13.72,
+     "gtd": {
+      "away": [
+       "Deni Avdija",
+       "Toumani Camara"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Robert Williams III",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Ryan Rollins",
+       "Ousmane Dieng"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-19T01:30-05:00",
+     "win_prob": {
+      "away": 83.4,
+      "home": 16.6
      }
     }
    ]
