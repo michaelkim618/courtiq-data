@@ -7643,7 +7643,7 @@
   "win_prob_band": {
    "low": 81.5,
    "high": 81.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 12.67,
   "expected_score": {
@@ -7741,15 +7741,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jaxson Hayes",
-     "mpg": 23.2,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 8.0
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -8012,6 +8004,12 @@
     "pick": "LAL",
     "prob": 81.5,
     "reason": "Austin Reaves (LAL) now out; Walker Kessler (LAL) cleared to play"
+   },
+   {
+    "at": "2026-11-18T21:02-05:00",
+    "pick": "LAL",
+    "prob": 81.5,
+    "reason": "Jaxson Hayes (UTA) cleared to play"
    }
   ]
  },
