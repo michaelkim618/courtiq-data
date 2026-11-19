@@ -1690,6 +1690,14 @@
  {
   "date": "2026-11-18",
   "season": "2026-2027",
+  "away": "BOS",
+  "home": "DEN",
+  "conf": 57.2,
+  "correct": false
+ },
+ {
+  "date": "2026-11-18",
+  "season": "2026-2027",
   "away": "CHI",
   "home": "BKN",
   "conf": 55.0,

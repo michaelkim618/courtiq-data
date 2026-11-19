@@ -27616,6 +27616,13 @@
    "home": "DEN",
    "late": false,
    "locked_at": "2026-11-18T21:30-05:00",
+   "result": {
+    "score": {
+     "away": 101,
+     "home": 105
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-18T21:30-05:00",
    "tip_known": true,
@@ -29025,6 +29032,177 @@
      "win_prob": {
       "away": 36.1,
       "home": 63.9
+     }
+    }
+   ]
+  },
+  "2026-11-19_GSW@MEM": {
+   "away": "GSW",
+   "date": "2026-11-19",
+   "home": "MEM",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-19T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-19T00:17-05:00",
+     "expected_margin": 8.03,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody",
+       "Al Horford"
+      ],
+      "home": [
+       "Ty Jerome",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Opening pick",
+     "report": "2026-11-19T00:15-05:00",
+     "win_prob": {
+      "away": 28.5,
+      "home": 71.5
+     }
+    }
+   ]
+  },
+  "2026-11-19_LAC@SAS": {
+   "away": "LAC",
+   "date": "2026-11-19",
+   "home": "SAS",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-19T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-19T00:17-05:00",
+     "expected_margin": 12.66,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Brandon Ingram",
+       "Jordan Miller",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Dylan Harper",
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Opening pick",
+     "report": "2026-11-19T00:15-05:00",
+     "win_prob": {
+      "away": 18.5,
+      "home": 81.5
+     }
+    }
+   ]
+  },
+  "2026-11-19_NYK@MIN": {
+   "away": "NYK",
+   "date": "2026-11-19",
+   "home": "MIN",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-19T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-19T00:17-05:00",
+     "expected_margin": 2.2,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jonathan Kuminga"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Opening pick",
+     "report": "2026-11-19T00:15-05:00",
+     "win_prob": {
+      "away": 43.8,
+      "home": 56.2
+     }
+    }
+   ]
+  },
+  "2026-11-19_POR@MIL": {
+   "away": "POR",
+   "date": "2026-11-19",
+   "home": "MIL",
+   "late": false,
+   "locked_at": null,
+   "season": "2026-2027",
+   "tip_et": "2026-11-19T20:00-05:00",
+   "tip_known": true,
+   "versions": [
+    {
+     "at": "2026-11-19T00:17-05:00",
+     "expected_margin": -15.98,
+     "gtd": {
+      "away": [
+       "Deni Avdija",
+       "Toumani Camara"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Robert Williams III",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Ryan Rollins",
+       "Ousmane Dieng"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Opening pick",
+     "report": "2026-11-19T00:15-05:00",
+     "win_prob": {
+      "away": 87.1,
+      "home": 12.9
      }
     }
    ]
