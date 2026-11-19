@@ -1682,6 +1682,14 @@
  {
   "date": "2026-11-18",
   "season": "2026-2027",
+  "away": "CHI",
+  "home": "BKN",
+  "conf": 55.0,
+  "correct": false
+ },
+ {
+  "date": "2026-11-18",
+  "season": "2026-2027",
   "away": "HOU",
   "home": "IND",
   "conf": 80.7,
@@ -1698,9 +1706,25 @@
  {
   "date": "2026-11-18",
   "season": "2026-2027",
+  "away": "MIL",
+  "home": "MIA",
+  "conf": 82.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-18",
+  "season": "2026-2027",
   "away": "PHI",
   "home": "ORL",
   "conf": 57.3,
+  "correct": false
+ },
+ {
+  "date": "2026-11-18",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "TOR",
+  "conf": 63.9,
   "correct": false
  }
 ]
