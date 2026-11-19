@@ -27654,6 +27654,11 @@
   "2026-11-18_CHI@BKN": {
    "away": "CHI",
    "date": "2026-11-18",
+   "final_check": {
+    "at": "2026-11-18T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-18T19:15-05:00"
+   },
    "home": "BKN",
    "late": false,
    "locked_at": null,
@@ -28736,6 +28741,11 @@
   "2026-11-18_WAS@TOR": {
    "away": "WAS",
    "date": "2026-11-18",
+   "final_check": {
+    "at": "2026-11-18T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-18T19:15-05:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,
