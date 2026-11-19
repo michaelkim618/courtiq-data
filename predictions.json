@@ -5649,18 +5649,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 25.7,
-   "away": 74.3
+   "home": 30.3,
+   "away": 69.7
   },
   "win_prob_band": {
-   "low": 25.7,
-   "high": 30.1,
-   "gtd_count": 1
+   "low": 30.3,
+   "high": 30.3,
+   "gtd_count": 0
   },
-  "expected_margin": -9.24,
+  "expected_margin": -7.29,
   "expected_score": {
-   "home": 109.2,
-   "away": 118.4
+   "home": 110.1,
+   "away": 117.4
   },
   "margin_breakdown": [
    {
@@ -5685,8 +5685,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.14,
-    "detail": "New Orleans Pelicans 5 out (101 min) adds 0.8 pts, Detroit Pistons 4 out (80 min) adds 0.9 pts (the player model rates a team better when a low-rated player sits)"
+    "points": 1.81,
+    "detail": "New Orleans Pelicans 5 out (101 min) adds 0.8 pts, Detroit Pistons 5 out (112 min) costs 1.0 pts (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -5759,6 +5759,15 @@
    ],
    "away": [
     {
+     "player": "Cade Cunningham",
+     "mpg": 32.3,
+     "nth_out": 1,
+     "value": 8.9,
+     "cost": -1.88,
+     "no_minutes": false,
+     "ppg": 23.3
+    },
+    {
      "player": "Jalen Duren",
      "mpg": 27.5,
      "nth_out": 1,
@@ -5798,15 +5807,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Cade Cunningham",
-     "mpg": 32.3,
-     "value": 8.9,
-     "status": "Questionable",
-     "ppg": 23.3
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5922,19 +5923,6 @@
    ],
    "away": [
     {
-     "player": "Cade Cunningham",
-     "player_id": 1630595,
-     "position": "G",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 35.0,
-     "ppg": 25.8,
-     "rpg": 5.2,
-     "apg": 7.8
-    },
-    {
      "player": "Ausar Thompson",
      "player_id": 1641709,
      "position": "G",
@@ -5990,7 +5978,7 @@
      "player": "Kevin Huerter",
      "player_id": 1628989,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 13,
      "starts": 0,
      "start_rate": 0,
@@ -6024,6 +6012,19 @@
      "ppg": 7.3,
      "rpg": 1.7,
      "apg": 1.0
+    },
+    {
+     "player": "Chaz Lanier",
+     "player_id": 1642404,
+     "position": "G",
+     "starter": false,
+     "games": 5,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 7.7,
+     "ppg": 3.2,
+     "rpg": 0.6,
+     "apg": 0.2
     }
    ]
   },
@@ -6035,10 +6036,10 @@
   "data_through": "2026-11-17",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -3.72,
+   "expected_margin": -1.84,
    "win_prob": {
-    "home": 39.9,
-    "away": 60.1
+    "home": 45.0,
+    "away": 55.0
    }
   },
   "tip_et": "2026-11-18T20:00-05:00",
@@ -6069,6 +6070,12 @@
     "pick": "DET",
     "prob": 74.3,
     "reason": "Ronald Holland II (DET) now out; Taurean Prince (DET) now out; Isaiah Joe (DET) no longer out; Cade Cunningham (DET) now questionable"
+   },
+   {
+    "at": "2026-11-18T19:32-05:00",
+    "pick": "DET",
+    "prob": 69.7,
+    "reason": "Cade Cunningham (DET) now out"
    }
   ]
  },
