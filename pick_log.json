@@ -27518,6 +27518,11 @@
   "2026-11-18_ATL@OKC": {
    "away": "ATL",
    "date": "2026-11-18",
+   "final_check": {
+    "at": "2026-11-18T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-18T19:45-05:00"
+   },
    "home": "OKC",
    "late": false,
    "locked_at": null,
@@ -27719,6 +27724,11 @@
   "2026-11-18_DET@NOP": {
    "away": "DET",
    "date": "2026-11-18",
+   "final_check": {
+    "at": "2026-11-18T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-18T19:45-05:00"
+   },
    "home": "NOP",
    "late": false,
    "locked_at": null,
@@ -27895,6 +27905,11 @@
   "2026-11-18_GSW@DAL": {
    "away": "GSW",
    "date": "2026-11-18",
+   "final_check": {
+    "at": "2026-11-18T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-18T19:45-05:00"
+   },
    "home": "DAL",
    "late": false,
    "locked_at": null,
