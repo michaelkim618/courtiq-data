@@ -30821,6 +30821,35 @@
       "away": 16.5,
       "home": 83.5
      }
+    },
+    {
+     "at": "2026-11-20T16:55-05:00",
+     "expected_margin": 13.79,
+     "gtd": {
+      "away": [
+       "De'Andre Hunter"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Precious Achiuwa",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Austin Reaves"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "Precious Achiuwa (SAC) now out",
+     "report": "2026-11-20T16:45-05:00",
+     "win_prob": {
+      "away": 16.5,
+      "home": 83.5
+     }
     }
    ]
   },
