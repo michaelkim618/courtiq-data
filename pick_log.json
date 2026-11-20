@@ -30334,6 +30334,37 @@
       "away": 34.8,
       "home": 65.2
      }
+    },
+    {
+     "at": "2026-11-20T18:17-05:00",
+     "expected_margin": 5.52,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Peyton Watson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Jaylon Tyson",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Andrew Nembhard (IND) cleared to play",
+     "report": "2026-11-20T18:15-05:00",
+     "win_prob": {
+      "away": 34.8,
+      "home": 65.2
+     }
     }
    ]
   },
@@ -30481,6 +30512,41 @@
      "win_prob": {
       "away": 19.8,
       "home": 80.2
+     }
+    },
+    {
+     "at": "2026-11-20T18:17-05:00",
+     "expected_margin": 10.14,
+     "gtd": {
+      "away": [
+       "Trey Murphy III"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Alex Caruso (OKC) now out",
+     "report": "2026-11-20T18:15-05:00",
+     "win_prob": {
+      "away": 23.6,
+      "home": 76.4
      }
     }
    ]
