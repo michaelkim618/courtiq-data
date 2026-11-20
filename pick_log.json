@@ -29931,6 +29931,40 @@
       "away": 30.5,
       "home": 69.5
      }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": 7.44,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Kingston Flemings"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kon Knueppel",
+       "Grayson Allen",
+       "Dennis Schroder",
+       "Grant Williams"
+      ],
+      "home": [
+       "CJ McCollum",
+       "Asa Newell",
+       "Jock Landale",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 29.9,
+      "home": 70.1
+     }
     }
    ]
   },
@@ -29970,6 +30004,34 @@
      "win_prob": {
       "away": 59.7,
       "home": 40.3
+     }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": -3.07,
+     "gtd": {
+      "away": [
+       "Alperen Sengun",
+       "Steven Adams"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Clint Capela"
+      ],
+      "home": [
+       "Julian Strawther"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 58.6,
+      "home": 41.4
      }
     }
    ]
@@ -30015,6 +30077,39 @@
      "win_prob": {
       "away": 33.9,
       "home": 66.1
+     }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": 5.51,
+     "gtd": {
+      "away": [
+       "Andrew Nembhard"
+      ],
+      "home": [
+       "Peyton Watson"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Jaylon Tyson",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 34.8,
+      "home": 65.2
      }
     }
    ]
@@ -30062,6 +30157,40 @@
       "away": 19.0,
       "home": 81.0
      }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": 11.94,
+     "gtd": {
+      "away": [
+       "Trey Murphy III"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 19.9,
+      "home": 80.1
+     }
     }
    ]
   },
@@ -30102,6 +30231,34 @@
       "away": 60.8,
       "home": 39.2
      }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": -4.77,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Grant Nelson"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 63.2,
+      "home": 36.8
+     }
     }
    ]
   },
@@ -30140,6 +30297,33 @@
      "win_prob": {
       "away": 69.4,
       "home": 30.6
+     }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": -5.01,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 63.9,
+      "home": 36.1
      }
     }
    ]
@@ -30181,6 +30365,35 @@
      "win_prob": {
       "away": 14.0,
       "home": 86.0
+     }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": 13.8,
+     "gtd": {
+      "away": [
+       "De'Andre Hunter",
+       "Precious Achiuwa"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Austin Reaves"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 16.4,
+      "home": 83.6
      }
     }
    ]
@@ -30227,6 +30440,39 @@
       "away": 28.0,
       "home": 72.0
      }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": 9.97,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Cade Cunningham"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "RJ Barrett",
+       "Collin Murray-Boyles"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Ronald Holland II",
+       "Taurean Prince"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 24.0,
+      "home": 76.0
+     }
     }
    ]
   },
@@ -30266,6 +30512,34 @@
      "win_prob": {
       "away": 40.2,
       "home": 59.8
+     }
+    },
+    {
+     "at": "2026-11-20T09:30-05:00",
+     "expected_margin": 4.95,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Chicago Bulls",
+     "pick_code": "CHI",
+     "reason": "win probability moved with the latest report",
+     "report": "2026-11-20T09:30-05:00",
+     "win_prob": {
+      "away": 36.3,
+      "home": 63.7
      }
     }
    ]
