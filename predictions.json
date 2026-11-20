@@ -3905,18 +3905,18 @@
    "streak": -6
   },
   "win_prob": {
-   "home": 72.0,
-   "away": 28.0
+   "home": 69.1,
+   "away": 30.9
   },
   "win_prob_band": {
-   "low": 67.4,
-   "high": 72.0,
+   "low": 64.3,
+   "high": 69.1,
    "gtd_count": 1
   },
-  "expected_margin": 8.24,
+  "expected_margin": 7.04,
   "expected_score": {
-   "home": 115.4,
-   "away": 107.1
+   "home": 114.8,
+   "away": 107.7
   },
   "margin_breakdown": [
    {
@@ -3941,8 +3941,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.9,
-    "detail": "Detroit Pistons 5 out (88 min) costing 2.3 pts, Toronto Raptors 3 out (86 min) costing 4.0 pts"
+    "points": 0.7,
+    "detail": "Detroit Pistons 4 out (72 min) costing 2.3 pts, Toronto Raptors 3 out (86 min) costing 4.0 pts"
    }
   ],
   "ratings": {
@@ -3993,15 +3993,6 @@
      "cost": -0.45,
      "no_minutes": false,
      "ppg": 5.9
-    },
-    {
-     "player": "Ronald Holland II",
-     "mpg": 15.8,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 6.1
     },
     {
      "player": "Taurean Prince",
@@ -4154,17 +4145,17 @@
      "apg": 0.4
     },
     {
-     "player": "Isaiah Joe",
-     "player_id": 1630198,
-     "position": "G",
+     "player": "Ronald Holland II",
+     "player_id": 1641842,
+     "position": "F",
      "starter": false,
-     "games": 4,
+     "games": 12,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 14.4,
-     "ppg": 8.2,
-     "rpg": 1.8,
-     "apg": 1.2
+     "mpg": 15.9,
+     "ppg": 4.9,
+     "rpg": 3.8,
+     "apg": 1.8
     }
    ],
    "away": [
@@ -4310,6 +4301,12 @@
     "pick": "DET",
     "prob": 72.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-20T12:33-05:00",
+    "pick": "DET",
+    "prob": 69.1,
+    "reason": "Ronald Holland II (DET) no longer out"
    }
   ]
  },
@@ -4416,9 +4413,9 @@
    "away": 40.2
   },
   "win_prob_band": {
-   "low": 59.8,
+   "low": 58.3,
    "high": 59.8,
-   "gtd_count": 0
+   "gtd_count": 1
   },
   "expected_margin": 3.5,
   "expected_score": {
@@ -4523,7 +4520,15 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Jalen Smith",
+     "mpg": 23.0,
+     "value": 2.5,
+     "status": "Questionable",
+     "ppg": 12.8
+    }
+   ],
    "away": []
   },
   "lineups": {
@@ -4781,6 +4786,12 @@
     "pick": "CHI",
     "prob": 59.8,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-20T12:33-05:00",
+    "pick": "CHI",
+    "prob": 59.8,
+    "reason": "Jalen Smith (CHI) now questionable"
    }
   ]
  },

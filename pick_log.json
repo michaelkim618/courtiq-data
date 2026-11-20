@@ -30719,6 +30719,38 @@
       "away": 28.0,
       "home": 72.0
      }
+    },
+    {
+     "at": "2026-11-20T12:33-05:00",
+     "expected_margin": 7.04,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Cade Cunningham"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "RJ Barrett",
+       "Collin Murray-Boyles"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Taurean Prince"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Ronald Holland II (DET) no longer out",
+     "report": "2026-11-20T12:30-05:00",
+     "win_prob": {
+      "away": 30.9,
+      "home": 69.1
+     }
     }
    ]
   },
@@ -30811,6 +30843,36 @@
      "pick_code": "CHI",
      "reason": "win probability moved with the latest report",
      "report": "2026-11-20T10:30-05:00",
+     "win_prob": {
+      "away": 40.2,
+      "home": 59.8
+     }
+    },
+    {
+     "at": "2026-11-20T12:33-05:00",
+     "expected_margin": 3.5,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jalen Smith"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Chicago Bulls",
+     "pick_code": "CHI",
+     "reason": "Jalen Smith (CHI) now questionable",
+     "report": "2026-11-20T12:30-05:00",
      "win_prob": {
       "away": 40.2,
       "home": 59.8
