@@ -1774,5 +1774,37 @@
   "home": "TOR",
   "conf": 63.9,
   "correct": false
+ },
+ {
+  "date": "2026-11-19",
+  "season": "2026-2027",
+  "away": "GSW",
+  "home": "MEM",
+  "conf": 62.7,
+  "correct": true
+ },
+ {
+  "date": "2026-11-19",
+  "season": "2026-2027",
+  "away": "LAC",
+  "home": "SAS",
+  "conf": 81.6,
+  "correct": true
+ },
+ {
+  "date": "2026-11-19",
+  "season": "2026-2027",
+  "away": "NYK",
+  "home": "MIN",
+  "conf": 56.0,
+  "correct": false
+ },
+ {
+  "date": "2026-11-19",
+  "season": "2026-2027",
+  "away": "POR",
+  "home": "MIL",
+  "conf": 82.2,
+  "correct": true
  }
 ]
