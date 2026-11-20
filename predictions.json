@@ -7455,18 +7455,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 16.1,
-   "away": 83.9
+   "home": 17.8,
+   "away": 82.2
   },
   "win_prob_band": {
-   "low": 16.1,
-   "high": 19.6,
-   "gtd_count": 2
+   "low": 17.8,
+   "high": 17.8,
+   "gtd_count": 0
   },
-  "expected_margin": -13.99,
+  "expected_margin": -13.04,
   "expected_score": {
-   "home": 107.2,
-   "away": 121.2
+   "home": 107.6,
+   "away": 120.7
   },
   "margin_breakdown": [
    {
@@ -7491,8 +7491,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.07,
-    "detail": "Milwaukee Bucks 3 out (68 min) adds 1.5 pts, Portland Trail Blazers 5 out (92 min) adds 0.4 pts (the player model rates a team better when a low-rated player sits)"
+    "points": 2.02,
+    "detail": "Milwaukee Bucks 3 out (68 min) adds 1.5 pts, Portland Trail Blazers 6 out (122 min) costs 0.5 pts (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -7547,6 +7547,15 @@
    ],
    "away": [
     {
+     "player": "Deni Avdija",
+     "mpg": 30.0,
+     "nth_out": 1,
+     "value": 9.0,
+     "cost": -1.88,
+     "no_minutes": false,
+     "ppg": 22.3
+    },
+    {
      "player": "Shaedon Sharpe",
      "mpg": 27.8,
      "nth_out": 1,
@@ -7595,22 +7604,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Deni Avdija",
-     "mpg": 30.0,
-     "value": 9.0,
-     "status": "Questionable",
-     "ppg": 22.3
-    },
-    {
-     "player": "Toumani Camara",
-     "mpg": 26.9,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 11.9
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7726,19 +7720,6 @@
    ],
    "away": [
     {
-     "player": "Deni Avdija",
-     "player_id": 1630166,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 24.2,
-     "rpg": 6.2,
-     "apg": 6.1
-    },
-    {
      "player": "Damian Lillard",
      "player_id": 203081,
      "position": "G",
@@ -7794,7 +7775,7 @@
      "player": "Sidy Cissoko",
      "player_id": 1631321,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 14,
      "starts": 0,
      "start_rate": 0,
@@ -7828,6 +7809,19 @@
      "ppg": 4.6,
      "rpg": 1.2,
      "apg": 0.2
+    },
+    {
+     "player": "Branden Carlson",
+     "player_id": 1642382,
+     "position": "C",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 9.4,
+     "ppg": 2.9,
+     "rpg": 2.6,
+     "apg": 0.3
     }
    ]
   },
@@ -7839,10 +7833,10 @@
   "data_through": "2026-11-18",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -10.09,
+   "expected_margin": -8.21,
    "win_prob": {
-    "home": 24.3,
-    "away": 75.7
+    "home": 28.6,
+    "away": 71.4
    }
   },
   "tip_et": "2026-11-19T20:00-05:00",
@@ -7885,6 +7879,12 @@
     "pick": "POR",
     "prob": 83.9,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-19T19:32-05:00",
+    "pick": "POR",
+    "prob": 82.2,
+    "reason": "Deni Avdija (POR) now out; Toumani Camara (POR) cleared to play"
    }
   ]
  },
@@ -7993,7 +7993,7 @@
   "win_prob_band": {
    "low": 56.0,
    "high": 56.0,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 2.15,
   "expected_score": {
@@ -8080,15 +8080,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jonathan Kuminga",
-     "mpg": 28.2,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 11.6
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -8358,6 +8350,12 @@
     "pick": "MIN",
     "prob": 56.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-19T19:32-05:00",
+    "pick": "MIN",
+    "prob": 56.0,
+    "reason": "Jonathan Kuminga (MIN) cleared to play"
    }
   ]
  },

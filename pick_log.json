@@ -29567,6 +29567,31 @@
       "away": 44.0,
       "home": 56.0
      }
+    },
+    {
+     "at": "2026-11-19T19:32-05:00",
+     "expected_margin": 2.15,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Jonathan Kuminga (MIN) cleared to play",
+     "report": "2026-11-19T19:30-05:00",
+     "win_prob": {
+      "away": 44.0,
+      "home": 56.0
+     }
     }
    ]
   },
@@ -29779,6 +29804,38 @@
      "win_prob": {
       "away": 83.9,
       "home": 16.1
+     }
+    },
+    {
+     "at": "2026-11-19T19:32-05:00",
+     "expected_margin": -13.04,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Deni Avdija",
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Robert Williams III",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Myles Turner",
+       "Kyle Kuzma",
+       "Ousmane Dieng"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Deni Avdija (POR) now out; Toumani Camara (POR) cleared to play",
+     "report": "2026-11-19T19:30-05:00",
+     "win_prob": {
+      "away": 82.2,
+      "home": 17.8
      }
     }
    ]
