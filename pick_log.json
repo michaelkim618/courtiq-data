@@ -30033,6 +30033,39 @@
       "away": 30.0,
       "home": 70.0
      }
+    },
+    {
+     "at": "2026-11-20T17:32-05:00",
+     "expected_margin": 8.6,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kon Knueppel",
+       "Grayson Allen",
+       "Dennis Schroder",
+       "Grant Williams"
+      ],
+      "home": [
+       "CJ McCollum",
+       "Asa Newell",
+       "Jock Landale",
+       "Kingston Flemings",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Kingston Flemings (ATL) now out",
+     "report": "2026-11-20T17:30-05:00",
+     "win_prob": {
+      "away": 27.1,
+      "home": 72.9
+     }
     }
    ]
   },

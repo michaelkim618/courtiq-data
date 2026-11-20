@@ -2423,18 +2423,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 70.0,
-   "away": 30.0
+   "home": 72.9,
+   "away": 27.1
   },
   "win_prob_band": {
-   "low": 70.0,
-   "high": 70.0,
-   "gtd_count": 1
+   "low": 72.9,
+   "high": 72.9,
+   "gtd_count": 0
   },
-  "expected_margin": 7.39,
+  "expected_margin": 8.6,
   "expected_score": {
-   "home": 115.8,
-   "away": 108.4
+   "home": 116.4,
+   "away": 107.8
   },
   "margin_breakdown": [
    {
@@ -2459,8 +2459,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.77,
-    "detail": "Atlanta Hawks 4 out (70 min) adds 0.4 pts, Charlotte Hornets 4 out (104 min) costs 0.3 pts (the player model rates a team better when a low-rated player sits) · Henri Veesaar out all season, already baked into team rating"
+    "points": 1.98,
+    "detail": "Atlanta Hawks 5 out (92 min) adds 1.6 pts, Charlotte Hornets 4 out (104 min) costs 0.3 pts (the player model rates a team better when a low-rated player sits) · Henri Veesaar out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -2511,6 +2511,15 @@
      "cost": -0.13,
      "no_minutes": false,
      "ppg": 7.5
+    },
+    {
+     "player": "Kingston Flemings",
+     "mpg": 22.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 9.0
     },
     {
      "player": "Mouhamed Gueye",
@@ -2570,15 +2579,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Kingston Flemings",
-     "mpg": 22.1,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 9.0
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -2667,19 +2668,6 @@
      "apg": 1.5
     },
     {
-     "player": "Kingston Flemings",
-     "player_id": 1643412,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.5,
-     "ppg": 7.8,
-     "rpg": 2.5,
-     "apg": 4.1
-    },
-    {
      "player": "Zuby Ejiofor",
      "player_id": 1643544,
      "position": "F",
@@ -2691,6 +2679,19 @@
      "ppg": 4.6,
      "rpg": 3.0,
      "apg": 1.0
+    },
+    {
+     "player": "Corey Kispert",
+     "player_id": 1630557,
+     "position": "F",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 11.4,
+     "ppg": 8.5,
+     "rpg": 1.0,
+     "apg": 0.9
     }
    ],
    "away": [
@@ -2842,6 +2843,12 @@
     "pick": "ATL",
     "prob": 70.0,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-20T17:32-05:00",
+    "pick": "ATL",
+    "prob": 72.9,
+    "reason": "Kingston Flemings (ATL) now out"
    }
   ]
  },
