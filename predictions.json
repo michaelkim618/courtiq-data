@@ -2817,7 +2817,7 @@
   },
   "tip_et": "2026-11-20T19:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "6:45 PM ET"
   },
   "pick_updates": [
    {
@@ -3433,7 +3433,7 @@
   "win_prob_band": {
    "low": 65.2,
    "high": 65.2,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 5.52,
   "expected_score": {
@@ -3548,15 +3548,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Peyton Watson",
-     "mpg": 26.5,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 9.8
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -3826,6 +3818,12 @@
     "pick": "CLE",
     "prob": 65.2,
     "reason": "Andrew Nembhard (IND) cleared to play"
+   },
+   {
+    "at": "2026-11-20T18:47-05:00",
+    "pick": "CLE",
+    "prob": 65.2,
+    "reason": "Peyton Watson (CLE) cleared to play"
    }
   ]
  },
@@ -4438,18 +4436,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 63.7,
-   "away": 36.3
+   "home": 61.4,
+   "away": 38.6
   },
   "win_prob_band": {
-   "low": 62.3,
-   "high": 63.7,
-   "gtd_count": 1
+   "low": 61.4,
+   "high": 61.4,
+   "gtd_count": 0
   },
-  "expected_margin": 4.95,
+  "expected_margin": 4.1,
   "expected_score": {
-   "home": 119.6,
-   "away": 114.6
+   "home": 119.1,
+   "away": 115.0
   },
   "margin_breakdown": [
    {
@@ -4474,8 +4472,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.63,
-    "detail": "Chicago Bulls 1 out (30 min) adds 1.6 pts, Washington Wizards 3 out (52 min), no change to the rotation (the player model rates a team better when a low-rated player sits) · Reece Beekman out all season, already baked into team rating"
+    "points": 0.78,
+    "detail": "Chicago Bulls 2 out (53 min) adds 0.8 pts, Washington Wizards 3 out (52 min), no change to the rotation (the player model rates a team better when a low-rated player sits) · Reece Beekman out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4508,6 +4506,15 @@
      "cost": -0.96,
      "no_minutes": false,
      "ppg": 18.1
+    },
+    {
+     "player": "Jalen Smith",
+     "mpg": 23.0,
+     "nth_out": 1,
+     "value": 2.5,
+     "cost": -0.53,
+     "no_minutes": false,
+     "ppg": 12.8
     }
    ],
    "away": [
@@ -4549,15 +4556,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jalen Smith",
-     "mpg": 23.0,
-     "value": 2.5,
-     "status": "Questionable",
-     "ppg": 12.8
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4607,19 +4606,6 @@
      "apg": 2.0
     },
     {
-     "player": "Jalen Smith",
-     "player_id": 1630188,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 24.7,
-     "ppg": 13.4,
-     "rpg": 7.9,
-     "apg": 2.2
-    },
-    {
      "player": "Isaac Okoro",
      "player_id": 1630171,
      "position": "F",
@@ -4636,7 +4622,7 @@
      "player": "Patrick Williams",
      "player_id": 1630172,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 7,
      "starts": 0,
      "start_rate": 0,
@@ -4670,6 +4656,19 @@
      "ppg": 10.9,
      "rpg": 2.1,
      "apg": 3.4
+    },
+    {
+     "player": "Buddy Hield",
+     "player_id": 1627741,
+     "position": "G",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.6,
+     "ppg": 7.5,
+     "rpg": 2.2,
+     "apg": 1.8
     }
    ],
    "away": [
@@ -4787,10 +4786,10 @@
   "data_through": "2026-11-19",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 2.28,
+   "expected_margin": 1.75,
    "win_prob": {
-    "home": 56.2,
-    "away": 43.8
+    "home": 54.8,
+    "away": 45.2
    }
   },
   "tip_et": "2026-11-20T20:00-05:00",
@@ -4827,6 +4826,12 @@
     "pick": "CHI",
     "prob": 63.7,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-20T18:47-05:00",
+    "pick": "CHI",
+    "prob": 61.4,
+    "reason": "Jalen Smith (CHI) now out"
    }
   ]
  },
@@ -4935,7 +4940,7 @@
   "win_prob_band": {
    "low": 76.4,
    "high": 76.4,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 10.14,
   "expected_score": {
@@ -5086,15 +5091,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Trey Murphy III",
-     "mpg": 28.1,
-     "value": 0.2,
-     "status": "Questionable",
-     "ppg": 12.7
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5363,6 +5360,12 @@
     "pick": "OKC",
     "prob": 76.4,
     "reason": "Alex Caruso (OKC) now out"
+   },
+   {
+    "at": "2026-11-20T18:47-05:00",
+    "pick": "OKC",
+    "prob": 76.4,
+    "reason": "Trey Murphy III (NOP) cleared to play"
    }
   ]
  },

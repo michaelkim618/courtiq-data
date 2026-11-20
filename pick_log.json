@@ -29891,6 +29891,11 @@
   "2026-11-20_CHA@ATL": {
    "away": "CHA",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-20T18:45-05:00"
+   },
    "home": "ATL",
    "late": false,
    "locked_at": null,
@@ -30365,6 +30370,35 @@
       "away": 34.8,
       "home": 65.2
      }
+    },
+    {
+     "at": "2026-11-20T18:47-05:00",
+     "expected_margin": 5.52,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "Evan Mobley",
+       "Jaylon Tyson",
+       "Nae'Qwan Tomlin"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Peyton Watson (CLE) cleared to play",
+     "report": "2026-11-20T18:45-05:00",
+     "win_prob": {
+      "away": 34.8,
+      "home": 65.2
+     }
     }
    ]
   },
@@ -30544,6 +30578,39 @@
      "pick_code": "OKC",
      "reason": "Alex Caruso (OKC) now out",
      "report": "2026-11-20T18:15-05:00",
+     "win_prob": {
+      "away": 23.6,
+      "home": 76.4
+     }
+    },
+    {
+     "at": "2026-11-20T18:47-05:00",
+     "expected_margin": 10.14,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Trey Murphy III (NOP) cleared to play",
+     "report": "2026-11-20T18:45-05:00",
      "win_prob": {
       "away": 23.6,
       "home": 76.4
@@ -31279,6 +31346,35 @@
      "win_prob": {
       "away": 36.3,
       "home": 63.7
+     }
+    },
+    {
+     "at": "2026-11-20T18:47-05:00",
+     "expected_margin": 4.1,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ],
+      "home": [
+       "Caleb Wilson",
+       "Jalen Smith"
+      ]
+     },
+     "pick": "Chicago Bulls",
+     "pick_code": "CHI",
+     "reason": "Jalen Smith (CHI) now out",
+     "report": "2026-11-20T18:45-05:00",
+     "win_prob": {
+      "away": 38.6,
+      "home": 61.4
      }
     }
    ]
