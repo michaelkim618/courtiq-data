@@ -1814,5 +1814,13 @@
   "home": "ATL",
   "conf": 72.9,
   "correct": true
+ },
+ {
+  "date": "2026-11-20",
+  "season": "2026-2027",
+  "away": "IND",
+  "home": "CLE",
+  "conf": 65.2,
+  "correct": true
  }
 ]
