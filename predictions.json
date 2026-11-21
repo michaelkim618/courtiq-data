@@ -4318,7 +4318,7 @@
  },
  {
   "date": "2026-11-20",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Sacramento Kings",
   "home": "Los Angeles Lakers",
   "away_code": "SAC",
@@ -4520,229 +4520,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 16,
-    "away": 14
-   },
-   "home": [
-    {
-     "player": "Luka Dončić",
-     "player_id": 1629029,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 36.4,
-     "ppg": 38.1,
-     "rpg": 6.9,
-     "apg": 7.6
-    },
-    {
-     "player": "Walker Kessler",
-     "player_id": 1631117,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 30.9,
-     "ppg": 14.2,
-     "rpg": 10.9,
-     "apg": 1.8
-    },
-    {
-     "player": "Matisse Thybulle",
-     "player_id": 1629680,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 24.6,
-     "ppg": 7.1,
-     "rpg": 2.4,
-     "apg": 1.1
-    },
-    {
-     "player": "Ziaire Williams",
-     "player_id": 1630533,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 23.2,
-     "ppg": 9.5,
-     "rpg": 2.4,
-     "apg": 1.8
-    },
-    {
-     "player": "Quentin Grimes",
-     "player_id": 1629656,
-     "position": "G",
-     "starter": true,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 28.6,
-     "ppg": 12.6,
-     "rpg": 3.4,
-     "apg": 2.6
-    },
-    {
-     "player": "Jake LaRavia",
-     "player_id": 1631222,
-     "position": "F",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 25.3,
-     "ppg": 5.8,
-     "rpg": 4.1,
-     "apg": 2.2
-    },
-    {
-     "player": "Sandro Mamukelashvili",
-     "player_id": 1630572,
-     "position": "F",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.3,
-     "ppg": 9.6,
-     "rpg": 4.1,
-     "apg": 1.6
-    },
-    {
-     "player": "Collin Sexton",
-     "player_id": 1629012,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.8,
-     "ppg": 10.7,
-     "rpg": 1.7,
-     "apg": 2.5
-    }
-   ],
-   "away": [
-    {
-     "player": "Darius Acuff Jr.",
-     "player_id": 1643411,
-     "position": "G",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 36.7,
-     "ppg": 26.2,
-     "rpg": 3.6,
-     "apg": 7.0
-    },
-    {
-     "player": "Domantas Sabonis",
-     "player_id": 1627734,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 33.2,
-     "ppg": 13.7,
-     "rpg": 13.2,
-     "apg": 5.8
-    },
-    {
-     "player": "Zach LaVine",
-     "player_id": 203897,
-     "position": "G",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 21.2,
-     "rpg": 3.4,
-     "apg": 2.8
-    },
-    {
-     "player": "De'Andre Hunter",
-     "player_id": 1629631,
-     "position": "F",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 13.7,
-     "rpg": 4.2,
-     "apg": 1.6
-    },
-    {
-     "player": "Keegan Murray",
-     "player_id": 1631099,
-     "position": "F",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 27.6,
-     "ppg": 9.9,
-     "rpg": 3.4,
-     "apg": 1.6
-    },
-    {
-     "player": "Leaky Black",
-     "player_id": 1641778,
-     "position": "F",
-     "starter": false,
-     "games": 10,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.1,
-     "ppg": 5.0,
-     "rpg": 3.0,
-     "apg": 1.5
-    },
-    {
-     "player": "Emanuel Sharp",
-     "player_id": 1643567,
-     "position": "G",
-     "starter": false,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.3,
-     "ppg": 5.0,
-     "rpg": 1.2,
-     "apg": 0.7
-    },
-    {
-     "player": "Malik Monk",
-     "player_id": 1628370,
-     "position": "G",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.1,
-     "ppg": 8.2,
-     "rpg": 1.3,
-     "apg": 3.8
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 106,
+   "away": 104
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Los Angeles Lakers",
   "model_winner": "Los Angeles Lakers",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-19",
   "team_model": {
@@ -4794,7 +4579,255 @@
     "prob": 83.5,
     "reason": "De'Andre Hunter (SAC) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Luka Doncic",
+     "starter": true,
+     "min": 36,
+     "pts": 25,
+     "reb": 4,
+     "ast": 8,
+     "stl": 2,
+     "blk": 0,
+     "tov": 6,
+     "pm": -5
+    },
+    {
+     "name": "Quentin Grimes",
+     "starter": true,
+     "min": 35,
+     "pts": 13,
+     "reb": 5,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 3
+    },
+    {
+     "name": "Walker Kessler",
+     "starter": true,
+     "min": 30,
+     "pts": 15,
+     "reb": 7,
+     "ast": 2,
+     "stl": 1,
+     "blk": 3,
+     "tov": 2,
+     "pm": 4
+    },
+    {
+     "name": "Ziaire Williams",
+     "starter": true,
+     "min": 28,
+     "pts": 5,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Matisse Thybulle",
+     "starter": true,
+     "min": 27,
+     "pts": 14,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Jake LaRavia",
+     "starter": false,
+     "min": 24,
+     "pts": 6,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Sandro Mamukelashvili",
+     "starter": false,
+     "min": 20,
+     "pts": 9,
+     "reb": 9,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 1
+    },
+    {
+     "name": "Collin Sexton",
+     "starter": false,
+     "min": 18,
+     "pts": 10,
+     "reb": 1,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Cameron Carr",
+     "starter": false,
+     "min": 12,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Jarred Vanderbilt",
+     "starter": false,
+     "min": 10,
+     "pts": 4,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 4
+    }
+   ],
+   "away": [
+    {
+     "name": "Keegan Murray",
+     "starter": true,
+     "min": 40,
+     "pts": 13,
+     "reb": 7,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 3
+    },
+    {
+     "name": "Zach LaVine",
+     "starter": true,
+     "min": 39,
+     "pts": 19,
+     "reb": 7,
+     "ast": 4,
+     "stl": 2,
+     "blk": 1,
+     "tov": 1,
+     "pm": 5
+    },
+    {
+     "name": "Domantas Sabonis",
+     "starter": true,
+     "min": 38,
+     "pts": 19,
+     "reb": 16,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 0
+    },
+    {
+     "name": "De'Andre Hunter",
+     "starter": true,
+     "min": 37,
+     "pts": 30,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Darius Acuff Jr.",
+     "starter": true,
+     "min": 36,
+     "pts": 18,
+     "reb": 1,
+     "ast": 12,
+     "stl": 1,
+     "blk": 0,
+     "tov": 6,
+     "pm": 2
+    },
+    {
+     "name": "Leaky Black",
+     "starter": false,
+     "min": 19,
+     "pts": 0,
+     "reb": 3,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Malik Monk",
+     "starter": false,
+     "min": 12,
+     "pts": 2,
+     "reb": 0,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 4,
+     "pm": -4
+    },
+    {
+     "name": "Emanuel Sharp",
+     "starter": false,
+     "min": 10,
+     "pts": 3,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Dylan Cardwell",
+     "starter": false,
+     "min": 10,
+     "pts": 0,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -2
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Luka Doncic",
+    "pts": 25,
+    "reb": 4,
+    "ast": 8
+   },
+   "away": {
+    "name": "De'Andre Hunter",
+    "pts": 30,
+    "reb": 6,
+    "ast": 2
+   }
+  }
  },
  {
   "date": "2026-11-21",
@@ -6772,7 +6805,7 @@
    "losses": 3,
    "win_pct": 0.812,
    "conference": "West",
-   "rank": 1
+   "rank": 2
   },
   "away_standing": {
    "wins": 5,
@@ -7256,8 +7289,8 @@
   "neutral": false,
   "home_standing": {
    "wins": 1,
-   "losses": 13,
-   "win_pct": 0.071,
+   "losses": 14,
+   "win_pct": 0.067,
    "conference": "West",
    "rank": 15
   },
@@ -7270,12 +7303,6 @@
   },
   "home_recent_form": {
    "games": [
-    {
-     "date": "2026-11-08",
-     "result": "L",
-     "score": "108-114",
-     "home": true
-    },
     {
      "date": "2026-11-10",
      "result": "L",
@@ -7299,11 +7326,17 @@
      "result": "L",
      "score": "107-128",
      "home": true
+    },
+    {
+     "date": "2026-11-20",
+     "result": "L",
+     "score": "104-106",
+     "home": false
     }
    ],
    "wins": 1,
    "losses": 9,
-   "streak": -7
+   "streak": -8
   },
   "away_recent_form": {
    "games": [
@@ -7343,18 +7376,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 12.3,
-   "away": 87.7
+   "home": 9.0,
+   "away": 91.0
   },
   "win_prob_band": {
-   "low": 12.3,
-   "high": 16.1,
+   "low": 9.0,
+   "high": 12.1,
    "gtd_count": 2
   },
-  "expected_margin": -16.42,
+  "expected_margin": -18.92,
   "expected_score": {
-   "home": 103.7,
-   "away": 120.1
+   "home": 102.2,
+   "away": 121.1
   },
   "margin_breakdown": [
    {
@@ -7374,8 +7407,8 @@
    },
    {
     "label": "Back-to-Back",
-    "points": 0.0,
-    "detail": "Both teams rested"
+    "points": -2.5,
+    "detail": "Sacramento Kings on no rest"
    },
    {
     "label": "Absences",
@@ -7385,13 +7418,13 @@
   ],
   "ratings": {
    "home": {
-    "net": -9.9,
-    "off": 109.4,
-    "def": 119.3,
-    "pace": 100.5,
-    "games": 14,
-    "carry": 0.417,
-    "roster": 0.396
+    "net": -9.6,
+    "off": 109.5,
+    "def": 119.1,
+    "pace": 100.2,
+    "games": 15,
+    "carry": 0.4,
+    "roster": 0.38
    },
    "away": {
     "net": 8.2,
@@ -7459,7 +7492,7 @@
   "lineups": {
    "season": "2026-27",
    "games": {
-    "home": 14,
+    "home": 15,
     "away": 15
    },
    "home": [
@@ -7468,51 +7501,51 @@
      "player_id": 1643411,
      "position": "G",
      "starter": true,
-     "games": 14,
-     "starts": 14,
+     "games": 15,
+     "starts": 15,
      "start_rate": 100,
-     "mpg": 36.7,
-     "ppg": 26.2,
-     "rpg": 3.6,
-     "apg": 7.0
+     "mpg": 36.6,
+     "ppg": 25.7,
+     "rpg": 3.4,
+     "apg": 7.3
     },
     {
      "player": "Domantas Sabonis",
      "player_id": 1627734,
      "position": "F",
      "starter": true,
-     "games": 13,
-     "starts": 13,
+     "games": 14,
+     "starts": 14,
      "start_rate": 100,
-     "mpg": 33.2,
-     "ppg": 13.7,
-     "rpg": 13.2,
-     "apg": 5.8
+     "mpg": 33.5,
+     "ppg": 14.1,
+     "rpg": 13.4,
+     "apg": 5.4
     },
     {
      "player": "Zach LaVine",
      "player_id": 203897,
      "position": "G",
      "starter": true,
-     "games": 13,
-     "starts": 13,
+     "games": 14,
+     "starts": 14,
      "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 21.2,
-     "rpg": 3.4,
-     "apg": 2.8
+     "mpg": 33.4,
+     "ppg": 21.0,
+     "rpg": 3.6,
+     "apg": 2.9
     },
     {
      "player": "De'Andre Hunter",
      "player_id": 1629631,
      "position": "F",
      "starter": true,
-     "games": 12,
-     "starts": 12,
+     "games": 13,
+     "starts": 13,
      "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 13.7,
-     "rpg": 4.2,
+     "mpg": 33.0,
+     "ppg": 14.9,
+     "rpg": 4.4,
      "apg": 1.6
     },
     {
@@ -7520,24 +7553,24 @@
      "player_id": 1631099,
      "position": "F",
      "starter": true,
-     "games": 7,
-     "starts": 7,
+     "games": 8,
+     "starts": 8,
      "start_rate": 100,
-     "mpg": 27.6,
-     "ppg": 9.9,
-     "rpg": 3.4,
-     "apg": 1.6
+     "mpg": 29.2,
+     "ppg": 10.2,
+     "rpg": 3.9,
+     "apg": 1.9
     },
     {
      "player": "Leaky Black",
      "player_id": 1641778,
      "position": "F",
      "starter": false,
-     "games": 10,
+     "games": 11,
      "starts": 0,
      "start_rate": 0,
      "mpg": 19.1,
-     "ppg": 5.0,
+     "ppg": 4.5,
      "rpg": 3.0,
      "apg": 1.5
     },
@@ -7546,12 +7579,12 @@
      "player_id": 1643567,
      "position": "G",
      "starter": false,
-     "games": 14,
+     "games": 15,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 17.3,
-     "ppg": 5.0,
-     "rpg": 1.2,
+     "mpg": 16.8,
+     "ppg": 4.9,
+     "rpg": 1.1,
      "apg": 0.7
     },
     {
@@ -7559,13 +7592,13 @@
      "player_id": 1628370,
      "position": "G",
      "starter": false,
-     "games": 13,
+     "games": 14,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 17.1,
-     "ppg": 8.2,
-     "rpg": 1.3,
-     "apg": 3.8
+     "mpg": 16.7,
+     "ppg": 7.8,
+     "rpg": 1.2,
+     "apg": 3.7
     }
    ],
    "away": [
@@ -7683,10 +7716,10 @@
   "data_through": "2026-11-20",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -15.55,
+   "expected_margin": -17.75,
    "win_prob": {
-    "home": 14.2,
-    "away": 85.8
+    "home": 11.0,
+    "away": 89.0
    }
   },
   "tip_et": "2026-11-21T22:00-05:00",
@@ -7705,6 +7738,12 @@
     "pick": "BOS",
     "prob": 87.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-21T00:32-05:00",
+    "pick": "BOS",
+    "prob": 91.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  }
