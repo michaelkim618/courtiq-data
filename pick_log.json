@@ -32439,6 +32439,39 @@
       "away": 43.5,
       "home": 56.5
      }
+    },
+    {
+     "at": "2026-11-21T11:02-05:00",
+     "expected_margin": 2.32,
+     "gtd": {
+      "away": [
+       "Deni Avdija"
+      ],
+      "home": [
+       "Karl-Anthony Towns",
+       "OG Anunoby"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Jordan Clarkson"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Karl-Anthony Towns (NYK) now questionable",
+     "report": "2026-11-21T11:00-05:00",
+     "win_prob": {
+      "away": 43.5,
+      "home": 56.5
+     }
     }
    ]
   }
