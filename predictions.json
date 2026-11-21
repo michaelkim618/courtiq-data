@@ -5949,8 +5949,8 @@
   },
   "win_prob_band": {
    "low": 41.6,
-   "high": 45.8,
-   "gtd_count": 2
+   "high": 41.6,
+   "gtd_count": 0
   },
   "expected_margin": -3.0,
   "expected_score": {
@@ -6030,22 +6030,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Alperen Sengun",
-     "mpg": 32.7,
-     "value": 7.2,
-     "status": "Questionable",
-     "ppg": 21.7
-    },
-    {
-     "player": "Steven Adams",
-     "mpg": 22.7,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 5.7
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6308,6 +6293,12 @@
     "pick": "HOU",
     "prob": 58.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-20T21:02-05:00",
+    "pick": "HOU",
+    "prob": 58.4,
+    "reason": "Alperen Sengun (HOU) cleared to play; Steven Adams (HOU) cleared to play"
    }
   ]
  },
@@ -6416,7 +6407,7 @@
   "win_prob_band": {
    "low": 83.5,
    "high": 83.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 13.79,
   "expected_score": {
@@ -6513,15 +6504,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "De'Andre Hunter",
-     "mpg": 28.4,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 11.3
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6790,6 +6773,12 @@
     "pick": "LAL",
     "prob": 83.5,
     "reason": "Precious Achiuwa (SAC) now out"
+   },
+   {
+    "at": "2026-11-20T21:02-05:00",
+    "pick": "LAL",
+    "prob": 83.5,
+    "reason": "De'Andre Hunter (SAC) cleared to play"
    }
   ]
  }

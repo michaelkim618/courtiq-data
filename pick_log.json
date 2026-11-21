@@ -30195,6 +30195,31 @@
       "away": 58.4,
       "home": 41.6
      }
+    },
+    {
+     "at": "2026-11-20T21:02-05:00",
+     "expected_margin": -3.0,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Clint Capela"
+      ],
+      "home": [
+       "Julian Strawther"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Alperen Sengun (HOU) cleared to play; Steven Adams (HOU) cleared to play",
+     "report": "2026-11-20T21:00-05:00",
+     "win_prob": {
+      "away": 58.4,
+      "home": 41.6
+     }
     }
    ]
   },
@@ -31027,6 +31052,33 @@
      "pick_code": "LAL",
      "reason": "Precious Achiuwa (SAC) now out",
      "report": "2026-11-20T16:45-05:00",
+     "win_prob": {
+      "away": 16.5,
+      "home": 83.5
+     }
+    },
+    {
+     "at": "2026-11-20T21:02-05:00",
+     "expected_margin": 13.79,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Precious Achiuwa",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Austin Reaves"
+      ]
+     },
+     "pick": "Los Angeles Lakers",
+     "pick_code": "LAL",
+     "reason": "De'Andre Hunter (SAC) cleared to play",
+     "report": "2026-11-20T21:00-05:00",
      "win_prob": {
       "away": 16.5,
       "home": 83.5
