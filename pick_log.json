@@ -30084,6 +30084,11 @@
   "2026-11-20_HOU@DEN": {
    "away": "HOU",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-20T21:45-05:00"
+   },
    "home": "DEN",
    "late": false,
    "locked_at": null,
@@ -30917,6 +30922,11 @@
   "2026-11-20_SAC@LAL": {
    "away": "SAC",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T21:47-05:00",
+    "label": "9:45 PM ET",
+    "report": "2026-11-20T21:45-05:00"
+   },
    "home": "LAL",
    "late": false,
    "locked_at": null,
