@@ -1822,5 +1822,21 @@
   "home": "CLE",
   "conf": 65.2,
   "correct": true
+ },
+ {
+  "date": "2026-11-20",
+  "season": "2026-2027",
+  "away": "ORL",
+  "home": "BKN",
+  "conf": 62.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-20",
+  "season": "2026-2027",
+  "away": "TOR",
+  "home": "DET",
+  "conf": 76.0,
+  "correct": false
  }
 ]

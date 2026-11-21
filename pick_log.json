@@ -30683,6 +30683,13 @@
    "home": "BKN",
    "late": false,
    "locked_at": "2026-11-20T19:30-05:00",
+   "result": {
+    "score": {
+     "away": 113,
+     "home": 111
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-20T19:30-05:00",
    "tip_known": true,
@@ -31126,6 +31133,13 @@
    "home": "DET",
    "late": false,
    "locked_at": "2026-11-20T19:30-05:00",
+   "result": {
+    "score": {
+     "away": 105,
+     "home": 102
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-20T19:30-05:00",
    "tip_known": true,
