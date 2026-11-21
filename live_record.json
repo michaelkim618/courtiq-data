@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T00:47-05:00",
+ "generated": "2026-11-21T15:38-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2253,13 +2253,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "games": 1,
+   "wins": 1,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 159,
+   "cum_games": 236,
+   "cum_pct": 67.4,
+   "picks": [
+    {
+     "away": "MIL",
+     "home": "PHI",
+     "pick": "PHI",
+     "prob": 82.5,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 235,
-  "wins": 158,
+  "games": 236,
+  "wins": 159,
   "losses": 77,
-  "pct": 67.2
+  "pct": 67.4
  },
  "unscored": 0
 }
