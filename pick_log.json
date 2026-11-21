@@ -32132,6 +32132,11 @@
   "2026-11-21_MIL@PHI": {
    "away": "MIL",
    "date": "2026-11-21",
+   "final_check": {
+    "at": "2026-11-21T12:47-05:00",
+    "label": "12:45 PM ET",
+    "report": "2026-11-21T12:45-05:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
