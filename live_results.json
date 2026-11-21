@@ -1806,5 +1806,13 @@
   "home": "MIL",
   "conf": 82.2,
   "correct": true
+ },
+ {
+  "date": "2026-11-20",
+  "season": "2026-2027",
+  "away": "CHA",
+  "home": "ATL",
+  "conf": 72.9,
+  "correct": true
  }
 ]

@@ -29899,6 +29899,13 @@
    "home": "ATL",
    "late": false,
    "locked_at": "2026-11-20T19:00-05:00",
+   "result": {
+    "score": {
+     "away": 97,
+     "home": 111
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-20T19:00-05:00",
    "tip_known": true,
@@ -30785,6 +30792,11 @@
   "2026-11-20_PHX@UTA": {
    "away": "PHX",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T21:17-05:00",
+    "label": "9:15 PM ET",
+    "report": "2026-11-20T21:15-05:00"
+   },
    "home": "UTA",
    "late": false,
    "locked_at": null,
