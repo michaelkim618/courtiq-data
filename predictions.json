@@ -4977,9 +4977,9 @@
    "away": 17.5
   },
   "win_prob_band": {
-   "low": 78.6,
+   "low": 82.5,
    "high": 82.5,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": 13.21,
   "expected_score": {
@@ -5085,22 +5085,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Tyrese Maxey",
-     "mpg": 33.7,
-     "value": 9.6,
-     "status": "Questionable",
-     "ppg": 24.6
-    },
-    {
-     "player": "Dominick Barlow",
-     "mpg": 22.4,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 7.1
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5370,6 +5355,12 @@
     "pick": "PHI",
     "prob": 82.5,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-21T12:32-05:00",
+    "pick": "PHI",
+    "prob": 82.5,
+    "reason": "Dominick Barlow (PHI) cleared to play; Tyrese Maxey (PHI) cleared to play"
    }
   ]
  },
