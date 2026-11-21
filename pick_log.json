@@ -30410,6 +30410,11 @@
   "2026-11-20_NOP@OKC": {
    "away": "NOP",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-20T19:45-05:00"
+   },
    "home": "OKC",
    "late": false,
    "locked_at": null,
@@ -31243,6 +31248,11 @@
   "2026-11-20_WAS@CHI": {
    "away": "WAS",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-20T19:45-05:00"
+   },
    "home": "CHI",
    "late": false,
    "locked_at": null,
