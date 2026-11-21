@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-21-the-numbers-going-into-2026-11-21",
+      "title": "The Numbers Going Into 2026-11-21",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-11-21",
+      "type": "daily",
+      "tag": "Data",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "No narrative here. Just the model's current read on tonight's slate — win probabilities derived from team ratings, translated into projected margins. These numbers move as inputs change, but right now, this is what the system spits out when you feed it the matchups. No adjustments for story lines, no hedging for what feels right. The probabilities reflect relative strength as the model currently understands it, and the margins follow from that. If a team is listed at 68% to win, that's not a hot take — it's the output when you run two rating distributions against each other and count how often one beats the other in simulation. We'll see how it holds.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-20-spurs-victor-wembanyama-says-new-look-shunk-done-because-of",
       "title": "Spurs' Victor Wembanyama says new-look 'shunk' done because of blister on hand",
       "author": "Hana",

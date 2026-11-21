@@ -1,0 +1,73 @@
+{
+  "slug": "2026-11-21-the-numbers-going-into-2026-11-21",
+  "title": "The Numbers Going Into 2026-11-21",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_color": "#0EA5E9",
+  "author_role": "Data Analyst",
+  "date": "2026-11-21",
+  "type": "daily",
+  "tag": "Data",
+  "tag_color": "#0EA5E9",
+  "read_time": "3 min",
+  "summary": "No narrative here. Just the model's current read on tonight's slate — win probabilities derived from team ratings, translated into projected margins. These numbers move as inputs change, but right now, this is what the system spits out when you feed it the matchups. No adjustments for story lines, no hedging for what feels right. The probabilities reflect relative strength as the model currently understands it, and the margins follow from that. If a team is listed at 68% to win, that's not a hot take — it's the output when you run two rating distributions against each other and count how often one beats the other in simulation. We'll see how it holds.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## What the Model Sees\n\n4 game(s) on the board for 2026-11-21. Here's the read, straight from the ratings."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "MIL @ PHI",
+          "value": "80.0%"
+        },
+        {
+          "label": "POR @ NYK",
+          "value": "65.9%"
+        },
+        {
+          "label": "LAC @ DAL",
+          "value": "68.5%"
+        },
+        {
+          "label": "MEM @ MIN",
+          "value": "55.2%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Slate Breakdown",
+      "headers": [
+        "Matchup",
+        "Favored",
+        "Projected Margin (home − away)"
+      ],
+      "rows": [
+        [
+          "MIL @ PHI",
+          "PHI, 80.0%",
+          "+12.2"
+        ],
+        [
+          "POR @ NYK",
+          "NYK, 65.9%",
+          "+6.0"
+        ],
+        [
+          "LAC @ DAL",
+          "DAL, 68.5%",
+          "+7.0"
+        ],
+        [
+          "MEM @ MIN",
+          "MIN, 55.2%",
+          "+1.9"
+        ]
+      ]
+    }
+  ],
+  "post_kind": "feature"
+}
