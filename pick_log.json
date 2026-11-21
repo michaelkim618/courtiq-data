@@ -30462,6 +30462,13 @@
    "home": "OKC",
    "late": false,
    "locked_at": "2026-11-20T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 120,
+     "home": 126
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-20T20:00-05:00",
    "tip_known": true,
@@ -31351,6 +31358,13 @@
    "home": "CHI",
    "late": false,
    "locked_at": "2026-11-20T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 98,
+     "home": 94
+    },
+    "winner": "away"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-20T20:00-05:00",
    "tip_known": true,

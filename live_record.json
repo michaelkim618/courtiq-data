@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T22:17-05:00",
+ "generated": "2026-11-20T22:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2172,13 +2172,13 @@
   },
   {
    "date": "2026-11-20",
-   "games": 4,
-   "wins": 3,
-   "losses": 1,
-   "pct": 75.0,
-   "cum_wins": 155,
-   "cum_games": 230,
-   "cum_pct": 67.4,
+   "games": 6,
+   "wins": 4,
+   "losses": 2,
+   "pct": 66.7,
+   "cum_wins": 156,
+   "cum_games": 232,
+   "cum_pct": 67.2,
    "picks": [
     {
      "away": "CHA",
@@ -2197,6 +2197,14 @@
      "updated": true
     },
     {
+     "away": "NOP",
+     "home": "OKC",
+     "pick": "OKC",
+     "prob": 76.4,
+     "correct": true,
+     "updated": true
+    },
+    {
      "away": "ORL",
      "home": "BKN",
      "pick": "ORL",
@@ -2211,15 +2219,23 @@
      "prob": 76.0,
      "correct": false,
      "updated": true
+    },
+    {
+     "away": "WAS",
+     "home": "CHI",
+     "pick": "CHI",
+     "prob": 61.4,
+     "correct": false,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 230,
-  "wins": 155,
-  "losses": 75,
-  "pct": 67.4
+  "games": 232,
+  "wins": 156,
+  "losses": 76,
+  "pct": 67.2
  },
  "unscored": 0
 }

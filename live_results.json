@@ -1826,6 +1826,14 @@
  {
   "date": "2026-11-20",
   "season": "2026-2027",
+  "away": "NOP",
+  "home": "OKC",
+  "conf": 76.4,
+  "correct": true
+ },
+ {
+  "date": "2026-11-20",
+  "season": "2026-2027",
   "away": "ORL",
   "home": "BKN",
   "conf": 62.9,
@@ -1837,6 +1845,14 @@
   "away": "TOR",
   "home": "DET",
   "conf": 76.0,
+  "correct": false
+ },
+ {
+  "date": "2026-11-20",
+  "season": "2026-2027",
+  "away": "WAS",
+  "home": "CHI",
+  "conf": 61.4,
   "correct": false
  }
 ]
