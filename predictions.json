@@ -6040,18 +6040,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 61.3,
-   "away": 38.7
+   "home": 64.0,
+   "away": 36.0
   },
   "win_prob_band": {
-   "low": 61.3,
-   "high": 61.3,
-   "gtd_count": 1
+   "low": 64.0,
+   "high": 64.0,
+   "gtd_count": 0
   },
-  "expected_margin": 4.05,
+  "expected_margin": 5.08,
   "expected_score": {
-   "home": 115.8,
-   "away": 111.8
+   "home": 116.3,
+   "away": 111.2
   },
   "margin_breakdown": [
    {
@@ -6076,8 +6076,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.23,
-    "detail": "Dallas Mavericks 2 out (28 min) adds 0.2 pts, LA Clippers 2 out (54 min), no change to the rotation (the player model rates a team better when a low-rated player sits) · Dereck Lively II, Tarik Biberovic, Bradley Beal out all season, already baked into team rating"
+    "points": 1.26,
+    "detail": "Dallas Mavericks 3 out (58 min) adds 1.3 pts, LA Clippers 2 out (54 min), no change to the rotation (the player model rates a team better when a low-rated player sits) · Dereck Lively II, Tarik Biberovic, Bradley Beal out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6110,6 +6110,15 @@
      "cost": -0.09,
      "no_minutes": false,
      "ppg": 3.9
+    },
+    {
+     "player": "P.J. Washington",
+     "mpg": 29.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 12.2
     },
     {
      "player": "Sergio de Larrea",
@@ -6167,15 +6176,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "P.J. Washington",
-     "mpg": 29.3,
-     "value": 0.0,
-     "status": "Doubtful",
-     "ppg": 12.2
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6197,19 +6198,6 @@
      "ppg": 24.2,
      "rpg": 6.6,
      "apg": 6.4
-    },
-    {
-     "player": "P.J. Washington",
-     "player_id": 1629023,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 30.9,
-     "ppg": 14.0,
-     "rpg": 6.7,
-     "apg": 1.3
     },
     {
      "player": "Kyrie Irving",
@@ -6254,7 +6242,7 @@
      "player": "Naji Marshall",
      "player_id": 1630230,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 12,
      "starts": 4,
      "start_rate": 33,
@@ -6288,6 +6276,19 @@
      "ppg": 6.1,
      "rpg": 3.3,
      "apg": 2.3
+    },
+    {
+     "player": "Walter Clayton Jr.",
+     "player_id": 1642383,
+     "position": "G",
+     "starter": false,
+     "games": 14,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.9,
+     "ppg": 7.1,
+     "rpg": 2.9,
+     "apg": 3.6
     }
    ],
    "away": [
@@ -6457,6 +6458,12 @@
     "pick": "DAL",
     "prob": 61.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-21T18:32-05:00",
+    "pick": "DAL",
+    "prob": 64.0,
+    "reason": "P.J. Washington (DAL) now out"
    }
   ]
  },
