@@ -7075,7 +7075,7 @@
     {
      "player": "Dejounte Murray",
      "mpg": 30.4,
-     "nth_out": 3,
+     "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
@@ -7085,7 +7085,7 @@
     {
      "player": "Bennedict Mathurin",
      "mpg": 16.1,
-     "nth_out": 3,
+     "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
@@ -7095,7 +7095,7 @@
     {
      "player": "Trendon Watford",
      "mpg": 15.3,
-     "nth_out": 5,
+     "nth_out": 6,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
@@ -7105,7 +7105,7 @@
     {
      "player": "Bryce McGowens",
      "mpg": 10.7,
-     "nth_out": 3,
+     "nth_out": 4,
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
@@ -7481,15 +7481,15 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 9.0,
-   "away": 91.0
+   "home": 9.1,
+   "away": 90.9
   },
   "win_prob_band": {
-   "low": 9.0,
-   "high": 12.1,
-   "gtd_count": 2
+   "low": 9.1,
+   "high": 12.2,
+   "gtd_count": 3
   },
-  "expected_margin": -18.92,
+  "expected_margin": -18.89,
   "expected_score": {
    "home": 102.2,
    "away": 121.1
@@ -7517,8 +7517,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.03,
-    "detail": "Sacramento Kings 2 out (51 min), no change to the rotation · Sacramento Kings: official report not filed yet, ESPN injury list used · Ben Simmons out all season, already baked into team rating"
+    "points": 0.0,
+    "detail": "Sacramento Kings 1 out (26 min), no change to the rotation · Sacramento Kings: official report not filed yet, ESPN injury list used · Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7554,16 +7554,6 @@
      "source": "espn"
     },
     {
-     "player": "Precious Achiuwa",
-     "mpg": 25.1,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 10.4,
-     "source": "espn"
-    },
-    {
      "player": "Ben Simmons",
      "mpg": 0.0,
      "nth_out": 1,
@@ -7576,7 +7566,15 @@
    "away": []
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Precious Achiuwa",
+     "mpg": 25.1,
+     "value": 0.0,
+     "status": "Questionable",
+     "ppg": 10.4
+    }
+   ],
    "away": [
     {
      "player": "Jayson Tatum",
@@ -7667,6 +7665,19 @@
      "apg": 1.9
     },
     {
+     "player": "Precious Achiuwa",
+     "player_id": 1630173,
+     "position": "F",
+     "starter": false,
+     "games": 12,
+     "starts": 6,
+     "start_rate": 50,
+     "mpg": 24.8,
+     "ppg": 9.5,
+     "rpg": 5.8,
+     "apg": 1.0
+    },
+    {
      "player": "Leaky Black",
      "player_id": 1641778,
      "position": "F",
@@ -7691,19 +7702,6 @@
      "ppg": 4.9,
      "rpg": 1.1,
      "apg": 0.7
-    },
-    {
-     "player": "Malik Monk",
-     "player_id": 1628370,
-     "position": "G",
-     "starter": false,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.7,
-     "ppg": 7.8,
-     "rpg": 1.2,
-     "apg": 3.7
     }
    ],
    "away": [
@@ -7861,6 +7859,12 @@
     "pick": "BOS",
     "prob": 91.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-21T10:02-05:00",
+    "pick": "BOS",
+    "prob": 90.9,
+    "reason": "Precious Achiuwa (SAC) no longer out; Precious Achiuwa (SAC) now questionable"
    }
   ]
  }

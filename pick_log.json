@@ -31714,6 +31714,35 @@
       "away": 91.0,
       "home": 9.0
      }
+    },
+    {
+     "at": "2026-11-21T10:02-05:00",
+     "expected_margin": -18.89,
+     "gtd": {
+      "away": [
+       "Jayson Tatum",
+       "Derrick White"
+      ],
+      "home": [
+       "Precious Achiuwa"
+      ]
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [],
+      "home": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Precious Achiuwa (SAC) no longer out; Precious Achiuwa (SAC) now questionable",
+     "report": "2026-11-21T10:00-05:00",
+     "win_prob": {
+      "away": 90.9,
+      "home": 9.1
+     }
     }
    ]
   },
