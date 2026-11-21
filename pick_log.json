@@ -30201,6 +30201,11 @@
   "2026-11-20_IND@CLE": {
    "away": "IND",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-20T19:15-05:00"
+   },
    "home": "CLE",
    "late": false,
    "locked_at": null,
@@ -30621,6 +30626,11 @@
   "2026-11-20_ORL@BKN": {
    "away": "ORL",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-20T19:15-05:00"
+   },
    "home": "BKN",
    "late": false,
    "locked_at": null,
@@ -31022,6 +31032,11 @@
   "2026-11-20_TOR@DET": {
    "away": "TOR",
    "date": "2026-11-20",
+   "final_check": {
+    "at": "2026-11-20T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-20T19:15-05:00"
+   },
    "home": "DET",
    "late": false,
    "locked_at": null,
@@ -31190,6 +31205,37 @@
      "win_prob": {
       "away": 27.0,
       "home": 73.0
+     }
+    },
+    {
+     "at": "2026-11-20T19:17-05:00",
+     "expected_margin": 9.96,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Kawhi Leonard",
+       "RJ Barrett",
+       "Collin Murray-Boyles"
+      ],
+      "home": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Ronald Holland II",
+       "Taurean Prince"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Ronald Holland II (DET) now out; Cade Cunningham (DET) cleared to play",
+     "report": "2026-11-20T19:15-05:00",
+     "win_prob": {
+      "away": 24.0,
+      "home": 76.0
      }
     }
    ]
