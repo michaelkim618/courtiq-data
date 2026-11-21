@@ -1842,6 +1842,14 @@
  {
   "date": "2026-11-20",
   "season": "2026-2027",
+  "away": "PHX",
+  "home": "UTA",
+  "conf": 63.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-20",
+  "season": "2026-2027",
   "away": "TOR",
   "home": "DET",
   "conf": 76.0,
