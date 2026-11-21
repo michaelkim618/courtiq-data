@@ -7605,18 +7605,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 9.6,
-   "away": 90.4
+   "home": 11.7,
+   "away": 88.3
   },
   "win_prob_band": {
-   "low": 9.6,
-   "high": 12.8,
-   "gtd_count": 3
+   "low": 11.7,
+   "high": 11.7,
+   "gtd_count": 1
   },
-  "expected_margin": -18.44,
+  "expected_margin": -16.8,
   "expected_score": {
-   "home": 102.4,
-   "away": 120.9
+   "home": 103.3,
+   "away": 120.1
   },
   "margin_breakdown": [
    {
@@ -7641,8 +7641,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "Sacramento Kings 1 out (26 min), no change to the rotation · Sacramento Kings: official report not filed yet, ESPN injury list used · Ben Simmons out all season, already baked into team rating"
+    "points": 1.64,
+    "detail": "Sacramento Kings 1 out (26 min), no change to the rotation, Boston Celtics 3 out (79 min) costs 1.6 pts · Sacramento Kings: official report not filed yet, ESPN injury list used · Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7687,7 +7687,35 @@
      "source": "espn"
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Jayson Tatum",
+     "mpg": 33.1,
+     "nth_out": 1,
+     "value": 11.1,
+     "cost": -2.33,
+     "no_minutes": false,
+     "ppg": 25.8
+    },
+    {
+     "player": "Derrick White",
+     "mpg": 28.7,
+     "nth_out": 1,
+     "value": 0.4,
+     "cost": -0.07,
+     "no_minutes": false,
+     "ppg": 13.1
+    },
+    {
+     "player": "Mitchell Robinson",
+     "mpg": 17.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 5.6
+    }
+   ]
   },
   "gtd": {
    "home": [
@@ -7699,22 +7727,7 @@
      "ppg": 10.4
     }
    ],
-   "away": [
-    {
-     "player": "Jayson Tatum",
-     "mpg": 33.1,
-     "value": 11.1,
-     "status": "Questionable",
-     "ppg": 25.8
-    },
-    {
-     "player": "Derrick White",
-     "mpg": 28.7,
-     "value": 0.4,
-     "status": "Questionable",
-     "ppg": 13.1
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7830,32 +7843,6 @@
    ],
    "away": [
     {
-     "player": "Jayson Tatum",
-     "player_id": 1628369,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 34.0,
-     "ppg": 26.4,
-     "rpg": 6.6,
-     "apg": 6.8
-    },
-    {
-     "player": "Derrick White",
-     "player_id": 1628401,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 12.7,
-     "rpg": 3.0,
-     "apg": 5.0
-    },
-    {
      "player": "Paul George",
      "player_id": 202331,
      "position": "F",
@@ -7867,19 +7854,6 @@
      "ppg": 19.9,
      "rpg": 5.5,
      "apg": 3.7
-    },
-    {
-     "player": "Mitchell Robinson",
-     "player_id": 1629011,
-     "position": "C",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 17.5,
-     "ppg": 5.1,
-     "rpg": 5.4,
-     "apg": 0.9
     },
     {
      "player": "Jordan Walsh",
@@ -7898,7 +7872,7 @@
      "player": "Payton Pritchard",
      "player_id": 1630202,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 0,
      "start_rate": 0,
@@ -7911,7 +7885,7 @@
      "player": "Neemias Queta",
      "player_id": 1629674,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 14,
      "starts": 0,
      "start_rate": 0,
@@ -7924,7 +7898,7 @@
      "player": "Sam Hauser",
      "player_id": 1630573,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 0,
      "start_rate": 0,
@@ -7932,6 +7906,45 @@
      "ppg": 8.4,
      "rpg": 3.1,
      "apg": 1.1
+    },
+    {
+     "player": "Baylor Scheierman",
+     "player_id": 1631248,
+     "position": "G",
+     "starter": false,
+     "games": 15,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.4,
+     "ppg": 5.7,
+     "rpg": 3.7,
+     "apg": 1.5
+    },
+    {
+     "player": "Hugo González",
+     "player_id": 1642864,
+     "position": "G",
+     "starter": false,
+     "games": 15,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.8,
+     "ppg": 3.9,
+     "rpg": 2.5,
+     "apg": 0.6
+    },
+    {
+     "player": "Luka Garza",
+     "player_id": 1630568,
+     "position": "C",
+     "starter": false,
+     "games": 15,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.4,
+     "ppg": 5.5,
+     "rpg": 2.8,
+     "apg": 1.7
     }
    ]
   },
@@ -7943,10 +7956,10 @@
   "data_through": "2026-11-20",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -17.75,
+   "expected_margin": -15.35,
    "win_prob": {
-    "home": 11.0,
-    "away": 89.0
+    "home": 14.5,
+    "away": 85.5
    }
   },
   "tip_et": "2026-11-21T22:00-05:00",
@@ -8007,6 +8020,12 @@
     "pick": "BOS",
     "prob": 90.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-21T16:02-05:00",
+    "pick": "BOS",
+    "prob": 88.3,
+    "reason": "Derrick White (BOS) now out; Jayson Tatum (BOS) now out; Mitchell Robinson (BOS) now out"
    }
   ]
  }
