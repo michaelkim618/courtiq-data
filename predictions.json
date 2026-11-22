@@ -6757,18 +6757,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 20.9,
-   "away": 79.1
+   "home": 20.5,
+   "away": 79.5
   },
   "win_prob_band": {
-   "low": 20.9,
-   "high": 26.2,
-   "gtd_count": 2
+   "low": 20.5,
+   "high": 20.5,
+   "gtd_count": 0
   },
-  "expected_margin": -11.42,
+  "expected_margin": -11.63,
   "expected_score": {
-   "home": 104.9,
-   "away": 116.4
+   "home": 104.8,
+   "away": 116.5
   },
   "margin_breakdown": [
    {
@@ -6793,8 +6793,8 @@
    },
    {
     "label": "Absences",
-    "points": -5.32,
-    "detail": "Golden State Warriors 5 out (122 min) costs 5.3 pts · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment"
+    "points": -5.53,
+    "detail": "Golden State Warriors 5 out (122 min) costs 5.3 pts, Boston Celtics 2 out (46 min) adds 0.2 pts (the player model rates a team better when a low-rated player sits) · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -6865,26 +6865,30 @@
      "ppg": 12.2
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Paul George",
+     "mpg": 28.9,
+     "nth_out": 1,
+     "value": 5.6,
+     "cost": -1.18,
+     "no_minutes": false,
+     "ppg": 18.5
+    },
+    {
+     "player": "Mitchell Robinson",
+     "mpg": 17.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 5.6
+    }
+   ]
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jayson Tatum",
-     "mpg": 33.1,
-     "value": 11.1,
-     "status": "Questionable",
-     "ppg": 25.8
-    },
-    {
-     "player": "Derrick White",
-     "mpg": 28.7,
-     "value": 0.4,
-     "status": "Questionable",
-     "ppg": 13.1
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7013,19 +7017,6 @@
      "apg": 6.8
     },
     {
-     "player": "Paul George",
-     "player_id": 202331,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 30.1,
-     "ppg": 19.9,
-     "rpg": 5.6,
-     "apg": 3.8
-    },
-    {
      "player": "Derrick White",
      "player_id": 1628401,
      "position": "G",
@@ -7037,19 +7028,6 @@
      "ppg": 12.7,
      "rpg": 3.0,
      "apg": 5.0
-    },
-    {
-     "player": "Mitchell Robinson",
-     "player_id": 1629011,
-     "position": "C",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 17.5,
-     "ppg": 5.1,
-     "rpg": 5.4,
-     "apg": 0.9
     },
     {
      "player": "Jordan Walsh",
@@ -7068,7 +7046,7 @@
      "player": "Payton Pritchard",
      "player_id": 1630202,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -7081,7 +7059,7 @@
      "player": "Neemias Queta",
      "player_id": 1629674,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 0,
      "start_rate": 0,
@@ -7102,6 +7080,32 @@
      "ppg": 8.8,
      "rpg": 3.3,
      "apg": 1.2
+    },
+    {
+     "player": "Baylor Scheierman",
+     "player_id": 1631248,
+     "position": "G",
+     "starter": false,
+     "games": 16,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.3,
+     "ppg": 5.6,
+     "rpg": 3.7,
+     "apg": 1.4
+    },
+    {
+     "player": "Hugo González",
+     "player_id": 1642864,
+     "position": "G",
+     "starter": false,
+     "games": 16,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.1,
+     "ppg": 4.0,
+     "rpg": 2.6,
+     "apg": 0.6
     }
    ]
   },
@@ -7113,10 +7117,10 @@
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -9.51,
+   "expected_margin": -8.34,
    "win_prob": {
-    "home": 25.6,
-    "away": 74.4
+    "home": 28.3,
+    "away": 71.7
    }
   },
   "tip_et": "2026-11-22T20:30-05:00",
@@ -7171,6 +7175,12 @@
     "pick": "BOS",
     "prob": 79.1,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-22T16:02-05:00",
+    "pick": "BOS",
+    "prob": 79.5,
+    "reason": "Mitchell Robinson (BOS) now out; Paul George (BOS) now out; Derrick White (BOS) cleared to play; Jayson Tatum (BOS) cleared to play"
    }
   ]
  }
