@@ -3575,34 +3575,29 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 39.4,
-   "away": 60.6
+   "home": 52.0,
+   "away": 48.0
   },
   "win_prob_band": {
-   "low": 39.4,
-   "high": 44.7,
+   "low": 52.0,
+   "high": 57.1,
    "gtd_count": 2
   },
-  "expected_margin": -3.79,
+  "expected_margin": 0.72,
   "expected_score": {
-   "home": 111.2,
-   "away": 115.0
+   "home": 113.5,
+   "away": 112.8
   },
   "margin_breakdown": [
    {
-    "label": "Player Ratings",
-    "points": -4.85,
-    "detail": "Atlanta Hawks vs Detroit Pistons: each rostered player's value x his expected minutes, full strength"
+    "label": "Net Rating Diff",
+    "points": -3.09,
+    "detail": "Atlanta Hawks +2.1 vs Detroit Pistons +5.2, proj. 100.5 possessions"
    },
    {
     "label": "Home Advantage",
-    "points": 1.21,
-    "detail": "Fitted with the player ratings"
-   },
-   {
-    "label": "Season Form",
-    "points": -0.71,
-    "detail": "Atlanta Hawks +2.7 vs Detroit Pistons +5.8 points per game so far, weighted by games played"
+    "points": 2.3,
+    "detail": "League-measured average"
    },
    {
     "label": "Back-to-Back",
@@ -3611,8 +3606,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.56,
-    "detail": "Atlanta Hawks 4 out (70 min) adds 0.5 pts, Detroit Pistons 4 out (72 min) costs 0.1 pts (the player model rates a team better when a low-rated player sits) · Henri Veesaar out all season, already baked into team rating"
+    "points": 1.51,
+    "detail": "Atlanta Hawks 4 out (70 min) costing 0.8 pts, Detroit Pistons 4 out (72 min) costing 2.3 pts · Henri Veesaar out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3962,18 +3957,10 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Detroit Pistons",
+  "model_winner": "Atlanta Hawks",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v1.8",
   "data_through": "2026-11-21",
-  "team_model": {
-   "model_version": "nba-v1.8",
-   "expected_margin": 0.72,
-   "win_prob": {
-    "home": 52.0,
-    "away": 48.0
-   }
-  },
   "tip_et": "2026-11-22T15:30-05:00",
   "injury_report": {
    "final_check": null
@@ -4001,6 +3988,12 @@
     "at": "2026-11-22T09:30-05:00",
     "pick": "DET",
     "prob": 60.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-22T10:33-05:00",
+    "pick": "ATL",
+    "prob": 52.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
@@ -4104,34 +4097,29 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 47.4,
-   "away": 52.6
+   "home": 47.9,
+   "away": 52.1
   },
   "win_prob_band": {
-   "low": 39.9,
-   "high": 56.1,
+   "low": 40.6,
+   "high": 56.4,
    "gtd_count": 2
   },
-  "expected_margin": -0.93,
+  "expected_margin": -0.75,
   "expected_score": {
-   "home": 114.9,
+   "home": 115.0,
    "away": 115.8
   },
   "margin_breakdown": [
    {
-    "label": "Player Ratings",
-    "points": -2.11,
-    "detail": "Miami Heat vs Oklahoma City Thunder: each rostered player's value x his expected minutes, full strength"
+    "label": "Net Rating Diff",
+    "points": -4.89,
+    "detail": "Miami Heat +0.6 vs Oklahoma City Thunder +5.4, proj. 101.4 possessions"
    },
    {
     "label": "Home Advantage",
-    "points": 1.21,
-    "detail": "Fitted with the player ratings"
-   },
-   {
-    "label": "Season Form",
-    "points": -0.86,
-    "detail": "Miami Heat +0.9 vs Oklahoma City Thunder +4.6 points per game so far, weighted by games played"
+    "points": 2.3,
+    "detail": "League-measured average"
    },
    {
     "label": "Back-to-Back",
@@ -4140,8 +4128,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.83,
-    "detail": "Oklahoma City Thunder 6 out (128 min) costs 0.8 pts · Thomas Sorber out all season, already baked into team rating"
+    "points": 1.85,
+    "detail": "Oklahoma City Thunder 6 out (128 min) costing 1.9 pts · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4474,16 +4462,8 @@
   "actual_winner": null,
   "model_winner": "Oklahoma City Thunder",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v1.8",
   "data_through": "2026-11-21",
-  "team_model": {
-   "model_version": "nba-v1.8",
-   "expected_margin": -0.75,
-   "win_prob": {
-    "home": 47.9,
-    "away": 52.1
-   }
-  },
   "tip_et": "2026-11-22T18:00-05:00",
   "injury_report": {
    "final_check": null
@@ -4511,6 +4491,12 @@
     "at": "2026-11-22T09:30-05:00",
     "pick": "OKC",
     "prob": 52.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-22T10:33-05:00",
+    "pick": "OKC",
+    "prob": 52.1,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
@@ -4614,34 +4600,29 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 34.5,
-   "away": 65.5
+   "home": 46.3,
+   "away": 53.7
   },
   "win_prob_band": {
-   "low": 34.5,
-   "high": 34.5,
+   "low": 46.3,
+   "high": 46.3,
    "gtd_count": 0
   },
-  "expected_margin": -5.64,
+  "expected_margin": -1.36,
   "expected_score": {
-   "home": 110.0,
-   "away": 115.6
+   "home": 112.1,
+   "away": 113.5
   },
   "margin_breakdown": [
    {
-    "label": "Player Ratings",
-    "points": -6.06,
-    "detail": "Washington Wizards vs Orlando Magic: each rostered player's value x his expected minutes, full strength"
+    "label": "Net Rating Diff",
+    "points": -4.96,
+    "detail": "Washington Wizards -6.5 vs Orlando Magic -1.6, proj. 99.7 possessions"
    },
    {
     "label": "Home Advantage",
-    "points": 1.21,
-    "detail": "Fitted with the player ratings"
-   },
-   {
-    "label": "Season Form",
-    "points": -0.79,
-    "detail": "Washington Wizards -6.5 vs Orlando Magic -3.1 points per game so far, weighted by games played"
+    "points": 2.3,
+    "detail": "League-measured average"
    },
    {
     "label": "Back-to-Back",
@@ -4650,8 +4631,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "Washington Wizards 3 out (52 min), no change to the rotation, Orlando Magic 3 out (48 min), no change to the rotation · Reece Beekman, Izaiyah Nelson out all season, already baked into team rating"
+    "points": 1.3,
+    "detail": "Washington Wizards 3 out (52 min) costing 0.7 pts, Orlando Magic 3 out (48 min) costing 2.0 pts · Reece Beekman, Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4977,16 +4958,8 @@
   "actual_winner": null,
   "model_winner": "Orlando Magic",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v1.8",
   "data_through": "2026-11-21",
-  "team_model": {
-   "model_version": "nba-v1.8",
-   "expected_margin": -1.36,
-   "win_prob": {
-    "home": 46.3,
-    "away": 53.7
-   }
-  },
   "tip_et": "2026-11-22T19:00-05:00",
   "injury_report": {
    "final_check": null
@@ -5014,6 +4987,12 @@
     "at": "2026-11-22T09:30-05:00",
     "pick": "ORL",
     "prob": 65.5,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-22T10:33-05:00",
+    "pick": "ORL",
+    "prob": 53.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
@@ -5117,34 +5096,29 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 26.4,
-   "away": 73.6
+   "home": 32.0,
+   "away": 68.0
   },
   "win_prob_band": {
-   "low": 21.7,
-   "high": 26.4,
+   "low": 27.0,
+   "high": 32.0,
    "gtd_count": 2
   },
-  "expected_margin": -8.93,
+  "expected_margin": -6.76,
   "expected_score": {
-   "home": 112.2,
-   "away": 121.1
+   "home": 113.3,
+   "away": 120.0
   },
   "margin_breakdown": [
    {
-    "label": "Player Ratings",
-    "points": -9.44,
-    "detail": "Chicago Bulls vs Denver Nuggets: each rostered player's value x his expected minutes, full strength"
+    "label": "Net Rating Diff",
+    "points": -8.22,
+    "detail": "Chicago Bulls -6.6 vs Denver Nuggets +1.5, proj. 101.3 possessions"
    },
    {
     "label": "Home Advantage",
-    "points": 1.21,
-    "detail": "Fitted with the player ratings"
-   },
-   {
-    "label": "Season Form",
-    "points": -2.13,
-    "detail": "Chicago Bulls -8.1 vs Denver Nuggets +1.4 points per game so far, weighted by games played"
+    "points": 2.3,
+    "detail": "League-measured average"
    },
    {
     "label": "Back-to-Back",
@@ -5153,8 +5127,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.43,
-    "detail": "Chicago Bulls 1 out (30 min) adds 1.4 pts, Denver Nuggets 1 out (15 min), no change to the rotation (the player model rates a team better when a low-rated player sits)"
+    "points": -0.84,
+    "detail": "Chicago Bulls 1 out (30 min) costing 1.0 pts, Denver Nuggets 1 out (15 min) costing 0.1 pts"
    }
   ],
   "ratings": {
@@ -5443,16 +5417,8 @@
   "actual_winner": null,
   "model_winner": "Denver Nuggets",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v1.8",
   "data_through": "2026-11-21",
-  "team_model": {
-   "model_version": "nba-v1.8",
-   "expected_margin": -6.76,
-   "win_prob": {
-    "home": 32.0,
-    "away": 68.0
-   }
-  },
   "tip_et": "2026-11-22T19:00-05:00",
   "injury_report": {
    "final_check": null
@@ -5480,6 +5446,12 @@
     "at": "2026-11-22T09:30-05:00",
     "pick": "DEN",
     "prob": 73.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-22T10:33-05:00",
+    "pick": "DEN",
+    "prob": 68.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
@@ -5583,34 +5555,29 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 43.2,
-   "away": 56.8
+   "home": 41.4,
+   "away": 58.6
   },
   "win_prob_band": {
-   "low": 43.2,
-   "high": 43.2,
-   "gtd_count": 0
+   "low": 41.4,
+   "high": 41.4,
+   "gtd_count": 1
   },
-  "expected_margin": -2.42,
+  "expected_margin": -3.14,
   "expected_score": {
-   "home": 112.6,
-   "away": 115.1
+   "home": 112.3,
+   "away": 115.4
   },
   "margin_breakdown": [
    {
-    "label": "Player Ratings",
-    "points": -0.86,
-    "detail": "Utah Jazz vs Dallas Mavericks: each rostered player's value x his expected minutes, full strength"
+    "label": "Net Rating Diff",
+    "points": -4.66,
+    "detail": "Utah Jazz -6.1 vs Dallas Mavericks -1.5, proj. 100.8 possessions"
    },
    {
     "label": "Home Advantage",
-    "points": 1.21,
-    "detail": "Fitted with the player ratings"
-   },
-   {
-    "label": "Season Form",
-    "points": -1.49,
-    "detail": "Utah Jazz -7.4 vs Dallas Mavericks -0.9 points per game so far, weighted by games played"
+    "points": 2.3,
+    "detail": "League-measured average"
    },
    {
     "label": "Back-to-Back",
@@ -5619,8 +5586,13 @@
    },
    {
     "label": "Absences",
-    "points": -3.78,
-    "detail": "Utah Jazz 3 out (76 min) costs 2.5 pts, Dallas Mavericks 3 out (58 min) adds 1.3 pts (the player model rates a team better when a low-rated player sits) · Dallas Mavericks: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": -1.65,
+    "detail": "Utah Jazz 3 out (76 min) costing 1.6 pts, Dallas Mavericks 1 out (20 min) · Dallas Mavericks: official report not filed yet, ESPN injury list used · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+   },
+   {
+    "label": "Returning Players",
+    "points": -1.64,
+    "detail": "Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
    }
   ],
   "ratings": {
@@ -5675,26 +5647,6 @@
    ],
    "away": [
     {
-     "player": "Tobi Lawal",
-     "mpg": 7.8,
-     "nth_out": 1,
-     "value": 0.4,
-     "cost": -0.09,
-     "no_minutes": false,
-     "ppg": 3.9,
-     "source": "espn"
-    },
-    {
-     "player": "P.J. Washington",
-     "mpg": 29.3,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 12.2,
-     "source": "espn"
-    },
-    {
      "player": "Sergio de Larrea",
      "mpg": 20.4,
      "nth_out": 1,
@@ -5726,7 +5678,15 @@
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "P.J. Washington",
+     "mpg": 29.3,
+     "value": 0.0,
+     "status": "Questionable",
+     "ppg": 12.2
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -5868,6 +5828,19 @@
      "apg": 4.4
     },
     {
+     "player": "P.J. Washington",
+     "player_id": 1629023,
+     "position": "F",
+     "starter": true,
+     "games": 15,
+     "starts": 15,
+     "start_rate": 100,
+     "mpg": 30.9,
+     "ppg": 14.0,
+     "rpg": 6.7,
+     "apg": 1.3
+    },
+    {
      "player": "Daniel Gafford",
      "player_id": 1629655,
      "position": "F",
@@ -5897,7 +5870,7 @@
      "player": "Naji Marshall",
      "player_id": 1630230,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 13,
      "starts": 4,
      "start_rate": 31,
@@ -5931,19 +5904,6 @@
      "ppg": 5.6,
      "rpg": 3.3,
      "apg": 2.3
-    },
-    {
-     "player": "Walter Clayton Jr.",
-     "player_id": 1642383,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.4,
-     "ppg": 7.7,
-     "rpg": 3.1,
-     "apg": 3.4
     }
    ]
   },
@@ -5951,16 +5911,8 @@
   "actual_winner": null,
   "model_winner": "Dallas Mavericks",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v1.8",
   "data_through": "2026-11-21",
-  "team_model": {
-   "model_version": "nba-v1.8",
-   "expected_margin": -3.05,
-   "win_prob": {
-    "home": 41.7,
-    "away": 58.3
-   }
-  },
   "tip_et": "2026-11-22T19:00-05:00",
   "injury_report": {
    "final_check": null
@@ -5989,6 +5941,12 @@
     "pick": "DAL",
     "prob": 56.8,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-22T10:33-05:00",
+    "pick": "DAL",
+    "prob": 58.6,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
    }
   ]
  },
@@ -6091,34 +6049,29 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 71.7,
-   "away": 28.3
+   "home": 75.6,
+   "away": 24.4
   },
   "win_prob_band": {
-   "low": 68.3,
-   "high": 75.4,
+   "low": 72.6,
+   "high": 79.0,
    "gtd_count": 3
   },
-  "expected_margin": 8.1,
+  "expected_margin": 10.06,
   "expected_score": {
-   "home": 115.2,
-   "away": 107.1
+   "home": 116.2,
+   "away": 106.1
   },
   "margin_breakdown": [
    {
-    "label": "Player Ratings",
-    "points": 7.57,
-    "detail": "New York Knicks vs Indiana Pacers: each rostered player's value x his expected minutes, full strength"
+    "label": "Net Rating Diff",
+    "points": 8.35,
+    "detail": "New York Knicks +4.6 vs Indiana Pacers -3.8, proj. 98.6 possessions"
    },
    {
     "label": "Home Advantage",
-    "points": 1.21,
-    "detail": "Fitted with the player ratings"
-   },
-   {
-    "label": "Season Form",
-    "points": 2.25,
-    "detail": "New York Knicks +6.1 vs Indiana Pacers -3.8 points per game so far, weighted by games played"
+    "points": 2.3,
+    "detail": "League-measured average"
    },
    {
     "label": "Back-to-Back",
@@ -6127,8 +6080,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.43,
-    "detail": "Indiana Pacers 4 out (79 min) adds 0.4 pts (the player model rates a team better when a low-rated player sits)"
+    "points": 1.92,
+    "detail": "Indiana Pacers 4 out (79 min) costing 1.9 pts"
    }
   ],
   "ratings": {
@@ -6442,16 +6395,8 @@
   "actual_winner": null,
   "model_winner": "New York Knicks",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v1.8",
   "data_through": "2026-11-21",
-  "team_model": {
-   "model_version": "nba-v1.8",
-   "expected_margin": 10.06,
-   "win_prob": {
-    "home": 75.6,
-    "away": 24.4
-   }
-  },
   "tip_et": "2026-11-22T20:00-05:00",
   "injury_report": {
    "final_check": null
@@ -6479,6 +6424,12 @@
     "at": "2026-11-22T09:30-05:00",
     "pick": "NYK",
     "prob": 71.7,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-22T10:33-05:00",
+    "pick": "NYK",
+    "prob": 75.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
@@ -6582,34 +6533,29 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 26.9,
-   "away": 73.1
+   "home": 25.6,
+   "away": 74.4
   },
   "win_prob_band": {
-   "low": 26.9,
-   "high": 26.9,
-   "gtd_count": 0
+   "low": 25.6,
+   "high": 31.2,
+   "gtd_count": 2
   },
-  "expected_margin": -8.69,
+  "expected_margin": -9.51,
   "expected_score": {
-   "home": 106.3,
-   "away": 115.0
+   "home": 105.9,
+   "away": 115.4
   },
   "margin_breakdown": [
    {
-    "label": "Player Ratings",
-    "points": -7.33,
-    "detail": "Golden State Warriors vs Boston Celtics: each rostered player's value x his expected minutes, full strength"
+    "label": "Net Rating Diff",
+    "points": -8.05,
+    "detail": "Golden State Warriors -0.3 vs Boston Celtics +7.9, proj. 97.9 possessions"
    },
    {
     "label": "Home Advantage",
-    "points": 1.21,
-    "detail": "Fitted with the player ratings"
-   },
-   {
-    "label": "Season Form",
-    "points": -2.66,
-    "detail": "Golden State Warriors -1.1 vs Boston Celtics +10.5 points per game so far, weighted by games played"
+    "points": 2.3,
+    "detail": "League-measured average"
    },
    {
     "label": "Back-to-Back",
@@ -6618,8 +6564,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.41,
-    "detail": "Golden State Warriors 5 out (122 min) costs 4.1 pts, Boston Celtics 3 out (79 min) costs 1.6 pts · Boston Celtics: official report not filed yet, ESPN injury list used"
+    "points": -6.26,
+    "detail": "Golden State Warriors 5 out (122 min) costing 6.3 pts"
    }
   ],
   "ratings": {
@@ -6690,42 +6636,26 @@
      "ppg": 12.2
     }
    ],
+   "away": []
+  },
+  "gtd": {
+   "home": [],
    "away": [
     {
      "player": "Jayson Tatum",
      "mpg": 33.1,
-     "nth_out": 1,
      "value": 11.1,
-     "cost": -2.33,
-     "no_minutes": false,
-     "ppg": 25.8,
-     "source": "espn"
+     "status": "Questionable",
+     "ppg": 25.8
     },
     {
      "player": "Derrick White",
      "mpg": 28.7,
-     "nth_out": 1,
      "value": 0.4,
-     "cost": -0.07,
-     "no_minutes": false,
-     "ppg": 13.1,
-     "source": "espn"
-    },
-    {
-     "player": "Mitchell Robinson",
-     "mpg": 17.4,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": false,
-     "ppg": 5.6,
-     "source": "espn"
+     "status": "Questionable",
+     "ppg": 13.1
     }
    ]
-  },
-  "gtd": {
-   "home": [],
-   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6841,6 +6771,19 @@
    ],
    "away": [
     {
+     "player": "Jayson Tatum",
+     "player_id": 1628369,
+     "position": "F",
+     "starter": true,
+     "games": 14,
+     "starts": 14,
+     "start_rate": 100,
+     "mpg": 34.0,
+     "ppg": 26.4,
+     "rpg": 6.6,
+     "apg": 6.8
+    },
+    {
      "player": "Paul George",
      "player_id": 202331,
      "position": "F",
@@ -6852,6 +6795,32 @@
      "ppg": 19.9,
      "rpg": 5.6,
      "apg": 3.8
+    },
+    {
+     "player": "Derrick White",
+     "player_id": 1628401,
+     "position": "G",
+     "starter": true,
+     "games": 15,
+     "starts": 15,
+     "start_rate": 100,
+     "mpg": 29.9,
+     "ppg": 12.7,
+     "rpg": 3.0,
+     "apg": 5.0
+    },
+    {
+     "player": "Mitchell Robinson",
+     "player_id": 1629011,
+     "position": "C",
+     "starter": true,
+     "games": 14,
+     "starts": 14,
+     "start_rate": 100,
+     "mpg": 17.5,
+     "ppg": 5.1,
+     "rpg": 5.4,
+     "apg": 0.9
     },
     {
      "player": "Jordan Walsh",
@@ -6870,7 +6839,7 @@
      "player": "Payton Pritchard",
      "player_id": 1630202,
      "position": "G",
-     "starter": true,
+     "starter": false,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -6883,7 +6852,7 @@
      "player": "Neemias Queta",
      "player_id": 1629674,
      "position": "C",
-     "starter": true,
+     "starter": false,
      "games": 15,
      "starts": 0,
      "start_rate": 0,
@@ -6896,7 +6865,7 @@
      "player": "Sam Hauser",
      "player_id": 1630573,
      "position": "F",
-     "starter": true,
+     "starter": false,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -6904,45 +6873,6 @@
      "ppg": 8.8,
      "rpg": 3.3,
      "apg": 1.2
-    },
-    {
-     "player": "Baylor Scheierman",
-     "player_id": 1631248,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.3,
-     "ppg": 5.6,
-     "rpg": 3.7,
-     "apg": 1.4
-    },
-    {
-     "player": "Hugo González",
-     "player_id": 1642864,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.1,
-     "ppg": 4.0,
-     "rpg": 2.6,
-     "apg": 0.6
-    },
-    {
-     "player": "Luka Garza",
-     "player_id": 1630568,
-     "position": "C",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 12.7,
-     "ppg": 5.4,
-     "rpg": 2.9,
-     "apg": 1.6
     }
    ]
   },
@@ -6950,16 +6880,8 @@
   "actual_winner": null,
   "model_winner": "Boston Celtics",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v1.8",
   "data_through": "2026-11-21",
-  "team_model": {
-   "model_version": "nba-v1.8",
-   "expected_margin": -7.11,
-   "win_prob": {
-    "home": 31.2,
-    "away": 68.8
-   }
-  },
   "tip_et": "2026-11-22T20:30-05:00",
   "injury_report": {
    "final_check": null
@@ -6987,6 +6909,12 @@
     "at": "2026-11-22T09:30-05:00",
     "pick": "BOS",
     "prob": 73.1,
+    "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-22T10:33-05:00",
+    "pick": "BOS",
+    "prob": 74.4,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
   ]
