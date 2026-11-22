@@ -4124,18 +4124,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 68.7,
-   "away": 31.3
+   "home": 60.5,
+   "away": 39.5
   },
   "win_prob_band": {
-   "low": 61.7,
-   "high": 68.7,
-   "gtd_count": 1
+   "low": 60.5,
+   "high": 60.5,
+   "gtd_count": 0
   },
-  "expected_margin": 6.9,
+  "expected_margin": 3.78,
   "expected_score": {
-   "home": 118.8,
-   "away": 111.9
+   "home": 117.3,
+   "away": 113.5
   },
   "margin_breakdown": [
    {
@@ -4160,8 +4160,8 @@
    },
    {
     "label": "Absences",
-    "points": 8.61,
-    "detail": "Oklahoma City Thunder 7 out (160 min) costs 8.6 pts · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
+    "points": 5.49,
+    "detail": "Miami Heat 1 out (30 min) costs 3.1 pts, Oklahoma City Thunder 7 out (160 min) costs 8.6 pts · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4185,7 +4185,17 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Giannis Antetokounmpo",
+     "mpg": 29.8,
+     "nth_out": 1,
+     "value": 12.8,
+     "cost": -2.69,
+     "no_minutes": false,
+     "ppg": 26.1
+    }
+   ],
    "away": [
     {
      "player": "Shai Gilgeous-Alexander",
@@ -4261,15 +4271,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Giannis Antetokounmpo",
-     "mpg": 29.8,
-     "value": 12.8,
-     "status": "Questionable",
-     "ppg": 26.1
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4306,19 +4308,6 @@
      "apg": 3.1
     },
     {
-     "player": "Giannis Antetokounmpo",
-     "player_id": 203507,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 32.2,
-     "ppg": 28.2,
-     "rpg": 12.6,
-     "apg": 5.5
-    },
-    {
      "player": "Andrew Wiggins",
      "player_id": 203952,
      "position": "F",
@@ -4348,7 +4337,7 @@
      "player": "Pelle Larsson",
      "player_id": 1641796,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 12,
      "starts": 0,
      "start_rate": 0,
@@ -4382,6 +4371,19 @@
      "ppg": 7.2,
      "rpg": 1.9,
      "apg": 1.4
+    },
+    {
+     "player": "Tim Hardaway Jr.",
+     "player_id": 203501,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.2,
+     "ppg": 4.5,
+     "rpg": 1.5,
+     "apg": 0.7
     }
    ],
    "away": [
@@ -4499,10 +4501,10 @@
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 2.33,
+   "expected_margin": -0.36,
    "win_prob": {
-    "home": 56.4,
-    "away": 43.6
+    "home": 49.0,
+    "away": 51.0
    }
   },
   "tip_et": "2026-11-22T18:00-05:00",
@@ -4563,6 +4565,12 @@
     "pick": "MIA",
     "prob": 68.7,
     "reason": "Shai Gilgeous-Alexander (OKC) now out"
+   },
+   {
+    "at": "2026-11-22T17:02-05:00",
+    "pick": "MIA",
+    "prob": 60.5,
+    "reason": "Giannis Antetokounmpo (MIA) now out"
    }
   ]
  },
@@ -5196,9 +5204,9 @@
    "away": 76.0
   },
   "win_prob_band": {
-   "low": 22.8,
+   "low": 24.0,
    "high": 24.0,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -10.0,
   "expected_score": {
@@ -5295,15 +5303,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jalen Smith",
-     "mpg": 23.0,
-     "value": 2.5,
-     "status": "Probable",
-     "ppg": 12.8
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5603,6 +5603,12 @@
     "pick": "DEN",
     "prob": 76.0,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-22T17:02-05:00",
+    "pick": "DEN",
+    "prob": 76.0,
+    "reason": "Jalen Smith (CHI) cleared to play"
    }
   ]
  },

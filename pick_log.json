@@ -34132,6 +34132,33 @@
       "away": 76.0,
       "home": 24.0
      }
+    },
+    {
+     "at": "2026-11-22T17:02-05:00",
+     "expected_margin": -10.0,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson",
+       "Nic Claxton"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Jalen Smith (CHI) cleared to play",
+     "report": "2026-11-22T17:00-05:00",
+     "win_prob": {
+      "away": 76.0,
+      "home": 24.0
+     }
     }
    ]
   },
@@ -35070,6 +35097,38 @@
      "win_prob": {
       "away": 31.3,
       "home": 68.7
+     }
+    },
+    {
+     "at": "2026-11-22T17:02-05:00",
+     "expected_margin": 3.78,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Shai Gilgeous-Alexander",
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Giannis Antetokounmpo"
+      ]
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Giannis Antetokounmpo (MIA) now out",
+     "report": "2026-11-22T17:00-05:00",
+     "win_prob": {
+      "away": 39.5,
+      "home": 60.5
      }
     }
    ]
