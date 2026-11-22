@@ -6526,7 +6526,7 @@
  },
  {
   "date": "2026-11-21",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Memphis Grizzlies",
   "home": "Minnesota Timberwolves",
   "away_code": "MEM",
@@ -6773,229 +6773,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 16,
-    "away": 16
-   },
-   "home": [
-    {
-     "player": "Jaden McDaniels",
-     "player_id": 1630183,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 33.9,
-     "ppg": 17.1,
-     "rpg": 6.0,
-     "apg": 3.6
-    },
-    {
-     "player": "Jonathan Kuminga",
-     "player_id": 1630228,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 30.7,
-     "ppg": 13.1,
-     "rpg": 5.5,
-     "apg": 2.8
-    },
-    {
-     "player": "Rudy Gobert",
-     "player_id": 203497,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 29.2,
-     "ppg": 7.7,
-     "rpg": 10.9,
-     "apg": 1.6
-    },
-    {
-     "player": "LaMelo Ball",
-     "player_id": 1630163,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 28.1,
-     "ppg": 17.6,
-     "rpg": 4.3,
-     "apg": 5.7
-    },
-    {
-     "player": "Ayo Dosunmu",
-     "player_id": 1630245,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 31.6,
-     "ppg": 17.8,
-     "rpg": 4.6,
-     "apg": 3.5
-    },
-    {
-     "player": "Terrence Shannon Jr",
-     "player_id": 1630545,
-     "position": "G",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.7,
-     "ppg": 12.7,
-     "rpg": 3.4,
-     "apg": 2.9
-    },
-    {
-     "player": "Trey Lyles",
-     "player_id": 1626168,
-     "position": "F",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.0,
-     "ppg": 6.4,
-     "rpg": 4.0,
-     "apg": 1.1
-    },
-    {
-     "player": "Joan Beringer",
-     "player_id": 1642866,
-     "position": "F",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.9,
-     "ppg": 5.3,
-     "rpg": 6.4,
-     "apg": 0.4
-    }
-   ],
-   "away": [
-    {
-     "player": "Ty Jerome",
-     "player_id": 1629660,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 30.6,
-     "ppg": 25.4,
-     "rpg": 3.4,
-     "apg": 5.3
-    },
-    {
-     "player": "Cedric Coward",
-     "player_id": 1642907,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 28.8,
-     "ppg": 14.8,
-     "rpg": 8.1,
-     "apg": 3.5
-    },
-    {
-     "player": "Jaylen Wells",
-     "player_id": 1642377,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 26.8,
-     "ppg": 11.4,
-     "rpg": 3.2,
-     "apg": 1.4
-    },
-    {
-     "player": "Zach Edey",
-     "player_id": 1641744,
-     "position": "C",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 20.8,
-     "ppg": 9.2,
-     "rpg": 7.4,
-     "apg": 0.9
-    },
-    {
-     "player": "Isaiah Stewart",
-     "player_id": 1630191,
-     "position": "F",
-     "starter": true,
-     "games": 11,
-     "starts": 4,
-     "start_rate": 36,
-     "mpg": 18.2,
-     "ppg": 10.6,
-     "rpg": 3.4,
-     "apg": 0.9
-    },
-    {
-     "player": "Cam Spencer",
-     "player_id": 1642285,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.5,
-     "ppg": 11.2,
-     "rpg": 3.0,
-     "apg": 5.8
-    },
-    {
-     "player": "Taylor Hendricks",
-     "player_id": 1641707,
-     "position": "F",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.9,
-     "ppg": 8.7,
-     "rpg": 3.4,
-     "apg": 0.9
-    },
-    {
-     "player": "Quinten Post",
-     "player_id": 1642366,
-     "position": "C",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 11.7,
-     "ppg": 4.8,
-     "rpg": 2.1,
-     "apg": 0.3
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 104,
+   "away": 95
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Minnesota Timberwolves",
   "model_winner": "Minnesota Timberwolves",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.0",
   "data_through": "2026-11-20",
   "team_model": {
@@ -7053,7 +6838,255 @@
     "prob": 50.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jonathan Kuminga",
+     "starter": true,
+     "min": 37,
+     "pts": 16,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 4,
+     "pm": 3
+    },
+    {
+     "name": "Jaden McDaniels",
+     "starter": true,
+     "min": 36,
+     "pts": 25,
+     "reb": 5,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 8
+    },
+    {
+     "name": "Ayo Dosunmu",
+     "starter": true,
+     "min": 34,
+     "pts": 19,
+     "reb": 2,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 5,
+     "pm": -1
+    },
+    {
+     "name": "LaMelo Ball",
+     "starter": true,
+     "min": 32,
+     "pts": 12,
+     "reb": 5,
+     "ast": 7,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": 12
+    },
+    {
+     "name": "Rudy Gobert",
+     "starter": true,
+     "min": 32,
+     "pts": 7,
+     "reb": 11,
+     "ast": 2,
+     "stl": 1,
+     "blk": 3,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "Terrence Shannon Jr.",
+     "starter": false,
+     "min": 26,
+     "pts": 15,
+     "reb": 5,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 14
+    },
+    {
+     "name": "Bones Hyland",
+     "starter": false,
+     "min": 16,
+     "pts": 7,
+     "reb": 0,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Joan Beringer",
+     "starter": false,
+     "min": 16,
+     "pts": 0,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 3,
+     "tov": 1,
+     "pm": 7
+    },
+    {
+     "name": "Trey Lyles",
+     "starter": false,
+     "min": 12,
+     "pts": 3,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 2
+    }
+   ],
+   "away": [
+    {
+     "name": "Cedric Coward",
+     "starter": true,
+     "min": 30,
+     "pts": 23,
+     "reb": 7,
+     "ast": 2,
+     "stl": 4,
+     "blk": 0,
+     "tov": 6,
+     "pm": -13
+    },
+    {
+     "name": "Cam Spencer",
+     "starter": false,
+     "min": 30,
+     "pts": 9,
+     "reb": 5,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Ty Jerome",
+     "starter": true,
+     "min": 27,
+     "pts": 18,
+     "reb": 4,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 5,
+     "pm": 3
+    },
+    {
+     "name": "Taylor Hendricks",
+     "starter": false,
+     "min": 27,
+     "pts": 5,
+     "reb": 7,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -8
+    },
+    {
+     "name": "Jaylen Wells",
+     "starter": true,
+     "min": 25,
+     "pts": 8,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Zach Edey",
+     "starter": true,
+     "min": 23,
+     "pts": 8,
+     "reb": 2,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 14
+    },
+    {
+     "name": "Olivier-Maxence Prosper",
+     "starter": false,
+     "min": 23,
+     "pts": 7,
+     "reb": 6,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Jahmai Mashack",
+     "starter": true,
+     "min": 22,
+     "pts": 0,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Isaiah Stewart",
+     "starter": false,
+     "min": 21,
+     "pts": 10,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 3,
+     "tov": 2,
+     "pm": -12
+    },
+    {
+     "name": "Kris Murray",
+     "starter": false,
+     "min": 12,
+     "pts": 7,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Jaden McDaniels",
+    "pts": 25,
+    "reb": 5,
+    "ast": 4
+   },
+   "away": {
+    "name": "Cedric Coward",
+    "pts": 23,
+    "reb": 7,
+    "ast": 2
+   }
+  }
  },
  {
   "date": "2026-11-21",

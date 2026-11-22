@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T22:02-05:00",
+ "generated": "2026-11-21T22:17-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2256,14 +2256,22 @@
   },
   {
    "date": "2026-11-21",
-   "games": 2,
-   "wins": 1,
+   "games": 3,
+   "wins": 2,
    "losses": 1,
-   "pct": 50.0,
-   "cum_wins": 159,
-   "cum_games": 237,
-   "cum_pct": 67.1,
+   "pct": 66.7,
+   "cum_wins": 160,
+   "cum_games": 238,
+   "cum_pct": 67.2,
    "picks": [
+    {
+     "away": "MEM",
+     "home": "MIN",
+     "pick": "MIN",
+     "prob": 50.5,
+     "correct": true,
+     "updated": true
+    },
     {
      "away": "MIL",
      "home": "PHI",
@@ -2284,10 +2292,10 @@
   }
  ],
  "total": {
-  "games": 237,
-  "wins": 159,
+  "games": 238,
+  "wins": 160,
   "losses": 78,
-  "pct": 67.1
+  "pct": 67.2
  },
  "unscored": 0
 }
