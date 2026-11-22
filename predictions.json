@@ -4124,18 +4124,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 47.5,
-   "away": 52.5
+   "home": 52.7,
+   "away": 47.3
   },
   "win_prob_band": {
-   "low": 40.0,
-   "high": 56.2,
+   "low": 45.2,
+   "high": 61.3,
    "gtd_count": 2
   },
-  "expected_margin": -0.88,
+  "expected_margin": 0.97,
   "expected_score": {
-   "home": 114.9,
-   "away": 115.8
+   "home": 115.9,
+   "away": 114.9
   },
   "margin_breakdown": [
    {
@@ -4160,8 +4160,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.83,
-    "detail": "Oklahoma City Thunder 6 out (128 min) costs 0.8 pts · Thomas Sorber out all season, already baked into team rating"
+    "points": 2.68,
+    "detail": "Oklahoma City Thunder 6 out (128 min) costs 2.7 pts · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4492,9 +4492,9 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Oklahoma City Thunder",
+  "model_winner": "Miami Heat",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
@@ -4550,6 +4550,12 @@
     "pick": "OKC",
     "prob": 52.5,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-22T15:47-05:00",
+    "pick": "MIA",
+    "prob": 52.7,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -4652,18 +4658,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 34.6,
-   "away": 65.4
+   "home": 39.9,
+   "away": 60.1
   },
   "win_prob_band": {
-   "low": 34.6,
-   "high": 34.6,
+   "low": 39.9,
+   "high": 39.9,
    "gtd_count": 0
   },
-  "expected_margin": -5.61,
+  "expected_margin": -3.63,
   "expected_score": {
-   "home": 110.0,
-   "away": 115.6
+   "home": 111.0,
+   "away": 114.6
   },
   "margin_breakdown": [
    {
@@ -4688,8 +4694,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "Washington Wizards 3 out (52 min), no change to the rotation, Orlando Magic 3 out (48 min), no change to the rotation · Reece Beekman, Izaiyah Nelson out all season, already baked into team rating"
+    "points": 1.98,
+    "detail": "Washington Wizards 3 out (52 min), no change to the rotation, Orlando Magic 3 out (48 min) costs 2.0 pts · Paolo Banchero outside recent rotation: -1.98 pts scoring adjustment · Reece Beekman, Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5015,7 +5021,7 @@
   "actual_winner": null,
   "model_winner": "Orlando Magic",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
@@ -5071,6 +5077,12 @@
     "pick": "ORL",
     "prob": 65.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-22T15:47-05:00",
+    "pick": "ORL",
+    "prob": 60.1,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -5510,7 +5522,7 @@
   "actual_winner": null,
   "model_winner": "Denver Nuggets",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
@@ -5578,6 +5590,12 @@
     "pick": "DEN",
     "prob": 76.0,
     "reason": "Nic Claxton (CHI) now out"
+   },
+   {
+    "at": "2026-11-22T15:47-05:00",
+    "pick": "DEN",
+    "prob": 76.0,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -6042,7 +6060,7 @@
   "actual_winner": null,
   "model_winner": "Dallas Mavericks",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
@@ -6104,6 +6122,12 @@
     "pick": "DAL",
     "prob": 54.4,
     "reason": "Tobi Lawal (DAL) now out"
+   },
+   {
+    "at": "2026-11-22T15:47-05:00",
+    "pick": "DAL",
+    "prob": 54.4,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -6206,18 +6230,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 69.0,
-   "away": 31.0
+   "home": 72.8,
+   "away": 27.2
   },
   "win_prob_band": {
-   "low": 66.2,
-   "high": 72.9,
+   "low": 70.2,
+   "high": 76.5,
    "gtd_count": 2
   },
-  "expected_margin": 6.99,
+  "expected_margin": 8.58,
   "expected_score": {
-   "home": 114.6,
-   "away": 107.6
+   "home": 115.4,
+   "away": 106.8
   },
   "margin_breakdown": [
    {
@@ -6242,8 +6266,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.33,
-    "detail": "New York Knicks 2 out (41 min) costs 0.9 pts, Indiana Pacers 4 out (79 min) adds 0.4 pts (the player model rates a team better when a low-rated player sits)"
+    "points": 0.26,
+    "detail": "New York Knicks 2 out (41 min) costs 0.9 pts, Indiana Pacers 4 out (79 min) costs 1.2 pts · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -6569,7 +6593,7 @@
   "actual_winner": null,
   "model_winner": "New York Knicks",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
@@ -6625,6 +6649,12 @@
     "pick": "NYK",
     "prob": 69.0,
     "reason": "Jordan Clarkson (NYK) now out; OG Anunoby (NYK) now out"
+   },
+   {
+    "at": "2026-11-22T15:47-05:00",
+    "pick": "NYK",
+    "prob": 72.8,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -6727,18 +6757,18 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 23.6,
-   "away": 76.4
+   "home": 20.9,
+   "away": 79.1
   },
   "win_prob_band": {
-   "low": 23.6,
-   "high": 29.2,
+   "low": 20.9,
+   "high": 26.2,
    "gtd_count": 2
   },
-  "expected_margin": -10.15,
+  "expected_margin": -11.42,
   "expected_score": {
-   "home": 105.6,
-   "away": 115.7
+   "home": 104.9,
+   "away": 116.4
   },
   "margin_breakdown": [
    {
@@ -6763,8 +6793,8 @@
    },
    {
     "label": "Absences",
-    "points": -4.05,
-    "detail": "Golden State Warriors 5 out (122 min) costs 4.1 pts"
+    "points": -5.32,
+    "detail": "Golden State Warriors 5 out (122 min) costs 5.3 pts · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -7079,7 +7109,7 @@
   "actual_winner": null,
   "model_winner": "Boston Celtics",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
@@ -7135,6 +7165,12 @@
     "pick": "BOS",
     "prob": 76.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-22T15:47-05:00",
+    "pick": "BOS",
+    "prob": 79.1,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  }
