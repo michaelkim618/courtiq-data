@@ -3960,7 +3960,7 @@
   },
   "tip_et": "2026-11-22T15:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "3:15 PM ET"
   },
   "pick_updates": [
    {
@@ -5167,18 +5167,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 22.6,
-   "away": 77.4
+   "home": 24.0,
+   "away": 76.0
   },
   "win_prob_band": {
-   "low": 21.5,
-   "high": 22.6,
+   "low": 22.8,
+   "high": 24.0,
    "gtd_count": 1
   },
-  "expected_margin": -10.63,
+  "expected_margin": -10.0,
   "expected_score": {
-   "home": 111.3,
-   "away": 122.0
+   "home": 111.6,
+   "away": 121.6
   },
   "margin_breakdown": [
    {
@@ -5203,8 +5203,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.3,
-    "detail": "Chicago Bulls 2 out (57 min) costs 0.3 pts, Denver Nuggets 1 out (15 min), no change to the rotation"
+    "points": 0.33,
+    "detail": "Chicago Bulls 3 out (76 min) adds 0.3 pts, Denver Nuggets 1 out (15 min), no change to the rotation (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -5246,6 +5246,15 @@
      "cost": -0.96,
      "no_minutes": false,
      "ppg": 18.1
+    },
+    {
+     "player": "Nic Claxton",
+     "mpg": 19.0,
+     "nth_out": 1,
+     "value": 0.5,
+     "cost": -0.11,
+     "no_minutes": false,
+     "ppg": 9.0
     }
    ],
    "away": [
@@ -5345,19 +5354,6 @@
      "apg": 1.9
     },
     {
-     "player": "Nic Claxton",
-     "player_id": 1629651,
-     "position": "C",
-     "starter": false,
-     "games": 6,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.7,
-     "ppg": 9.3,
-     "rpg": 4.8,
-     "apg": 1.7
-    },
-    {
      "player": "Tre Jones",
      "player_id": 1630200,
      "position": "G",
@@ -5382,6 +5378,19 @@
      "ppg": 8.1,
      "rpg": 2.3,
      "apg": 1.7
+    },
+    {
+     "player": "Leonard Miller",
+     "player_id": 1631159,
+     "position": "F",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.0,
+     "ppg": 5.4,
+     "rpg": 3.2,
+     "apg": 1.0
     }
    ],
    "away": [
@@ -5499,10 +5508,10 @@
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -8.39,
+   "expected_margin": -8.5,
    "win_prob": {
-    "home": 28.2,
-    "away": 71.8
+    "home": 27.9,
+    "away": 72.1
    }
   },
   "tip_et": "2026-11-22T19:00-05:00",
@@ -5557,6 +5566,12 @@
     "pick": "DEN",
     "prob": 77.4,
     "reason": "Norman Powell (CHI) now out"
+   },
+   {
+    "at": "2026-11-22T15:17-05:00",
+    "pick": "DEN",
+    "prob": 76.0,
+    "reason": "Nic Claxton (CHI) now out"
    }
   ]
  },
