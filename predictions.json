@@ -7640,7 +7640,7 @@
   "win_prob_band": {
    "low": 11.7,
    "high": 11.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -16.8,
   "expected_score": {
@@ -7745,15 +7745,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Precious Achiuwa",
-     "mpg": 25.1,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 10.4
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -8053,6 +8045,12 @@
     "pick": "BOS",
     "prob": 88.3,
     "reason": "Derrick White (BOS) now out; Jayson Tatum (BOS) now out; Mitchell Robinson (BOS) now out"
+   },
+   {
+    "at": "2026-11-21T20:32-05:00",
+    "pick": "BOS",
+    "prob": 88.3,
+    "reason": "Precious Achiuwa (SAC) cleared to play"
    }
   ]
  }
