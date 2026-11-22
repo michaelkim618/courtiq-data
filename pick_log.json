@@ -33551,6 +33551,11 @@
   "2026-11-22_DAL@UTA": {
    "away": "DAL",
    "date": "2026-11-22",
+   "final_check": {
+    "at": "2026-11-22T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-22T18:45-05:00"
+   },
    "home": "UTA",
    "late": false,
    "locked_at": null,
@@ -33875,6 +33880,11 @@
   "2026-11-22_DEN@CHI": {
    "away": "DEN",
    "date": "2026-11-22",
+   "final_check": {
+    "at": "2026-11-22T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-22T18:45-05:00"
+   },
    "home": "CHI",
    "late": false,
    "locked_at": null,
@@ -35212,6 +35222,11 @@
   "2026-11-22_ORL@WAS": {
    "away": "ORL",
    "date": "2026-11-22",
+   "final_check": {
+    "at": "2026-11-22T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-22T18:45-05:00"
+   },
    "home": "WAS",
    "late": false,
    "locked_at": null,
