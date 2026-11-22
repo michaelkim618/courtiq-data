@@ -32810,6 +32810,11 @@
   "2026-11-21_POR@NYK": {
    "away": "POR",
    "date": "2026-11-21",
+   "final_check": {
+    "at": "2026-11-21T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-21T19:15-05:00"
+   },
    "home": "NYK",
    "late": false,
    "locked_at": null,
