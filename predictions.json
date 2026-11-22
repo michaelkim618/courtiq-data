@@ -3580,8 +3580,8 @@
   },
   "win_prob_band": {
    "low": 39.5,
-   "high": 44.7,
-   "gtd_count": 1
+   "high": 39.5,
+   "gtd_count": 0
   },
   "expected_margin": -3.78,
   "expected_score": {
@@ -3723,15 +3723,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Cade Cunningham",
-     "mpg": 32.7,
-     "value": 9.0,
-     "status": "Probable",
-     "ppg": 23.6
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4018,6 +4010,12 @@
     "pick": "DET",
     "prob": 60.5,
     "reason": "Kingston Flemings (ATL) cleared to play"
+   },
+   {
+    "at": "2026-11-22T15:02-05:00",
+    "pick": "DET",
+    "prob": 60.5,
+    "reason": "Cade Cunningham (DET) cleared to play"
    }
   ]
  },

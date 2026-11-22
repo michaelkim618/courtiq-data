@@ -34280,6 +34280,38 @@
       "away": 60.5,
       "home": 39.5
      }
+    },
+    {
+     "at": "2026-11-22T15:02-05:00",
+     "expected_margin": -3.78,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Taurean Prince"
+      ],
+      "home": [
+       "CJ McCollum",
+       "Asa Newell",
+       "Jock Landale",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Cade Cunningham (DET) cleared to play",
+     "report": "2026-11-22T15:00-05:00",
+     "win_prob": {
+      "away": 60.5,
+      "home": 39.5
+     }
     }
    ]
   },
