@@ -33333,6 +33333,37 @@
       "away": 73.1,
       "home": 26.9
      }
+    },
+    {
+     "at": "2026-11-22T01:48-05:00",
+     "expected_margin": -9.86,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jayson Tatum",
+       "Derrick White",
+       "Mitchell Robinson"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Brandon Williams",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-22T01:45-05:00",
+     "win_prob": {
+      "away": 75.2,
+      "home": 24.8
+     }
     }
    ]
   },
@@ -33407,6 +33438,37 @@
       "away": 56.8,
       "home": 43.2
      }
+    },
+    {
+     "at": "2026-11-22T01:48-05:00",
+     "expected_margin": -5.03,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobi Lawal",
+       "P.J. Washington",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen",
+       "Jusuf Nurkic"
+      ]
+     },
+     "pick": "Dallas Mavericks",
+     "pick_code": "DAL",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25",
+     "report": "2026-11-22T01:45-05:00",
+     "win_prob": {
+      "away": 63.6,
+      "home": 36.4
+     }
     }
    ]
   },
@@ -33474,6 +33536,34 @@
      "win_prob": {
       "away": 73.6,
       "home": 26.4
+     }
+    },
+    {
+     "at": "2026-11-22T01:48-05:00",
+     "expected_margin": -6.76,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Norman Powell",
+       "Jalen Smith"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Julian Strawther"
+      ],
+      "home": [
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-22T01:45-05:00",
+     "win_prob": {
+      "away": 68.0,
+      "home": 32.0
      }
     }
    ]
@@ -33559,6 +33649,42 @@
       "away": 60.6,
       "home": 39.4
      }
+    },
+    {
+     "at": "2026-11-22T01:48-05:00",
+     "expected_margin": 0.72,
+     "gtd": {
+      "away": [
+       "Cade Cunningham"
+      ],
+      "home": [
+       "Kingston Flemings"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Taurean Prince"
+      ],
+      "home": [
+       "CJ McCollum",
+       "Asa Newell",
+       "Jock Landale",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ]
+     },
+     "pick": "Atlanta Hawks",
+     "pick_code": "ATL",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-22T01:45-05:00",
+     "win_prob": {
+      "away": 48.0,
+      "home": 52.0
+     }
     }
    ]
   },
@@ -33632,6 +33758,37 @@
      "win_prob": {
       "away": 28.3,
       "home": 71.7
+     }
+    },
+    {
+     "at": "2026-11-22T01:48-05:00",
+     "expected_margin": 12.65,
+     "gtd": {
+      "away": [
+       "Pascal Siakam"
+      ],
+      "home": [
+       "Karl-Anthony Towns",
+       "OG Anunoby"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-22T01:45-05:00",
+     "win_prob": {
+      "away": 19.1,
+      "home": 80.9
      }
     }
    ]
@@ -33711,6 +33868,39 @@
       "away": 52.6,
       "home": 47.4
      }
+    },
+    {
+     "at": "2026-11-22T01:48-05:00",
+     "expected_margin": -0.75,
+     "gtd": {
+      "away": [
+       "Shai Gilgeous-Alexander"
+      ],
+      "home": [
+       "Giannis Antetokounmpo"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": []
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-22T01:45-05:00",
+     "win_prob": {
+      "away": 52.1,
+      "home": 47.9
+     }
     }
    ]
   },
@@ -33784,6 +33974,37 @@
      "win_prob": {
       "away": 65.5,
       "home": 34.5
+     }
+    },
+    {
+     "at": "2026-11-22T01:48-05:00",
+     "expected_margin": -1.36,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-22T01:45-05:00",
+     "win_prob": {
+      "away": 53.7,
+      "home": 46.3
      }
     }
    ]
