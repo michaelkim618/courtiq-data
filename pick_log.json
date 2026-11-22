@@ -34796,6 +34796,11 @@
   "2026-11-22_OKC@MIA": {
    "away": "OKC",
    "date": "2026-11-22",
+   "final_check": {
+    "at": "2026-11-22T17:47-05:00",
+    "label": "5:45 PM ET",
+    "report": "2026-11-22T17:45-05:00"
+   },
    "home": "MIA",
    "late": false,
    "locked_at": null,
