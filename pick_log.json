@@ -32804,6 +32804,38 @@
       "away": 11.8,
       "home": 88.2
      }
+    },
+    {
+     "at": "2026-11-21T19:32-05:00",
+     "expected_margin": 19.3,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.0",
+     "out": {
+      "away": [
+       "Zion Williamson",
+       "Trey Murphy III",
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford",
+       "Bryce McGowens"
+      ],
+      "home": [
+       "Dylan Harper",
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Zion Williamson (NOP) now out",
+     "report": "2026-11-21T19:30-05:00",
+     "win_prob": {
+      "away": 8.6,
+      "home": 91.4
+     }
     }
    ]
   },
@@ -32817,7 +32849,7 @@
    },
    "home": "NYK",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-21T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-21T19:30-05:00",
    "tip_known": true,

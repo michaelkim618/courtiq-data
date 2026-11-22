@@ -7097,18 +7097,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 88.2,
-   "away": 11.8
+   "home": 91.4,
+   "away": 8.6
   },
   "win_prob_band": {
-   "low": 88.2,
-   "high": 88.2,
+   "low": 91.4,
+   "high": 91.4,
    "gtd_count": 0
   },
-  "expected_margin": 16.78,
+  "expected_margin": 19.3,
   "expected_score": {
-   "home": 123.0,
-   "away": 106.2
+   "home": 124.2,
+   "away": 104.9
   },
   "margin_breakdown": [
    {
@@ -7133,8 +7133,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.92,
-    "detail": "San Antonio Spurs 2 out (58 min) costs 2.0 pts, New Orleans Pelicans 5 out (101 min) adds 1.0 pts (the player model rates a team better when a low-rated player sits) · Jayden Quaintance out all season, already baked into team rating"
+    "points": -0.4,
+    "detail": "San Antonio Spurs 2 out (58 min) costs 2.0 pts, New Orleans Pelicans 6 out (130 min) costs 1.6 pts · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7187,6 +7187,15 @@
     }
    ],
    "away": [
+    {
+     "player": "Zion Williamson",
+     "mpg": 29.2,
+     "nth_out": 1,
+     "value": 6.2,
+     "cost": -1.31,
+     "no_minutes": false,
+     "ppg": 19.2
+    },
     {
      "player": "Trey Murphy III",
      "mpg": 28.3,
@@ -7352,19 +7361,6 @@
    ],
    "away": [
     {
-     "player": "Zion Williamson",
-     "player_id": 1629627,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 21.7,
-     "rpg": 5.4,
-     "apg": 2.8
-    },
-    {
      "player": "Jeremiah Fears",
      "player_id": 1642847,
      "position": "G",
@@ -7420,7 +7416,7 @@
      "player": "Herbert Jones",
      "player_id": 1630529,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 17,
      "starts": 0,
      "start_rate": 0,
@@ -7454,6 +7450,19 @@
      "ppg": 11.9,
      "rpg": 6.4,
      "apg": 2.2
+    },
+    {
+     "player": "Karlo Matković",
+     "player_id": 1631255,
+     "position": "F",
+     "starter": false,
+     "games": 16,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.4,
+     "ppg": 6.4,
+     "rpg": 3.7,
+     "apg": 0.9
     }
    ]
   },
@@ -7465,10 +7474,10 @@
   "data_through": "2026-11-20",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 18.42,
+   "expected_margin": 19.73,
    "win_prob": {
-    "home": 89.8,
-    "away": 10.2
+    "home": 91.3,
+    "away": 8.7
    }
   },
   "tip_et": "2026-11-21T20:00-05:00",
@@ -7517,6 +7526,12 @@
     "pick": "SAS",
     "prob": 88.2,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-21T19:32-05:00",
+    "pick": "SAS",
+    "prob": 91.4,
+    "reason": "Zion Williamson (NOP) now out"
    }
   ]
  },
