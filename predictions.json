@@ -3575,23 +3575,23 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 39.5,
-   "away": 60.5
+   "home": 42.9,
+   "away": 57.1
   },
   "win_prob_band": {
-   "low": 39.5,
-   "high": 39.5,
+   "low": 42.9,
+   "high": 42.9,
    "gtd_count": 0
   },
-  "expected_margin": -3.78,
+  "expected_margin": -2.54,
   "expected_score": {
-   "home": 111.3,
-   "away": 115.0
+   "home": 111.9,
+   "away": 114.4
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -4.82,
+    "points": -4.68,
     "detail": "Atlanta Hawks vs Detroit Pistons: each rostered player's value x his expected minutes, full strength"
    },
    {
@@ -3611,8 +3611,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.53,
-    "detail": "Atlanta Hawks 4 out (70 min) adds 0.5 pts, Detroit Pistons 4 out (72 min), no change to the rotation (the player model rates a team better when a low-rated player sits) · Henri Veesaar out all season, already baked into team rating"
+    "points": 1.63,
+    "detail": "Atlanta Hawks 4 out (70 min) adds 0.5 pts, Detroit Pistons 4 out (72 min) costs 1.1 pts (the player model rates a team better when a low-rated player sits) · Detroit Pistons Tier 1 scoring adjustment: -1.25 pts · Henri Veesaar out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3948,7 +3948,7 @@
   "actual_winner": null,
   "model_winner": "Detroit Pistons",
   "model_correct": null,
-  "model_version": "nba-v2.0",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
@@ -4016,6 +4016,12 @@
     "pick": "DET",
     "prob": 60.5,
     "reason": "Cade Cunningham (DET) cleared to play"
+   },
+   {
+    "at": "2026-11-22T15:19-05:00",
+    "pick": "DET",
+    "prob": 57.1,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
