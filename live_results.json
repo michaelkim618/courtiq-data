@@ -1882,6 +1882,14 @@
  {
   "date": "2026-11-21",
   "season": "2026-2027",
+  "away": "BOS",
+  "home": "SAC",
+  "conf": 88.3,
+  "correct": false
+ },
+ {
+  "date": "2026-11-21",
+  "season": "2026-2027",
   "away": "LAC",
   "home": "DAL",
   "conf": 64.0,
