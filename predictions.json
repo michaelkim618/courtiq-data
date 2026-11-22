@@ -4124,18 +4124,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 52.7,
-   "away": 47.3
+   "home": 68.7,
+   "away": 31.3
   },
   "win_prob_band": {
-   "low": 45.2,
-   "high": 61.3,
-   "gtd_count": 2
+   "low": 61.7,
+   "high": 68.7,
+   "gtd_count": 1
   },
-  "expected_margin": 0.97,
+  "expected_margin": 6.9,
   "expected_score": {
-   "home": 115.9,
-   "away": 114.9
+   "home": 118.8,
+   "away": 111.9
   },
   "margin_breakdown": [
    {
@@ -4160,8 +4160,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.68,
-    "detail": "Oklahoma City Thunder 6 out (128 min) costs 2.7 pts · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
+    "points": 8.61,
+    "detail": "Oklahoma City Thunder 7 out (160 min) costs 8.6 pts · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4187,6 +4187,15 @@
   "absences": {
    "home": [],
    "away": [
+    {
+     "player": "Shai Gilgeous-Alexander",
+     "mpg": 31.5,
+     "nth_out": 1,
+     "value": 14.7,
+     "cost": -3.08,
+     "no_minutes": false,
+     "ppg": 28.7
+    },
     {
      "player": "Jalen Williams",
      "mpg": 25.6,
@@ -4261,15 +4270,7 @@
      "ppg": 26.1
     }
    ],
-   "away": [
-    {
-     "player": "Shai Gilgeous-Alexander",
-     "mpg": 31.5,
-     "value": 14.7,
-     "status": "Questionable",
-     "ppg": 28.7
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -4385,19 +4386,6 @@
    ],
    "away": [
     {
-     "player": "Shai Gilgeous-Alexander",
-     "player_id": 1628983,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 31.7,
-     "rpg": 4.1,
-     "apg": 4.5
-    },
-    {
      "player": "Isaiah Hartenstein",
      "player_id": 1628392,
      "position": "C",
@@ -4453,7 +4441,7 @@
      "player": "Aday Mara",
      "player_id": 1643530,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -4487,6 +4475,19 @@
      "ppg": 2.3,
      "rpg": 1.6,
      "apg": 0.9
+    },
+    {
+     "player": "Micah Peavy",
+     "player_id": 1642877,
+     "position": "G",
+     "starter": false,
+     "games": 10,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.7,
+     "ppg": 3.3,
+     "rpg": 3.2,
+     "apg": 0.2
     }
    ]
   },
@@ -4498,10 +4499,10 @@
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -0.75,
+   "expected_margin": 2.33,
    "win_prob": {
-    "home": 47.9,
-    "away": 52.1
+    "home": 56.4,
+    "away": 43.6
    }
   },
   "tip_et": "2026-11-22T18:00-05:00",
@@ -4556,6 +4557,12 @@
     "pick": "MIA",
     "prob": 52.7,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-22T16:32-05:00",
+    "pick": "MIA",
+    "prob": 68.7,
+    "reason": "Shai Gilgeous-Alexander (OKC) now out"
    }
   ]
  },
