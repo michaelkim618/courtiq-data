@@ -1,0 +1,32 @@
+{
+  "slug": "2026-11-22-film-session-ind-nyk",
+  "title": "Film Session: IND @ NYK",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_color": "#D97706",
+  "author_role": "Point Guard Expert",
+  "date": "2026-11-22",
+  "type": "daily",
+  "tag": "Preview",
+  "tag_color": "#D97706",
+  "read_time": "3 min",
+  "summary": "A point guard's read on IND @ NYK — where the matchup is actually won, possession by possession, before the ball even tips.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Reading the Floor\n\nIND @ NYK on 2026-11-22. Forget the final number for a second — here's where it actually comes from."
+    },
+    {
+      "type": "text",
+      "value": "- **Net Rating Diff**: +8.3 pts — New York Knicks +4.6 vs Indiana Pacers -3.8, proj. 98.6 possessions\n\nThat's your foundation right there. The Knicks are running a positive net rating at +4.6 — meaning they're outscoring opponents per 100 possessions on the season — while Indiana is sitting at -3.8, which tells you they're leaking points on the other end or just not efficient enough offensively to cover it. Over 98.6 projected possessions, that efficiency gap alone accounts for 8.3 points of separation. This isn't about hot takes or narrative — it's just what the tape shows over a full sample.\n\n- **Home Advantage**: +2.3 pts — League-measured average\n\nStandard home cooking. The Garden gives you 2.3 points just for lacing up in front of your crowd. Shorter rotations on defense, familiarity with the rim, all the little edges that add up when you're not dealing with travel and hotel beds.\n\n- **Back-to-Back**: -2.5 pts — New York Knicks on no rest\n\nHere's the rub: New York is on a back-to-back, no rest between games. That's worth 2.5 points coming off the board. Legs get heavy in the fourth, rotations tighten, and suddenly that extra contest on a shooter or that weak-side rotation a beat slow. It's real, and it shows up in the numbers every time.\n\n- **Absences**: +1.9 pts — Indiana Pacers 4 out (79 min) costing 1.9 pts\n\nIndiana's down four bodies — 79 minutes of rotation work just gone. That's 1.9 points they're leaving on the table because the depth isn't there or the roles get scrambled. When you lose that much floor time, someone's playing out of position or gassed by the third quarter."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#D97706",
+      "title": "ACE'S READ",
+      "value": "NYK in the driver's seat",
+      "sub": "Model margin: {:+.1f} (home − away). Doesn't mean the game is played that way — means that's who should be."
+    }
+  ],
+  "post_kind": "feature"
+}

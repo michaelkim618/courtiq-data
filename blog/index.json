@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-22-film-session-ind-nyk",
+      "title": "Film Session: IND @ NYK",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Point Guard Expert",
+      "date": "2026-11-22",
+      "type": "daily",
+      "tag": "Preview",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "A point guard's read on IND @ NYK — where the matchup is actually won, possession by possession, before the ball even tips.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-21-the-numbers-going-into-2026-11-21",
       "title": "The Numbers Going Into 2026-11-21",
       "author": "Stan",
