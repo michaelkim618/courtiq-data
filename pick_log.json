@@ -31866,6 +31866,11 @@
   "2026-11-21_LAC@DAL": {
    "away": "LAC",
    "date": "2026-11-21",
+   "final_check": {
+    "at": "2026-11-21T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-21T19:45-05:00"
+   },
    "home": "DAL",
    "late": false,
    "locked_at": null,
@@ -32133,6 +32138,11 @@
   "2026-11-21_MEM@MIN": {
    "away": "MEM",
    "date": "2026-11-21",
+   "final_check": {
+    "at": "2026-11-21T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-21T19:45-05:00"
+   },
    "home": "MIN",
    "late": false,
    "locked_at": null,
@@ -32586,6 +32596,11 @@
   "2026-11-21_NOP@SAS": {
    "away": "NOP",
    "date": "2026-11-21",
+   "final_check": {
+    "at": "2026-11-21T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-21T19:45-05:00"
+   },
    "home": "SAS",
    "late": false,
    "locked_at": null,
