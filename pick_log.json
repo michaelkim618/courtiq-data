@@ -31907,6 +31907,13 @@
    "home": "DAL",
    "late": false,
    "locked_at": "2026-11-21T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 100,
+     "home": 110
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-21T20:00-05:00",
    "tip_known": true,
@@ -32644,6 +32651,13 @@
    "home": "SAS",
    "late": false,
    "locked_at": "2026-11-21T20:00-05:00",
+   "result": {
+    "score": {
+     "away": 91,
+     "home": 114
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-21T20:00-05:00",
    "tip_known": true,
