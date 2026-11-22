@@ -4124,18 +4124,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 60.5,
-   "away": 39.5
+   "home": 57.2,
+   "away": 42.8
   },
   "win_prob_band": {
-   "low": 60.5,
-   "high": 60.5,
+   "low": 57.2,
+   "high": 57.2,
    "gtd_count": 0
   },
-  "expected_margin": 3.78,
+  "expected_margin": 2.57,
   "expected_score": {
-   "home": 117.3,
-   "away": 113.5
+   "home": 116.7,
+   "away": 114.1
   },
   "margin_breakdown": [
    {
@@ -4160,8 +4160,8 @@
    },
    {
     "label": "Absences",
-    "points": 5.49,
-    "detail": "Miami Heat 1 out (30 min) costs 3.1 pts, Oklahoma City Thunder 7 out (160 min) costs 8.6 pts · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
+    "points": 4.28,
+    "detail": "Miami Heat 1 out (30 min) costs 3.1 pts, Oklahoma City Thunder 8 out (182 min) costs 7.4 pts · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4223,6 +4223,15 @@
      "cost": -0.75,
      "no_minutes": false,
      "ppg": 16.2
+    },
+    {
+     "player": "Aday Mara",
+     "mpg": 22.3,
+     "nth_out": 1,
+     "value": 0.3,
+     "cost": -0.07,
+     "no_minutes": false,
+     "ppg": 10.2
     },
     {
      "player": "Cason Wallace",
@@ -4440,23 +4449,10 @@
      "apg": 1.6
     },
     {
-     "player": "Aday Mara",
-     "player_id": 1643530,
-     "position": "C",
-     "starter": true,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.4,
-     "ppg": 10.0,
-     "rpg": 7.1,
-     "apg": 1.9
-    },
-    {
      "player": "Bennett Stirtz",
      "player_id": 1642892,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -4490,6 +4486,19 @@
      "ppg": 3.3,
      "rpg": 3.2,
      "apg": 0.2
+    },
+    {
+     "player": "Brooks Barnhizer",
+     "player_id": 1642964,
+     "position": "G",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 5.2,
+     "ppg": 1.1,
+     "rpg": 1.0,
+     "apg": 0.6
     }
    ]
   },
@@ -4501,10 +4510,10 @@
   "data_through": "2026-11-21",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -0.36,
+   "expected_margin": -0.29,
    "win_prob": {
-    "home": 49.0,
-    "away": 51.0
+    "home": 49.2,
+    "away": 50.8
    }
   },
   "tip_et": "2026-11-22T18:00-05:00",
@@ -4571,6 +4580,12 @@
     "pick": "MIA",
     "prob": 60.5,
     "reason": "Giannis Antetokounmpo (MIA) now out"
+   },
+   {
+    "at": "2026-11-22T17:32-05:00",
+    "pick": "MIA",
+    "prob": 57.2,
+    "reason": "Aday Mara (OKC) now out"
    }
   ]
  },
