@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T00:47-05:00",
+ "generated": "2026-11-22T18:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2313,13 +2313,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-22",
+   "games": 1,
+   "wins": 0,
+   "losses": 1,
+   "pct": 0.0,
+   "cum_wins": 162,
+   "cum_games": 242,
+   "cum_pct": 66.9,
+   "picks": [
+    {
+     "away": "DET",
+     "home": "ATL",
+     "pick": "DET",
+     "prob": 57.1,
+     "correct": false,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 241,
+  "games": 242,
   "wins": 162,
-  "losses": 79,
-  "pct": 67.2
+  "losses": 80,
+  "pct": 66.9
  },
  "unscored": 0
 }
