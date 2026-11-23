@@ -34580,6 +34580,11 @@
   "2026-11-22_IND@NYK": {
    "away": "IND",
    "date": "2026-11-22",
+   "final_check": {
+    "at": "2026-11-22T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-22T19:45-05:00"
+   },
    "home": "NYK",
    "late": false,
    "locked_at": null,
