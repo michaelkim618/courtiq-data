@@ -4277,20 +4277,20 @@
    "high": 23.5,
    "gtd_count": 1
   },
-  "expected_margin": -10.22,
+  "expected_margin": -10.2,
   "expected_score": {
    "home": 106.8,
-   "away": 117.1
+   "away": 117.0
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -4.16,
+    "points": -4.19,
     "detail": "Charlotte Hornets vs Memphis Grizzlies: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -4305,8 +4305,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.78,
-    "detail": "Charlotte Hornets 4 out (104 min) costs 0.4 pts, Memphis Grizzlies 4 out (82 min) adds 2.3 pts (the player model rates a team better when a low-rated player sits) · Richie Saunders out all season, already baked into team rating"
+    "points": -2.77,
+    "detail": "Charlotte Hornets 4 out (104 min) costs 0.4 pts, Memphis Grizzlies 4 out (82 min) adds 2.4 pts (the player model rates a team better when a low-rated player sits) · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4790,28 +4790,28 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 48.7,
-   "away": 51.3
+   "home": 49.2,
+   "away": 50.8
   },
   "win_prob_band": {
-   "low": 41.3,
-   "high": 48.7,
+   "low": 41.7,
+   "high": 49.2,
    "gtd_count": 3
   },
-  "expected_margin": -0.45,
+  "expected_margin": -0.28,
   "expected_score": {
-   "home": 113.7,
+   "home": 113.8,
    "away": 114.1
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -1.36,
+    "points": -1.23,
     "detail": "Philadelphia 76ers vs Portland Trail Blazers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -5194,6 +5194,12 @@
     "pick": "POR",
     "prob": 51.3,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "POR",
+    "prob": 50.8,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5296,34 +5302,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 28.3,
-   "away": 71.7
+   "home": 32.0,
+   "away": 68.0
   },
   "win_prob_band": {
-   "low": 24.6,
-   "high": 28.3,
+   "low": 28.0,
+   "high": 32.0,
    "gtd_count": 1
   },
-  "expected_margin": -8.09,
+  "expected_margin": -6.62,
   "expected_score": {
-   "home": 108.9,
-   "away": 117.0
+   "home": 109.6,
+   "away": 116.2
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -6.77,
+    "points": -5.73,
     "detail": "Indiana Pacers vs Oklahoma City Thunder: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": -1.96,
-    "detail": "Indiana Pacers -3.8 vs Oklahoma City Thunder +4.6 points per game so far, weighted by games played"
+    "points": -1.84,
+    "detail": "Indiana Pacers -3.9 vs Oklahoma City Thunder +3.8 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -5332,8 +5338,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.58,
-    "detail": "Indiana Pacers 5 out (105 min) costs 1.6 pts, Oklahoma City Thunder 7 out (150 min) costs 1.0 pts · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
+    "points": -0.31,
+    "detail": "Indiana Pacers 5 out (105 min) costs 1.6 pts, Oklahoma City Thunder 7 out (150 min) costs 1.3 pts · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5763,6 +5769,12 @@
     "pick": "OKC",
     "prob": 71.7,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "OKC",
+    "prob": 68.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -5865,28 +5877,28 @@
    "streak": -13
   },
   "win_prob": {
-   "home": 71.3,
-   "away": 28.7
+   "home": 71.4,
+   "away": 28.6
   },
   "win_prob_band": {
-   "low": 71.3,
-   "high": 71.3,
+   "low": 71.4,
+   "high": 71.4,
    "gtd_count": 1
   },
-  "expected_margin": 7.94,
+  "expected_margin": 7.99,
   "expected_score": {
    "home": 117.0,
-   "away": 109.1
+   "away": 109.0
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 6.9,
+    "points": 6.91,
     "detail": "Toronto Raptors vs Milwaukee Bucks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -6221,6 +6233,12 @@
     "pick": "TOR",
     "prob": 71.3,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "TOR",
+    "prob": 71.4,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -6331,20 +6349,20 @@
    "high": 73.7,
    "gtd_count": 0
   },
-  "expected_margin": 8.96,
+  "expected_margin": 8.98,
   "expected_score": {
-   "home": 116.4,
+   "home": 116.5,
    "away": 107.5
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 7.45,
+    "points": 7.42,
     "detail": "Minnesota Timberwolves vs Brooklyn Nets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -6359,7 +6377,7 @@
    },
    {
     "label": "Absences",
-    "points": -3.75,
+    "points": -3.74,
     "detail": "Minnesota Timberwolves 3 out (70 min) costs 2.3 pts, Brooklyn Nets 1 out (21 min) adds 1.4 pts (the player model rates a team better when a low-rated player sits) · Anthony Edwards outside recent rotation: -2.49 pts scoring adjustment"
    }
   ],
@@ -6792,34 +6810,34 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 29.3,
-   "away": 70.7
+   "home": 30.8,
+   "away": 69.2
   },
   "win_prob_band": {
-   "low": 28.0,
-   "high": 29.3,
+   "low": 29.4,
+   "high": 30.8,
    "gtd_count": 2
   },
-  "expected_margin": -7.69,
+  "expected_margin": -7.09,
   "expected_score": {
-   "home": 113.9,
-   "away": 121.5
+   "home": 114.2,
+   "away": 121.2
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -4.45,
+    "points": -4.02,
     "detail": "Chicago Bulls vs Cleveland Cavaliers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": -2.35,
-    "detail": "Chicago Bulls -8.1 vs Cleveland Cavaliers +2.2 points per game so far, weighted by games played"
+    "points": -2.37,
+    "detail": "Chicago Bulls -7.9 vs Cleveland Cavaliers +2.2 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -6828,8 +6846,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.39,
-    "detail": "Chicago Bulls 2 out (57 min) costs 0.3 pts, Cleveland Cavaliers 2 out (45 min) costs 0.7 pts"
+    "points": 0.54,
+    "detail": "Chicago Bulls 2 out (57 min) costs 0.1 pts, Cleveland Cavaliers 2 out (45 min) costs 0.7 pts"
    }
   ],
   "ratings": {
@@ -7181,6 +7199,12 @@
     "pick": "CLE",
     "prob": 70.7,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "CLE",
+    "prob": 69.2,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -7283,15 +7307,15 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 36.6,
-   "away": 63.4
+   "home": 36.7,
+   "away": 63.3
   },
   "win_prob_band": {
-   "low": 33.2,
-   "high": 36.6,
+   "low": 33.3,
+   "high": 36.7,
    "gtd_count": 1
   },
-  "expected_margin": -4.85,
+  "expected_margin": -4.81,
   "expected_score": {
    "home": 112.4,
    "away": 117.2
@@ -7299,12 +7323,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -5.82,
+    "points": -5.81,
     "detail": "New Orleans Pelicans vs Phoenix Suns: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -7319,7 +7343,7 @@
    },
    {
     "label": "Absences",
-    "points": 1.38,
+    "points": 1.37,
     "detail": "New Orleans Pelicans 3 out (62 min) adds 1.4 pts, Phoenix Suns 1 out (24 min), no change to the rotation (the player model rates a team better when a low-rated player sits)"
    }
   ],
@@ -7664,6 +7688,12 @@
     "pick": "PHX",
     "prob": 63.4,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "PHX",
+    "prob": 63.3,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -7766,15 +7796,15 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 85.3,
-   "away": 14.7
+   "home": 85.4,
+   "away": 14.6
   },
   "win_prob_band": {
-   "low": 85.3,
-   "high": 85.3,
+   "low": 85.4,
+   "high": 85.4,
    "gtd_count": 0
   },
-  "expected_margin": 14.84,
+  "expected_margin": 14.89,
   "expected_score": {
    "home": 120.6,
    "away": 105.7
@@ -7782,12 +7812,12 @@
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 10.38,
+    "points": 10.39,
     "detail": "Houston Rockets vs LA Clippers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -8113,6 +8143,12 @@
     "pick": "HOU",
     "prob": 85.3,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "HOU",
+    "prob": 85.4,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -8215,34 +8251,34 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 80.8,
-   "away": 19.2
+   "home": 81.0,
+   "away": 19.0
   },
   "win_prob_band": {
-   "low": 80.8,
-   "high": 80.8,
+   "low": 81.0,
+   "high": 81.0,
    "gtd_count": 0
   },
-  "expected_margin": 12.29,
+  "expected_margin": 12.43,
   "expected_score": {
    "home": 120.9,
-   "away": 108.6
+   "away": 108.5
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": 5.55,
+    "points": 5.74,
     "detail": "Los Angeles Lakers vs Utah Jazz: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
     "label": "Season Form",
-    "points": 3.27,
-    "detail": "Los Angeles Lakers +6.2 vs Utah Jazz -7.4 points per game so far, weighted by games played"
+    "points": 3.2,
+    "detail": "Los Angeles Lakers +6.2 vs Utah Jazz -7.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -8251,8 +8287,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.25,
-    "detail": "Los Angeles Lakers 1 out (34 min) costs 2.2 pts, Utah Jazz 4 out (100 min) costs 2.0 pts"
+    "points": -0.27,
+    "detail": "Los Angeles Lakers 1 out (34 min) costs 2.2 pts, Utah Jazz 4 out (100 min) costs 1.9 pts"
    }
   ],
   "ratings": {
@@ -8597,6 +8633,12 @@
     "pick": "LAL",
     "prob": 80.8,
     "reason": "Jaxson Hayes (UTA) now out"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "LAL",
+    "prob": 81.0,
+    "reason": "win probability moved with the latest report"
    }
   ]
  },
@@ -8699,28 +8741,28 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 15.4,
-   "away": 84.6
+   "home": 15.5,
+   "away": 84.5
   },
   "win_prob_band": {
-   "low": 15.4,
+   "low": 15.5,
    "high": 20.7,
    "gtd_count": 2
   },
-  "expected_margin": -14.38,
+  "expected_margin": -14.34,
   "expected_score": {
    "home": 105.6,
-   "away": 120.0
+   "away": 119.9
   },
   "margin_breakdown": [
    {
     "label": "Player Ratings",
-    "points": -12.13,
+    "points": -12.12,
     "detail": "Sacramento Kings vs San Antonio Spurs: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 1.22,
+    "points": 1.26,
     "detail": "Fitted with the player ratings"
    },
    {
@@ -8735,7 +8777,7 @@
    },
    {
     "label": "Absences",
-    "points": 2.22,
+    "points": 2.21,
     "detail": "Sacramento Kings 1 out (26 min), no change to the rotation, San Antonio Spurs 2 out (58 min) costs 2.2 pts · Tobias Harris outside recent rotation: -0.29 pts scoring adjustment · Ben Simmons, Jayden Quaintance out all season, already baked into team rating"
    }
   ],
@@ -9088,6 +9130,12 @@
     "pick": "SAS",
     "prob": 84.6,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:02-05:00",
+    "pick": "SAS",
+    "prob": 84.5,
+    "reason": "win probability moved with the latest report"
    }
   ]
  }
