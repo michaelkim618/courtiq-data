@@ -33558,7 +33558,7 @@
    },
    "home": "UTA",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-22T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-22T19:00-05:00",
    "tip_known": true,
@@ -33887,7 +33887,7 @@
    },
    "home": "CHI",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-22T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-22T19:00-05:00",
    "tip_known": true,
@@ -34838,6 +34838,40 @@
       "away": 27.2,
       "home": 72.8
      }
+    },
+    {
+     "at": "2026-11-22T19:02-05:00",
+     "expected_margin": 8.19,
+     "gtd": {
+      "away": [
+       "Pascal Siakam"
+      ],
+      "home": [
+       "Karl-Anthony Towns"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "OG Anunoby",
+       "Jordan Clarkson",
+       "Miles McBride"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Miles McBride (NYK) now out",
+     "report": "2026-11-22T19:00-05:00",
+     "win_prob": {
+      "away": 28.1,
+      "home": 71.9
+     }
     }
    ]
   },
@@ -35229,7 +35263,7 @@
    },
    "home": "WAS",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-22T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-22T19:00-05:00",
    "tip_known": true,
