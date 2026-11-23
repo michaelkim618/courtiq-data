@@ -7042,7 +7042,7 @@
  },
  {
   "date": "2026-11-22",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Boston Celtics",
   "home": "Golden State Warriors",
   "away_code": "BOS",
@@ -7272,229 +7272,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 16,
-    "away": 16
-   },
-   "home": [
-    {
-     "player": "Brandin Podziemski",
-     "player_id": 1641764,
-     "position": "G",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 32.0,
-     "ppg": 15.8,
-     "rpg": 4.7,
-     "apg": 3.6
-    },
-    {
-     "player": "Yaxel Lendeborg",
-     "player_id": 1642865,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 31.6,
-     "ppg": 19.7,
-     "rpg": 7.3,
-     "apg": 3.7
-    },
-    {
-     "player": "Draymond Green",
-     "player_id": 203110,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 25.6,
-     "ppg": 3.2,
-     "rpg": 4.7,
-     "apg": 6.5
-    },
-    {
-     "player": "Gui Santos",
-     "player_id": 1630611,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 10,
-     "start_rate": 77,
-     "mpg": 18.9,
-     "ppg": 6.3,
-     "rpg": 4.2,
-     "apg": 1.7
-    },
-    {
-     "player": "Graham Ike",
-     "player_id": 1643633,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 6,
-     "start_rate": 46,
-     "mpg": 9.5,
-     "ppg": 4.5,
-     "rpg": 2.4,
-     "apg": 1.1
-    },
-    {
-     "player": "Will Richard",
-     "player_id": 1642954,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 4,
-     "start_rate": 27,
-     "mpg": 19.8,
-     "ppg": 7.5,
-     "rpg": 2.3,
-     "apg": 1.0
-    },
-    {
-     "player": "De'Anthony Melton",
-     "player_id": 1629001,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 4,
-     "start_rate": 25,
-     "mpg": 22.0,
-     "ppg": 9.1,
-     "rpg": 3.8,
-     "apg": 2.4
-    },
-    {
-     "player": "Georges Niang",
-     "player_id": 1627777,
-     "position": "F",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.9,
-     "ppg": 7.3,
-     "rpg": 2.9,
-     "apg": 1.4
-    }
-   ],
-   "away": [
-    {
-     "player": "Jayson Tatum",
-     "player_id": 1628369,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 34.0,
-     "ppg": 26.4,
-     "rpg": 6.6,
-     "apg": 6.8
-    },
-    {
-     "player": "Derrick White",
-     "player_id": 1628401,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 12.7,
-     "rpg": 3.0,
-     "apg": 5.0
-    },
-    {
-     "player": "Jordan Walsh",
-     "player_id": 1641775,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 15.2,
-     "ppg": 4.5,
-     "rpg": 3.0,
-     "apg": 0.5
-    },
-    {
-     "player": "Payton Pritchard",
-     "player_id": 1630202,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 27.6,
-     "ppg": 13.4,
-     "rpg": 3.2,
-     "apg": 4.1
-    },
-    {
-     "player": "Neemias Queta",
-     "player_id": 1629674,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.8,
-     "ppg": 10.0,
-     "rpg": 6.9,
-     "apg": 1.9
-    },
-    {
-     "player": "Sam Hauser",
-     "player_id": 1630573,
-     "position": "F",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.0,
-     "ppg": 8.8,
-     "rpg": 3.3,
-     "apg": 1.2
-    },
-    {
-     "player": "Baylor Scheierman",
-     "player_id": 1631248,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.3,
-     "ppg": 5.6,
-     "rpg": 3.7,
-     "apg": 1.4
-    },
-    {
-     "player": "Hugo González",
-     "player_id": 1642864,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.1,
-     "ppg": 4.0,
-     "rpg": 2.6,
-     "apg": 0.6
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 88,
+   "away": 87
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Golden State Warriors",
   "model_winner": "Boston Celtics",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
@@ -7564,6 +7349,302 @@
     "prob": 79.5,
     "reason": "Mitchell Robinson (BOS) now out; Paul George (BOS) now out; Derrick White (BOS) cleared to play; Jayson Tatum (BOS) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Brandin Podziemski",
+     "starter": true,
+     "min": 38,
+     "pts": 18,
+     "reb": 7,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 6,
+     "pm": -5
+    },
+    {
+     "name": "Yaxel Lendeborg",
+     "starter": true,
+     "min": 34,
+     "pts": 12,
+     "reb": 8,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 7
+    },
+    {
+     "name": "Draymond Green",
+     "starter": true,
+     "min": 27,
+     "pts": 9,
+     "reb": 6,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -8
+    },
+    {
+     "name": "De'Anthony Melton",
+     "starter": true,
+     "min": 27,
+     "pts": 2,
+     "reb": 3,
+     "ast": 7,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": -6
+    },
+    {
+     "name": "Charles Bassey",
+     "starter": true,
+     "min": 26,
+     "pts": 13,
+     "reb": 9,
+     "ast": 3,
+     "stl": 3,
+     "blk": 0,
+     "tov": 1,
+     "pm": 0
+    },
+    {
+     "name": "Gui Santos",
+     "starter": false,
+     "min": 23,
+     "pts": 13,
+     "reb": 5,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Al Horford",
+     "starter": false,
+     "min": 18,
+     "pts": 7,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Will Richard",
+     "starter": false,
+     "min": 17,
+     "pts": 3,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 5
+    },
+    {
+     "name": "Gary Payton II",
+     "starter": false,
+     "min": 13,
+     "pts": 8,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -9
+    },
+    {
+     "name": "LJ Cryer",
+     "starter": false,
+     "min": 11,
+     "pts": 3,
+     "reb": 0,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Georges Niang",
+     "starter": false,
+     "min": 8,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    }
+   ],
+   "away": [
+    {
+     "name": "Jayson Tatum",
+     "starter": true,
+     "min": 38,
+     "pts": 27,
+     "reb": 10,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 4,
+     "pm": 11
+    },
+    {
+     "name": "Derrick White",
+     "starter": true,
+     "min": 32,
+     "pts": 14,
+     "reb": 3,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 3
+    },
+    {
+     "name": "Neemias Queta",
+     "starter": true,
+     "min": 30,
+     "pts": 6,
+     "reb": 10,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -1
+    },
+    {
+     "name": "Payton Pritchard",
+     "starter": false,
+     "min": 28,
+     "pts": 5,
+     "reb": 1,
+     "ast": 4,
+     "stl": 3,
+     "blk": 1,
+     "tov": 3,
+     "pm": -5
+    },
+    {
+     "name": "Hugo Gonzalez",
+     "starter": true,
+     "min": 22,
+     "pts": 6,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -2
+    },
+    {
+     "name": "Sam Hauser",
+     "starter": true,
+     "min": 22,
+     "pts": 3,
+     "reb": 1,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Luka Garza",
+     "starter": false,
+     "min": 17,
+     "pts": 10,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Mike Conley",
+     "starter": false,
+     "min": 16,
+     "pts": 6,
+     "reb": 2,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 8
+    },
+    {
+     "name": "Baylor Scheierman",
+     "starter": false,
+     "min": 15,
+     "pts": 3,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Jordan Walsh",
+     "starter": false,
+     "min": 9,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Ron Harper Jr.",
+     "starter": false,
+     "min": 6,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Chris Cenac Jr.",
+     "starter": false,
+     "min": 5,
+     "pts": 0,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -8
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Brandin Podziemski",
+    "pts": 18,
+    "reb": 7,
+    "ast": 2
+   },
+   "away": {
+    "name": "Jayson Tatum",
+    "pts": 27,
+    "reb": 10,
+    "ast": 6
+   }
+  }
  }
 ]

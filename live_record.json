@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:47-05:00",
+ "generated": "2026-11-22T23:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2316,14 +2316,22 @@
   },
   {
    "date": "2026-11-22",
-   "games": 6,
+   "games": 7,
    "wins": 4,
-   "losses": 2,
-   "pct": 66.7,
+   "losses": 3,
+   "pct": 57.1,
    "cum_wins": 166,
-   "cum_games": 247,
-   "cum_pct": 67.2,
+   "cum_games": 248,
+   "cum_pct": 66.9,
    "picks": [
+    {
+     "away": "BOS",
+     "home": "GSW",
+     "pick": "BOS",
+     "prob": 79.5,
+     "correct": false,
+     "updated": true
+    },
     {
      "away": "DAL",
      "home": "UTA",
@@ -2376,10 +2384,10 @@
   }
  ],
  "total": {
-  "games": 247,
+  "games": 248,
   "wins": 166,
-  "losses": 81,
-  "pct": 67.2
+  "losses": 82,
+  "pct": 66.9
  },
  "unscored": 0
 }
