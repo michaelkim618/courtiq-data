@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T18:02-05:00",
+ "generated": "2026-11-22T20:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2316,13 +2316,13 @@
   },
   {
    "date": "2026-11-22",
-   "games": 1,
-   "wins": 0,
+   "games": 2,
+   "wins": 1,
    "losses": 1,
-   "pct": 0.0,
-   "cum_wins": 162,
-   "cum_games": 242,
-   "cum_pct": 66.9,
+   "pct": 50.0,
+   "cum_wins": 163,
+   "cum_games": 243,
+   "cum_pct": 67.1,
    "picks": [
     {
      "away": "DET",
@@ -2331,15 +2331,23 @@
      "prob": 57.1,
      "correct": false,
      "updated": true
+    },
+    {
+     "away": "OKC",
+     "home": "MIA",
+     "pick": "MIA",
+     "prob": 57.2,
+     "correct": true,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 242,
-  "wins": 162,
+  "games": 243,
+  "wins": 163,
   "losses": 80,
-  "pct": 66.9
+  "pct": 67.1
  },
  "unscored": 0
 }

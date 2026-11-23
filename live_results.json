@@ -1934,5 +1934,13 @@
   "home": "ATL",
   "conf": 57.1,
   "correct": false
+ },
+ {
+  "date": "2026-11-22",
+  "season": "2026-2027",
+  "away": "OKC",
+  "home": "MIA",
+  "conf": 57.2,
+  "correct": true
  }
 ]
