@@ -36191,6 +36191,38 @@
       "away": 76.5,
       "home": 23.5
      }
+    },
+    {
+     "at": "2026-11-23T17:32-05:00",
+     "expected_margin": -10.2,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Cameron Boozer",
+       "GG Jackson",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Grayson Allen",
+       "Dennis Schroder",
+       "Grant Williams"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Brandon Miller (CHA) cleared to play",
+     "report": "2026-11-23T17:30-05:00",
+     "win_prob": {
+      "away": 76.5,
+      "home": 23.5
+     }
     }
    ]
   },

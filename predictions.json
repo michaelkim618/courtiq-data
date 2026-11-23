@@ -4273,9 +4273,9 @@
    "away": 76.5
   },
   "win_prob_band": {
-   "low": 20.8,
+   "low": 23.5,
    "high": 23.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -10.2,
   "expected_score": {
@@ -4416,15 +4416,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Brandon Miller",
-     "mpg": 29.4,
-     "value": 6.1,
-     "status": "Probable",
-     "ppg": 19.2
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4688,6 +4680,12 @@
     "pick": "MEM",
     "prob": 76.5,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T17:32-05:00",
+    "pick": "MEM",
+    "prob": 76.5,
+    "reason": "Brandon Miller (CHA) cleared to play"
    }
   ]
  },
