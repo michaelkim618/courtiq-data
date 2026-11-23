@@ -4792,9 +4792,9 @@
    "away": 54.0
   },
   "win_prob_band": {
-   "low": 41.9,
+   "low": 46.0,
    "high": 46.0,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -1.42,
   "expected_score": {
@@ -4910,13 +4910,6 @@
   },
   "gtd": {
    "home": [
-    {
-     "player": "Jaylen Brown",
-     "mpg": 32.8,
-     "value": 7.0,
-     "status": "Probable",
-     "ppg": 21.6
-    },
     {
      "player": "Dean Wade",
      "mpg": 23.6,
@@ -5206,6 +5199,12 @@
     "pick": "POR",
     "prob": 54.0,
     "reason": "Joel Embiid (PHI) now out"
+   },
+   {
+    "at": "2026-11-23T18:17-05:00",
+    "pick": "POR",
+    "prob": 54.0,
+    "reason": "Jaylen Brown (PHI) cleared to play"
    }
   ]
  },
