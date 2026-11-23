@@ -8215,18 +8215,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 81.8,
-   "away": 18.2
+   "home": 80.8,
+   "away": 19.2
   },
   "win_prob_band": {
-   "low": 81.8,
-   "high": 81.8,
-   "gtd_count": 1
+   "low": 80.8,
+   "high": 80.8,
+   "gtd_count": 0
   },
-  "expected_margin": 12.82,
+  "expected_margin": 12.29,
   "expected_score": {
-   "home": 121.1,
-   "away": 108.3
+   "home": 120.9,
+   "away": 108.6
   },
   "margin_breakdown": [
    {
@@ -8251,8 +8251,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.28,
-    "detail": "Los Angeles Lakers 1 out (34 min) costs 2.2 pts, Utah Jazz 3 out (76 min) costs 2.5 pts · Utah Jazz: official report not filed yet, ESPN injury list used"
+    "points": -0.25,
+    "detail": "Los Angeles Lakers 1 out (34 min) costs 2.2 pts, Utah Jazz 4 out (100 min) costs 2.0 pts"
    }
   ],
   "ratings": {
@@ -8295,8 +8295,7 @@
      "value": 4.0,
      "cost": -0.84,
      "no_minutes": false,
-     "ppg": 14.6,
-     "source": "espn"
+     "ppg": 14.6
     },
     {
      "player": "Lauri Markkanen",
@@ -8305,8 +8304,7 @@
      "value": 3.8,
      "cost": -0.8,
      "no_minutes": false,
-     "ppg": 15.8,
-     "source": "espn"
+     "ppg": 15.8
     },
     {
      "player": "Jusuf Nurkic",
@@ -8315,22 +8313,22 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 11.0,
-     "source": "espn"
+     "ppg": 11.0
+    },
+    {
+     "player": "Jaxson Hayes",
+     "mpg": 23.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 8.7
     }
    ]
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jaxson Hayes",
-     "mpg": 23.0,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 8.7
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -8485,19 +8483,6 @@
      "apg": 2.1
     },
     {
-     "player": "Jaxson Hayes",
-     "player_id": 1629637,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 5,
-     "start_rate": 33,
-     "mpg": 23.6,
-     "ppg": 9.2,
-     "rpg": 6.4,
-     "apg": 1.5
-    },
-    {
      "player": "Mo Bamba",
      "player_id": 1628964,
      "position": "C",
@@ -8514,7 +8499,7 @@
      "player": "Josh Green",
      "player_id": 1630182,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -8548,6 +8533,19 @@
      "ppg": 4.4,
      "rpg": 3.1,
      "apg": 1.1
+    },
+    {
+     "player": "Brice Sensabaugh",
+     "player_id": 1641729,
+     "position": "F",
+     "starter": false,
+     "games": 18,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.2,
+     "ppg": 10.8,
+     "rpg": 3.6,
+     "apg": 1.6
     }
    ]
   },
@@ -8593,6 +8591,12 @@
     "pick": "LAL",
     "prob": 81.8,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-23T16:02-05:00",
+    "pick": "LAL",
+    "prob": 80.8,
+    "reason": "Jaxson Hayes (UTA) now out"
    }
   ]
  },
