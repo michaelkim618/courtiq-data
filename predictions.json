@@ -4794,7 +4794,7 @@
   "win_prob_band": {
    "low": 46.0,
    "high": 46.0,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -1.42,
   "expected_score": {
@@ -4909,15 +4909,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Dean Wade",
-     "mpg": 23.6,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 4.3
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -5205,6 +5197,12 @@
     "pick": "POR",
     "prob": 54.0,
     "reason": "Jaylen Brown (PHI) cleared to play"
+   },
+   {
+    "at": "2026-11-23T18:32-05:00",
+    "pick": "POR",
+    "prob": 54.0,
+    "reason": "Dean Wade (PHI) cleared to play"
    }
   ]
  },
