@@ -35911,6 +35911,35 @@
       "away": 69.2,
       "home": 30.8
      }
+    },
+    {
+     "at": "2026-11-23T18:47-05:00",
+     "expected_margin": -7.09,
+     "gtd": {
+      "away": [
+       "Jaylon Tyson"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Jalen Smith (CHI) cleared to play",
+     "report": "2026-11-23T18:45-05:00",
+     "win_prob": {
+      "away": 69.2,
+      "home": 30.8
+     }
     }
    ]
   },
@@ -36049,6 +36078,11 @@
   "2026-11-23_MEM@CHA": {
    "away": "MEM",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-23T18:45-05:00"
+   },
    "home": "CHA",
    "late": false,
    "locked_at": null,
@@ -36657,6 +36691,42 @@
       "away": 68.0,
       "home": 32.0
      }
+    },
+    {
+     "at": "2026-11-23T18:47-05:00",
+     "expected_margin": -6.62,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Aday Mara",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Aaron Nesmith",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Pascal Siakam (IND) cleared to play",
+     "report": "2026-11-23T18:45-05:00",
+     "win_prob": {
+      "away": 68.0,
+      "home": 32.0
+     }
     }
    ]
   },
@@ -36852,6 +36922,11 @@
   "2026-11-23_POR@PHI": {
    "away": "POR",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-23T18:45-05:00"
+   },
    "home": "PHI",
    "late": false,
    "locked_at": null,
