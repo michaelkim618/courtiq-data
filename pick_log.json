@@ -34872,6 +34872,36 @@
       "away": 28.1,
       "home": 71.9
      }
+    },
+    {
+     "at": "2026-11-22T19:32-05:00",
+     "expected_margin": 8.19,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ],
+      "home": [
+       "OG Anunoby",
+       "Jordan Clarkson",
+       "Miles McBride"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Pascal Siakam (IND) cleared to play; Karl-Anthony Towns (NYK) cleared to play",
+     "report": "2026-11-22T19:30-05:00",
+     "win_prob": {
+      "away": 28.1,
+      "home": 71.9
+     }
     }
    ]
   },
