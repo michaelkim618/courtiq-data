@@ -5263,18 +5263,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 33.4,
-   "away": 66.6
+   "home": 32.6,
+   "away": 67.4
   },
   "win_prob_band": {
-   "low": 33.4,
-   "high": 41.6,
-   "gtd_count": 2
+   "low": 28.7,
+   "high": 40.7,
+   "gtd_count": 3
   },
-  "expected_margin": -6.23,
+  "expected_margin": -6.55,
   "expected_score": {
-   "home": 109.8,
-   "away": 116.0
+   "home": 109.7,
+   "away": 116.2
   },
   "margin_breakdown": [
    {
@@ -5294,8 +5294,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.25,
-    "detail": "Indiana Pacers 3 out (65 min) costing 1.6 pts, Oklahoma City Thunder 3 out (80 min) costing 1.9 pts · Indiana Pacers and Oklahoma City Thunder: official report not filed yet, ESPN injury list used · Thomas Sorber out all season, already baked into team rating"
+    "points": -0.07,
+    "detail": "Indiana Pacers 5 out (105 min) costing 1.9 pts, Oklahoma City Thunder 3 out (80 min) costing 1.9 pts · Oklahoma City Thunder: official report not filed yet, ESPN injury list used · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5327,8 +5327,25 @@
      "value": 7.6,
      "cost": -1.59,
      "no_minutes": false,
-     "ppg": 18.8,
-     "source": "espn"
+     "ppg": 18.8
+    },
+    {
+     "player": "T.J. McConnell",
+     "mpg": 14.2,
+     "nth_out": 2,
+     "value": 1.5,
+     "cost": -0.32,
+     "no_minutes": false,
+     "ppg": 7.8
+    },
+    {
+     "player": "Aaron Nesmith",
+     "mpg": 25.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 11.1
     },
     {
      "player": "Ben Sheppard",
@@ -5337,8 +5354,7 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 7.0,
-     "source": "espn"
+     "ppg": 7.0
     },
     {
      "player": "Johnny Furphy",
@@ -5347,8 +5363,7 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 5.4,
-     "source": "espn"
+     "ppg": 5.4
     }
    ],
    "away": [
@@ -5394,7 +5409,15 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Pascal Siakam",
+     "mpg": 29.8,
+     "value": 7.7,
+     "status": "Questionable",
+     "ppg": 20.9
+    }
+   ],
    "away": [
     {
      "player": "Shai Gilgeous-Alexander",
@@ -5459,19 +5482,6 @@
      "apg": 1.8
     },
     {
-     "player": "Aaron Nesmith",
-     "player_id": 1630174,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 10,
-     "start_rate": 67,
-     "mpg": 27.4,
-     "ppg": 10.7,
-     "rpg": 3.3,
-     "apg": 2.3
-    },
-    {
      "player": "Kelly Oubre Jr.",
      "player_id": 1626162,
      "position": "F",
@@ -5488,7 +5498,7 @@
      "player": "Jay Huff",
      "player_id": 1630643,
      "position": "C",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 5,
      "start_rate": 33,
@@ -5522,6 +5532,19 @@
      "ppg": 8.9,
      "rpg": 3.4,
      "apg": 3.0
+    },
+    {
+     "player": "Obi Toppin",
+     "player_id": 1630167,
+     "position": "F",
+     "starter": false,
+     "games": 14,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 20.4,
+     "ppg": 11.5,
+     "rpg": 4.1,
+     "apg": 1.4
     }
    ],
    "away": [
@@ -5659,6 +5682,12 @@
     "pick": "OKC",
     "prob": 66.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-23T13:18-05:00",
+    "pick": "OKC",
+    "prob": 67.4,
+    "reason": "Aaron Nesmith (IND) now out; T.J. McConnell (IND) now out; Pascal Siakam (IND) now questionable"
    }
   ]
  },

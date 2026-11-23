@@ -36196,6 +36196,43 @@
       "away": 66.6,
       "home": 33.4
      }
+    },
+    {
+     "at": "2026-11-23T13:18-05:00",
+     "expected_margin": -6.55,
+     "gtd": {
+      "away": [
+       "Shai Gilgeous-Alexander",
+       "Aday Mara"
+      ],
+      "home": [
+       "Pascal Siakam"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Cason Wallace",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Aaron Nesmith",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Aaron Nesmith (IND) now out; T.J. McConnell (IND) now out; Pascal Siakam (IND) now questionable",
+     "report": "2026-11-23T13:15-05:00",
+     "win_prob": {
+      "away": 67.4,
+      "home": 32.6
+     }
     }
    ]
   },
