@@ -37023,6 +37023,38 @@
       "away": 50.8,
       "home": 49.2
      }
+    },
+    {
+     "at": "2026-11-23T17:47-05:00",
+     "expected_margin": -1.42,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jaylen Brown",
+       "Dean Wade"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Joel Embiid",
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Joel Embiid (PHI) now out",
+     "report": "2026-11-23T17:45-05:00",
+     "win_prob": {
+      "away": 54.0,
+      "home": 46.0
+     }
     }
    ]
   },
