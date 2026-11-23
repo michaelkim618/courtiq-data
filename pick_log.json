@@ -36403,6 +36403,38 @@
       "away": 40.4,
       "home": 59.6
      }
+    },
+    {
+     "at": "2026-11-23T11:48-05:00",
+     "expected_margin": 3.53,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jaylen Brown",
+       "Joel Embiid",
+       "Dean Wade"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ],
+      "home": [
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Joel Embiid (PHI) now questionable",
+     "report": "2026-11-23T11:45-05:00",
+     "win_prob": {
+      "away": 40.4,
+      "home": 59.6
+     }
     }
    ]
   },

@@ -4775,9 +4775,9 @@
    "away": 40.4
   },
   "win_prob_band": {
-   "low": 55.6,
+   "low": 52.4,
    "high": 59.6,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": 3.53,
   "expected_score": {
@@ -4890,6 +4890,13 @@
      "value": 7.0,
      "status": "Probable",
      "ppg": 21.6
+    },
+    {
+     "player": "Joel Embiid",
+     "mpg": 31.2,
+     "value": 5.7,
+     "status": "Questionable",
+     "ppg": 19.5
     },
     {
      "player": "Dean Wade",
@@ -5148,6 +5155,12 @@
     "pick": "PHI",
     "prob": 59.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Damian Lillard (POR) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-11-23T11:48-05:00",
+    "pick": "PHI",
+    "prob": 59.6,
+    "reason": "Joel Embiid (PHI) now questionable"
    }
   ]
  },
