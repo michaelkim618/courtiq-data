@@ -4645,7 +4645,7 @@
  },
  {
   "date": "2026-11-22",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Orlando Magic",
   "home": "Washington Wizards",
   "away_code": "ORL",
@@ -4882,229 +4882,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 17,
-    "away": 15
-   },
-   "home": [
-    {
-     "player": "Trae Young",
-     "player_id": 1629027,
-     "position": "G",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 35.0,
-     "ppg": 17.4,
-     "rpg": 2.8,
-     "apg": 8.6
-    },
-    {
-     "player": "Anthony Davis",
-     "player_id": 203076,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 34.0,
-     "ppg": 25.3,
-     "rpg": 10.1,
-     "apg": 2.1
-    },
-    {
-     "player": "Kyshawn George",
-     "player_id": 1642273,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 33.7,
-     "ppg": 17.4,
-     "rpg": 4.4,
-     "apg": 4.4
-    },
-    {
-     "player": "Alex Sarr",
-     "player_id": 1642259,
-     "position": "C",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 26.7,
-     "ppg": 11.3,
-     "rpg": 6.7,
-     "apg": 1.6
-    },
-    {
-     "player": "Bilal Coulibaly",
-     "player_id": 1641731,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 24.9,
-     "ppg": 6.6,
-     "rpg": 4.4,
-     "apg": 0.7
-    },
-    {
-     "player": "AJ Dybantsa",
-     "player_id": 1643407,
-     "position": "F",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 33.9,
-     "ppg": 16.5,
-     "rpg": 6.9,
-     "apg": 2.5
-    },
-    {
-     "player": "Tre Johnson",
-     "player_id": 1642848,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.0,
-     "ppg": 8.5,
-     "rpg": 1.9,
-     "apg": 0.9
-    },
-    {
-     "player": "Bub Carrington",
-     "player_id": 1642267,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.8,
-     "ppg": 4.8,
-     "rpg": 1.3,
-     "apg": 1.9
-    }
-   ],
-   "away": [
-    {
-     "player": "Franz Wagner",
-     "player_id": 1630532,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 36.8,
-     "ppg": 25.1,
-     "rpg": 6.8,
-     "apg": 8.4
-    },
-    {
-     "player": "Desmond Bane",
-     "player_id": 1630217,
-     "position": "G",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 34.9,
-     "ppg": 18.6,
-     "rpg": 4.1,
-     "apg": 2.7
-    },
-    {
-     "player": "Wendell Carter Jr.",
-     "player_id": 1628976,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 13.0,
-     "rpg": 8.7,
-     "apg": 1.3
-    },
-    {
-     "player": "Jalen Suggs",
-     "player_id": 1630591,
-     "position": "G",
-     "starter": true,
-     "games": 7,
-     "starts": 7,
-     "start_rate": 100,
-     "mpg": 29.6,
-     "ppg": 9.3,
-     "rpg": 5.3,
-     "apg": 4.3
-    },
-    {
-     "player": "Jase Richardson",
-     "player_id": 1642859,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 4,
-     "start_rate": 36,
-     "mpg": 21.7,
-     "ppg": 5.9,
-     "rpg": 1.9,
-     "apg": 2.5
-    },
-    {
-     "player": "Anthony Black",
-     "player_id": 1641710,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 33.1,
-     "ppg": 16.2,
-     "rpg": 5.1,
-     "apg": 5.7
-    },
-    {
-     "player": "Tristan da Silva",
-     "player_id": 1641783,
-     "position": "F",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 29.8,
-     "ppg": 13.8,
-     "rpg": 3.7,
-     "apg": 1.7
-    },
-    {
-     "player": "Jamal Cain",
-     "player_id": 1631288,
-     "position": "F",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.8,
-     "ppg": 5.5,
-     "rpg": 3.2,
-     "apg": 0.4
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 116,
+   "away": 96
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Washington Wizards",
   "model_winner": "Orlando Magic",
-  "model_correct": null,
+  "model_correct": false,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
@@ -5168,7 +4953,327 @@
     "prob": 60.1,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Kyshawn George",
+     "starter": true,
+     "min": 36,
+     "pts": 24,
+     "reb": 3,
+     "ast": 4,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 21
+    },
+    {
+     "name": "Anthony Davis",
+     "starter": true,
+     "min": 33,
+     "pts": 22,
+     "reb": 7,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 2,
+     "pm": 20
+    },
+    {
+     "name": "AJ Dybantsa",
+     "starter": true,
+     "min": 33,
+     "pts": 16,
+     "reb": 8,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "Trae Young",
+     "starter": true,
+     "min": 28,
+     "pts": 11,
+     "reb": 4,
+     "ast": 11,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 5
+    },
+    {
+     "name": "Alex Sarr",
+     "starter": true,
+     "min": 26,
+     "pts": 10,
+     "reb": 9,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Bilal Coulibaly",
+     "starter": false,
+     "min": 25,
+     "pts": 12,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 20
+    },
+    {
+     "name": "Khris Middleton",
+     "starter": false,
+     "min": 20,
+     "pts": 6,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 13
+    },
+    {
+     "name": "Tre Johnson",
+     "starter": false,
+     "min": 15,
+     "pts": 11,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 4
+    },
+    {
+     "name": "Will Riley",
+     "starter": false,
+     "min": 9,
+     "pts": 4,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 9
+    },
+    {
+     "name": "Deandre Ayton",
+     "starter": false,
+     "min": 5,
+     "pts": 0,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 8
+    },
+    {
+     "name": "Anthony Gill",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    },
+    {
+     "name": "Tre Mann",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    },
+    {
+     "name": "Bub Carrington",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    }
+   ],
+   "away": [
+    {
+     "name": "Anthony Black",
+     "starter": true,
+     "min": 35,
+     "pts": 14,
+     "reb": 5,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Desmond Bane",
+     "starter": true,
+     "min": 33,
+     "pts": 17,
+     "reb": 1,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -5
+    },
+    {
+     "name": "Franz Wagner",
+     "starter": true,
+     "min": 32,
+     "pts": 16,
+     "reb": 8,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": -24
+    },
+    {
+     "name": "Tristan da Silva",
+     "starter": false,
+     "min": 27,
+     "pts": 18,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -14
+    },
+    {
+     "name": "Wendell Carter Jr.",
+     "starter": true,
+     "min": 26,
+     "pts": 9,
+     "reb": 6,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -12
+    },
+    {
+     "name": "Jalen Suggs",
+     "starter": true,
+     "min": 22,
+     "pts": 9,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -17
+    },
+    {
+     "name": "Nikola Vucevic",
+     "starter": false,
+     "min": 17,
+     "pts": 5,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Goga Bitadze",
+     "starter": false,
+     "min": 15,
+     "pts": 1,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Jevon Carter",
+     "starter": false,
+     "min": 14,
+     "pts": 3,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -9
+    },
+    {
+     "name": "Jamal Cain",
+     "starter": false,
+     "min": 9,
+     "pts": 2,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Jase Richardson",
+     "starter": false,
+     "min": 6,
+     "pts": 2,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Alex Morales",
+     "starter": false,
+     "min": 5,
+     "pts": 0,
+     "reb": 1,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Kyshawn George",
+    "pts": 24,
+    "reb": 3,
+    "ast": 4
+   },
+   "away": {
+    "name": "Tristan da Silva",
+    "pts": 18,
+    "reb": 3,
+    "ast": 0
+   }
+  }
  },
  {
   "date": "2026-11-22",

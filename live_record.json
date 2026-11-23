@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T20:32-05:00",
+ "generated": "2026-11-22T21:17-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2316,13 +2316,13 @@
   },
   {
    "date": "2026-11-22",
-   "games": 2,
+   "games": 3,
    "wins": 1,
-   "losses": 1,
-   "pct": 50.0,
+   "losses": 2,
+   "pct": 33.3,
    "cum_wins": 163,
-   "cum_games": 243,
-   "cum_pct": 67.1,
+   "cum_games": 244,
+   "cum_pct": 66.8,
    "picks": [
     {
      "away": "DET",
@@ -2339,15 +2339,23 @@
      "prob": 57.2,
      "correct": true,
      "updated": true
+    },
+    {
+     "away": "ORL",
+     "home": "WAS",
+     "pick": "ORL",
+     "prob": 60.1,
+     "correct": false,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 243,
+  "games": 244,
   "wins": 163,
-  "losses": 80,
-  "pct": 67.1
+  "losses": 81,
+  "pct": 66.8
  },
  "unscored": 0
 }
