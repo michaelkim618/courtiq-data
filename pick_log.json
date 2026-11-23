@@ -35791,6 +35791,37 @@
       "away": 78.5,
       "home": 21.5
      }
+    },
+    {
+     "at": "2026-11-23T13:48-05:00",
+     "expected_margin": -11.46,
+     "gtd": {
+      "away": [
+       "Jaylon Tyson"
+      ],
+      "home": [
+       "Jalen Smith"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Jalen Smith (CHI) now questionable",
+     "report": "2026-11-23T13:45-05:00",
+     "win_prob": {
+      "away": 78.5,
+      "home": 21.5
+     }
     }
    ]
   },
@@ -36233,6 +36264,44 @@
       "away": 67.4,
       "home": 32.6
      }
+    },
+    {
+     "at": "2026-11-23T13:48-05:00",
+     "expected_margin": -6.48,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Pascal Siakam"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Aday Mara",
+       "Cason Wallace",
+       "Alex Caruso",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Aaron Nesmith",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Aday Mara (OKC) now out; Alex Caruso (OKC) now out; Jaylin Williams (OKC) now out; Nikola Topic (OKC) now out; Shai Gilgeous-Alexander (OKC) cleared to play",
+     "report": "2026-11-23T13:45-05:00",
+     "win_prob": {
+      "away": 67.2,
+      "home": 32.8
+     }
     }
    ]
   },
@@ -36331,6 +36400,35 @@
      "pick_code": "PHX",
      "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
      "report": "2026-11-23T10:30-05:00",
+     "win_prob": {
+      "away": 60.0,
+      "home": 40.0
+     }
+    },
+    {
+     "at": "2026-11-23T13:48-05:00",
+     "expected_margin": -3.68,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Zion Williamson"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": [
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Trey Murphy III (NOP) cleared to play",
+     "report": "2026-11-23T13:45-05:00",
      "win_prob": {
       "away": 60.0,
       "home": 40.0

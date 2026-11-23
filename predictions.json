@@ -5263,15 +5263,15 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 32.6,
-   "away": 67.4
+   "home": 32.8,
+   "away": 67.2
   },
   "win_prob_band": {
-   "low": 28.7,
-   "high": 40.7,
-   "gtd_count": 3
+   "low": 28.8,
+   "high": 32.8,
+   "gtd_count": 1
   },
-  "expected_margin": -6.55,
+  "expected_margin": -6.48,
   "expected_score": {
    "home": 109.7,
    "away": 116.2
@@ -5294,8 +5294,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.07,
-    "detail": "Indiana Pacers 5 out (105 min) costing 1.9 pts, Oklahoma City Thunder 3 out (80 min) costing 1.9 pts · Oklahoma City Thunder: official report not filed yet, ESPN injury list used · Thomas Sorber out all season, already baked into team rating"
+    "points": 0.0,
+    "detail": "Indiana Pacers 5 out (105 min) costing 1.9 pts, Oklahoma City Thunder 7 out (150 min) costing 1.9 pts · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5374,8 +5374,7 @@
      "value": 5.2,
      "cost": -1.1,
      "no_minutes": false,
-     "ppg": 16.6,
-     "source": "espn"
+     "ppg": 16.6
     },
     {
      "player": "Chet Holmgren",
@@ -5384,8 +5383,16 @@
      "value": 3.6,
      "cost": -0.75,
      "no_minutes": false,
-     "ppg": 16.2,
-     "source": "espn"
+     "ppg": 16.2
+    },
+    {
+     "player": "Aday Mara",
+     "mpg": 22.3,
+     "nth_out": 1,
+     "value": 0.3,
+     "cost": -0.07,
+     "no_minutes": false,
+     "ppg": 10.2
     },
     {
      "player": "Cason Wallace",
@@ -5394,8 +5401,34 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 8.5,
-     "source": "espn"
+     "ppg": 8.5
+    },
+    {
+     "player": "Alex Caruso",
+     "mpg": 19.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 7.5
+    },
+    {
+     "player": "Jaylin Williams",
+     "mpg": 18.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 2.9
+    },
+    {
+     "player": "Nikola Topic",
+     "mpg": 10.7,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 3.3
     },
     {
      "player": "Thomas Sorber",
@@ -5403,8 +5436,7 @@
      "nth_out": 1,
      "value": 0.0,
      "cost": -0.0,
-     "no_minutes": true,
-     "source": "espn"
+     "no_minutes": true
     }
    ]
   },
@@ -5418,22 +5450,7 @@
      "ppg": 20.9
     }
    ],
-   "away": [
-    {
-     "player": "Shai Gilgeous-Alexander",
-     "mpg": 31.5,
-     "value": 14.7,
-     "status": "Questionable",
-     "ppg": 28.7
-    },
-    {
-     "player": "Aday Mara",
-     "mpg": 22.3,
-     "value": 0.3,
-     "status": "Questionable",
-     "ppg": 10.2
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5614,32 +5631,6 @@
      "apg": 1.6
     },
     {
-     "player": "Aday Mara",
-     "player_id": 1643530,
-     "position": "C",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.4,
-     "ppg": 10.0,
-     "rpg": 7.1,
-     "apg": 1.9
-    },
-    {
-     "player": "Alex Caruso",
-     "player_id": 1627936,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.2,
-     "ppg": 7.4,
-     "rpg": 3.7,
-     "apg": 2.8
-    },
-    {
      "player": "Bennett Stirtz",
      "player_id": 1642892,
      "position": "G",
@@ -5651,6 +5642,32 @@
      "ppg": 8.5,
      "rpg": 1.2,
      "apg": 1.5
+    },
+    {
+     "player": "Josh Dix",
+     "player_id": 1643717,
+     "position": "G",
+     "starter": false,
+     "games": 8,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.0,
+     "ppg": 3.6,
+     "rpg": 2.0,
+     "apg": 1.2
+    },
+    {
+     "player": "Micah Peavy",
+     "player_id": 1642877,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 17.1,
+     "ppg": 3.8,
+     "rpg": 3.5,
+     "apg": 0.3
     }
    ]
   },
@@ -5688,6 +5705,12 @@
     "pick": "OKC",
     "prob": 67.4,
     "reason": "Aaron Nesmith (IND) now out; T.J. McConnell (IND) now out; Pascal Siakam (IND) now questionable"
+   },
+   {
+    "at": "2026-11-23T13:48-05:00",
+    "pick": "OKC",
+    "prob": 67.2,
+    "reason": "Aday Mara (OKC) now out; Alex Caruso (OKC) now out; Jaylin Williams (OKC) now out; Nikola Topic (OKC) now out; Shai Gilgeous-Alexander (OKC) cleared to play"
    }
   ]
  },
@@ -6683,9 +6706,9 @@
    "away": 78.5
   },
   "win_prob_band": {
-   "low": 21.5,
+   "low": 20.4,
    "high": 21.5,
-   "gtd_count": 1
+   "gtd_count": 2
   },
   "expected_margin": -11.46,
   "expected_score": {
@@ -6711,7 +6734,7 @@
    {
     "label": "Absences",
     "points": -1.97,
-    "detail": "Chicago Bulls 2 out (57 min) costing 2.6 pts, Cleveland Cavaliers 2 out (45 min) costing 0.6 pts · Chicago Bulls: official report not filed yet, ESPN injury list used"
+    "detail": "Chicago Bulls 2 out (57 min) costing 2.6 pts, Cleveland Cavaliers 2 out (45 min) costing 0.6 pts"
    }
   ],
   "ratings": {
@@ -6743,8 +6766,7 @@
      "value": 7.7,
      "cost": -1.62,
      "no_minutes": false,
-     "ppg": 19.4,
-     "source": "espn"
+     "ppg": 19.4
     },
     {
      "player": "Caleb Wilson",
@@ -6753,8 +6775,7 @@
      "value": 4.6,
      "cost": -0.96,
      "no_minutes": false,
-     "ppg": 18.1,
-     "source": "espn"
+     "ppg": 18.1
     }
    ],
    "away": [
@@ -6779,7 +6800,15 @@
    ]
   },
   "gtd": {
-   "home": [],
+   "home": [
+    {
+     "player": "Jalen Smith",
+     "mpg": 22.9,
+     "value": 2.6,
+     "status": "Probable",
+     "ppg": 12.8
+    }
+   ],
    "away": [
     {
      "player": "Jaylon Tyson",
@@ -7037,6 +7066,12 @@
     "pick": "CLE",
     "prob": 78.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-23T13:48-05:00",
+    "pick": "CLE",
+    "prob": 78.5,
+    "reason": "Jalen Smith (CHI) now questionable"
    }
   ]
  },
@@ -7143,9 +7178,9 @@
    "away": 60.0
   },
   "win_prob_band": {
-   "low": 35.9,
+   "low": 36.5,
    "high": 40.0,
-   "gtd_count": 2
+   "gtd_count": 1
   },
   "expected_margin": -3.68,
   "expected_score": {
@@ -7244,13 +7279,6 @@
      "value": 6.2,
      "status": "Probable",
      "ppg": 19.2
-    },
-    {
-     "player": "Trey Murphy III",
-     "mpg": 28.3,
-     "value": 1.1,
-     "status": "Probable",
-     "ppg": 13.7
     }
    ],
    "away": []
@@ -7502,6 +7530,12 @@
     "pick": "PHX",
     "prob": 60.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-23T13:48-05:00",
+    "pick": "PHX",
+    "prob": 60.0,
+    "reason": "Trey Murphy III (NOP) cleared to play"
    }
   ]
  },
