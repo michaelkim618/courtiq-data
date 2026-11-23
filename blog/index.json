@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-23-checking-the-model-s-work-4-seasons-graded",
+      "title": "Checking the Model's Work: 4 Seasons Graded",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Analytics Guru",
+      "date": "2026-11-23",
+      "type": "weekly",
+      "tag": "Analysis",
+      "tag_color": "#7C3AED",
+      "read_time": "5 min",
+      "summary": "The season-by-season accuracy trend holds steady across four years and over 1300 games, while the model's latest projections offer a real-time test of whether that edge continues.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-22-film-session-ind-nyk",
       "title": "Film Session: IND @ NYK",
       "author": "Ace",

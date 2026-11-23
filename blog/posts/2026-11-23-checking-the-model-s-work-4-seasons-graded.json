@@ -1,0 +1,104 @@
+{
+  "slug": "2026-11-23-checking-the-model-s-work-4-seasons-graded",
+  "title": "Checking the Model's Work: 4 Seasons Graded",
+  "author": "Doc",
+  "author_emoji": "🧠",
+  "author_color": "#7C3AED",
+  "author_role": "Analytics Guru",
+  "date": "2026-11-23",
+  "type": "weekly",
+  "tag": "Analysis",
+  "tag_color": "#7C3AED",
+  "read_time": "5 min",
+  "summary": "The season-by-season accuracy trend holds steady across four years and over 1300 games, while the model's latest projections offer a real-time test of whether that edge continues.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Trend, Not Just the Number\n\nWe're now four graded seasons deep into this exercise, and the latest checkpoint tells a consistent story: 68.1% accuracy across 1321 games. That's not just a sample anymore—it's a body of work. When you're evaluating a predictive model, the temptation is always to fixate on the headline number, the overall hit rate that gets tossed around in conversation. But the more instructive question is whether that number holds. Does it erode under pressure? Does it drift as the sample grows? Here, the answer has been reassuring. Four seasons is enough time to encounter variance, enough matchups to stress-test the underlying assumptions. The fact that we're still hovering in this range suggests the signal isn't just noise dressed up in a good stretch. It's a model that's found something real and repeatable in the data."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "2022-2023",
+          "value": "62.1%"
+        },
+        {
+          "label": "2023-2024",
+          "value": "66.2%"
+        },
+        {
+          "label": "2024-2025",
+          "value": "66.7%"
+        },
+        {
+          "label": "2025-2026",
+          "value": "68.1%"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "Hit Rate by Season",
+      "data": [
+        {
+          "season": "2022-2023",
+          "hit_rate": 62.1
+        },
+        {
+          "season": "2023-2024",
+          "hit_rate": 66.2
+        },
+        {
+          "season": "2024-2025",
+          "hit_rate": 66.7
+        },
+        {
+          "season": "2025-2026",
+          "hit_rate": 68.1
+        }
+      ],
+      "x_key": "season",
+      "lines": [
+        {
+          "key": "hit_rate",
+          "color": "#7C3AED",
+          "label": "Hit Rate %"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "### What's Next\n\nThe model's current read on the upcoming slate offers a fresh set of probabilities to track against results. This is where theory meets practice—where the coefficients and correlations we've tuned over thousands of previous games get put to work on matchups that haven't been played yet. Every new slate is both a test and an opportunity: a test of whether the model's edge persists in real time, and an opportunity to learn from the inevitable misses. We'll be watching not just whether the favorites cover, but where the model's confidence aligns with reality and where it doesn't. The goal, as always, is calibration—making sure that when we say something should happen 70% of the time, it actually does."
+    },
+    {
+      "type": "table",
+      "title": "Upcoming",
+      "headers": [
+        "Matchup",
+        "Favored",
+        "Projected Margin"
+      ],
+      "rows": [
+        [
+          "MEM @ CHA",
+          "MEM, 74.4%",
+          "-9.5"
+        ],
+        [
+          "POR @ PHI",
+          "PHI, 59.6%",
+          "+3.5"
+        ],
+        [
+          "OKC @ IND",
+          "OKC, 59.3%",
+          "-3.4"
+        ]
+      ]
+    }
+  ],
+  "post_kind": "feature",
+  "editor_note": "Hit rates above are graded, closed-book results. Anything listed under \"What's Next\" is today's projection and will move before tip-off."
+}
