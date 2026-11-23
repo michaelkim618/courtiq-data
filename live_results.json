@@ -1938,6 +1938,14 @@
  {
   "date": "2026-11-22",
   "season": "2026-2027",
+  "away": "DEN",
+  "home": "CHI",
+  "conf": 76.0,
+  "correct": true
+ },
+ {
+  "date": "2026-11-22",
+  "season": "2026-2027",
   "away": "DET",
   "home": "ATL",
   "conf": 57.1,
