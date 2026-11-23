@@ -5889,7 +5889,7 @@
   "win_prob_band": {
    "low": 71.4,
    "high": 71.4,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 7.99,
   "expected_score": {
@@ -5967,15 +5967,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Collin Murray-Boyles",
-     "mpg": 23.8,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 10.5
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6245,6 +6237,12 @@
     "pick": "TOR",
     "prob": 71.4,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-23T18:02-05:00",
+    "pick": "TOR",
+    "prob": 71.4,
+    "reason": "Collin Murray-Boyles (TOR) cleared to play"
    }
   ]
  },
