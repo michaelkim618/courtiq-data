@@ -1954,6 +1954,14 @@
  {
   "date": "2026-11-22",
   "season": "2026-2027",
+  "away": "IND",
+  "home": "NYK",
+  "conf": 71.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-22",
+  "season": "2026-2027",
   "away": "OKC",
   "home": "MIA",
   "conf": 57.2,
