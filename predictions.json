@@ -5788,7 +5788,7 @@
  },
  {
   "date": "2026-11-22",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Dallas Mavericks",
   "home": "Utah Jazz",
   "away_code": "DAL",
@@ -6025,229 +6025,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 17,
-    "away": 16
-   },
-   "home": [
-    {
-     "player": "Keyonte George",
-     "player_id": 1641718,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 21.1,
-     "rpg": 4.0,
-     "apg": 7.1
-    },
-    {
-     "player": "Darryn Peterson",
-     "player_id": 1643408,
-     "position": "G",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 30.7,
-     "ppg": 16.7,
-     "rpg": 4.5,
-     "apg": 3.9
-    },
-    {
-     "player": "Ace Bailey",
-     "player_id": 1642846,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 13,
-     "start_rate": 76,
-     "mpg": 30.1,
-     "ppg": 12.9,
-     "rpg": 6.3,
-     "apg": 2.1
-    },
-    {
-     "player": "Jaxson Hayes",
-     "player_id": 1629637,
-     "position": "C",
-     "starter": true,
-     "games": 14,
-     "starts": 5,
-     "start_rate": 36,
-     "mpg": 24.4,
-     "ppg": 9.3,
-     "rpg": 6.6,
-     "apg": 1.5
-    },
-    {
-     "player": "Mo Bamba",
-     "player_id": 1628964,
-     "position": "C",
-     "starter": true,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.8,
-     "ppg": 8.9,
-     "rpg": 6.6,
-     "apg": 1.0
-    },
-    {
-     "player": "Josh Green",
-     "player_id": 1630182,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.9,
-     "ppg": 4.8,
-     "rpg": 1.7,
-     "apg": 0.9
-    },
-    {
-     "player": "Josh Okogie",
-     "player_id": 1629006,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.1,
-     "ppg": 4.6,
-     "rpg": 3.0,
-     "apg": 1.2
-    },
-    {
-     "player": "Svi Mykhailiuk",
-     "player_id": 1629004,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.6,
-     "ppg": 4.9,
-     "rpg": 2.3,
-     "apg": 1.6
-    }
-   ],
-   "away": [
-    {
-     "player": "Cooper Flagg",
-     "player_id": 1642843,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 33.6,
-     "ppg": 24.1,
-     "rpg": 6.5,
-     "apg": 6.5
-    },
-    {
-     "player": "Kyrie Irving",
-     "player_id": 202681,
-     "position": "G",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 30.9,
-     "ppg": 22.5,
-     "rpg": 3.8,
-     "apg": 4.4
-    },
-    {
-     "player": "Daniel Gafford",
-     "player_id": 1629655,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 21.8,
-     "ppg": 8.6,
-     "rpg": 5.4,
-     "apg": 1.9
-    },
-    {
-     "player": "Max Christie",
-     "player_id": 1631108,
-     "position": "G",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 18.1,
-     "ppg": 5.8,
-     "rpg": 2.8,
-     "apg": 1.2
-    },
-    {
-     "player": "Naji Marshall",
-     "player_id": 1630230,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 4,
-     "start_rate": 31,
-     "mpg": 24.2,
-     "ppg": 11.0,
-     "rpg": 2.9,
-     "apg": 3.8
-    },
-    {
-     "player": "Zaccharie Risacher",
-     "player_id": 1642258,
-     "position": "F",
-     "starter": false,
-     "games": 16,
-     "starts": 4,
-     "start_rate": 25,
-     "mpg": 23.7,
-     "ppg": 8.6,
-     "rpg": 4.8,
-     "apg": 1.2
-    },
-    {
-     "player": "Caleb Martin",
-     "player_id": 1628997,
-     "position": "F",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.4,
-     "ppg": 5.6,
-     "rpg": 3.3,
-     "apg": 2.3
-    },
-    {
-     "player": "Walter Clayton Jr.",
-     "player_id": 1642383,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.4,
-     "ppg": 7.7,
-     "rpg": 3.1,
-     "apg": 3.4
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 114,
+   "away": 116
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Dallas Mavericks",
   "model_winner": "Dallas Mavericks",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-21",
   "team_model": {
@@ -6323,7 +6108,291 @@
     "prob": 57.4,
     "reason": "P.J. Washington (DAL) now out"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Ace Bailey",
+     "starter": true,
+     "min": 33,
+     "pts": 16,
+     "reb": 5,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 3,
+     "pm": 2
+    },
+    {
+     "name": "Svi Mykhailiuk",
+     "starter": false,
+     "min": 32,
+     "pts": 39,
+     "reb": 5,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 6
+    },
+    {
+     "name": "Keyonte George",
+     "starter": true,
+     "min": 26,
+     "pts": 15,
+     "reb": 5,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -11
+    },
+    {
+     "name": "Darryn Peterson",
+     "starter": true,
+     "min": 25,
+     "pts": 6,
+     "reb": 3,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -14
+    },
+    {
+     "name": "Mo Bamba",
+     "starter": false,
+     "min": 23,
+     "pts": 6,
+     "reb": 10,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 5,
+     "pm": -2
+    },
+    {
+     "name": "Josh Green",
+     "starter": true,
+     "min": 23,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -22
+    },
+    {
+     "name": "Brice Sensabaugh",
+     "starter": false,
+     "min": 17,
+     "pts": 10,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -2
+    },
+    {
+     "name": "Josh Okogie",
+     "starter": false,
+     "min": 14,
+     "pts": 1,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Isaiah Collier",
+     "starter": false,
+     "min": 13,
+     "pts": 10,
+     "reb": 2,
+     "ast": 7,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 15
+    },
+    {
+     "name": "Tony Bradley",
+     "starter": false,
+     "min": 13,
+     "pts": 1,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 9
+    },
+    {
+     "name": "Jaxson Hayes",
+     "starter": true,
+     "min": 12,
+     "pts": 8,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -9
+    },
+    {
+     "name": "Kyle Filipowski",
+     "starter": false,
+     "min": 9,
+     "pts": 2,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 17
+    }
+   ],
+   "away": [
+    {
+     "name": "Cooper Flagg",
+     "starter": true,
+     "min": 31,
+     "pts": 28,
+     "reb": 3,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 5,
+     "pm": 9
+    },
+    {
+     "name": "Caleb Martin",
+     "starter": true,
+     "min": 29,
+     "pts": 13,
+     "reb": 6,
+     "ast": 4,
+     "stl": 4,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Zaccharie Risacher",
+     "starter": true,
+     "min": 28,
+     "pts": 15,
+     "reb": 8,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 6
+    },
+    {
+     "name": "Daniel Gafford",
+     "starter": true,
+     "min": 28,
+     "pts": 10,
+     "reb": 4,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Kyrie Irving",
+     "starter": true,
+     "min": 27,
+     "pts": 16,
+     "reb": 1,
+     "ast": 8,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 16
+    },
+    {
+     "name": "Naji Marshall",
+     "starter": false,
+     "min": 25,
+     "pts": 6,
+     "reb": 0,
+     "ast": 4,
+     "stl": 5,
+     "blk": 0,
+     "tov": 0,
+     "pm": 8
+    },
+    {
+     "name": "Walter Clayton Jr.",
+     "starter": false,
+     "min": 21,
+     "pts": 9,
+     "reb": 0,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -15
+    },
+    {
+     "name": "Morez Johnson Jr.",
+     "starter": false,
+     "min": 20,
+     "pts": 7,
+     "reb": 6,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 6
+    },
+    {
+     "name": "Santi Aldama",
+     "starter": false,
+     "min": 16,
+     "pts": 9,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -4
+    },
+    {
+     "name": "Max Christie",
+     "starter": false,
+     "min": 16,
+     "pts": 3,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -13
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Svi Mykhailiuk",
+    "pts": 39,
+    "reb": 5,
+    "ast": 3
+   },
+   "away": {
+    "name": "Cooper Flagg",
+    "pts": 28,
+    "reb": 3,
+    "ast": 4
+   }
+  }
  },
  {
   "date": "2026-11-22",

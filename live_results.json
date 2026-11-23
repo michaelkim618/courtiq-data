@@ -1930,6 +1930,14 @@
  {
   "date": "2026-11-22",
   "season": "2026-2027",
+  "away": "DAL",
+  "home": "UTA",
+  "conf": 57.4,
+  "correct": true
+ },
+ {
+  "date": "2026-11-22",
+  "season": "2026-2027",
   "away": "DET",
   "home": "ATL",
   "conf": 57.1,
