@@ -1994,6 +1994,14 @@
  {
   "date": "2026-11-23",
   "season": "2026-2027",
+  "away": "CLE",
+  "home": "CHI",
+  "conf": 69.2,
+  "correct": false
+ },
+ {
+  "date": "2026-11-23",
+  "season": "2026-2027",
   "away": "MEM",
   "home": "CHA",
   "conf": 76.5,
