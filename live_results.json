@@ -2054,5 +2054,13 @@
   "home": "SAC",
   "conf": 64.0,
   "correct": true
+ },
+ {
+  "date": "2026-11-23",
+  "season": "2026-2027",
+  "away": "UTA",
+  "home": "LAL",
+  "conf": 81.0,
+  "correct": true
  }
 ]
