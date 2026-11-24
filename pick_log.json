@@ -35728,6 +35728,11 @@
   "2026-11-23_CLE@CHI": {
    "away": "CLE",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-23T19:45-05:00"
+   },
    "home": "CHI",
    "late": false,
    "locked_at": null,
@@ -36775,6 +36780,11 @@
   "2026-11-23_PHX@NOP": {
    "away": "PHX",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-23T19:45-05:00"
+   },
    "home": "NOP",
    "late": false,
    "locked_at": null,
