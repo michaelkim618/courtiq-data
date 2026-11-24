@@ -2046,5 +2046,13 @@
   "home": "PHI",
   "conf": 54.0,
   "correct": true
+ },
+ {
+  "date": "2026-11-23",
+  "season": "2026-2027",
+  "away": "SAS",
+  "home": "SAC",
+  "conf": 64.0,
+  "correct": true
  }
 ]
