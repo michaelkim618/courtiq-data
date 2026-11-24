@@ -35603,6 +35603,11 @@
   "2026-11-23_BKN@MIN": {
    "away": "BKN",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-23T19:15-05:00"
+   },
    "home": "MIN",
    "late": false,
    "locked_at": null,
@@ -36263,6 +36268,11 @@
   "2026-11-23_MIL@TOR": {
    "away": "MIL",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-23T19:15-05:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,
@@ -36429,6 +36439,11 @@
   "2026-11-23_OKC@IND": {
    "away": "OKC",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-23T19:15-05:00"
+   },
    "home": "IND",
    "late": false,
    "locked_at": null,
