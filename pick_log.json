@@ -37853,6 +37853,34 @@
       "away": 82.1,
       "home": 17.9
      }
+    },
+    {
+     "at": "2026-11-24T16:48-05:00",
+     "expected_margin": -11.33,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mitchell Robinson"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins",
+       "Reece Beekman"
+      ]
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-24T16:45-05:00",
+     "win_prob": {
+      "away": 78.3,
+      "home": 21.7
+     }
     }
    ]
   },
@@ -37948,6 +37976,34 @@
      "win_prob": {
       "away": 27.9,
       "home": 72.1
+     }
+    },
+    {
+     "at": "2026-11-24T16:48-05:00",
+     "expected_margin": 3.75,
+     "gtd": {
+      "away": [
+       "P.J. Washington"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobi Lawal",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": []
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25",
+     "report": "2026-11-24T16:45-05:00",
+     "win_prob": {
+      "away": 39.8,
+      "home": 60.2
      }
     }
    ]
@@ -38059,6 +38115,39 @@
      "win_prob": {
       "away": 65.4,
       "home": 34.6
+     }
+    },
+    {
+     "at": "2026-11-24T16:48-05:00",
+     "expected_margin": -4.23,
+     "gtd": {
+      "away": [
+       "Cade Cunningham"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Taurean Prince"
+      ],
+      "home": [
+       "Paolo Banchero",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-24T16:45-05:00",
+     "win_prob": {
+      "away": 61.5,
+      "home": 38.5
      }
     }
    ]
