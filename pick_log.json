@@ -35610,7 +35610,7 @@
    },
    "home": "MIN",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-23T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-23T19:30-05:00",
    "tip_known": true,
@@ -35945,6 +35945,33 @@
       "away": 69.2,
       "home": 30.8
      }
+    },
+    {
+     "at": "2026-11-23T19:32-05:00",
+     "expected_margin": -7.09,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Cleveland Cavaliers",
+     "pick_code": "CLE",
+     "reason": "Jaylon Tyson (CLE) cleared to play",
+     "report": "2026-11-23T19:30-05:00",
+     "win_prob": {
+      "away": 69.2,
+      "home": 30.8
+     }
     }
    ]
   },
@@ -36275,7 +36302,7 @@
    },
    "home": "TOR",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-23T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-23T19:30-05:00",
    "tip_known": true,
@@ -36446,7 +36473,7 @@
    },
    "home": "IND",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-23T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-23T19:30-05:00",
    "tip_known": true,
@@ -36927,6 +36954,33 @@
      "pick_code": "PHX",
      "reason": "win probability moved with the latest report",
      "report": "2026-11-23T17:00-05:00",
+     "win_prob": {
+      "away": 63.3,
+      "home": 36.7
+     }
+    },
+    {
+     "at": "2026-11-23T19:32-05:00",
+     "expected_margin": -4.81,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": [
+       "Dejounte Murray",
+       "Bennedict Mathurin",
+       "Trendon Watford"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Zion Williamson (NOP) cleared to play",
+     "report": "2026-11-23T19:30-05:00",
      "win_prob": {
       "away": 63.3,
       "home": 36.7

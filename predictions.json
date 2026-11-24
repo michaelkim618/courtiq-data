@@ -6815,7 +6815,7 @@
   "win_prob_band": {
    "low": 30.8,
    "high": 30.8,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -7.09,
   "expected_score": {
@@ -6913,15 +6913,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Jaylon Tyson",
-     "mpg": 21.9,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 9.7
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7202,6 +7194,12 @@
     "pick": "CLE",
     "prob": 69.2,
     "reason": "Jalen Smith (CHI) cleared to play"
+   },
+   {
+    "at": "2026-11-23T19:32-05:00",
+    "pick": "CLE",
+    "prob": 69.2,
+    "reason": "Jaylon Tyson (CLE) cleared to play"
    }
   ]
  },
@@ -7308,9 +7306,9 @@
    "away": 63.3
   },
   "win_prob_band": {
-   "low": 33.3,
+   "low": 36.7,
    "high": 36.7,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -4.81,
   "expected_score": {
@@ -7407,15 +7405,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Zion Williamson",
-     "mpg": 29.2,
-     "value": 6.2,
-     "status": "Probable",
-     "ppg": 19.2
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -7691,6 +7681,12 @@
     "pick": "PHX",
     "prob": 63.3,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-23T19:32-05:00",
+    "pick": "PHX",
+    "prob": 63.3,
+    "reason": "Zion Williamson (NOP) cleared to play"
    }
   ]
  },
