@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T23:02-05:00",
+ "generated": "2026-11-23T21:32-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2381,13 +2381,41 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-23",
+   "games": 2,
+   "wins": 2,
+   "losses": 0,
+   "pct": 100.0,
+   "cum_wins": 168,
+   "cum_games": 250,
+   "cum_pct": 67.2,
+   "picks": [
+    {
+     "away": "MEM",
+     "home": "CHA",
+     "pick": "MEM",
+     "prob": 76.5,
+     "correct": true,
+     "updated": true
+    },
+    {
+     "away": "POR",
+     "home": "PHI",
+     "pick": "POR",
+     "prob": 54.0,
+     "correct": true,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 248,
-  "wins": 166,
+  "games": 250,
+  "wins": 168,
   "losses": 82,
-  "pct": 66.9
+  "pct": 67.2
  },
  "unscored": 0
 }

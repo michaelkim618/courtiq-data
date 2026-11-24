@@ -4172,7 +4172,7 @@
  },
  {
   "date": "2026-11-23",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Memphis Grizzlies",
   "home": "Charlotte Hornets",
   "away_code": "MEM",
@@ -4419,229 +4419,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 15,
-    "away": 17
-   },
-   "home": [
-    {
-     "player": "Naz Reid",
-     "player_id": 1629675,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 31.1,
-     "ppg": 17.3,
-     "rpg": 8.5,
-     "apg": 2.4
-    },
-    {
-     "player": "Brandon Miller",
-     "player_id": 1641706,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 30.7,
-     "ppg": 19.8,
-     "rpg": 4.8,
-     "apg": 2.5
-    },
-    {
-     "player": "Moussa Diabaté",
-     "player_id": 1631217,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 29.6,
-     "ppg": 9.6,
-     "rpg": 10.6,
-     "apg": 2.1
-    },
-    {
-     "player": "Sion James",
-     "player_id": 1642883,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 27.3,
-     "ppg": 5.8,
-     "rpg": 3.8,
-     "apg": 3.0
-    },
-    {
-     "player": "Royce O'Neale",
-     "player_id": 1626220,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.5,
-     "ppg": 5.9,
-     "rpg": 3.1,
-     "apg": 0.7
-    },
-    {
-     "player": "Coby White",
-     "player_id": 1629632,
-     "position": "G",
-     "starter": false,
-     "games": 8,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.2,
-     "ppg": 12.5,
-     "rpg": 2.2,
-     "apg": 4.0
-    },
-    {
-     "player": "Ryan Kalkbrenner",
-     "player_id": 1641750,
-     "position": "C",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.1,
-     "ppg": 4.8,
-     "rpg": 5.3,
-     "apg": 1.3
-    },
-    {
-     "player": "Christian Anderson",
-     "player_id": 1643515,
-     "position": "G",
-     "starter": false,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.9,
-     "ppg": 5.1,
-     "rpg": 1.5,
-     "apg": 1.9
-    }
-   ],
-   "away": [
-    {
-     "player": "Ty Jerome",
-     "player_id": 1629660,
-     "position": "G",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 24.8,
-     "rpg": 3.4,
-     "apg": 5.3
-    },
-    {
-     "player": "Cedric Coward",
-     "player_id": 1642907,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 28.8,
-     "ppg": 15.3,
-     "rpg": 8.0,
-     "apg": 3.4
-    },
-    {
-     "player": "Jaylen Wells",
-     "player_id": 1642377,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 26.7,
-     "ppg": 11.2,
-     "rpg": 3.1,
-     "apg": 1.3
-    },
-    {
-     "player": "Zach Edey",
-     "player_id": 1641744,
-     "position": "C",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 21.0,
-     "ppg": 9.1,
-     "rpg": 7.0,
-     "apg": 0.8
-    },
-    {
-     "player": "Isaiah Stewart",
-     "player_id": 1630191,
-     "position": "F",
-     "starter": true,
-     "games": 12,
-     "starts": 4,
-     "start_rate": 33,
-     "mpg": 18.4,
-     "ppg": 10.6,
-     "rpg": 3.2,
-     "apg": 0.9
-    },
-    {
-     "player": "Cam Spencer",
-     "player_id": 1642285,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.9,
-     "ppg": 11.1,
-     "rpg": 3.1,
-     "apg": 5.8
-    },
-    {
-     "player": "Javon Small",
-     "player_id": 1642914,
-     "position": "G",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.2,
-     "ppg": 9.6,
-     "rpg": 3.1,
-     "apg": 5.6
-    },
-    {
-     "player": "Taylor Hendricks",
-     "player_id": 1641707,
-     "position": "F",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.0,
-     "ppg": 8.4,
-     "rpg": 3.7,
-     "apg": 1.0
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 111,
+   "away": 117
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Memphis Grizzlies",
   "model_winner": "Memphis Grizzlies",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-22",
   "team_model": {
@@ -4687,11 +4472,295 @@
     "prob": 76.5,
     "reason": "Brandon Miller (CHA) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Naz Reid",
+     "starter": true,
+     "min": 38,
+     "pts": 24,
+     "reb": 6,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 2
+    },
+    {
+     "name": "Brandon Miller",
+     "starter": true,
+     "min": 35,
+     "pts": 20,
+     "reb": 3,
+     "ast": 5,
+     "stl": 0,
+     "blk": 3,
+     "tov": 5,
+     "pm": 1
+    },
+    {
+     "name": "Moussa Diabate",
+     "starter": true,
+     "min": 35,
+     "pts": 10,
+     "reb": 10,
+     "ast": 3,
+     "stl": 2,
+     "blk": 2,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "Coby White",
+     "starter": true,
+     "min": 28,
+     "pts": 21,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": -14
+    },
+    {
+     "name": "Sion James",
+     "starter": true,
+     "min": 28,
+     "pts": 5,
+     "reb": 4,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": -10
+    },
+    {
+     "name": "Christian Anderson",
+     "starter": false,
+     "min": 25,
+     "pts": 25,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": 13
+    },
+    {
+     "name": "Tidjane Salaun",
+     "starter": false,
+     "min": 17,
+     "pts": 0,
+     "reb": 5,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Royce O'Neale",
+     "starter": false,
+     "min": 13,
+     "pts": 0,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Liam McNeeley",
+     "starter": false,
+     "min": 9,
+     "pts": 3,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Ryan Kalkbrenner",
+     "starter": false,
+     "min": 9,
+     "pts": 0,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Hannes Steinbach",
+     "starter": false,
+     "min": 4,
+     "pts": 3,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    }
+   ],
+   "away": [
+    {
+     "name": "Kris Murray",
+     "starter": true,
+     "min": 32,
+     "pts": 9,
+     "reb": 3,
+     "ast": 1,
+     "stl": 4,
+     "blk": 1,
+     "tov": 0,
+     "pm": 16
+    },
+    {
+     "name": "Cedric Coward",
+     "starter": true,
+     "min": 30,
+     "pts": 16,
+     "reb": 9,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -9
+    },
+    {
+     "name": "Ty Jerome",
+     "starter": true,
+     "min": 29,
+     "pts": 29,
+     "reb": 4,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "tov": 5,
+     "pm": 18
+    },
+    {
+     "name": "Taylor Hendricks",
+     "starter": false,
+     "min": 24,
+     "pts": 3,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Zach Edey",
+     "starter": true,
+     "min": 23,
+     "pts": 8,
+     "reb": 11,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 2,
+     "pm": 12
+    },
+    {
+     "name": "Cam Spencer",
+     "starter": false,
+     "min": 21,
+     "pts": 24,
+     "reb": 1,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -9
+    },
+    {
+     "name": "Isaiah Stewart",
+     "starter": false,
+     "min": 21,
+     "pts": 11,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "Jaylen Wells",
+     "starter": true,
+     "min": 20,
+     "pts": 8,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -3
+    },
+    {
+     "name": "Olivier-Maxence Prosper",
+     "starter": false,
+     "min": 19,
+     "pts": 6,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 13
+    },
+    {
+     "name": "Javon Small",
+     "starter": false,
+     "min": 19,
+     "pts": 3,
+     "reb": 3,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 7
+    },
+    {
+     "name": "Quinten Post",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "Christian Anderson",
+    "pts": 25,
+    "reb": 2,
+    "ast": 3
+   },
+   "away": {
+    "name": "Ty Jerome",
+    "pts": 29,
+    "reb": 4,
+    "ast": 3
+   }
+  }
  },
  {
   "date": "2026-11-23",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Portland Trail Blazers",
   "home": "Philadelphia 76ers",
   "away_code": "POR",
@@ -4912,229 +4981,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 17,
-    "away": 16
-   },
-   "home": [
-    {
-     "player": "Tyrese Maxey",
-     "player_id": 1630178,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 36.1,
-     "ppg": 25.9,
-     "rpg": 3.3,
-     "apg": 5.7
-    },
-    {
-     "player": "Jaylen Brown",
-     "player_id": 1627759,
-     "position": "G",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 34.7,
-     "ppg": 22.6,
-     "rpg": 6.6,
-     "apg": 3.6
-    },
-    {
-     "player": "VJ Edgecombe",
-     "player_id": 1642845,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 34.2,
-     "ppg": 13.8,
-     "rpg": 6.3,
-     "apg": 4.0
-    },
-    {
-     "player": "LeBron James",
-     "player_id": 2544,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 16.1,
-     "rpg": 6.8,
-     "apg": 6.8
-    },
-    {
-     "player": "Dean Wade",
-     "player_id": 1629731,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 13,
-     "start_rate": 100,
-     "mpg": 26.7,
-     "ppg": 4.8,
-     "rpg": 4.6,
-     "apg": 1.8
-    },
-    {
-     "player": "Kentavious Caldwell-Pope",
-     "player_id": 203484,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 4,
-     "start_rate": 24,
-     "mpg": 23.8,
-     "ppg": 6.0,
-     "rpg": 2.9,
-     "apg": 1.6
-    },
-    {
-     "player": "Anfernee Simons",
-     "player_id": 1629014,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.8,
-     "ppg": 11.2,
-     "rpg": 1.9,
-     "apg": 1.2
-    },
-    {
-     "player": "Adem Bona",
-     "player_id": 1641737,
-     "position": "F",
-     "starter": false,
-     "games": 9,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 14.1,
-     "ppg": 2.1,
-     "rpg": 3.9,
-     "apg": 0.8
-    }
-   ],
-   "away": [
-    {
-     "player": "Deni Avdija",
-     "player_id": 1630166,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 23.9,
-     "rpg": 6.4,
-     "apg": 6.0
-    },
-    {
-     "player": "Toumani Camara",
-     "player_id": 1641739,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 30.0,
-     "ppg": 12.2,
-     "rpg": 3.7,
-     "apg": 1.4
-    },
-    {
-     "player": "Damian Lillard",
-     "player_id": 203081,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 29.8,
-     "ppg": 20.6,
-     "rpg": 3.2,
-     "apg": 4.0
-    },
-    {
-     "player": "Donovan Clingan",
-     "player_id": 1642270,
-     "position": "C",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 26.0,
-     "ppg": 11.4,
-     "rpg": 10.9,
-     "apg": 1.9
-    },
-    {
-     "player": "Jrue Holiday",
-     "player_id": 201950,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 27.0,
-     "ppg": 13.8,
-     "rpg": 3.8,
-     "apg": 4.4
-    },
-    {
-     "player": "Sidy Cissoko",
-     "player_id": 1631321,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.5,
-     "ppg": 8.1,
-     "rpg": 3.7,
-     "apg": 1.9
-    },
-    {
-     "player": "Scoot Henderson",
-     "player_id": 1630703,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.0,
-     "ppg": 9.5,
-     "rpg": 2.1,
-     "apg": 1.4
-    },
-    {
-     "player": "Robert Williams III",
-     "player_id": 1629057,
-     "position": "C",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 6.3,
-     "rpg": 6.3,
-     "apg": 1.2
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 111,
+   "away": 128
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Portland Trail Blazers",
   "model_winner": "Portland Trail Blazers",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-22",
   "team_model": {
@@ -5204,7 +5058,327 @@
     "prob": 54.0,
     "reason": "Dean Wade (PHI) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Tyrese Maxey",
+     "starter": true,
+     "min": 35,
+     "pts": 22,
+     "reb": 2,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -23
+    },
+    {
+     "name": "VJ Edgecombe",
+     "starter": true,
+     "min": 35,
+     "pts": 12,
+     "reb": 7,
+     "ast": 7,
+     "stl": 2,
+     "blk": 0,
+     "tov": 3,
+     "pm": -2
+    },
+    {
+     "name": "LeBron James",
+     "starter": true,
+     "min": 30,
+     "pts": 23,
+     "reb": 6,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -13
+    },
+    {
+     "name": "Jaylen Brown",
+     "starter": true,
+     "min": 29,
+     "pts": 20,
+     "reb": 2,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": -11
+    },
+    {
+     "name": "Dean Wade",
+     "starter": false,
+     "min": 28,
+     "pts": 2,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -17
+    },
+    {
+     "name": "Jabari Walker",
+     "starter": true,
+     "min": 20,
+     "pts": 10,
+     "reb": 5,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Anfernee Simons",
+     "starter": false,
+     "min": 18,
+     "pts": 3,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -13
+    },
+    {
+     "name": "Kentavious Caldwell-Pope",
+     "starter": false,
+     "min": 17,
+     "pts": 2,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -16
+    },
+    {
+     "name": "Dominick Barlow",
+     "starter": false,
+     "min": 16,
+     "pts": 6,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 2,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Adem Bona",
+     "starter": false,
+     "min": 5,
+     "pts": 4,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Justin Edwards",
+     "starter": false,
+     "min": 3,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Labaron Philon Jr.",
+     "starter": false,
+     "min": 3,
+     "pts": 2,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    }
+   ],
+   "away": [
+    {
+     "name": "Deni Avdija",
+     "starter": true,
+     "min": 30,
+     "pts": 31,
+     "reb": 3,
+     "ast": 7,
+     "stl": 1,
+     "blk": 0,
+     "tov": 5,
+     "pm": 6
+    },
+    {
+     "name": "Damian Lillard",
+     "starter": true,
+     "min": 29,
+     "pts": 18,
+     "reb": 3,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 10
+    },
+    {
+     "name": "Donovan Clingan",
+     "starter": true,
+     "min": 29,
+     "pts": 15,
+     "reb": 18,
+     "ast": 5,
+     "stl": 0,
+     "blk": 2,
+     "tov": 1,
+     "pm": 16
+    },
+    {
+     "name": "Toumani Camara",
+     "starter": true,
+     "min": 29,
+     "pts": 5,
+     "reb": 5,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 15
+    },
+    {
+     "name": "Jrue Holiday",
+     "starter": false,
+     "min": 28,
+     "pts": 18,
+     "reb": 2,
+     "ast": 5,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 12
+    },
+    {
+     "name": "Scoot Henderson",
+     "starter": false,
+     "min": 26,
+     "pts": 17,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 28
+    },
+    {
+     "name": "Sidy Cissoko",
+     "starter": true,
+     "min": 24,
+     "pts": 5,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": 10
+    },
+    {
+     "name": "Robert Williams III",
+     "starter": false,
+     "min": 16,
+     "pts": 6,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Jayson Kent",
+     "starter": false,
+     "min": 14,
+     "pts": 9,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 4
+    },
+    {
+     "name": "Branden Carlson",
+     "starter": false,
+     "min": 6,
+     "pts": 0,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -7
+    },
+    {
+     "name": "John Tonje",
+     "starter": false,
+     "min": 3,
+     "pts": 2,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Yang Hansen",
+     "starter": false,
+     "min": 3,
+     "pts": 2,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Micah Potter",
+     "starter": false,
+     "min": 3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -5
+    }
+   ]
+  },
+  "leaders": {
+   "home": {
+    "name": "LeBron James",
+    "pts": 23,
+    "reb": 6,
+    "ast": 3
+   },
+   "away": {
+    "name": "Deni Avdija",
+    "pts": 31,
+    "reb": 3,
+    "ast": 7
+   }
+  }
  },
  {
   "date": "2026-11-23",
