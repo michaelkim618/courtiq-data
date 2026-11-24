@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-24-around-the-league-nba-buzz-latest-on-trades-news-roster-move",
+      "title": "Around the League: NBA buzz: Latest on trades, news, roster moves and intel for the 2026…",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-11-24",
+      "type": "daily",
+      "tag": "Recap",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "A quick wire-style rundown of what ESPN is reporting around the league right now, from trades and transactions to standout rookie performances and the latest team news.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-23-checking-the-model-s-work-4-seasons-graded",
       "title": "Checking the Model's Work: 4 Seasons Graded",
       "author": "Doc",
