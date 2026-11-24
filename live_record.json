@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T22:32-05:00",
+ "generated": "2026-11-23T23:02-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2384,13 +2384,13 @@
   },
   {
    "date": "2026-11-23",
-   "games": 6,
-   "wins": 3,
+   "games": 8,
+   "wins": 5,
    "losses": 3,
-   "pct": 50.0,
-   "cum_wins": 169,
-   "cum_games": 254,
-   "cum_pct": 66.5,
+   "pct": 62.5,
+   "cum_wins": 171,
+   "cum_games": 256,
+   "cum_pct": 66.8,
    "picks": [
     {
      "away": "BKN",
@@ -2406,6 +2406,14 @@
      "pick": "CLE",
      "prob": 69.2,
      "correct": false,
+     "updated": true
+    },
+    {
+     "away": "LAC",
+     "home": "HOU",
+     "pick": "HOU",
+     "prob": 85.4,
+     "correct": true,
      "updated": true
     },
     {
@@ -2433,6 +2441,14 @@
      "updated": true
     },
     {
+     "away": "PHX",
+     "home": "NOP",
+     "pick": "PHX",
+     "prob": 63.3,
+     "correct": true,
+     "updated": true
+    },
+    {
      "away": "POR",
      "home": "PHI",
      "pick": "POR",
@@ -2444,10 +2460,10 @@
   }
  ],
  "total": {
-  "games": 254,
-  "wins": 169,
+  "games": 256,
+  "wins": 171,
   "losses": 85,
-  "pct": 66.5
+  "pct": 66.8
  },
  "unscored": 0
 }
