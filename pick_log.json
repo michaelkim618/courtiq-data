@@ -35990,7 +35990,7 @@
    },
    "home": "HOU",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-23T20:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-23T20:30-05:00",
    "tip_known": true,
@@ -37464,6 +37464,36 @@
      "win_prob": {
       "away": 84.5,
       "home": 15.5
+     }
+    },
+    {
+     "at": "2026-11-23T20:32-05:00",
+     "expected_margin": -5.06,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Victor Wembanyama",
+       "Dylan Harper",
+       "Tobias Harris",
+       "De'Aaron Fox",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "De'Aaron Fox (SAS) now out; Victor Wembanyama (SAS) now out",
+     "report": "2026-11-23T20:30-05:00",
+     "win_prob": {
+      "away": 64.0,
+      "home": 36.0
      }
     }
    ]

@@ -8734,18 +8734,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 15.5,
-   "away": 84.5
+   "home": 36.0,
+   "away": 64.0
   },
   "win_prob_band": {
-   "low": 15.5,
-   "high": 20.7,
-   "gtd_count": 2
+   "low": 36.0,
+   "high": 36.0,
+   "gtd_count": 0
   },
-  "expected_margin": -14.34,
+  "expected_margin": -5.06,
   "expected_score": {
-   "home": 105.6,
-   "away": 119.9
+   "home": 110.2,
+   "away": 115.3
   },
   "margin_breakdown": [
    {
@@ -8770,8 +8770,8 @@
    },
    {
     "label": "Absences",
-    "points": 2.21,
-    "detail": "Sacramento Kings 1 out (26 min), no change to the rotation, San Antonio Spurs 2 out (58 min) costs 2.2 pts · Tobias Harris outside recent rotation: -0.29 pts scoring adjustment · Ben Simmons, Jayden Quaintance out all season, already baked into team rating"
+    "points": 11.49,
+    "detail": "Sacramento Kings 1 out (26 min), no change to the rotation, San Antonio Spurs 4 out (114 min) costs 11.5 pts · Tobias Harris outside recent rotation: -0.29 pts scoring adjustment · Ben Simmons, Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -8816,6 +8816,15 @@
    ],
    "away": [
     {
+     "player": "Victor Wembanyama",
+     "mpg": 28.1,
+     "nth_out": 1,
+     "value": 13.1,
+     "cost": -2.76,
+     "no_minutes": false,
+     "ppg": 25.6
+    },
+    {
      "player": "Dylan Harper",
      "mpg": 29.2,
      "nth_out": 1,
@@ -8834,6 +8843,15 @@
      "ppg": 14.1
     },
     {
+     "player": "De'Aaron Fox",
+     "mpg": 28.2,
+     "nth_out": 1,
+     "value": 0.3,
+     "cost": -0.06,
+     "no_minutes": false,
+     "ppg": 12.8
+    },
+    {
      "player": "Jayden Quaintance",
      "mpg": 0.0,
      "nth_out": 1,
@@ -8845,22 +8863,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Victor Wembanyama",
-     "mpg": 28.1,
-     "value": 13.1,
-     "status": "Questionable",
-     "ppg": 25.6
-    },
-    {
-     "player": "De'Aaron Fox",
-     "mpg": 28.2,
-     "value": 0.3,
-     "status": "Questionable",
-     "ppg": 12.8
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -8976,19 +8979,6 @@
    ],
    "away": [
     {
-     "player": "Victor Wembanyama",
-     "player_id": 1641705,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 29.9,
-     "rpg": 12.4,
-     "apg": 3.2
-    },
-    {
      "player": "Devin Vassell",
      "player_id": 1630170,
      "position": "G",
@@ -9015,19 +9005,6 @@
      "apg": 5.9
     },
     {
-     "player": "De'Aaron Fox",
-     "player_id": 1628368,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 29.0,
-     "ppg": 12.4,
-     "rpg": 3.9,
-     "apg": 5.8
-    },
-    {
      "player": "Julian Champagnie",
      "player_id": 1630577,
      "position": "F",
@@ -9044,7 +9021,7 @@
      "player": "Keldon Johnson",
      "player_id": 1629640,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 17,
      "starts": 0,
      "start_rate": 0,
@@ -9057,7 +9034,7 @@
      "player": "Harrison Barnes",
      "player_id": 203084,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 0,
      "start_rate": 0,
@@ -9078,6 +9055,32 @@
      "ppg": 3.2,
      "rpg": 3.8,
      "apg": 1.1
+    },
+    {
+     "player": "Carter Bryant",
+     "player_id": 1642868,
+     "position": "F",
+     "starter": false,
+     "games": 16,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 11.1,
+     "ppg": 3.8,
+     "rpg": 1.0,
+     "apg": 0.6
+    },
+    {
+     "player": "Jordan McLaughlin",
+     "player_id": 1629162,
+     "position": "G",
+     "starter": false,
+     "games": 11,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 10.3,
+     "ppg": 2.5,
+     "rpg": 1.7,
+     "apg": 1.7
     }
    ]
   },
@@ -9089,10 +9092,10 @@
   "data_through": "2026-11-22",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -15.45,
+   "expected_margin": -12.63,
    "win_prob": {
-    "home": 14.3,
-    "away": 85.7
+    "home": 19.2,
+    "away": 80.8
    }
   },
   "tip_et": "2026-11-23T22:00-05:00",
@@ -9129,6 +9132,12 @@
     "pick": "SAS",
     "prob": 84.5,
     "reason": "win probability moved with the latest report"
+   },
+   {
+    "at": "2026-11-23T20:32-05:00",
+    "pick": "SAS",
+    "prob": 64.0,
+    "reason": "De'Aaron Fox (SAS) now out; Victor Wembanyama (SAS) now out"
    }
   ]
  }
