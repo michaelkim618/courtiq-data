@@ -38067,6 +38067,11 @@
   "2026-11-24_DET@ORL": {
    "away": "DET",
    "date": "2026-11-24",
+   "final_check": {
+    "at": "2026-11-24T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-24T18:45-05:00"
+   },
    "home": "ORL",
    "late": false,
    "locked_at": null,
