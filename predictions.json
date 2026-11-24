@@ -5831,18 +5831,18 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 34.6,
-   "away": 65.4
+   "home": 38.4,
+   "away": 61.6
   },
   "win_prob_band": {
-   "low": 34.6,
-   "high": 39.6,
-   "gtd_count": 1
+   "low": 38.4,
+   "high": 38.4,
+   "gtd_count": 0
   },
-  "expected_margin": -5.59,
+  "expected_margin": -4.17,
   "expected_score": {
-   "home": 107.9,
-   "away": 113.5
+   "home": 108.6,
+   "away": 112.8
   },
   "margin_breakdown": [
    {
@@ -5867,8 +5867,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.82,
-    "detail": "Orlando Magic 3 out (48 min) costs 2.0 pts, Detroit Pistons 4 out (72 min) costs 1.2 pts · Paolo Banchero outside recent rotation: -1.98 pts scoring adjustment · Detroit Pistons Tier 1 scoring adjustment: -1.19 pts · Izaiyah Nelson out all season, already baked into team rating"
+    "points": 0.6,
+    "detail": "Orlando Magic 3 out (48 min) costs 2.0 pts, Detroit Pistons 5 out (105 min) costs 2.6 pts · Paolo Banchero outside recent rotation: -1.98 pts scoring adjustment · Detroit Pistons Tier 1 scoring adjustment: -1.03 pts · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5931,6 +5931,15 @@
    ],
    "away": [
     {
+     "player": "Cade Cunningham",
+     "mpg": 32.9,
+     "nth_out": 1,
+     "value": 8.9,
+     "cost": -1.87,
+     "no_minutes": false,
+     "ppg": 23.5
+    },
+    {
      "player": "Jalen Duren",
      "mpg": 27.5,
      "nth_out": 3,
@@ -5970,15 +5979,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Cade Cunningham",
-     "mpg": 32.9,
-     "value": 8.9,
-     "status": "Probable",
-     "ppg": 23.5
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6094,19 +6095,6 @@
    ],
    "away": [
     {
-     "player": "Cade Cunningham",
-     "player_id": 1630595,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 34.9,
-     "ppg": 24.2,
-     "rpg": 5.1,
-     "apg": 8.3
-    },
-    {
      "player": "Ausar Thompson",
      "player_id": 1641709,
      "position": "G",
@@ -6162,7 +6150,7 @@
      "player": "Kevin Huerter",
      "player_id": 1628989,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -6196,6 +6184,19 @@
      "ppg": 10.2,
      "rpg": 1.7,
      "apg": 1.3
+    },
+    {
+     "player": "Ronald Holland II",
+     "player_id": 1641842,
+     "position": "F",
+     "starter": false,
+     "games": 13,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 15.5,
+     "ppg": 4.7,
+     "rpg": 3.8,
+     "apg": 1.7
     }
    ]
   },
@@ -6207,10 +6208,10 @@
   "data_through": "2026-11-23",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -4.23,
+   "expected_margin": -2.36,
    "win_prob": {
-    "home": 38.5,
-    "away": 61.5
+    "home": 43.5,
+    "away": 56.5
    }
   },
   "tip_et": "2026-11-24T19:00-05:00",
@@ -6247,6 +6248,12 @@
     "pick": "DET",
     "prob": 65.4,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-24T18:32-05:00",
+    "pick": "DET",
+    "prob": 61.6,
+    "reason": "Cade Cunningham (DET) now out"
    }
   ]
  },
