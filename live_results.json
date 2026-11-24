@@ -2002,6 +2002,14 @@
  {
   "date": "2026-11-23",
   "season": "2026-2027",
+  "away": "MIL",
+  "home": "TOR",
+  "conf": 71.4,
+  "correct": false
+ },
+ {
+  "date": "2026-11-23",
+  "season": "2026-2027",
   "away": "OKC",
   "home": "IND",
   "conf": 68.0,
