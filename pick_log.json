@@ -35983,6 +35983,11 @@
   "2026-11-23_LAC@HOU": {
    "away": "LAC",
    "date": "2026-11-23",
+   "final_check": {
+    "at": "2026-11-23T20:17-05:00",
+    "label": "8:15 PM ET",
+    "report": "2026-11-23T20:15-05:00"
+   },
    "home": "HOU",
    "late": false,
    "locked_at": null,
