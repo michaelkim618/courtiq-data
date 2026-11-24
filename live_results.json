@@ -1986,10 +1986,26 @@
  {
   "date": "2026-11-23",
   "season": "2026-2027",
+  "away": "BKN",
+  "home": "MIN",
+  "conf": 73.7,
+  "correct": true
+ },
+ {
+  "date": "2026-11-23",
+  "season": "2026-2027",
   "away": "MEM",
   "home": "CHA",
   "conf": 76.5,
   "correct": true
+ },
+ {
+  "date": "2026-11-23",
+  "season": "2026-2027",
+  "away": "OKC",
+  "home": "IND",
+  "conf": 68.0,
+  "correct": false
  },
  {
   "date": "2026-11-23",
