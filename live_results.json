@@ -2062,5 +2062,13 @@
   "home": "LAL",
   "conf": 81.0,
   "correct": true
+ },
+ {
+  "date": "2026-11-24",
+  "season": "2026-2027",
+  "away": "DET",
+  "home": "ORL",
+  "conf": 61.6,
+  "correct": true
  }
 ]
