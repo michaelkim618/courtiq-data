@@ -6845,7 +6845,7 @@
   "win_prob_band": {
    "low": 72.3,
    "high": 72.3,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 8.37,
   "expected_score": {
@@ -6940,15 +6940,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "P.J. Washington",
-     "mpg": 29.3,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 12.2
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -7217,6 +7209,12 @@
     "pick": "DEN",
     "prob": 72.3,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-24T21:17-05:00",
+    "pick": "DEN",
+    "prob": 72.3,
+    "reason": "P.J. Washington (DAL) cleared to play"
    }
   ]
  }
