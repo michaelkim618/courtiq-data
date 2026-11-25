@@ -2176,7 +2176,32 @@
     "prob": 57.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "MIA",
+   "opponent": "PHI",
+   "games": [
+    16,
+    18
+   ],
+   "scored": 16.2,
+   "allowed": 15.9,
+   "league": 14.3,
+   "supported": true,
+   "steals": 8,
+   "stolen_from_opponent": 6.3,
+   "opponent_turnovers": 11.9,
+   "creator": {
+    "player": "Davion Mitchell",
+    "guards": [
+     "Pelle Larsson",
+     "Klay Thompson"
+    ],
+    "games": 13,
+    "minutes": 35.6,
+    "assists": 7.8
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -2657,7 +2682,32 @@
     "prob": 60.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "CHI",
+   "opponent": "CHA",
+   "games": [
+    17,
+    16
+   ],
+   "scored": 14.8,
+   "allowed": 14.8,
+   "league": 14.3,
+   "supported": true,
+   "steals": 8.3,
+   "stolen_from_opponent": 9.3,
+   "opponent_turnovers": 18.9,
+   "creator": {
+    "player": "Josh Giddey",
+    "guards": [
+     "Tre Jones",
+     "Buddy Hield"
+    ],
+    "games": 15,
+    "minutes": 28.1,
+    "assists": 9.1
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -3122,7 +3172,32 @@
     "prob": 64.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "CLE",
+   "opponent": "NYK",
+   "games": [
+    18,
+    17
+   ],
+   "scored": 13.7,
+   "allowed": 12.9,
+   "league": 14.3,
+   "supported": false,
+   "steals": 7.4,
+   "stolen_from_opponent": 6.5,
+   "opponent_turnovers": 14.8,
+   "creator": {
+    "player": "James Harden",
+    "guards": [
+     "Donovan Mitchell",
+     "Peyton Watson"
+    ],
+    "games": 14,
+    "minutes": 33.5,
+    "assists": 6
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -3625,7 +3700,32 @@
     "prob": 51.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "OKC",
+   "opponent": "MIN",
+   "games": [
+    18,
+    18
+   ],
+   "scored": 11.8,
+   "allowed": 14.2,
+   "league": 14.3,
+   "supported": false,
+   "steals": 7.9,
+   "stolen_from_opponent": 8.1,
+   "opponent_turnovers": 16.3,
+   "creator": {
+    "player": "Shai Gilgeous-Alexander",
+    "guards": [
+     "Ajay Mitchell",
+     "Jared McCain"
+    ],
+    "games": 15,
+    "minutes": 33.3,
+    "assists": 4.8
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -4100,7 +4200,32 @@
     "prob": 78.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "LAC",
+   "opponent": "MEM",
+   "games": [
+    16,
+    18
+   ],
+   "scored": 15.2,
+   "allowed": 11.7,
+   "league": 14.3,
+   "supported": false,
+   "steals": 9.1,
+   "stolen_from_opponent": 8.1,
+   "opponent_turnovers": 16.1,
+   "creator": {
+    "player": "Darius Garland",
+    "guards": [
+     "Kris Dunn",
+     "Max Strus"
+    ],
+    "games": 10,
+    "minutes": 33.5,
+    "assists": 6.7
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -4522,7 +4647,32 @@
     "prob": 53.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "BKN",
+   "opponent": "MIL",
+   "games": [
+    16,
+    18
+   ],
+   "scored": 11.8,
+   "allowed": 14.1,
+   "league": 14.3,
+   "supported": false,
+   "steals": 8.3,
+   "stolen_from_opponent": 9.6,
+   "opponent_turnovers": 16.4,
+   "creator": {
+    "player": "Julius Randle",
+    "guards": [
+     "Egor Dëmin",
+     "Mikel Brown Jr."
+    ],
+    "games": 8,
+    "minutes": 35.4,
+    "assists": 4.5
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -4949,7 +5099,32 @@
     "prob": 73.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "PHX",
+   "opponent": "HOU",
+   "games": [
+    16,
+    18
+   ],
+   "scored": 12.9,
+   "allowed": 15.1,
+   "league": 14.3,
+   "supported": false,
+   "steals": 8.1,
+   "stolen_from_opponent": 8.6,
+   "opponent_turnovers": 14.6,
+   "creator": {
+    "player": "Devin Booker",
+    "guards": [
+     "Dillon Brooks",
+     "Jalen Green"
+    ],
+    "games": 16,
+    "minutes": 34.4,
+    "assists": 5.4
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -5424,7 +5599,32 @@
     "prob": 66.9,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "SAC",
+   "opponent": "GSW",
+   "games": [
+    17,
+    17
+   ],
+   "scored": 14.1,
+   "allowed": 15.4,
+   "league": 14.3,
+   "supported": false,
+   "steals": 7.3,
+   "stolen_from_opponent": 9,
+   "opponent_turnovers": 16.8,
+   "creator": {
+    "player": "Darius Acuff Jr.",
+    "guards": [
+     "Zach LaVine",
+     "Emanuel Sharp"
+    ],
+    "games": 16,
+    "minutes": 36.8,
+    "assists": 7.2
+   }
+  }
  },
  {
   "date": "2026-11-25",
@@ -5920,6 +6120,31 @@
     "prob": 63.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Damian Lillard (POR) back after missing 2025-26, valued from 2024-25"
    }
-  ]
+  ],
+  "transition_preview": {
+   "team": "POR",
+   "opponent": "SAS",
+   "games": [
+    17,
+    18
+   ],
+   "scored": 11.2,
+   "allowed": 12.4,
+   "league": 14.3,
+   "supported": false,
+   "steals": 7.2,
+   "stolen_from_opponent": 6.9,
+   "opponent_turnovers": 12.8,
+   "creator": {
+    "player": "Deni Avdija",
+    "guards": [
+     "Damian Lillard",
+     "Jrue Holiday"
+    ],
+    "games": 15,
+    "minutes": 32.6,
+    "assists": 6.1
+   }
+  }
  }
 ]
