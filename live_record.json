@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:47-05:00",
+ "generated": "2026-11-25T00:47-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2476,13 +2476,13 @@
   },
   {
    "date": "2026-11-24",
-   "games": 2,
+   "games": 3,
    "wins": 2,
-   "losses": 0,
-   "pct": 100.0,
+   "losses": 1,
+   "pct": 66.7,
    "cum_wins": 175,
-   "cum_games": 260,
-   "cum_pct": 67.3,
+   "cum_games": 261,
+   "cum_pct": 67.0,
    "picks": [
     {
      "away": "BOS",
@@ -2490,6 +2490,14 @@
      "pick": "BOS",
      "prob": 82.5,
      "correct": true,
+     "updated": true
+    },
+    {
+     "away": "DAL",
+     "home": "DEN",
+     "pick": "DEN",
+     "prob": 72.3,
+     "correct": false,
      "updated": true
     },
     {
@@ -2504,10 +2512,10 @@
   }
  ],
  "total": {
-  "games": 260,
+  "games": 261,
   "wins": 175,
-  "losses": 85,
-  "pct": 67.3
+  "losses": 86,
+  "pct": 67.0
  },
  "unscored": 0
 }
