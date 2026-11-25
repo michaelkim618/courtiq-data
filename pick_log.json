@@ -38413,6 +38413,29 @@
       "away": 46.5,
       "home": 53.5
      }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": -3.0,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Nolan Traore"
+      ],
+      "home": []
+     },
+     "pick": "Brooklyn Nets",
+     "pick_code": "BKN",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 58.4,
+      "home": 41.6
+     }
     }
    ]
   },
@@ -38524,6 +38547,39 @@
       "away": 40.0,
       "home": 60.0
      }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": 0.7,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": [
+       "Grayson Allen",
+       "Sion James"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Norman Powell",
+       "Caleb Wilson",
+       "Orlando Robinson"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Dennis Schroder"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 48.0,
+      "home": 52.0
+     }
     }
    ]
   },
@@ -38625,6 +38681,36 @@
      "win_prob": {
       "away": 35.5,
       "home": 64.5
+     }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": 5.65,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Karl-Anthony Towns",
+       "Josh Hart"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "OG Anunoby",
+       "Jordan Clarkson"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 34.5,
+      "home": 65.5
      }
     }
    ]
@@ -38728,6 +38814,36 @@
       "away": 21.5,
       "home": 78.5
      }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": 11.25,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jordan Miller",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Cameron Boozer",
+       "GG Jackson",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 21.3,
+      "home": 78.7
+     }
     }
    ]
   },
@@ -38820,6 +38936,33 @@
      "win_prob": {
       "away": 42.4,
       "home": 57.6
+     }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": 0.82,
+     "gtd": {
+      "away": [
+       "Giannis Antetokounmpo"
+      ],
+      "home": [
+       "Joel Embiid"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [],
+      "home": [
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 47.7,
+      "home": 52.3
      }
     }
    ]
@@ -38932,6 +39075,39 @@
       "away": 51.6,
       "home": 48.4
      }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": 0.96,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Aday Mara",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 47.3,
+      "home": 52.7
+     }
     }
    ]
   },
@@ -39012,6 +39188,29 @@
      "win_prob": {
       "away": 26.4,
       "home": 73.6
+     }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": 9.61,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 24.8,
+      "home": 75.2
      }
     }
    ]
@@ -39117,6 +39316,37 @@
      "win_prob": {
       "away": 33.1,
       "home": 66.9
+     }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": 3.63,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Yaxel Lendeborg"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 39.9,
+      "home": 60.1
      }
     }
    ]
@@ -39228,6 +39458,39 @@
      "win_prob": {
       "away": 63.3,
       "home": 36.7
+     }
+    },
+    {
+     "at": "2026-11-25T09:30-05:00",
+     "expected_margin": -0.89,
+     "gtd": {
+      "away": [
+       "Victor Wembanyama",
+       "De'Aaron Fox"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Dylan Harper",
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-25T09:30-05:00",
+     "win_prob": {
+      "away": 52.5,
+      "home": 47.5
      }
     }
    ]
