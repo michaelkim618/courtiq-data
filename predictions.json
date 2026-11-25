@@ -1844,8 +1844,8 @@
   },
   "win_prob_band": {
    "low": 48.4,
-   "high": 56.0,
-   "gtd_count": 1
+   "high": 48.4,
+   "gtd_count": 0
   },
   "expected_margin": -0.57,
   "expected_score": {
@@ -1924,15 +1924,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Giannis Antetokounmpo",
-     "mpg": 29.8,
-     "value": 12.8,
-     "status": "Probable",
-     "ppg": 26.1
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -2250,6 +2242,12 @@
     "pick": "MIA",
     "prob": 51.6,
     "reason": "Joel Embiid (PHI) now out; pick flipped to MIA"
+   },
+   {
+    "at": "2026-11-25T16:17-05:00",
+    "pick": "MIA",
+    "prob": 51.6,
+    "reason": "Giannis Antetokounmpo (MIA) cleared to play"
    }
   ]
  },
