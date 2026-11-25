@@ -40397,6 +40397,39 @@
       "away": 39.8,
       "home": 60.2
      }
+    },
+    {
+     "at": "2026-11-25T15:47-05:00",
+     "expected_margin": 3.66,
+     "gtd": {
+      "away": [
+       "Zach LaVine"
+      ],
+      "home": [
+       "Yaxel Lendeborg"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Zach LaVine (SAC) now questionable",
+     "report": "2026-11-25T15:45-05:00",
+     "win_prob": {
+      "away": 39.8,
+      "home": 60.2
+     }
     }
    ]
   },

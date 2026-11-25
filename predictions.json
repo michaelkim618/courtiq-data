@@ -5570,8 +5570,8 @@
   },
   "win_prob_band": {
    "low": 57.0,
-   "high": 60.2,
-   "gtd_count": 1
+   "high": 63.1,
+   "gtd_count": 2
   },
   "expected_margin": 3.66,
   "expected_score": {
@@ -5694,7 +5694,15 @@
      "ppg": 18.7
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Zach LaVine",
+     "mpg": 31.0,
+     "value": 5.0,
+     "status": "Questionable",
+     "ppg": 18.8
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -5946,11 +5954,10 @@
    "creator": {
     "player": "Darius Acuff Jr.",
     "guards": [
-     "Zach LaVine",
      "Emanuel Sharp"
     ],
-    "games": 16,
-    "minutes": 36.8,
+    "games": 17,
+    "minutes": 36.6,
     "assists": 7.2
    }
   },
@@ -6006,6 +6013,12 @@
     "pick": "GSW",
     "prob": 60.2,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-25T15:47-05:00",
+    "pick": "GSW",
+    "prob": 60.2,
+    "reason": "Zach LaVine (SAC) now questionable"
    }
   ]
  },
