@@ -39639,6 +39639,32 @@
       "away": 48.1,
       "home": 51.9
      }
+    },
+    {
+     "at": "2026-11-25T15:32-05:00",
+     "expected_margin": -0.57,
+     "gtd": {
+      "away": [
+       "Giannis Antetokounmpo"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [],
+      "home": [
+       "Joel Embiid",
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Miami Heat",
+     "pick_code": "MIA",
+     "reason": "Joel Embiid (PHI) now out; pick flipped to MIA",
+     "report": "2026-11-25T15:30-05:00",
+     "win_prob": {
+      "away": 51.6,
+      "home": 48.4
+     }
     }
    ]
   },

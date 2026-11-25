@@ -1839,18 +1839,18 @@
    "streak": 7
   },
   "win_prob": {
-   "home": 51.9,
-   "away": 48.1
+   "home": 48.4,
+   "away": 51.6
   },
   "win_prob_band": {
-   "low": 48.5,
-   "high": 59.4,
-   "gtd_count": 2
+   "low": 48.4,
+   "high": 56.0,
+   "gtd_count": 1
   },
-  "expected_margin": 0.68,
+  "expected_margin": -0.57,
   "expected_score": {
-   "home": 117.2,
-   "away": 116.5
+   "home": 116.5,
+   "away": 117.1
   },
   "margin_breakdown": [
    {
@@ -1875,8 +1875,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.0,
-    "detail": "Philadelphia 76ers 1 out (9 min), no change to the rotation"
+    "points": -1.25,
+    "detail": "Philadelphia 76ers 2 out (40 min) costs 1.2 pts"
    }
   ],
   "ratings": {
@@ -1902,6 +1902,15 @@
   "absences": {
    "home": [
     {
+     "player": "Joel Embiid",
+     "mpg": 31.2,
+     "nth_out": 1,
+     "value": 5.7,
+     "cost": -1.19,
+     "no_minutes": false,
+     "ppg": 19.5
+    },
+    {
      "player": "Ariel Hukporti",
      "mpg": 9.1,
      "nth_out": 7,
@@ -1914,21 +1923,13 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Joel Embiid",
-     "mpg": 31.2,
-     "value": 5.7,
-     "status": "Doubtful",
-     "ppg": 19.5
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Giannis Antetokounmpo",
      "mpg": 29.8,
      "value": 12.8,
-     "status": "Questionable",
+     "status": "Probable",
      "ppg": 26.1
     }
    ]
@@ -1993,23 +1994,10 @@
      "apg": 6.5
     },
     {
-     "player": "Joel Embiid",
-     "player_id": 203954,
-     "position": "C",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 20.4,
-     "rpg": 8.9,
-     "apg": 4.1
-    },
-    {
      "player": "Dean Wade",
      "player_id": 1629731,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 14,
      "starts": 14,
      "start_rate": 100,
@@ -2043,6 +2031,19 @@
      "ppg": 10.7,
      "rpg": 1.8,
      "apg": 1.2
+    },
+    {
+     "player": "Jabari Walker",
+     "player_id": 1631133,
+     "position": "F",
+     "starter": false,
+     "games": 14,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.4,
+     "ppg": 6.9,
+     "rpg": 4.8,
+     "apg": 1.1
     }
    ],
    "away": [
@@ -2154,41 +2155,41 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Philadelphia 76ers",
+  "model_winner": "Miami Heat",
   "model_correct": null,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-24",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 2.78,
+   "expected_margin": 1.59,
    "win_prob": {
-    "home": 57.6,
-    "away": 42.4
+    "home": 54.4,
+    "away": 45.6
    }
   },
   "transition_preview": {
-   "team": "MIA",
-   "opponent": "PHI",
+   "team": "PHI",
+   "opponent": "MIA",
    "games": [
-    16,
-    18
+    18,
+    16
    ],
-   "scored": 16.2,
-   "allowed": 15.9,
+   "scored": 16.7,
+   "allowed": 12.9,
    "league": 14.3,
-   "supported": true,
-   "steals": 8,
-   "stolen_from_opponent": 6.3,
-   "opponent_turnovers": 11.9,
+   "supported": false,
+   "steals": 7.9,
+   "stolen_from_opponent": 7.9,
+   "opponent_turnovers": 14.4,
    "creator": {
-    "player": "Davion Mitchell",
+    "player": "LeBron James",
     "guards": [
-     "Pelle Larsson",
-     "Klay Thompson"
+     "Tyrese Maxey",
+     "Jaylen Brown"
     ],
-    "games": 13,
-    "minutes": 35.6,
-    "assists": 7.8
+    "games": 11,
+    "minutes": 32.2,
+    "assists": 6.5
    }
   },
   "tip_et": "2026-11-25T17:00-05:00",
@@ -2243,6 +2244,12 @@
     "pick": "PHI",
     "prob": 51.9,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-25T15:32-05:00",
+    "pick": "MIA",
+    "prob": 51.6,
+    "reason": "Joel Embiid (PHI) now out; pick flipped to MIA"
    }
   ]
  },
