@@ -38436,6 +38436,29 @@
       "away": 58.4,
       "home": 41.6
      }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": 1.28,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nolan Traore"
+      ],
+      "home": []
+     },
+     "pick": "Milwaukee Bucks",
+     "pick_code": "MIL",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 46.5,
+      "home": 53.5
+     }
     }
    ]
   },
@@ -38580,6 +38603,39 @@
       "away": 48.0,
       "home": 52.0
      }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": 3.67,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": [
+       "Grayson Allen",
+       "Sion James"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Norman Powell",
+       "Caleb Wilson",
+       "Orlando Robinson"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Dennis Schroder"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 40.0,
+      "home": 60.0
+     }
     }
    ]
   },
@@ -38711,6 +38767,36 @@
      "win_prob": {
       "away": 34.5,
       "home": 65.5
+     }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": 5.38,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Karl-Anthony Towns",
+       "Josh Hart"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "OG Anunoby",
+       "Jordan Clarkson"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 35.5,
+      "home": 64.5
      }
     }
    ]
@@ -38844,6 +38930,36 @@
       "away": 21.3,
       "home": 78.7
      }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": 11.42,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jordan Miller",
+       "Bradley Beal"
+      ],
+      "home": [
+       "Cameron Boozer",
+       "GG Jackson",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 21.5,
+      "home": 78.5
+     }
     }
    ]
   },
@@ -38963,6 +39079,33 @@
      "win_prob": {
       "away": 47.7,
       "home": 52.3
+     }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": 2.78,
+     "gtd": {
+      "away": [
+       "Giannis Antetokounmpo"
+      ],
+      "home": [
+       "Joel Embiid"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Ariel Hukporti"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 42.4,
+      "home": 57.6
      }
     }
    ]
@@ -39108,6 +39251,39 @@
       "away": 47.3,
       "home": 52.7
      }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": -0.58,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ],
+      "home": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Aday Mara",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 51.6,
+      "home": 48.4
+     }
     }
    ]
   },
@@ -39211,6 +39387,29 @@
      "win_prob": {
       "away": 24.8,
       "home": 75.2
+     }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": 9.17,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Mark Williams"
+      ],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 26.4,
+      "home": 73.6
      }
     }
    ]
@@ -39347,6 +39546,37 @@
      "win_prob": {
       "away": 39.9,
       "home": 60.1
+     }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": 6.34,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Yaxel Lendeborg"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 33.1,
+      "home": 66.9
      }
     }
    ]
@@ -39491,6 +39721,39 @@
      "win_prob": {
       "away": 52.5,
       "home": 47.5
+     }
+    },
+    {
+     "at": "2026-11-25T10:33-05:00",
+     "expected_margin": -4.91,
+     "gtd": {
+      "away": [
+       "Victor Wembanyama",
+       "De'Aaron Fox"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Dylan Harper",
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Damian Lillard (POR) back after missing 2025-26, valued from 2024-25",
+     "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 63.3,
+      "home": 36.7
      }
     }
    ]
