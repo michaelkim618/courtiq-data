@@ -38636,6 +38636,38 @@
       "away": 40.0,
       "home": 60.0
      }
+    },
+    {
+     "at": "2026-11-25T11:33-05:00",
+     "expected_margin": 3.67,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": [
+       "Grayson Allen",
+       "Sion James"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Dennis Schroder"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Orlando Robinson (CHI) no longer out",
+     "report": "2026-11-25T11:30-05:00",
+     "win_prob": {
+      "away": 40.0,
+      "home": 60.0
+     }
     }
    ]
   },

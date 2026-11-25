@@ -2346,7 +2346,7 @@
    {
     "label": "Absences",
     "points": 1.73,
-    "detail": "Charlotte Hornets 2 out (58 min) costing 0.8 pts, Chicago Bulls 2 out (57 min) costing 2.6 pts · Orlando Robinson out all season, already baked into team rating"
+    "detail": "Charlotte Hornets 2 out (58 min) costing 0.8 pts, Chicago Bulls 2 out (57 min) costing 2.6 pts"
    }
   ],
   "ratings": {
@@ -2408,14 +2408,6 @@
      "cost": -0.96,
      "no_minutes": false,
      "ppg": 18.1
-    },
-    {
-     "player": "Orlando Robinson",
-     "mpg": 0.0,
-     "nth_out": 1,
-     "value": 0.0,
-     "cost": -0.0,
-     "no_minutes": true
     }
    ]
   },
@@ -2730,6 +2722,12 @@
     "pick": "CHA",
     "prob": 60.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-25T11:33-05:00",
+    "pick": "CHA",
+    "prob": 60.0,
+    "reason": "Orlando Robinson (CHI) no longer out"
    }
   ]
  },
