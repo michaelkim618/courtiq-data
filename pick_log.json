@@ -38901,6 +38901,36 @@
       "away": 44.5,
       "home": 55.5
      }
+    },
+    {
+     "at": "2026-11-25T17:32-05:00",
+     "expected_margin": 1.97,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Norman Powell",
+       "Caleb Wilson",
+       "Jalen Smith"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Grayson Allen",
+       "Dennis Schroder",
+       "Ryan Kalkbrenner"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Sion James (CHA) cleared to play",
+     "report": "2026-11-25T17:30-05:00",
+     "win_prob": {
+      "away": 44.5,
+      "home": 55.5
+     }
     }
    ]
   },
@@ -40490,6 +40520,38 @@
      "win_prob": {
       "away": 39.8,
       "home": 60.2
+     }
+    },
+    {
+     "at": "2026-11-25T17:32-05:00",
+     "expected_margin": 4.11,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Yaxel Lendeborg"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Zach LaVine",
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Zach LaVine (SAC) now out",
+     "report": "2026-11-25T17:30-05:00",
+     "win_prob": {
+      "away": 38.6,
+      "home": 61.4
      }
     }
    ]

@@ -2356,7 +2356,7 @@
   "win_prob_band": {
    "low": 55.5,
    "high": 55.5,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 1.97,
   "expected_score": {
@@ -2480,15 +2480,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Sion James",
-     "mpg": 25.7,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 5.6
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -2819,6 +2811,12 @@
     "pick": "CHA",
     "prob": 55.5,
     "reason": "Jalen Smith (CHI) now out"
+   },
+   {
+    "at": "2026-11-25T17:32-05:00",
+    "pick": "CHA",
+    "prob": 55.5,
+    "reason": "Sion James (CHA) cleared to play"
    }
   ]
  },
@@ -5570,18 +5568,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 60.2,
-   "away": 39.8
+   "home": 61.4,
+   "away": 38.6
   },
   "win_prob_band": {
-   "low": 57.0,
-   "high": 63.1,
-   "gtd_count": 2
+   "low": 58.2,
+   "high": 61.4,
+   "gtd_count": 1
   },
-  "expected_margin": 3.66,
+  "expected_margin": 4.11,
   "expected_score": {
-   "home": 114.8,
-   "away": 111.1
+   "home": 115.0,
+   "away": 110.9
   },
   "margin_breakdown": [
    {
@@ -5606,8 +5604,8 @@
    },
    {
     "label": "Absences",
-    "points": -4.62,
-    "detail": "Golden State Warriors 4 out (104 min) costs 4.6 pts, Sacramento Kings 1 out (26 min), no change to the rotation · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment · Ben Simmons out all season, already baked into team rating"
+    "points": -4.17,
+    "detail": "Golden State Warriors 4 out (104 min) costs 4.6 pts, Sacramento Kings 2 out (57 min) costs 0.4 pts · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment · Ben Simmons out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5671,6 +5669,15 @@
    ],
    "away": [
     {
+     "player": "Zach LaVine",
+     "mpg": 31.0,
+     "nth_out": 1,
+     "value": 5.0,
+     "cost": -1.06,
+     "no_minutes": false,
+     "ppg": 18.8
+    },
+    {
      "player": "Maxime Raynaud",
      "mpg": 25.9,
      "nth_out": 1,
@@ -5699,15 +5706,7 @@
      "ppg": 18.7
     }
    ],
-   "away": [
-    {
-     "player": "Zach LaVine",
-     "mpg": 31.0,
-     "value": 5.0,
-     "status": "Questionable",
-     "ppg": 18.8
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -5862,19 +5861,6 @@
      "apg": 5.5
     },
     {
-     "player": "Zach LaVine",
-     "player_id": 203897,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 20.3,
-     "rpg": 3.8,
-     "apg": 2.6
-    },
-    {
      "player": "Keegan Murray",
      "player_id": 1631099,
      "position": "F",
@@ -5891,7 +5877,7 @@
      "player": "Precious Achiuwa",
      "player_id": 1630173,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 14,
      "starts": 7,
      "start_rate": 50,
@@ -5925,6 +5911,19 @@
      "ppg": 4.5,
      "rpg": 1.1,
      "apg": 0.8
+    },
+    {
+     "player": "Malik Monk",
+     "player_id": 1628370,
+     "position": "G",
+     "starter": false,
+     "games": 16,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 16.3,
+     "ppg": 7.9,
+     "rpg": 1.2,
+     "apg": 3.6
     }
    ]
   },
@@ -5936,10 +5935,10 @@
   "data_through": "2026-11-24",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 6.34,
+   "expected_margin": 7.4,
    "win_prob": {
-    "home": 66.9,
-    "away": 33.1
+    "home": 69.5,
+    "away": 30.5
    }
   },
   "transition_preview": {
@@ -5959,11 +5958,12 @@
    "creator": {
     "player": "Darius Acuff Jr.",
     "guards": [
-     "Emanuel Sharp"
+     "Emanuel Sharp",
+     "Malik Monk"
     ],
-    "games": 17,
-    "minutes": 36.6,
-    "assists": 7.2
+    "games": 16,
+    "minutes": 36.7,
+    "assists": 7.4
    }
   },
   "tip_et": "2026-11-25T22:00-05:00",
@@ -6024,6 +6024,12 @@
     "pick": "GSW",
     "prob": 60.2,
     "reason": "Zach LaVine (SAC) now questionable"
+   },
+   {
+    "at": "2026-11-25T17:32-05:00",
+    "pick": "GSW",
+    "prob": 61.4,
+    "reason": "Zach LaVine (SAC) now out"
    }
   ]
  },
