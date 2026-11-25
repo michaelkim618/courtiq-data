@@ -2066,6 +2066,14 @@
  {
   "date": "2026-11-24",
   "season": "2026-2027",
+  "away": "BOS",
+  "home": "WAS",
+  "conf": 82.5,
+  "correct": true
+ },
+ {
+  "date": "2026-11-24",
+  "season": "2026-2027",
   "away": "DET",
   "home": "ORL",
   "conf": 61.6,
