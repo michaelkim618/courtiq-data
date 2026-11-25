@@ -2314,18 +2314,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 60.0,
-   "away": 40.0
+   "home": 58.1,
+   "away": 41.9
   },
   "win_prob_band": {
    "low": 58.1,
-   "high": 61.7,
-   "gtd_count": 3
+   "high": 59.9,
+   "gtd_count": 2
   },
-  "expected_margin": 3.67,
+  "expected_margin": 2.98,
   "expected_score": {
-   "home": 115.2,
-   "away": 111.5
+   "home": 114.9,
+   "away": 111.9
   },
   "margin_breakdown": [
    {
@@ -2345,8 +2345,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.73,
-    "detail": "Charlotte Hornets 2 out (58 min) costing 0.8 pts, Chicago Bulls 2 out (57 min) costing 2.6 pts"
+    "points": 1.03,
+    "detail": "Charlotte Hornets 4 out (102 min) costing 1.5 pts, Chicago Bulls 2 out (57 min) costing 2.6 pts"
    }
   ],
   "ratings": {
@@ -2381,6 +2381,15 @@
      "ppg": 17.9
     },
     {
+     "player": "Grayson Allen",
+     "mpg": 26.3,
+     "nth_out": 3,
+     "value": 3.3,
+     "cost": -0.69,
+     "no_minutes": false,
+     "ppg": 15.0
+    },
+    {
      "player": "Dennis Schroder",
      "mpg": 27.1,
      "nth_out": 3,
@@ -2388,6 +2397,15 @@
      "cost": -0.0,
      "no_minutes": false,
      "ppg": 8.8
+    },
+    {
+     "player": "Ryan Kalkbrenner",
+     "mpg": 17.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 4.6
     }
    ],
    "away": [
@@ -2413,13 +2431,6 @@
   },
   "gtd": {
    "home": [
-    {
-     "player": "Grayson Allen",
-     "mpg": 26.3,
-     "value": 3.3,
-     "status": "Questionable",
-     "ppg": 15.0
-    },
     {
      "player": "Sion James",
      "mpg": 25.7,
@@ -2498,23 +2509,10 @@
      "apg": 3.1
     },
     {
-     "player": "Grayson Allen",
-     "player_id": 1628960,
-     "position": "G",
-     "starter": true,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 27.1,
-     "ppg": 14.9,
-     "rpg": 3.1,
-     "apg": 3.3
-    },
-    {
      "player": "Grant Williams",
      "player_id": 1629684,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 3,
      "starts": 0,
      "start_rate": 0,
@@ -2548,6 +2546,19 @@
      "ppg": 5.6,
      "rpg": 2.9,
      "apg": 0.7
+    },
+    {
+     "player": "Christian Anderson",
+     "player_id": 1643515,
+     "position": "G",
+     "starter": false,
+     "games": 15,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.7,
+     "ppg": 6.5,
+     "rpg": 1.5,
+     "apg": 2.0
     }
    ],
    "away": [
@@ -2728,6 +2739,12 @@
     "pick": "CHA",
     "prob": 60.0,
     "reason": "Orlando Robinson (CHI) no longer out"
+   },
+   {
+    "at": "2026-11-25T12:48-05:00",
+    "pick": "CHA",
+    "prob": 58.1,
+    "reason": "Grayson Allen (CHA) now out; Ryan Kalkbrenner (CHA) now out"
    }
   ]
  },
@@ -2834,9 +2851,9 @@
    "away": 35.5
   },
   "win_prob_band": {
-   "low": 61.6,
+   "low": 55.7,
    "high": 64.5,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": 5.38,
   "expected_score": {
@@ -2862,7 +2879,7 @@
    {
     "label": "Absences",
     "points": 0.24,
-    "detail": "New York Knicks 2 out (41 min) costing 0.4 pts, Cleveland Cavaliers 2 out (45 min) costing 0.6 pts"
+    "detail": "New York Knicks 3 out (58 min) costing 0.4 pts, Cleveland Cavaliers 2 out (45 min) costing 0.6 pts"
    }
   ],
   "ratings": {
@@ -2904,6 +2921,15 @@
      "cost": -0.1,
      "no_minutes": false,
      "ppg": 5.1
+    },
+    {
+     "player": "Miles McBride",
+     "mpg": 16.6,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 6.5
     }
    ],
    "away": [
@@ -2930,17 +2956,24 @@
   "gtd": {
    "home": [
     {
+     "player": "Jalen Brunson",
+     "mpg": 31.8,
+     "value": 10.5,
+     "status": "Questionable",
+     "ppg": 24.7
+    },
+    {
      "player": "Karl-Anthony Towns",
      "mpg": 30.3,
      "value": 5.3,
-     "status": "Questionable",
+     "status": "Probable",
      "ppg": 18.7
     },
     {
      "player": "Josh Hart",
      "mpg": 27.9,
      "value": 0.0,
-     "status": "Questionable",
+     "status": "Probable",
      "ppg": 6.2
     }
    ],
@@ -3019,19 +3052,6 @@
      "apg": 1.9
     },
     {
-     "player": "Miles McBride",
-     "player_id": 1630540,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.2,
-     "ppg": 6.8,
-     "rpg": 1.2,
-     "apg": 1.0
-    },
-    {
      "player": "Andre Drummond",
      "player_id": 203083,
      "position": "C",
@@ -3056,6 +3076,19 @@
      "ppg": 4.1,
      "rpg": 2.1,
      "apg": 4.1
+    },
+    {
+     "player": "Mohamed Diawara",
+     "player_id": 1642885,
+     "position": "F",
+     "starter": false,
+     "games": 7,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 11.3,
+     "ppg": 2.4,
+     "rpg": 2.1,
+     "apg": 1.4
     }
    ],
    "away": [
@@ -3230,6 +3263,12 @@
     "pick": "NYK",
     "prob": 64.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-25T12:48-05:00",
+    "pick": "NYK",
+    "prob": 64.5,
+    "reason": "Miles McBride (NYK) now out; Jalen Brunson (NYK) now questionable"
    }
   ]
  },

@@ -38668,6 +38668,39 @@
       "away": 40.0,
       "home": 60.0
      }
+    },
+    {
+     "at": "2026-11-25T12:48-05:00",
+     "expected_margin": 2.98,
+     "gtd": {
+      "away": [
+       "Jalen Smith"
+      ],
+      "home": [
+       "Sion James"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Grayson Allen",
+       "Dennis Schroder",
+       "Ryan Kalkbrenner"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Grayson Allen (CHA) now out; Ryan Kalkbrenner (CHA) now out",
+     "report": "2026-11-25T12:45-05:00",
+     "win_prob": {
+      "away": 41.9,
+      "home": 58.1
+     }
     }
    ]
   },
@@ -38826,6 +38859,38 @@
      "pick_code": "NYK",
      "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
      "report": "2026-11-25T10:30-05:00",
+     "win_prob": {
+      "away": 35.5,
+      "home": 64.5
+     }
+    },
+    {
+     "at": "2026-11-25T12:48-05:00",
+     "expected_margin": 5.38,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jalen Brunson",
+       "Karl-Anthony Towns",
+       "Josh Hart"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Evan Mobley",
+       "Nae'Qwan Tomlin"
+      ],
+      "home": [
+       "OG Anunoby",
+       "Jordan Clarkson",
+       "Miles McBride"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Miles McBride (NYK) now out; Jalen Brunson (NYK) now questionable",
+     "report": "2026-11-25T12:45-05:00",
      "win_prob": {
       "away": 35.5,
       "home": 64.5
