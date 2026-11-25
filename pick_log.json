@@ -38869,6 +38869,38 @@
       "away": 48.2,
       "home": 51.8
      }
+    },
+    {
+     "at": "2026-11-25T17:02-05:00",
+     "expected_margin": 1.97,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Sion James"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Norman Powell",
+       "Caleb Wilson",
+       "Jalen Smith"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Grayson Allen",
+       "Dennis Schroder",
+       "Ryan Kalkbrenner"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Jalen Smith (CHI) now out",
+     "report": "2026-11-25T17:00-05:00",
+     "win_prob": {
+      "away": 44.5,
+      "home": 55.5
+     }
     }
    ]
   },
@@ -39424,7 +39456,7 @@
    },
    "home": "PHI",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-25T17:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-25T17:00-05:00",
    "tip_known": true,

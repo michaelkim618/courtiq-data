@@ -2350,18 +2350,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 51.8,
-   "away": 48.2
+   "home": 55.5,
+   "away": 44.5
   },
   "win_prob_band": {
-   "low": 51.8,
-   "high": 53.6,
-   "gtd_count": 2
+   "low": 55.5,
+   "high": 55.5,
+   "gtd_count": 1
   },
-  "expected_margin": 0.64,
+  "expected_margin": 1.97,
   "expected_score": {
-   "home": 113.7,
-   "away": 113.1
+   "home": 114.4,
+   "away": 112.4
   },
   "margin_breakdown": [
    {
@@ -2386,8 +2386,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.18,
-    "detail": "Charlotte Hornets 4 out (102 min), no change to the rotation, Chicago Bulls 2 out (57 min) costs 0.2 pts"
+    "points": 1.51,
+    "detail": "Charlotte Hornets 4 out (102 min), no change to the rotation, Chicago Bulls 3 out (80 min) costs 1.5 pts"
    }
   ],
   "ratings": {
@@ -2467,6 +2467,15 @@
      "cost": -0.96,
      "no_minutes": false,
      "ppg": 18.1
+    },
+    {
+     "player": "Jalen Smith",
+     "mpg": 23.5,
+     "nth_out": 1,
+     "value": 3.1,
+     "cost": -0.65,
+     "no_minutes": false,
+     "ppg": 13.6
     }
    ]
   },
@@ -2480,15 +2489,7 @@
      "ppg": 5.6
     }
    ],
-   "away": [
-    {
-     "player": "Jalen Smith",
-     "mpg": 23.5,
-     "value": 3.1,
-     "status": "Questionable",
-     "ppg": 13.6
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -2630,19 +2631,6 @@
      "apg": 1.9
     },
     {
-     "player": "Jalen Smith",
-     "player_id": 1630188,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 25.3,
-     "ppg": 14.1,
-     "rpg": 7.5,
-     "apg": 2.2
-    },
-    {
      "player": "Isaac Okoro",
      "player_id": 1630171,
      "position": "F",
@@ -2672,7 +2660,7 @@
      "player": "Patrick Williams",
      "player_id": 1630172,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 10,
      "starts": 0,
      "start_rate": 0,
@@ -2706,6 +2694,19 @@
      "ppg": 10.3,
      "rpg": 2.8,
      "apg": 1.9
+    },
+    {
+     "player": "Leonard Miller",
+     "player_id": 1631159,
+     "position": "F",
+     "starter": false,
+     "games": 12,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.0,
+     "ppg": 5.4,
+     "rpg": 3.2,
+     "apg": 1.0
     }
    ]
   },
@@ -2717,10 +2718,10 @@
   "data_through": "2026-11-24",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 2.98,
+   "expected_margin": 3.63,
    "win_prob": {
-    "home": 58.1,
-    "away": 41.9
+    "home": 59.9,
+    "away": 40.1
    }
   },
   "transition_preview": {
@@ -2812,6 +2813,12 @@
     "pick": "CHA",
     "prob": 51.8,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-25T17:02-05:00",
+    "pick": "CHA",
+    "prob": 55.5,
+    "reason": "Jalen Smith (CHI) now out"
    }
   ]
  },
