@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:02-05:00",
+ "generated": "2026-11-25T22:17-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2512,13 +2512,13 @@
   },
   {
    "date": "2026-11-25",
-   "games": 3,
+   "games": 4,
    "wins": 1,
-   "losses": 2,
-   "pct": 33.3,
+   "losses": 3,
+   "pct": 25.0,
    "cum_wins": 176,
-   "cum_games": 264,
-   "cum_pct": 66.7,
+   "cum_games": 265,
+   "cum_pct": 66.4,
    "picks": [
     {
      "away": "CHI",
@@ -2543,15 +2543,23 @@
      "prob": 51.6,
      "correct": false,
      "updated": true
+    },
+    {
+     "away": "MIN",
+     "home": "OKC",
+     "pick": "OKC",
+     "prob": 52.4,
+     "correct": false,
+     "updated": true
     }
    ]
   }
  ],
  "total": {
-  "games": 264,
+  "games": 265,
   "wins": 176,
-  "losses": 88,
-  "pct": 66.7
+  "losses": 89,
+  "pct": 66.4
  },
  "unscored": 0
 }
