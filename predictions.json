@@ -7305,7 +7305,7 @@
  },
  {
   "date": "2026-11-25",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "San Antonio Spurs",
   "home": "Portland Trail Blazers",
   "away_code": "SAS",
@@ -7543,229 +7543,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 17,
-    "away": 18
-   },
-   "home": [
-    {
-     "player": "Deni Avdija",
-     "player_id": 1630166,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 32.6,
-     "ppg": 24.3,
-     "rpg": 6.2,
-     "apg": 6.1
-    },
-    {
-     "player": "Toumani Camara",
-     "player_id": 1641739,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 30.0,
-     "ppg": 11.8,
-     "rpg": 3.8,
-     "apg": 1.5
-    },
-    {
-     "player": "Damian Lillard",
-     "player_id": 203081,
-     "position": "G",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 29.8,
-     "ppg": 20.4,
-     "rpg": 3.2,
-     "apg": 4.1
-    },
-    {
-     "player": "Donovan Clingan",
-     "player_id": 1642270,
-     "position": "C",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 26.2,
-     "ppg": 11.6,
-     "rpg": 11.3,
-     "apg": 2.1
-    },
-    {
-     "player": "Jrue Holiday",
-     "player_id": 201950,
-     "position": "G",
-     "starter": true,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 27.1,
-     "ppg": 14.1,
-     "rpg": 3.7,
-     "apg": 4.5
-    },
-    {
-     "player": "Sidy Cissoko",
-     "player_id": 1631321,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.5,
-     "ppg": 7.9,
-     "rpg": 3.7,
-     "apg": 1.8
-    },
-    {
-     "player": "Scoot Henderson",
-     "player_id": 1630703,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.2,
-     "ppg": 9.9,
-     "rpg": 2.1,
-     "apg": 1.5
-    },
-    {
-     "player": "Robert Williams III",
-     "player_id": 1629057,
-     "position": "C",
-     "starter": false,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 6.3,
-     "rpg": 6.3,
-     "apg": 1.1
-    }
-   ],
-   "away": [
-    {
-     "player": "Victor Wembanyama",
-     "player_id": 1641705,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 29.9,
-     "rpg": 12.4,
-     "apg": 3.2
-    },
-    {
-     "player": "Devin Vassell",
-     "player_id": 1630170,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 30.3,
-     "ppg": 11.6,
-     "rpg": 4.0,
-     "apg": 2.9
-    },
-    {
-     "player": "Stephon Castle",
-     "player_id": 1642264,
-     "position": "G",
-     "starter": true,
-     "games": 18,
-     "starts": 18,
-     "start_rate": 100,
-     "mpg": 29.9,
-     "ppg": 16.6,
-     "rpg": 5.3,
-     "apg": 6.2
-    },
-    {
-     "player": "Julian Champagnie",
-     "player_id": 1630577,
-     "position": "F",
-     "starter": true,
-     "games": 18,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 26.6,
-     "ppg": 11.1,
-     "rpg": 4.3,
-     "apg": 1.6
-    },
-    {
-     "player": "Keldon Johnson",
-     "player_id": 1629640,
-     "position": "F",
-     "starter": true,
-     "games": 18,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.1,
-     "ppg": 8.9,
-     "rpg": 5.4,
-     "apg": 2.6
-    },
-    {
-     "player": "Harrison Barnes",
-     "player_id": 203084,
-     "position": "F",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.4,
-     "ppg": 5.4,
-     "rpg": 1.4,
-     "apg": 0.8
-    },
-    {
-     "player": "Luke Kornet",
-     "player_id": 1628436,
-     "position": "C",
-     "starter": false,
-     "games": 18,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.3,
-     "ppg": 4.1,
-     "rpg": 4.2,
-     "apg": 1.2
-    },
-    {
-     "player": "Carter Bryant",
-     "player_id": 1642868,
-     "position": "F",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 11.2,
-     "ppg": 3.5,
-     "rpg": 1.1,
-     "apg": 0.6
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 116,
+   "away": 111
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Portland Trail Blazers",
   "model_winner": "Portland Trail Blazers",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-24",
   "team_model": {
@@ -7859,6 +7644,362 @@
     "prob": 51.9,
     "reason": "De'Aaron Fox (SAS) now out; Victor Wembanyama (SAS) cleared to play; pick flipped to POR"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Deni Avdija",
+     "starter": true,
+     "min": 36,
+     "pts": 33,
+     "reb": 12,
+     "ast": 7,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 2
+    },
+    {
+     "name": "Damian Lillard",
+     "starter": true,
+     "min": 34,
+     "pts": 29,
+     "reb": 3,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "Jrue Holiday",
+     "starter": false,
+     "min": 32,
+     "pts": 11,
+     "reb": 6,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 13
+    },
+    {
+     "name": "Toumani Camara",
+     "starter": true,
+     "min": 31,
+     "pts": 8,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Sidy Cissoko",
+     "starter": true,
+     "min": 30,
+     "pts": 16,
+     "reb": 4,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": -16
+    },
+    {
+     "name": "Scoot Henderson",
+     "starter": false,
+     "min": 23,
+     "pts": 10,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 2
+    },
+    {
+     "name": "Donovan Clingan",
+     "starter": true,
+     "min": 21,
+     "pts": 5,
+     "reb": 8,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": 9
+    },
+    {
+     "name": "Robert Williams III",
+     "starter": false,
+     "min": 21,
+     "pts": 4,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Jayson Kent",
+     "starter": false,
+     "min": 6,
+     "pts": 0,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -4
+    },
+    {
+     "name": "Yang Hansen",
+     "starter": false,
+     "min": 5,
+     "pts": 0,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    }
+   ],
+   "away": [
+    {
+     "name": "Devin Vassell",
+     "starter": true,
+     "min": 38,
+     "pts": 18,
+     "reb": 3,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 1,
+     "pm": 5
+    },
+    {
+     "name": "Julian Champagnie",
+     "starter": true,
+     "min": 37,
+     "pts": 11,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": -17
+    },
+    {
+     "name": "Victor Wembanyama",
+     "starter": true,
+     "min": 35,
+     "pts": 44,
+     "reb": 17,
+     "ast": 3,
+     "stl": 1,
+     "blk": 2,
+     "tov": 3,
+     "pm": 2
+    },
+    {
+     "name": "Stephon Castle",
+     "starter": true,
+     "min": 34,
+     "pts": 20,
+     "reb": 6,
+     "ast": 9,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 1
+    },
+    {
+     "name": "Keldon Johnson",
+     "starter": false,
+     "min": 33,
+     "pts": 3,
+     "reb": 12,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -17
+    },
+    {
+     "name": "Harrison Barnes",
+     "starter": true,
+     "min": 15,
+     "pts": 5,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 10
+    },
+    {
+     "name": "Jordan McLaughlin",
+     "starter": false,
+     "min": 15,
+     "pts": 4,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -2
+    },
+    {
+     "name": "Carter Bryant",
+     "starter": false,
+     "min": 14,
+     "pts": 2,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 0
+    },
+    {
+     "name": "Luke Kornet",
+     "starter": false,
+     "min": 13,
+     "pts": 4,
+     "reb": 5,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -7
+    },
+    {
+     "name": "Ja'Kobi Gillespie",
+     "starter": false,
+     "min": 7,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    }
+   ],
+   "transition": {
+    "away": {
+     "fb": 5,
+     "stl": 5,
+     "to": 14,
+     "players": {
+      "harrison barnes": [
+       15,
+       1
+      ],
+      "julian champagnie": [
+       37,
+       1
+      ],
+      "victor wembanyama": [
+       35,
+       3
+      ],
+      "devin vassell": [
+       38,
+       1
+      ],
+      "stephon castle": [
+       34,
+       9
+      ],
+      "keldon johnson": [
+       33,
+       2
+      ],
+      "carter bryant": [
+       14,
+       1
+      ],
+      "luke kornet": [
+       13,
+       3
+      ],
+      "jordan mclaughlin": [
+       15,
+       0
+      ],
+      "jakobi gillespie": [
+       7,
+       0
+      ]
+     }
+    },
+    "home": {
+     "fb": 13,
+     "stl": 8,
+     "to": 8,
+     "players": {
+      "toumani camara": [
+       31,
+       2
+      ],
+      "deni avdija": [
+       36,
+       7
+      ],
+      "donovan clingan": [
+       21,
+       2
+      ],
+      "damian lillard": [
+       34,
+       6
+      ],
+      "sidy cissoko": [
+       30,
+       2
+      ],
+      "robert williams": [
+       21,
+       0
+      ],
+      "yang hansen": [
+       5,
+       1
+      ],
+      "jrue holiday": [
+       32,
+       7
+      ],
+      "scoot henderson": [
+       23,
+       1
+      ],
+      "jayson kent": [
+       6,
+       0
+      ]
+     }
+    }
+   }
+  },
+  "leaders": {
+   "home": {
+    "name": "Deni Avdija",
+    "pts": 33,
+    "reb": 12,
+    "ast": 7
+   },
+   "away": {
+    "name": "Victor Wembanyama",
+    "pts": 44,
+    "reb": 17,
+    "ast": 3
+   }
+  }
  }
 ]

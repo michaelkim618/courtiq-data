@@ -2150,5 +2150,13 @@
   "home": "GSW",
   "conf": 61.4,
   "correct": true
+ },
+ {
+  "date": "2026-11-25",
+  "season": "2026-2027",
+  "away": "SAS",
+  "home": "POR",
+  "conf": 51.9,
+  "correct": true
  }
 ]
