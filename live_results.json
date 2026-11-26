@@ -2142,5 +2142,13 @@
   "home": "HOU",
   "conf": 75.2,
   "correct": true
+ },
+ {
+  "date": "2026-11-25",
+  "season": "2026-2027",
+  "away": "SAC",
+  "home": "GSW",
+  "conf": 61.4,
+  "correct": true
  }
 ]

@@ -6586,7 +6586,7 @@
  },
  {
   "date": "2026-11-25",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Sacramento Kings",
   "home": "Golden State Warriors",
   "away_code": "SAC",
@@ -6815,229 +6815,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 17,
-    "away": 17
-   },
-   "home": [
-    {
-     "player": "Brandin Podziemski",
-     "player_id": 1641764,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 15.9,
-     "rpg": 4.9,
-     "apg": 3.5
-    },
-    {
-     "player": "Yaxel Lendeborg",
-     "player_id": 1642865,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 31.7,
-     "ppg": 19.2,
-     "rpg": 7.4,
-     "apg": 3.6
-    },
-    {
-     "player": "Draymond Green",
-     "player_id": 203110,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 25.7,
-     "ppg": 3.6,
-     "rpg": 4.8,
-     "apg": 6.3
-    },
-    {
-     "player": "Gui Santos",
-     "player_id": 1630611,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 10,
-     "start_rate": 71,
-     "mpg": 19.2,
-     "ppg": 6.8,
-     "rpg": 4.3,
-     "apg": 1.8
-    },
-    {
-     "player": "Graham Ike",
-     "player_id": 1643633,
-     "position": "F",
-     "starter": true,
-     "games": 13,
-     "starts": 6,
-     "start_rate": 46,
-     "mpg": 9.5,
-     "ppg": 4.5,
-     "rpg": 2.4,
-     "apg": 1.1
-    },
-    {
-     "player": "Will Richard",
-     "player_id": 1642954,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 4,
-     "start_rate": 25,
-     "mpg": 19.7,
-     "ppg": 7.2,
-     "rpg": 2.2,
-     "apg": 1.1
-    },
-    {
-     "player": "De'Anthony Melton",
-     "player_id": 1629001,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 4,
-     "start_rate": 24,
-     "mpg": 22.3,
-     "ppg": 8.7,
-     "rpg": 3.7,
-     "apg": 2.7
-    },
-    {
-     "player": "Brandon Williams",
-     "player_id": 1630314,
-     "position": "G",
-     "starter": false,
-     "games": 10,
-     "starts": 2,
-     "start_rate": 20,
-     "mpg": 16.2,
-     "ppg": 10.4,
-     "rpg": 2.1,
-     "apg": 2.3
-    }
-   ],
-   "away": [
-    {
-     "player": "Darius Acuff Jr.",
-     "player_id": 1643411,
-     "position": "G",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 36.6,
-     "ppg": 24.6,
-     "rpg": 3.4,
-     "apg": 7.2
-    },
-    {
-     "player": "De'Andre Hunter",
-     "player_id": 1629631,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 33.8,
-     "ppg": 15.3,
-     "rpg": 4.7,
-     "apg": 2.1
-    },
-    {
-     "player": "Domantas Sabonis",
-     "player_id": 1627734,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 33.2,
-     "ppg": 14.5,
-     "rpg": 13.5,
-     "apg": 5.5
-    },
-    {
-     "player": "Keegan Murray",
-     "player_id": 1631099,
-     "position": "F",
-     "starter": true,
-     "games": 10,
-     "starts": 10,
-     "start_rate": 100,
-     "mpg": 31.2,
-     "ppg": 11.1,
-     "rpg": 4.5,
-     "apg": 1.6
-    },
-    {
-     "player": "Precious Achiuwa",
-     "player_id": 1630173,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 7,
-     "start_rate": 50,
-     "mpg": 23.5,
-     "ppg": 9.1,
-     "rpg": 5.7,
-     "apg": 0.9
-    },
-    {
-     "player": "Leaky Black",
-     "player_id": 1641778,
-     "position": "F",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 17.5,
-     "ppg": 4.2,
-     "rpg": 2.8,
-     "apg": 1.5
-    },
-    {
-     "player": "Emanuel Sharp",
-     "player_id": 1643567,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.5,
-     "ppg": 4.5,
-     "rpg": 1.1,
-     "apg": 0.8
-    },
-    {
-     "player": "Malik Monk",
-     "player_id": 1628370,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 7.9,
-     "rpg": 1.2,
-     "apg": 3.6
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 129,
+   "away": 110
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Golden State Warriors",
   "model_winner": "Golden State Warriors",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-24",
   "team_model": {
@@ -7144,7 +6929,379 @@
     "prob": 61.4,
     "reason": "Yaxel Lendeborg (GSW) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Brandin Podziemski",
+     "starter": true,
+     "min": 32,
+     "pts": 13,
+     "reb": 2,
+     "ast": 6,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 16
+    },
+    {
+     "name": "Yaxel Lendeborg",
+     "starter": true,
+     "min": 31,
+     "pts": 15,
+     "reb": 8,
+     "ast": 2,
+     "stl": 3,
+     "blk": 1,
+     "tov": 4,
+     "pm": 8
+    },
+    {
+     "name": "De'Anthony Melton",
+     "starter": true,
+     "min": 27,
+     "pts": 24,
+     "reb": 4,
+     "ast": 7,
+     "stl": 1,
+     "blk": 1,
+     "tov": 4,
+     "pm": 4
+    },
+    {
+     "name": "Draymond Green",
+     "starter": true,
+     "min": 26,
+     "pts": 6,
+     "reb": 4,
+     "ast": 11,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": 8
+    },
+    {
+     "name": "Gui Santos",
+     "starter": false,
+     "min": 24,
+     "pts": 22,
+     "reb": 3,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 19
+    },
+    {
+     "name": "Charles Bassey",
+     "starter": true,
+     "min": 22,
+     "pts": 10,
+     "reb": 7,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Georges Niang",
+     "starter": false,
+     "min": 19,
+     "pts": 11,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 23
+    },
+    {
+     "name": "Gary Payton II",
+     "starter": false,
+     "min": 17,
+     "pts": 9,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 11
+    },
+    {
+     "name": "Will Richard",
+     "starter": false,
+     "min": 17,
+     "pts": 3,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 6
+    },
+    {
+     "name": "Brandon Williams",
+     "starter": false,
+     "min": 13,
+     "pts": 14,
+     "reb": 2,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 1
+    },
+    {
+     "name": "Al Horford",
+     "starter": false,
+     "min": 13,
+     "pts": 2,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": 7
+    }
+   ],
+   "away": [
+    {
+     "name": "Keegan Murray",
+     "starter": true,
+     "min": 42,
+     "pts": 18,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -12
+    },
+    {
+     "name": "De'Andre Hunter",
+     "starter": true,
+     "min": 39,
+     "pts": 15,
+     "reb": 7,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -23
+    },
+    {
+     "name": "Domantas Sabonis",
+     "starter": true,
+     "min": 37,
+     "pts": 27,
+     "reb": 10,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -17
+    },
+    {
+     "name": "Darius Acuff Jr.",
+     "starter": true,
+     "min": 37,
+     "pts": 22,
+     "reb": 4,
+     "ast": 9,
+     "stl": 0,
+     "blk": 0,
+     "tov": 5,
+     "pm": -23
+    },
+    {
+     "name": "Emanuel Sharp",
+     "starter": true,
+     "min": 25,
+     "pts": 9,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": 11
+    },
+    {
+     "name": "Leaky Black",
+     "starter": false,
+     "min": 20,
+     "pts": 3,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -15
+    },
+    {
+     "name": "Precious Achiuwa",
+     "starter": false,
+     "min": 17,
+     "pts": 11,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 2,
+     "pm": -8
+    },
+    {
+     "name": "Malik Monk",
+     "starter": false,
+     "min": 13,
+     "pts": 5,
+     "reb": 0,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -6
+    },
+    {
+     "name": "Dylan Cardwell",
+     "starter": false,
+     "min": 9,
+     "pts": 0,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "tov": 2,
+     "pm": 8
+    },
+    {
+     "name": "Alex Karaban",
+     "starter": false,
+     "min": 2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -10
+    }
+   ],
+   "transition": {
+    "away": {
+     "fb": 12,
+     "stl": 6,
+     "to": 20,
+     "players": {
+      "domantas sabonis": [
+       37,
+       6
+      ],
+      "deandre hunter": [
+       39,
+       3
+      ],
+      "keegan murray": [
+       42,
+       2
+      ],
+      "emanuel sharp": [
+       25,
+       3
+      ],
+      "darius acuff": [
+       37,
+       9
+      ],
+      "leaky black": [
+       20,
+       2
+      ],
+      "precious achiuwa": [
+       17,
+       2
+      ],
+      "alex karaban": [
+       2,
+       0
+      ],
+      "dylan cardwell": [
+       9,
+       0
+      ],
+      "malik monk": [
+       13,
+       4
+      ]
+     }
+    },
+    "home": {
+     "fb": 9,
+     "stl": 9,
+     "to": 15,
+     "players": {
+      "draymond green": [
+       26,
+       11
+      ],
+      "yaxel lendeborg": [
+       31,
+       2
+      ],
+      "charles bassey": [
+       22,
+       1
+      ],
+      "deanthony melton": [
+       27,
+       7
+      ],
+      "brandin podziemski": [
+       32,
+       6
+      ],
+      "georges niang": [
+       19,
+       2
+      ],
+      "gui santos": [
+       24,
+       1
+      ],
+      "al horford": [
+       13,
+       2
+      ],
+      "gary payton": [
+       17,
+       1
+      ],
+      "brandon williams": [
+       13,
+       3
+      ],
+      "will richard": [
+       17,
+       1
+      ]
+     }
+    }
+   }
+  },
+  "leaders": {
+   "home": {
+    "name": "De'Anthony Melton",
+    "pts": 24,
+    "reb": 4,
+    "ast": 7
+   },
+   "away": {
+    "name": "Domantas Sabonis",
+    "pts": 27,
+    "reb": 10,
+    "ast": 6
+   }
+  }
  },
  {
   "date": "2026-11-25",
