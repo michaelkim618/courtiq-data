@@ -2086,5 +2086,13 @@
   "home": "ORL",
   "conf": 61.6,
   "correct": true
+ },
+ {
+  "date": "2026-11-25",
+  "season": "2026-2027",
+  "away": "MIA",
+  "home": "PHI",
+  "conf": 51.6,
+  "correct": false
  }
 ]

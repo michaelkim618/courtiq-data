@@ -38949,7 +38949,7 @@
    },
    "home": "NYK",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-25T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-25T19:30-05:00",
    "tip_known": true,
@@ -39525,6 +39525,13 @@
    "home": "PHI",
    "late": false,
    "locked_at": "2026-11-25T17:00-05:00",
+   "result": {
+    "score": {
+     "away": 104,
+     "home": 111
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-25T17:00-05:00",
    "tip_known": true,
@@ -39807,7 +39814,7 @@
    },
    "home": "OKC",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-25T19:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-25T19:30-05:00",
    "tip_known": true,
