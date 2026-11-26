@@ -38942,6 +38942,11 @@
   "2026-11-25_CLE@NYK": {
    "away": "CLE",
    "date": "2026-11-25",
+   "final_check": {
+    "at": "2026-11-25T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-25T19:15-05:00"
+   },
    "home": "NYK",
    "late": false,
    "locked_at": null,
@@ -39795,6 +39800,11 @@
   "2026-11-25_MIN@OKC": {
    "away": "MIN",
    "date": "2026-11-25",
+   "final_check": {
+    "at": "2026-11-25T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-25T19:15-05:00"
+   },
    "home": "OKC",
    "late": false,
    "locked_at": null,
