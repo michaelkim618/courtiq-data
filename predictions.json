@@ -6255,18 +6255,18 @@
    "streak": 3
   },
   "win_prob": {
-   "home": 47.4,
-   "away": 52.6
+   "home": 51.9,
+   "away": 48.1
   },
   "win_prob_band": {
-   "low": 47.4,
-   "high": 55.3,
-   "gtd_count": 2
+   "low": 51.9,
+   "high": 51.9,
+   "gtd_count": 0
   },
-  "expected_margin": -0.93,
+  "expected_margin": 0.66,
   "expected_score": {
-   "home": 112.5,
-   "away": 113.4
+   "home": 113.3,
+   "away": 112.6
   },
   "margin_breakdown": [
    {
@@ -6291,8 +6291,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.24,
-    "detail": "Portland Trail Blazers 4 out (77 min) costs 0.9 pts, San Antonio Spurs 2 out (58 min) costs 2.1 pts · Shaedon Sharpe outside recent rotation: -1.48 pts scoring adjustment · Tobias Harris outside recent rotation: -0.29 pts scoring adjustment · Jayden Quaintance out all season, already baked into team rating"
+    "points": 2.83,
+    "detail": "Portland Trail Blazers 4 out (77 min) costs 0.9 pts, San Antonio Spurs 3 out (86 min) costs 3.7 pts · Shaedon Sharpe outside recent rotation: -1.48 pts scoring adjustment · Tobias Harris outside recent rotation: -0.29 pts scoring adjustment · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -6374,6 +6374,15 @@
      "ppg": 14.1
     },
     {
+     "player": "De'Aaron Fox",
+     "mpg": 28.2,
+     "nth_out": 1,
+     "value": 0.3,
+     "cost": -0.06,
+     "no_minutes": false,
+     "ppg": 12.8
+    },
+    {
      "player": "Jayden Quaintance",
      "mpg": 0.0,
      "nth_out": 1,
@@ -6385,22 +6394,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Victor Wembanyama",
-     "mpg": 28.1,
-     "value": 13.1,
-     "status": "Questionable",
-     "ppg": 25.6
-    },
-    {
-     "player": "De'Aaron Fox",
-     "mpg": 28.2,
-     "value": 0.3,
-     "status": "Questionable",
-     "ppg": 12.8
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -6555,19 +6549,6 @@
      "apg": 6.2
     },
     {
-     "player": "De'Aaron Fox",
-     "player_id": 1628368,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 29.0,
-     "ppg": 12.4,
-     "rpg": 3.9,
-     "apg": 5.8
-    },
-    {
      "player": "Julian Champagnie",
      "player_id": 1630577,
      "position": "F",
@@ -6584,7 +6565,7 @@
      "player": "Keldon Johnson",
      "player_id": 1629640,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 18,
      "starts": 0,
      "start_rate": 0,
@@ -6618,46 +6599,58 @@
      "ppg": 4.1,
      "rpg": 4.2,
      "apg": 1.2
+    },
+    {
+     "player": "Carter Bryant",
+     "player_id": 1642868,
+     "position": "F",
+     "starter": false,
+     "games": 17,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 11.2,
+     "ppg": 3.5,
+     "rpg": 1.1,
+     "apg": 0.6
     }
    ]
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "San Antonio Spurs",
+  "model_winner": "Portland Trail Blazers",
   "model_correct": null,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-24",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -4.91,
+   "expected_margin": -4.85,
    "win_prob": {
-    "home": 36.7,
-    "away": 63.3
+    "home": 36.9,
+    "away": 63.1
    }
   },
   "transition_preview": {
-   "team": "POR",
-   "opponent": "SAS",
+   "team": "SAS",
+   "opponent": "POR",
    "games": [
-    17,
-    18
+    18,
+    17
    ],
-   "scored": 11.2,
-   "allowed": 12.4,
+   "scored": 18.8,
+   "allowed": 12.8,
    "league": 14.3,
    "supported": false,
-   "steals": 7.2,
-   "stolen_from_opponent": 6.9,
-   "opponent_turnovers": 12.8,
+   "steals": 8.2,
+   "stolen_from_opponent": 8.6,
+   "opponent_turnovers": 16.3,
    "creator": {
-    "player": "Deni Avdija",
+    "player": "Stephon Castle",
     "guards": [
-     "Damian Lillard",
-     "Jrue Holiday"
+     "Devin Vassell"
     ],
-    "games": 15,
-    "minutes": 32.6,
-    "assists": 6.1
+    "games": 16,
+    "minutes": 29.9,
+    "assists": 6.3
    }
   },
   "tip_et": "2026-11-25T22:00-05:00",
@@ -6712,6 +6705,12 @@
     "pick": "SAS",
     "prob": 52.6,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-25T21:17-05:00",
+    "pick": "POR",
+    "prob": 51.9,
+    "reason": "De'Aaron Fox (SAS) now out; Victor Wembanyama (SAS) cleared to play; pick flipped to POR"
    }
   ]
  }

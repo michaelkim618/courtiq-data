@@ -40924,6 +40924,37 @@
       "away": 52.6,
       "home": 47.4
      }
+    },
+    {
+     "at": "2026-11-25T21:17-05:00",
+     "expected_margin": 0.66,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Dylan Harper",
+       "Tobias Harris",
+       "De'Aaron Fox",
+       "Jayden Quaintance"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "De'Aaron Fox (SAS) now out; Victor Wembanyama (SAS) cleared to play; pick flipped to POR",
+     "report": "2026-11-25T21:15-05:00",
+     "win_prob": {
+      "away": 48.1,
+      "home": 51.9
+     }
     }
    ]
   }
