@@ -40105,7 +40105,7 @@
    },
    "home": "HOU",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-25T20:30-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-25T20:30-05:00",
    "tip_known": true,
@@ -40614,6 +40614,36 @@
      "pick_code": "GSW",
      "reason": "Zach LaVine (SAC) now out",
      "report": "2026-11-25T17:30-05:00",
+     "win_prob": {
+      "away": 38.6,
+      "home": 61.4
+     }
+    },
+    {
+     "at": "2026-11-25T20:32-05:00",
+     "expected_margin": 4.11,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Zach LaVine",
+       "Maxime Raynaud",
+       "Ben Simmons"
+      ],
+      "home": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ]
+     },
+     "pick": "Golden State Warriors",
+     "pick_code": "GSW",
+     "reason": "Yaxel Lendeborg (GSW) cleared to play",
+     "report": "2026-11-25T20:30-05:00",
      "win_prob": {
       "away": 38.6,
       "home": 61.4

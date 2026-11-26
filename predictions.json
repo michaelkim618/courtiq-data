@@ -5697,9 +5697,9 @@
    "away": 38.6
   },
   "win_prob_band": {
-   "low": 58.2,
+   "low": 61.4,
    "high": 61.4,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": 4.11,
   "expected_score": {
@@ -5822,15 +5822,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Yaxel Lendeborg",
-     "mpg": 29.6,
-     "value": 5.6,
-     "status": "Questionable",
-     "ppg": 18.7
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -6155,6 +6147,12 @@
     "pick": "GSW",
     "prob": 61.4,
     "reason": "Zach LaVine (SAC) now out"
+   },
+   {
+    "at": "2026-11-25T20:32-05:00",
+    "pick": "GSW",
+    "prob": 61.4,
+    "reason": "Yaxel Lendeborg (GSW) cleared to play"
    }
   ]
  },
