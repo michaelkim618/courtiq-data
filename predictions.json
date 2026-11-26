@@ -5955,7 +5955,7 @@
  },
  {
   "date": "2026-11-25",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Phoenix Suns",
   "home": "Houston Rockets",
   "away_code": "PHX",
@@ -6130,229 +6130,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 18,
-    "away": 16
-   },
-   "home": [
-    {
-     "player": "Kevin Durant",
-     "player_id": 201142,
-     "position": "F",
-     "starter": true,
-     "games": 18,
-     "starts": 18,
-     "start_rate": 100,
-     "mpg": 33.5,
-     "ppg": 21.6,
-     "rpg": 5.4,
-     "apg": 3.8
-    },
-    {
-     "player": "Jabari Smith Jr.",
-     "player_id": 1631095,
-     "position": "F",
-     "starter": true,
-     "games": 18,
-     "starts": 18,
-     "start_rate": 100,
-     "mpg": 33.0,
-     "ppg": 15.5,
-     "rpg": 6.2,
-     "apg": 2.2
-    },
-    {
-     "player": "Alperen Sengun",
-     "player_id": 1630578,
-     "position": "C",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 32.9,
-     "ppg": 21.9,
-     "rpg": 9.2,
-     "apg": 7.0
-    },
-    {
-     "player": "Amen Thompson",
-     "player_id": 1641708,
-     "position": "G",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 32.4,
-     "ppg": 16.4,
-     "rpg": 6.8,
-     "apg": 3.2
-    },
-    {
-     "player": "Fred VanVleet",
-     "player_id": 1627832,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 30.1,
-     "ppg": 13.9,
-     "rpg": 2.9,
-     "apg": 5.6
-    },
-    {
-     "player": "Reed Sheppard",
-     "player_id": 1642263,
-     "position": "G",
-     "starter": false,
-     "games": 15,
-     "starts": 5,
-     "start_rate": 33,
-     "mpg": 20.1,
-     "ppg": 8.8,
-     "rpg": 1.8,
-     "apg": 2.7
-    },
-    {
-     "player": "Tari Eason",
-     "player_id": 1631106,
-     "position": "F",
-     "starter": false,
-     "games": 18,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.7,
-     "ppg": 10.3,
-     "rpg": 5.9,
-     "apg": 1.6
-    },
-    {
-     "player": "Marcus Smart",
-     "player_id": 203935,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.6,
-     "ppg": 7.2,
-     "rpg": 2.5,
-     "apg": 2.2
-    }
-   ],
-   "away": [
-    {
-     "player": "Devin Booker",
-     "player_id": 1626164,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 34.5,
-     "ppg": 24.4,
-     "rpg": 2.8,
-     "apg": 5.4
-    },
-    {
-     "player": "Miles Bridges",
-     "player_id": 1628970,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 29.4,
-     "ppg": 14.8,
-     "rpg": 7.3,
-     "apg": 3.3
-    },
-    {
-     "player": "Dillon Brooks",
-     "player_id": 1628415,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 29.1,
-     "ppg": 15.2,
-     "rpg": 3.7,
-     "apg": 2.6
-    },
-    {
-     "player": "Jalen Green",
-     "player_id": 1630224,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 27.4,
-     "ppg": 13.2,
-     "rpg": 3.6,
-     "apg": 3.0
-    },
-    {
-     "player": "Khaman Maluach",
-     "player_id": 1642863,
-     "position": "C",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 18.3,
-     "ppg": 7.7,
-     "rpg": 5.6,
-     "apg": 1.0
-    },
-    {
-     "player": "Collin Gillespie",
-     "player_id": 1631221,
-     "position": "G",
-     "starter": false,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 24.9,
-     "ppg": 10.2,
-     "rpg": 2.6,
-     "apg": 3.8
-    },
-    {
-     "player": "Oso Ighodaro",
-     "player_id": 1642345,
-     "position": "F",
-     "starter": false,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.4,
-     "ppg": 5.9,
-     "rpg": 5.4,
-     "apg": 3.1
-    },
-    {
-     "player": "Jordan Goodwin",
-     "player_id": 1630692,
-     "position": "G",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 20.5,
-     "ppg": 8.4,
-     "rpg": 4.5,
-     "apg": 2.8
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 116,
+   "away": 104
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Houston Rockets",
   "model_winner": "Houston Rockets",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-24",
   "team_model": {
@@ -6441,7 +6226,363 @@
     "prob": 75.2,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Amen Thompson",
+     "starter": true,
+     "min": 36,
+     "pts": 18,
+     "reb": 10,
+     "ast": 4,
+     "stl": 0,
+     "blk": 2,
+     "tov": 1,
+     "pm": 14
+    },
+    {
+     "name": "Fred VanVleet",
+     "starter": true,
+     "min": 34,
+     "pts": 13,
+     "reb": 3,
+     "ast": 6,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 24
+    },
+    {
+     "name": "Kevin Durant",
+     "starter": true,
+     "min": 33,
+     "pts": 20,
+     "reb": 10,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 24
+    },
+    {
+     "name": "Alperen Sengun",
+     "starter": true,
+     "min": 32,
+     "pts": 23,
+     "reb": 11,
+     "ast": 11,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": 11
+    },
+    {
+     "name": "Jabari Smith Jr.",
+     "starter": true,
+     "min": 32,
+     "pts": 13,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 2,
+     "tov": 1,
+     "pm": 11
+    },
+    {
+     "name": "Marcus Smart",
+     "starter": false,
+     "min": 18,
+     "pts": 4,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Steven Adams",
+     "starter": false,
+     "min": 16,
+     "pts": 6,
+     "reb": 7,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "tov": 0,
+     "pm": 1
+    },
+    {
+     "name": "Tari Eason",
+     "starter": false,
+     "min": 15,
+     "pts": 7,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -8
+    },
+    {
+     "name": "Reed Sheppard",
+     "starter": false,
+     "min": 15,
+     "pts": 7,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -12
+    },
+    {
+     "name": "Bogdan Bogdanovic",
+     "starter": false,
+     "min": 10,
+     "pts": 5,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -4
+    }
+   ],
+   "away": [
+    {
+     "name": "Devin Booker",
+     "starter": true,
+     "min": 36,
+     "pts": 25,
+     "reb": 0,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "tov": 3,
+     "pm": -14
+    },
+    {
+     "name": "Jalen Green",
+     "starter": true,
+     "min": 35,
+     "pts": 16,
+     "reb": 4,
+     "ast": 5,
+     "stl": 1,
+     "blk": 1,
+     "tov": 1,
+     "pm": -16
+    },
+    {
+     "name": "Dillon Brooks",
+     "starter": true,
+     "min": 31,
+     "pts": 12,
+     "reb": 6,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -16
+    },
+    {
+     "name": "Khaman Maluach",
+     "starter": false,
+     "min": 25,
+     "pts": 12,
+     "reb": 6,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "tov": 3,
+     "pm": 2
+    },
+    {
+     "name": "Miles Bridges",
+     "starter": true,
+     "min": 25,
+     "pts": 2,
+     "reb": 8,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -20
+    },
+    {
+     "name": "Collin Gillespie",
+     "starter": false,
+     "min": 22,
+     "pts": 5,
+     "reb": 4,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 0,
+     "pm": 3
+    },
+    {
+     "name": "Oso Ighodaro",
+     "starter": true,
+     "min": 20,
+     "pts": 13,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Luke Kennard",
+     "starter": false,
+     "min": 19,
+     "pts": 8,
+     "reb": 1,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Jordan Goodwin",
+     "starter": false,
+     "min": 17,
+     "pts": 11,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 5
+    },
+    {
+     "name": "Ryan Dunn",
+     "starter": false,
+     "min": 10,
+     "pts": 0,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 7
+    }
+   ],
+   "transition": {
+    "away": {
+     "fb": 21,
+     "stl": 8,
+     "to": 12,
+     "players": {
+      "dillon brooks": [
+       31,
+       4
+      ],
+      "miles bridges": [
+       25,
+       4
+      ],
+      "oso ighodaro": [
+       20,
+       2
+      ],
+      "devin booker": [
+       36,
+       5
+      ],
+      "jalen green": [
+       35,
+       5
+      ],
+      "ryan dunn": [
+       10,
+       1
+      ],
+      "khaman maluach": [
+       25,
+       0
+      ],
+      "luke kennard": [
+       19,
+       2
+      ],
+      "jordan goodwin": [
+       17,
+       0
+      ],
+      "collin gillespie": [
+       22,
+       2
+      ]
+     }
+    },
+    "home": {
+     "fb": 8,
+     "stl": 6,
+     "to": 13,
+     "players": {
+      "kevin durant": [
+       33,
+       2
+      ],
+      "jabari smith": [
+       32,
+       1
+      ],
+      "alperen sengun": [
+       32,
+       11
+      ],
+      "fred vanvleet": [
+       34,
+       6
+      ],
+      "amen thompson": [
+       36,
+       4
+      ],
+      "tari eason": [
+       15,
+       0
+      ],
+      "steven adams": [
+       16,
+       1
+      ],
+      "marcus smart": [
+       18,
+       3
+      ],
+      "bogdan bogdanovic": [
+       10,
+       1
+      ],
+      "reed sheppard": [
+       15,
+       1
+      ]
+     }
+    }
+   }
+  },
+  "leaders": {
+   "home": {
+    "name": "Alperen Sengun",
+    "pts": 23,
+    "reb": 11,
+    "ast": 11
+   },
+   "away": {
+    "name": "Devin Booker",
+    "pts": 25,
+    "reb": 0,
+    "ast": 5
+   }
+  }
  },
  {
   "date": "2026-11-25",
