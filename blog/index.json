@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-27-the-numbers-going-into-2026-11-27",
+      "title": "The Numbers Going Into 2026-11-27",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-11-27",
+      "type": "daily",
+      "tag": "Data",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "No narrative, just the model's current read on the slate — win probabilities and projected margins.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-26-timberwolves-and-grizzlies-meet-friday-in-nba-cup-group-stag",
       "title": "Timberwolves and Grizzlies meet Friday in NBA Cup group stage",
       "author": "Hana",
