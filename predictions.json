@@ -98,29 +98,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 67.6,
-   "away": 32.4
+   "home": 62.9,
+   "away": 37.1
   },
   "win_prob_band": {
-   "low": 64.5,
-   "high": 74.0,
+   "low": 59.6,
+   "high": 69.9,
    "gtd_count": 2
   },
-  "expected_margin": 6.62,
+  "expected_margin": 4.67,
   "expected_score": {
-   "home": 116.6,
-   "away": 110.0
+   "home": 115.7,
+   "away": 111.0
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 4.7,
-    "detail": "New York Knicks +5.4 vs Miami Heat +0.6, proj. 99.3 possessions"
+    "label": "Player Ratings",
+    "points": 2.19,
+    "detail": "New York Knicks vs Miami Heat: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 1.35,
+    "detail": "New York Knicks +6.6 vs Miami Heat +0.9 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -129,8 +134,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.37,
-    "detail": "New York Knicks 4 out (72 min) costing 0.4 pts"
+    "points": -0.13,
+    "detail": "New York Knicks 4 out (72 min) costs 0.1 pts"
    }
   ],
   "ratings": {
@@ -437,8 +442,16 @@
   "actual_winner": null,
   "model_winner": "New York Knicks",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 6.62,
+   "win_prob": {
+    "home": 67.6,
+    "away": 32.4
+   }
+  },
   "transition_preview": {
    "team": "MIA",
    "opponent": "NYK",
@@ -498,6 +511,12 @@
     "pick": "NYK",
     "prob": 67.6,
     "reason": "Jordan Clarkson (NYK) now out; Miles McBride (NYK) now out; OG Anunoby (NYK) now out"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "NYK",
+    "prob": 62.9,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -600,29 +619,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 79.9,
-   "away": 20.1
+   "home": 84.0,
+   "away": 16.0
   },
   "win_prob_band": {
-   "low": 79.9,
-   "high": 79.9,
+   "low": 84.0,
+   "high": 84.0,
    "gtd_count": 0
   },
-  "expected_margin": 12.17,
+  "expected_margin": 14.07,
   "expected_score": {
-   "home": 118.0,
-   "away": 105.9
+   "home": 119.0,
+   "away": 104.9
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 13.87,
-    "detail": "Detroit Pistons +5.2 vs Milwaukee Bucks -8.9, proj. 99.0 possessions"
+    "label": "Player Ratings",
+    "points": 11.38,
+    "detail": "Detroit Pistons vs Milwaukee Bucks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 4.01,
+    "detail": "Detroit Pistons +5.6 vs Milwaukee Bucks -11.2 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -631,8 +655,8 @@
    },
    {
     "label": "Absences",
-    "points": -4.0,
-    "detail": "Detroit Pistons 5 out (105 min) costing 4.2 pts, Milwaukee Bucks 1 out (18 min) costing 0.2 pts"
+    "points": -2.58,
+    "detail": "Detroit Pistons 5 out (105 min) costs 2.3 pts, Milwaukee Bucks 1 out (18 min) adds 0.3 pts (the player model rates a team better when a low-rated player sits) · Detroit Pistons Tier 1 scoring adjustment: -1.21 pts"
    }
   ],
   "ratings": {
@@ -942,8 +966,16 @@
   "actual_winner": null,
   "model_winner": "Detroit Pistons",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 12.17,
+   "win_prob": {
+    "home": 79.9,
+    "away": 20.1
+   }
+  },
   "transition_preview": {
    "team": "MIL",
    "opponent": "DET",
@@ -997,6 +1029,12 @@
     "pick": "DET",
     "prob": 79.9,
     "reason": "Kasparas Jakucionis (MIL) now out"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "DET",
+    "prob": 84.0,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -1099,29 +1137,34 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 41.9,
-   "away": 58.1
+   "home": 35.0,
+   "away": 65.0
   },
   "win_prob_band": {
-   "low": 41.3,
-   "high": 45.1,
+   "low": 34.5,
+   "high": 38.2,
    "gtd_count": 3
   },
-  "expected_margin": -2.98,
+  "expected_margin": -5.44,
   "expected_score": {
-   "home": 112.8,
-   "away": 115.8
+   "home": 111.6,
+   "away": 117.0
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": -5.26,
-    "detail": "Indiana Pacers -3.6 vs Philadelphia 76ers +1.6, proj. 100.4 possessions"
+    "label": "Player Ratings",
+    "points": -3.25,
+    "detail": "Indiana Pacers vs Philadelphia 76ers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": -1.35,
+    "detail": "Indiana Pacers -3.4 vs Philadelphia 76ers +2.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -1130,8 +1173,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.02,
-    "detail": "Indiana Pacers 3 out (65 min) costing 1.6 pts, Philadelphia 76ers 2 out (42 min) costing 1.6 pts"
+    "points": -2.1,
+    "detail": "Indiana Pacers 3 out (65 min) costs 1.6 pts, Philadelphia 76ers 2 out (42 min) adds 0.5 pts (the player model rates a team better when a low-rated player sits) · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -1455,8 +1498,16 @@
   "actual_winner": null,
   "model_winner": "Philadelphia 76ers",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": -2.98,
+   "win_prob": {
+    "home": 41.9,
+    "away": 58.1
+   }
+  },
   "transition_preview": {
    "team": "IND",
    "opponent": "PHI",
@@ -1510,6 +1561,12 @@
     "pick": "PHI",
     "prob": 58.1,
     "reason": "Dean Wade (PHI) now questionable"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "PHI",
+    "prob": 65.0,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -1612,29 +1669,34 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 67.7,
-   "away": 32.3
+   "home": 55.2,
+   "away": 44.8
   },
   "win_prob_band": {
-   "low": 67.7,
-   "high": 67.7,
+   "low": 55.2,
+   "high": 55.2,
    "gtd_count": 0
   },
-  "expected_margin": 6.64,
+  "expected_margin": 1.86,
   "expected_score": {
-   "home": 115.4,
-   "away": 108.8
+   "home": 113.0,
+   "away": 111.2
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 7.17,
-    "detail": "Toronto Raptors +0.8 vs Brooklyn Nets -6.5, proj. 98.6 possessions"
+    "label": "Player Ratings",
+    "points": 3.96,
+    "detail": "Toronto Raptors vs Brooklyn Nets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 1.91,
+    "detail": "Toronto Raptors -0.1 vs Brooklyn Nets -8.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -1643,8 +1705,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.82,
-    "detail": "Toronto Raptors 2 out (62 min) costing 4.0 pts, Brooklyn Nets 2 out (39 min) costing 1.2 pts"
+    "points": -5.27,
+    "detail": "Toronto Raptors 2 out (62 min) costs 3.3 pts, Brooklyn Nets 2 out (39 min) adds 2.0 pts (the player model rates a team better when a low-rated player sits) · Kawhi Leonard outside recent rotation: -2.72 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -1936,8 +1998,16 @@
   "actual_winner": null,
   "model_winner": "Toronto Raptors",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 6.64,
+   "win_prob": {
+    "home": 67.7,
+    "away": 32.3
+   }
+  },
   "transition_preview": {
    "team": "BKN",
    "opponent": "TOR",
@@ -1985,6 +2055,12 @@
     "pick": "TOR",
     "prob": 67.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "TOR",
+    "prob": 55.2,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -2087,29 +2163,34 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 72.5,
-   "away": 27.5
+   "home": 73.0,
+   "away": 27.0
   },
   "win_prob_band": {
-   "low": 72.5,
-   "high": 72.5,
+   "low": 73.0,
+   "high": 73.0,
    "gtd_count": 0
   },
-  "expected_margin": 8.66,
+  "expected_margin": 8.64,
   "expected_score": {
    "home": 115.9,
    "away": 107.2
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 5.57,
-    "detail": "Boston Celtics +8.0 vs Atlanta Hawks +2.4, proj. 99.6 possessions"
+    "label": "Player Ratings",
+    "points": 5.7,
+    "detail": "Boston Celtics vs Atlanta Hawks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 1.51,
+    "detail": "Boston Celtics +9.4 vs Atlanta Hawks +3.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -2118,8 +2199,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.8,
-    "detail": "Boston Celtics 1 out (17 min), Atlanta Hawks 4 out (70 min) costing 0.8 pts · Henri Veesaar out all season, already baked into team rating"
+    "points": 0.17,
+    "detail": "Boston Celtics 1 out (17 min) adds 0.8 pts, Atlanta Hawks 4 out (70 min) adds 0.6 pts (the player model rates a team better when a low-rated player sits) · Henri Veesaar out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -2428,8 +2509,16 @@
   "actual_winner": null,
   "model_winner": "Boston Celtics",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 8.66,
+   "win_prob": {
+    "home": 72.5,
+    "away": 27.5
+   }
+  },
   "transition_preview": {
    "team": "ATL",
    "opponent": "BOS",
@@ -2483,6 +2572,12 @@
     "pick": "BOS",
     "prob": 72.5,
     "reason": "Mitchell Robinson (BOS) now out"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "BOS",
+    "prob": 73.0,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -2585,29 +2680,34 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 54.8,
-   "away": 45.2
+   "home": 44.9,
+   "away": 55.1
   },
   "win_prob_band": {
-   "low": 54.8,
-   "high": 54.8,
+   "low": 44.9,
+   "high": 44.9,
    "gtd_count": 1
   },
-  "expected_margin": 1.75,
+  "expected_margin": -1.81,
   "expected_score": {
-   "home": 114.5,
-   "away": 112.8
+   "home": 112.7,
+   "away": 114.6
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 1.62,
-    "detail": "Minnesota Timberwolves +7.9 vs Memphis Grizzlies +6.3, proj. 100.7 possessions"
+    "label": "Player Ratings",
+    "points": 3.43,
+    "detail": "Minnesota Timberwolves vs Memphis Grizzlies: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 0.25,
+    "detail": "Minnesota Timberwolves +10.4 vs Memphis Grizzlies +9.4 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -2616,8 +2716,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.17,
-    "detail": "Minnesota Timberwolves 4 out (97 min) costing 3.3 pts, Memphis Grizzlies 4 out (82 min) costing 1.1 pts · Richie Saunders out all season, already baked into team rating"
+    "points": -6.75,
+    "detail": "Minnesota Timberwolves 4 out (97 min) costs 4.3 pts, Memphis Grizzlies 4 out (82 min) adds 2.5 pts (the player model rates a team better when a low-rated player sits) · Anthony Edwards outside recent rotation: -2.49 pts scoring adjustment · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -2959,33 +3059,41 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Minnesota Timberwolves",
+  "model_winner": "Memphis Grizzlies",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 1.75,
+   "win_prob": {
+    "home": 54.8,
+    "away": 45.2
+   }
+  },
   "transition_preview": {
-   "team": "MEM",
-   "opponent": "MIN",
+   "team": "MIN",
+   "opponent": "MEM",
    "games": [
     19,
     19
    ],
-   "scored": 14.8,
-   "allowed": 13.8,
+   "scored": 17.1,
+   "allowed": 11.5,
    "league": 14.2,
    "supported": false,
-   "steals": 7.4,
-   "stolen_from_opponent": 8.1,
-   "opponent_turnovers": 16.2,
+   "steals": 8.8,
+   "stolen_from_opponent": 7.7,
+   "opponent_turnovers": 15.6,
    "creator": {
-    "player": "Cam Spencer",
+    "player": "Jaden McDaniels",
     "guards": [
-     "Ty Jerome",
-     "Cedric Coward"
+     "Ayo Dosunmu",
+     "Terrence Shannon Jr"
     ],
-    "games": 13,
-    "minutes": 20.8,
-    "assists": 4.5
+    "games": 16,
+    "minutes": 33.9,
+    "assists": 3.8
    }
   },
   "tip_et": "2026-11-27T20:30-05:00",
@@ -3016,6 +3124,12 @@
     "pick": "MIN",
     "prob": 54.8,
     "reason": "LaMelo Ball (MIN) now out"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "MEM",
+    "prob": 55.1,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -3118,29 +3232,34 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 51.6,
-   "away": 48.4
+   "home": 54.4,
+   "away": 45.6
   },
   "win_prob_band": {
-   "low": 51.6,
-   "high": 56.3,
+   "low": 54.4,
+   "high": 59.2,
    "gtd_count": 1
   },
-  "expected_margin": 0.59,
+  "expected_margin": 1.56,
   "expected_score": {
-   "home": 113.4,
-   "away": 112.9
+   "home": 113.9,
+   "away": 112.4
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 0.04,
-    "detail": "Phoenix Suns -0.4 vs Dallas Mavericks -0.5, proj. 99.6 possessions"
+    "label": "Player Ratings",
+    "points": 1.14,
+    "detail": "Phoenix Suns vs Dallas Mavericks: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": -0.55,
+    "detail": "Phoenix Suns -1.4 vs Dallas Mavericks +0.9 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -3149,13 +3268,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.13,
-    "detail": "Phoenix Suns 1 out (24 min) costing 0.2 pts, Dallas Mavericks 2 out (28 min) costing 0.1 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
-   },
-   {
-    "label": "Returning Players",
-    "points": -1.62,
-    "detail": "Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
+    "points": -0.29,
+    "detail": "Phoenix Suns 1 out (24 min), no change to the rotation, Dallas Mavericks 2 out (28 min) adds 0.3 pts (the player model rates a team better when a low-rated player sits) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3462,8 +3576,16 @@
   "actual_winner": null,
   "model_winner": "Phoenix Suns",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 0.59,
+   "win_prob": {
+    "home": 51.6,
+    "away": 48.4
+   }
+  },
   "transition_preview": {
    "team": "DAL",
    "opponent": "PHX",
@@ -3516,6 +3638,12 @@
     "pick": "PHX",
     "prob": 51.6,
     "reason": "Kyrie Irving (DAL) now questionable"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "PHX",
+    "prob": 54.4,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -3618,29 +3746,34 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 69.6,
-   "away": 30.4
+   "home": 62.9,
+   "away": 37.1
   },
   "win_prob_band": {
-   "low": 67.1,
-   "high": 69.6,
+   "low": 60.2,
+   "high": 62.9,
    "gtd_count": 2
   },
-  "expected_margin": 7.43,
+  "expected_margin": 4.67,
   "expected_score": {
-   "home": 117.1,
-   "away": 109.6
+   "home": 115.7,
+   "away": 111.0
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 4.64,
-    "detail": "San Antonio Spurs +9.5 vs Los Angeles Lakers +4.8, proj. 99.3 possessions"
+    "label": "Player Ratings",
+    "points": 2.59,
+    "detail": "San Antonio Spurs vs Los Angeles Lakers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 1.11,
+    "detail": "San Antonio Spurs +11.3 vs Los Angeles Lakers +6.7 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -3650,12 +3783,7 @@
    {
     "label": "Absences",
     "points": -0.29,
-    "detail": "San Antonio Spurs 1 out (29 min) costing 0.3 pts · Jayden Quaintance out all season, already baked into team rating"
-   },
-   {
-    "label": "Returning Players",
-    "points": 0.77,
-    "detail": "Walker Kessler (LAL) back after missing 2025-26, valued from 2024-25"
+    "detail": "San Antonio Spurs 1 out (29 min) costs 0.3 pts · Tobias Harris outside recent rotation: -0.29 pts scoring adjustment · Jayden Quaintance out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3942,8 +4070,16 @@
   "actual_winner": null,
   "model_winner": "San Antonio Spurs",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 7.43,
+   "win_prob": {
+    "home": 69.6,
+    "away": 30.4
+   }
+  },
   "transition_preview": {
    "team": "LAL",
    "opponent": "SAS",
@@ -3997,6 +4133,12 @@
     "pick": "SAS",
     "prob": 69.6,
     "reason": "Austin Reaves (LAL) cleared to play"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "SAS",
+    "prob": 62.9,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -4099,29 +4241,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 32.4,
-   "away": 67.6
+   "home": 21.0,
+   "away": 79.0
   },
   "win_prob_band": {
-   "low": 32.4,
-   "high": 32.4,
+   "low": 21.0,
+   "high": 21.0,
    "gtd_count": 2
   },
-  "expected_margin": -6.6,
+  "expected_margin": -11.39,
   "expected_score": {
-   "home": 111.2,
-   "away": 117.8
+   "home": 108.8,
+   "away": 120.2
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": -7.25,
-    "detail": "Utah Jazz -6.4 vs Denver Nuggets +0.9, proj. 99.8 possessions"
+    "label": "Player Ratings",
+    "points": -9.98,
+    "detail": "Utah Jazz vs Denver Nuggets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": -1.87,
+    "detail": "Utah Jazz -7.5 vs Denver Nuggets +0.4 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -4130,8 +4277,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.65,
-    "detail": "Utah Jazz 2 out (51 min) costing 1.6 pts"
+    "points": -0.8,
+    "detail": "Utah Jazz 2 out (51 min) costs 0.8 pts · Lauri Markkanen outside recent rotation: -0.80 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -4419,8 +4566,16 @@
   "actual_winner": null,
   "model_winner": "Denver Nuggets",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": -6.6,
+   "win_prob": {
+    "home": 32.4,
+    "away": 67.6
+   }
+  },
   "transition_preview": {
    "team": "UTA",
    "opponent": "DEN",
@@ -4468,6 +4623,12 @@
     "pick": "DEN",
     "prob": 67.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "DEN",
+    "prob": 79.0,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -4570,29 +4731,34 @@
    "streak": -4
   },
   "win_prob": {
-   "home": 59.1,
-   "away": 40.9
+   "home": 57.7,
+   "away": 42.3
   },
   "win_prob_band": {
-   "low": 59.1,
-   "high": 59.1,
+   "low": 57.7,
+   "high": 57.7,
    "gtd_count": 0
   },
-  "expected_margin": 3.34,
+  "expected_margin": 2.75,
   "expected_score": {
-   "home": 116.2,
-   "away": 112.9
+   "home": 115.9,
+   "away": 113.2
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 1.08,
-    "detail": "LA Clippers -5.2 vs New Orleans Pelicans -6.3, proj. 100.0 possessions"
+    "label": "Player Ratings",
+    "points": 1.87,
+    "detail": "LA Clippers vs New Orleans Pelicans: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 0.1,
+    "detail": "LA Clippers -7.5 vs New Orleans Pelicans -7.9 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -4601,8 +4767,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.03,
-    "detail": "LA Clippers 1 out (22 min) costing 0.0 pts, New Orleans Pelicans 1 out (30 min) · Bradley Beal out all season, already baked into team rating"
+    "points": -0.48,
+    "detail": "LA Clippers 1 out (22 min), no change to the rotation, New Orleans Pelicans 1 out (30 min) adds 0.5 pts (the player model rates a team better when a low-rated player sits) · Bradley Beal out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4884,8 +5050,16 @@
   "actual_winner": null,
   "model_winner": "LA Clippers",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 3.34,
+   "win_prob": {
+    "home": 59.1,
+    "away": 40.9
+   }
+  },
   "transition_preview": {
    "team": "NOP",
    "opponent": "LAC",
@@ -4932,6 +5106,12 @@
     "pick": "LAC",
     "prob": 59.1,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "LAC",
+    "prob": 57.7,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -5034,29 +5214,34 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 70.4,
-   "away": 29.6
+   "home": 69.5,
+   "away": 30.5
   },
   "win_prob_band": {
-   "low": 70.4,
-   "high": 70.4,
+   "low": 69.5,
+   "high": 69.5,
    "gtd_count": 0
   },
-  "expected_margin": 7.75,
+  "expected_margin": 7.21,
   "expected_score": {
-   "home": 117.0,
-   "away": 109.3
+   "home": 116.8,
+   "away": 109.6
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 3.7,
-    "detail": "Portland Trail Blazers +4.1 vs Golden State Warriors +0.4, proj. 99.9 possessions"
+    "label": "Player Ratings",
+    "points": 4.33,
+    "detail": "Portland Trail Blazers vs Golden State Warriors: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.26,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 1.57,
+    "detail": "Portland Trail Blazers +6.6 vs Golden State Warriors +0.1 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -5065,8 +5250,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.75,
-    "detail": "Portland Trail Blazers 5 out (105 min) costing 3.7 pts, Golden State Warriors 4 out (104 min) costing 5.5 pts"
+    "points": 0.05,
+    "detail": "Portland Trail Blazers 5 out (105 min) costs 4.2 pts, Golden State Warriors 4 out (104 min) costs 4.2 pts · Shaedon Sharpe outside recent rotation: -1.48 pts scoring adjustment · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -5403,8 +5588,16 @@
   "actual_winner": null,
   "model_winner": "Portland Trail Blazers",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 7.75,
+   "win_prob": {
+    "home": 70.4,
+    "away": 29.6
+   }
+  },
   "transition_preview": {
    "team": "GSW",
    "opponent": "POR",
@@ -5458,6 +5651,12 @@
     "pick": "POR",
     "prob": 70.4,
     "reason": "Damian Lillard (POR) now out"
+   },
+   {
+    "at": "2026-11-27T15:02-05:00",
+    "pick": "POR",
+    "prob": 69.5,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  }
