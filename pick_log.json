@@ -42255,6 +42255,34 @@
       "away": 37.1,
       "home": 62.9
      }
+    },
+    {
+     "at": "2026-11-27T17:32-05:00",
+     "expected_margin": 4.67,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Karl-Anthony Towns"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [],
+      "home": [
+       "OG Anunoby",
+       "Jordan Clarkson",
+       "Miles McBride",
+       "Andre Drummond"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Giannis Antetokounmpo (MIA) cleared to play",
+     "report": "2026-11-27T17:30-05:00",
+     "win_prob": {
+      "away": 37.1,
+      "home": 62.9
+     }
     }
    ]
   },
