@@ -1135,18 +1135,18 @@
    "streak": 1
   },
   "win_prob": {
-   "home": 35.0,
-   "away": 65.0
+   "home": 36.5,
+   "away": 63.5
   },
   "win_prob_band": {
-   "low": 34.5,
-   "high": 38.2,
-   "gtd_count": 3
+   "low": 36.5,
+   "high": 39.7,
+   "gtd_count": 2
   },
-  "expected_margin": -5.44,
+  "expected_margin": -4.87,
   "expected_score": {
-   "home": 111.6,
-   "away": 117.0
+   "home": 111.8,
+   "away": 116.7
   },
   "margin_breakdown": [
    {
@@ -1171,8 +1171,8 @@
    },
    {
     "label": "Absences",
-    "points": -2.1,
-    "detail": "Indiana Pacers 3 out (65 min) costs 1.6 pts, Philadelphia 76ers 2 out (42 min) adds 0.5 pts (the player model rates a team better when a low-rated player sits) · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment"
+    "points": -1.53,
+    "detail": "Indiana Pacers 4 out (79 min) costs 1.0 pts, Philadelphia 76ers 2 out (42 min) adds 0.5 pts (the player model rates a team better when a low-rated player sits) · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -1205,6 +1205,15 @@
      "cost": -1.59,
      "no_minutes": false,
      "ppg": 18.8
+    },
+    {
+     "player": "T.J. McConnell",
+     "mpg": 14.2,
+     "nth_out": 1,
+     "value": 1.5,
+     "cost": -0.32,
+     "no_minutes": false,
+     "ppg": 7.8
     },
     {
      "player": "Ben Sheppard",
@@ -1247,15 +1256,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Kelly Oubre Jr.",
-     "mpg": 22.8,
-     "value": 1.0,
-     "status": "Questionable",
-     "ppg": 11.1
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Joel Embiid",
@@ -1500,10 +1501,10 @@
   "data_through": "2026-11-25",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": -2.98,
+   "expected_margin": -3.3,
    "win_prob": {
-    "home": 41.9,
-    "away": 58.1
+    "home": 41.0,
+    "away": 59.0
    }
   },
   "transition_preview": {
@@ -1565,6 +1566,12 @@
     "pick": "PHI",
     "prob": 65.0,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-27T18:02-05:00",
+    "pick": "PHI",
+    "prob": 63.5,
+    "reason": "T.J. McConnell (IND) now out; Kelly Oubre Jr. (IND) cleared to play"
    }
   ]
  },

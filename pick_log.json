@@ -42724,6 +42724,38 @@
       "away": 65.0,
       "home": 35.0
      }
+    },
+    {
+     "at": "2026-11-27T18:02-05:00",
+     "expected_margin": -4.87,
+     "gtd": {
+      "away": [
+       "Joel Embiid",
+       "Dean Wade"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "T.J. McConnell (IND) now out; Kelly Oubre Jr. (IND) cleared to play",
+     "report": "2026-11-27T18:00-05:00",
+     "win_prob": {
+      "away": 63.5,
+      "home": 36.5
+     }
     }
    ]
   }
