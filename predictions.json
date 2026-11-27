@@ -3123,8 +3123,8 @@
   },
   "win_prob_band": {
    "low": 51.6,
-   "high": 51.6,
-   "gtd_count": 0
+   "high": 56.3,
+   "gtd_count": 1
   },
   "expected_margin": 0.59,
   "expected_score": {
@@ -3229,7 +3229,15 @@
   },
   "gtd": {
    "home": [],
-   "away": []
+   "away": [
+    {
+     "player": "Kyrie Irving",
+     "mpg": 29.7,
+     "value": 8.2,
+     "status": "Questionable",
+     "ppg": 21.4
+    }
+   ]
   },
   "lineups": {
    "season": "2026-27",
@@ -3473,12 +3481,11 @@
    "creator": {
     "player": "Cooper Flagg",
     "guards": [
-     "Kyrie Irving",
      "Max Christie"
     ],
-    "games": 13,
-    "minutes": 32.4,
-    "assists": 7.2
+    "games": 14,
+    "minutes": 32.9,
+    "assists": 7.1
    }
   },
   "tip_et": "2026-11-27T21:00-05:00",
@@ -3503,6 +3510,12 @@
     "pick": "PHX",
     "prob": 51.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Kyrie Irving (DAL) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-11-27T14:03-05:00",
+    "pick": "PHX",
+    "prob": 51.6,
+    "reason": "Kyrie Irving (DAL) now questionable"
    }
   ]
  },

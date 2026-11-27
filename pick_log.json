@@ -41332,6 +41332,36 @@
       "away": 48.4,
       "home": 51.6
      }
+    },
+    {
+     "at": "2026-11-27T14:03-05:00",
+     "expected_margin": 0.59,
+     "gtd": {
+      "away": [
+       "Kyrie Irving"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tobi Lawal",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Mark Williams"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Kyrie Irving (DAL) now questionable",
+     "report": "2026-11-27T14:00-05:00",
+     "win_prob": {
+      "away": 48.4,
+      "home": 51.6
+     }
     }
    ]
   },
