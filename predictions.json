@@ -2064,7 +2064,7 @@
    {
     "label": "Absences",
     "points": 0.8,
-    "detail": "Atlanta Hawks 4 out (70 min) costing 0.8 pts · Henri Veesaar out all season, already baked into team rating"
+    "detail": "Boston Celtics 1 out (17 min), Atlanta Hawks 4 out (70 min) costing 0.8 pts · Henri Veesaar out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -2088,7 +2088,17 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Mitchell Robinson",
+     "mpg": 17.4,
+     "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 5.6
+    }
+   ],
    "away": [
     {
      "player": "CJ McCollum",
@@ -2187,19 +2197,6 @@
      "apg": 5.0
     },
     {
-     "player": "Mitchell Robinson",
-     "player_id": 1629011,
-     "position": "C",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 17.5,
-     "ppg": 5.1,
-     "rpg": 5.4,
-     "apg": 0.9
-    },
-    {
      "player": "Jordan Walsh",
      "player_id": 1641775,
      "position": "G",
@@ -2216,7 +2213,7 @@
      "player": "Payton Pritchard",
      "player_id": 1630202,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 18,
      "starts": 0,
      "start_rate": 0,
@@ -2250,6 +2247,19 @@
      "ppg": 8.2,
      "rpg": 3.2,
      "apg": 1.2
+    },
+    {
+     "player": "Baylor Scheierman",
+     "player_id": 1631248,
+     "position": "G",
+     "starter": false,
+     "games": 18,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 19.0,
+     "ppg": 5.6,
+     "rpg": 3.7,
+     "apg": 1.4
     }
    ],
    "away": [
@@ -2412,6 +2422,12 @@
     "pick": "BOS",
     "prob": 72.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T12:33-05:00",
+    "pick": "BOS",
+    "prob": 72.5,
+    "reason": "Mitchell Robinson (BOS) now out"
    }
   ]
  },
