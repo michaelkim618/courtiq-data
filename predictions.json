@@ -102,7 +102,7 @@
    "away": 31.5
   },
   "win_prob_band": {
-   "low": 67.9,
+   "low": 64.7,
    "high": 74.8,
    "gtd_count": 3
   },
@@ -170,6 +170,13 @@
   "gtd": {
    "home": [
     {
+     "player": "Karl-Anthony Towns",
+     "mpg": 30.2,
+     "value": 5.9,
+     "status": "Questionable",
+     "ppg": 19.3
+    },
+    {
      "player": "OG Anunoby",
      "mpg": 31.0,
      "value": 1.3,
@@ -184,13 +191,6 @@
      "value": 12.8,
      "status": "Probable",
      "ppg": 26.1
-    },
-    {
-     "player": "Andrew Wiggins",
-     "mpg": 24.3,
-     "value": 0.0,
-     "status": "Probable",
-     "ppg": 10.2
     }
    ]
   },
@@ -466,6 +466,12 @@
     "pick": "NYK",
     "prob": 68.5,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T11:33-05:00",
+    "pick": "NYK",
+    "prob": 68.5,
+    "reason": "Andrew Wiggins (MIA) cleared to play; Karl-Anthony Towns (NYK) now questionable"
    }
   ]
  },

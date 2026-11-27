@@ -41809,6 +41809,34 @@
       "away": 31.5,
       "home": 68.5
      }
+    },
+    {
+     "at": "2026-11-27T11:33-05:00",
+     "expected_margin": 7.0,
+     "gtd": {
+      "away": [
+       "Giannis Antetokounmpo"
+      ],
+      "home": [
+       "Karl-Anthony Towns",
+       "OG Anunoby"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [],
+      "home": [
+       "Andre Drummond"
+      ]
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Andrew Wiggins (MIA) cleared to play; Karl-Anthony Towns (NYK) now questionable",
+     "report": "2026-11-27T11:30-05:00",
+     "win_prob": {
+      "away": 31.5,
+      "home": 68.5
+     }
     }
    ]
   },
