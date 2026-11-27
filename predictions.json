@@ -5016,18 +5016,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 73.2,
-   "away": 26.8
+   "home": 70.4,
+   "away": 29.6
   },
   "win_prob_band": {
-   "low": 73.2,
-   "high": 73.2,
+   "low": 70.4,
+   "high": 70.4,
    "gtd_count": 0
   },
-  "expected_margin": 8.96,
+  "expected_margin": 7.75,
   "expected_score": {
-   "home": 117.7,
-   "away": 108.7
+   "home": 117.0,
+   "away": 109.3
   },
   "margin_breakdown": [
    {
@@ -5047,13 +5047,8 @@
    },
    {
     "label": "Absences",
-    "points": 3.26,
-    "detail": "Portland Trail Blazers 4 out (77 min) costing 2.2 pts, Golden State Warriors 4 out (104 min) costing 5.5 pts"
-   },
-   {
-    "label": "Returning Players",
-    "points": -0.3,
-    "detail": "Damian Lillard (POR) back after missing 2025-26, valued from 2024-25"
+    "points": 1.75,
+    "detail": "Portland Trail Blazers 5 out (105 min) costing 3.7 pts, Golden State Warriors 4 out (104 min) costing 5.5 pts"
    }
   ],
   "ratings": {
@@ -5078,6 +5073,15 @@
   },
   "absences": {
    "home": [
+    {
+     "player": "Damian Lillard",
+     "mpg": 28.7,
+     "nth_out": 1,
+     "value": 7.2,
+     "cost": -1.51,
+     "no_minutes": false,
+     "ppg": 19.9
+    },
     {
      "player": "Shaedon Sharpe",
      "mpg": 27.8,
@@ -5192,19 +5196,6 @@
      "apg": 1.5
     },
     {
-     "player": "Damian Lillard",
-     "player_id": 203081,
-     "position": "G",
-     "starter": true,
-     "games": 18,
-     "starts": 18,
-     "start_rate": 100,
-     "mpg": 30.0,
-     "ppg": 20.9,
-     "rpg": 3.2,
-     "apg": 4.2
-    },
-    {
      "player": "Donovan Clingan",
      "player_id": 1642270,
      "position": "C",
@@ -5234,7 +5225,7 @@
      "player": "Sidy Cissoko",
      "player_id": 1631321,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 18,
      "starts": 0,
      "start_rate": 0,
@@ -5268,6 +5259,19 @@
      "ppg": 6.1,
      "rpg": 6.1,
      "apg": 1.1
+    },
+    {
+     "player": "Jayson Kent",
+     "player_id": 1643257,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 12.0,
+     "ppg": 3.8,
+     "rpg": 1.4,
+     "apg": 0.4
     }
    ],
    "away": [
@@ -5430,6 +5434,12 @@
     "pick": "POR",
     "prob": 73.2,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Damian Lillard (POR) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-11-27T13:33-05:00",
+    "pick": "POR",
+    "prob": 70.4,
+    "reason": "Damian Lillard (POR) now out"
    }
   ]
  }

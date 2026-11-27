@@ -41530,6 +41530,38 @@
       "away": 26.8,
       "home": 73.2
      }
+    },
+    {
+     "at": "2026-11-27T13:33-05:00",
+     "expected_margin": 7.75,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Damian Lillard",
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Damian Lillard (POR) now out",
+     "report": "2026-11-27T13:30-05:00",
+     "win_prob": {
+      "away": 29.6,
+      "home": 70.4
+     }
     }
    ]
   },
