@@ -41060,6 +41060,33 @@
       "away": 27.5,
       "home": 72.5
      }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 7.79,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "CJ McCollum",
+       "Asa Newell",
+       "Jock Landale",
+       "Mouhamed Gueye",
+       "Henri Veesaar"
+      ],
+      "home": []
+     },
+     "pick": "Boston Celtics",
+     "pick_code": "BOS",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 29.1,
+      "home": 70.9
+     }
     }
    ]
   },
@@ -41098,6 +41125,33 @@
      "win_prob": {
       "away": 32.3,
       "home": 67.7
+     }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 1.85,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Nolan Traore",
+       "Moritz Wagner"
+      ],
+      "home": [
+       "Kawhi Leonard",
+       "RJ Barrett"
+      ]
+     },
+     "pick": "Toronto Raptors",
+     "pick_code": "TOR",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 44.8,
+      "home": 55.2
      }
     }
    ]
@@ -41139,6 +41193,34 @@
       "away": 48.4,
       "home": 51.6
      }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 1.56,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Tobi Lawal",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Mark Williams"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 45.6,
+      "home": 54.4
+     }
     }
    ]
   },
@@ -41177,6 +41259,33 @@
      "win_prob": {
       "away": 67.6,
       "home": 32.4
+     }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": -11.38,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jusuf Nurkic",
+       "Jaxson Hayes"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [],
+      "home": [
+       "Jaren Jackson Jr.",
+       "Lauri Markkanen"
+      ]
+     },
+     "pick": "Denver Nuggets",
+     "pick_code": "DEN",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 79.0,
+      "home": 21.0
      }
     }
    ]
@@ -41221,6 +41330,37 @@
       "away": 26.8,
       "home": 73.2
      }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 10.61,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 22.6,
+      "home": 77.4
+     }
     }
    ]
   },
@@ -41261,6 +41401,35 @@
      "win_prob": {
       "away": 30.4,
       "home": 69.6
+     }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 4.65,
+     "gtd": {
+      "away": [
+       "Austin Reaves"
+      ],
+      "home": [
+       "Dylan Harper",
+       "De'Aaron Fox"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [],
+      "home": [
+       "Tobias Harris",
+       "Jayden Quaintance"
+      ]
+     },
+     "pick": "San Antonio Spurs",
+     "pick_code": "SAS",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 37.1,
+      "home": 62.9
      }
     }
    ]
@@ -41309,6 +41478,41 @@
       "away": 43.0,
       "home": 57.0
      }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 0.17,
+     "gtd": {
+      "away": [
+       "Zach Edey"
+      ],
+      "home": [
+       "LaMelo Ball"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Cameron Boozer",
+       "GG Jackson",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 49.5,
+      "home": 50.5
+     }
     }
    ]
   },
@@ -41346,6 +41550,32 @@
      "win_prob": {
       "away": 31.5,
       "home": 68.5
+     }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 4.78,
+     "gtd": {
+      "away": [
+       "Giannis Antetokounmpo",
+       "Andrew Wiggins"
+      ],
+      "home": [
+       "OG Anunoby"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [],
+      "home": []
+     },
+     "pick": "New York Knicks",
+     "pick_code": "NYK",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 36.8,
+      "home": 63.2
      }
     }
    ]
@@ -41386,6 +41616,33 @@
       "away": 20.4,
       "home": 79.6
      }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 14.39,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [],
+      "home": [
+       "Cade Cunningham",
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Taurean Prince"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 15.4,
+      "home": 84.6
+     }
     }
    ]
   },
@@ -41423,6 +41680,32 @@
      "win_prob": {
       "away": 40.9,
       "home": 59.1
+     }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": 2.72,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Dejounte Murray"
+      ],
+      "home": [
+       "Jordan Miller",
+       "Bradley Beal"
+      ]
+     },
+     "pick": "LA Clippers",
+     "pick_code": "LAC",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 42.4,
+      "home": 57.6
      }
     }
    ]
@@ -41467,6 +41750,38 @@
      "win_prob": {
       "away": 58.1,
       "home": 41.9
+     }
+    },
+    {
+     "at": "2026-11-27T09:30-05:00",
+     "expected_margin": -5.49,
+     "gtd": {
+      "away": [
+       "Joel Embiid"
+      ],
+      "home": [
+       "Kelly Oubre Jr."
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-27T09:30-05:00",
+     "win_prob": {
+      "away": 65.1,
+      "home": 34.9
      }
     }
    ]
