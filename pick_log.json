@@ -41959,6 +41959,35 @@
       "away": 20.4,
       "home": 79.6
      }
+    },
+    {
+     "at": "2026-11-27T12:48-05:00",
+     "expected_margin": 12.17,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Kasparas Jakucionis"
+      ],
+      "home": [
+       "Cade Cunningham",
+       "Jalen Duren",
+       "Duncan Robinson",
+       "Ebuka Okorie",
+       "Taurean Prince"
+      ]
+     },
+     "pick": "Detroit Pistons",
+     "pick_code": "DET",
+     "reason": "Kasparas Jakucionis (MIL) now out",
+     "report": "2026-11-27T12:45-05:00",
+     "win_prob": {
+      "away": 20.1,
+      "home": 79.9
+     }
     }
    ]
   },

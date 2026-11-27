@@ -574,17 +574,17 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 79.6,
-   "away": 20.4
+   "home": 79.9,
+   "away": 20.1
   },
   "win_prob_band": {
-   "low": 79.6,
-   "high": 79.6,
+   "low": 79.9,
+   "high": 79.9,
    "gtd_count": 0
   },
-  "expected_margin": 12.0,
+  "expected_margin": 12.17,
   "expected_score": {
-   "home": 117.9,
+   "home": 118.0,
    "away": 105.9
   },
   "margin_breakdown": [
@@ -605,8 +605,8 @@
    },
    {
     "label": "Absences",
-    "points": -4.17,
-    "detail": "Detroit Pistons 5 out (105 min) costing 4.2 pts"
+    "points": -4.0,
+    "detail": "Detroit Pistons 5 out (105 min) costing 4.2 pts, Milwaukee Bucks 1 out (18 min) costing 0.2 pts"
    }
   ],
   "ratings": {
@@ -677,7 +677,17 @@
      "ppg": 2.0
     }
    ],
-   "away": []
+   "away": [
+    {
+     "player": "Kasparas Jakucionis",
+     "mpg": 17.8,
+     "nth_out": 1,
+     "value": 0.8,
+     "cost": -0.18,
+     "no_minutes": false,
+     "ppg": 8.8
+    }
+   ]
   },
   "gtd": {
    "home": [],
@@ -955,6 +965,12 @@
     "pick": "DET",
     "prob": 79.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T12:48-05:00",
+    "pick": "DET",
+    "prob": 79.9,
+    "reason": "Kasparas Jakucionis (MIL) now out"
    }
   ]
  },
