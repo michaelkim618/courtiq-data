@@ -3623,8 +3623,8 @@
   },
   "win_prob_band": {
    "low": 67.1,
-   "high": 73.8,
-   "gtd_count": 3
+   "high": 69.6,
+   "gtd_count": 2
   },
   "expected_margin": 7.43,
   "expected_score": {
@@ -3717,15 +3717,7 @@
      "ppg": 12.8
     }
    ],
-   "away": [
-    {
-     "player": "Austin Reaves",
-     "mpg": 34.2,
-     "value": 8.6,
-     "status": "Questionable",
-     "ppg": 23.8
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -3969,11 +3961,11 @@
    "creator": {
     "player": "Luka Dončić",
     "guards": [
-     "Quentin Grimes",
-     "Matisse Thybulle"
+     "Austin Reaves",
+     "Quentin Grimes"
     ],
-    "games": 14,
-    "minutes": 36.2,
+    "games": 9,
+    "minutes": 35.9,
     "assists": 7.7
    }
   },
@@ -3999,6 +3991,12 @@
     "pick": "SAS",
     "prob": 69.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Walker Kessler (LAL) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-11-27T14:33-05:00",
+    "pick": "SAS",
+    "prob": 69.6,
+    "reason": "Austin Reaves (LAL) cleared to play"
    }
   ]
  },
