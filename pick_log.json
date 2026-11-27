@@ -42081,6 +42081,11 @@
   "2026-11-27_MIA@NYK": {
    "away": "MIA",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T18:47-05:00",
+    "label": "6:45 PM ET",
+    "report": "2026-11-27T18:45-05:00"
+   },
    "home": "NYK",
    "late": false,
    "locked_at": null,
