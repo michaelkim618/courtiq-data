@@ -1079,7 +1079,7 @@
   "win_prob_band": {
    "low": 41.3,
    "high": 45.1,
-   "gtd_count": 2
+   "gtd_count": 3
   },
   "expected_margin": -2.98,
   "expected_score": {
@@ -1196,6 +1196,13 @@
      "value": 5.7,
      "status": "Questionable",
      "ppg": 19.5
+    },
+    {
+     "player": "Dean Wade",
+     "mpg": 24.3,
+     "value": 0.0,
+     "status": "Questionable",
+     "ppg": 4.4
     }
    ]
   },
@@ -1471,6 +1478,12 @@
     "pick": "PHI",
     "prob": 58.1,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T13:03-05:00",
+    "pick": "PHI",
+    "prob": 58.1,
+    "reason": "Dean Wade (PHI) now questionable"
    }
   ]
  },

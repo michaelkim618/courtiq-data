@@ -42186,6 +42186,39 @@
       "away": 58.1,
       "home": 41.9
      }
+    },
+    {
+     "at": "2026-11-27T13:03-05:00",
+     "expected_margin": -2.98,
+     "gtd": {
+      "away": [
+       "Joel Embiid",
+       "Dean Wade"
+      ],
+      "home": [
+       "Kelly Oubre Jr."
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Dean Wade (PHI) now questionable",
+     "report": "2026-11-27T13:00-05:00",
+     "win_prob": {
+      "away": 58.1,
+      "home": 41.9
+     }
     }
    ]
   }
