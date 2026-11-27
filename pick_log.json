@@ -41778,6 +41778,40 @@
       "away": 43.0,
       "home": 57.0
      }
+    },
+    {
+     "at": "2026-11-27T13:48-05:00",
+     "expected_margin": 1.75,
+     "gtd": {
+      "away": [
+       "Zach Edey"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Cameron Boozer",
+       "GG Jackson",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "LaMelo Ball",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Minnesota Timberwolves",
+     "pick_code": "MIN",
+     "reason": "LaMelo Ball (MIN) now out",
+     "report": "2026-11-27T13:45-05:00",
+     "win_prob": {
+      "away": 45.2,
+      "home": 54.8
+     }
     }
    ]
   },

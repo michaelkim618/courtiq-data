@@ -2585,18 +2585,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 57.0,
-   "away": 43.0
+   "home": 54.8,
+   "away": 45.2
   },
   "win_prob_band": {
    "low": 54.8,
-   "high": 57.0,
-   "gtd_count": 2
+   "high": 54.8,
+   "gtd_count": 1
   },
-  "expected_margin": 2.57,
+  "expected_margin": 1.75,
   "expected_score": {
-   "home": 114.9,
-   "away": 112.4
+   "home": 114.5,
+   "away": 112.8
   },
   "margin_breakdown": [
    {
@@ -2616,8 +2616,8 @@
    },
    {
     "label": "Absences",
-    "points": -1.36,
-    "detail": "Minnesota Timberwolves 3 out (70 min) costing 2.5 pts, Memphis Grizzlies 4 out (82 min) costing 1.1 pts · Richie Saunders out all season, already baked into team rating"
+    "points": -2.17,
+    "detail": "Minnesota Timberwolves 4 out (97 min) costing 3.3 pts, Memphis Grizzlies 4 out (82 min) costing 1.1 pts · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -2650,6 +2650,15 @@
      "cost": -2.49,
      "no_minutes": false,
      "ppg": 23.6
+    },
+    {
+     "player": "LaMelo Ball",
+     "mpg": 26.8,
+     "nth_out": 1,
+     "value": 3.9,
+     "cost": -0.82,
+     "no_minutes": false,
+     "ppg": 15.8
     },
     {
      "player": "Donte DiVincenzo",
@@ -2718,15 +2727,7 @@
    ]
   },
   "gtd": {
-   "home": [
-    {
-     "player": "LaMelo Ball",
-     "mpg": 26.8,
-     "value": 3.9,
-     "status": "Questionable",
-     "ppg": 15.8
-    }
-   ],
+   "home": [],
    "away": [
     {
      "player": "Zach Edey",
@@ -2784,19 +2785,6 @@
      "apg": 1.6
     },
     {
-     "player": "LaMelo Ball",
-     "player_id": 1630163,
-     "position": "G",
-     "starter": true,
-     "games": 19,
-     "starts": 19,
-     "start_rate": 100,
-     "mpg": 28.5,
-     "ppg": 17.3,
-     "rpg": 4.4,
-     "apg": 5.7
-    },
-    {
      "player": "Ayo Dosunmu",
      "player_id": 1630245,
      "position": "G",
@@ -2813,7 +2801,7 @@
      "player": "Terrence Shannon Jr",
      "player_id": 1630545,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -2847,6 +2835,19 @@
      "ppg": 4.7,
      "rpg": 6.1,
      "apg": 0.4
+    },
+    {
+     "player": "Bones Hyland",
+     "player_id": 1630538,
+     "position": "G",
+     "starter": false,
+     "games": 19,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 14.3,
+     "ppg": 9.7,
+     "rpg": 1.3,
+     "apg": 2.9
     }
    ],
    "away": [
@@ -3009,6 +3010,12 @@
     "pick": "MIN",
     "prob": 57.0,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-27T13:48-05:00",
+    "pick": "MIN",
+    "prob": 54.8,
+    "reason": "LaMelo Ball (MIN) now out"
    }
   ]
  },
