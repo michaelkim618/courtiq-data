@@ -8603,18 +8603,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 60.4,
-   "away": 39.6
+   "home": 62.3,
+   "away": 37.7
   },
   "win_prob_band": {
-   "low": 58.6,
-   "high": 60.4,
-   "gtd_count": 1
+   "low": 60.6,
+   "high": 62.3,
+   "gtd_count": 2
   },
-  "expected_margin": 3.73,
+  "expected_margin": 4.44,
   "expected_score": {
-   "home": 118.0,
-   "away": 114.3
+   "home": 118.4,
+   "away": 113.9
   },
   "margin_breakdown": [
    {
@@ -8639,8 +8639,8 @@
    },
    {
     "label": "Absences",
-    "points": 0.85,
-    "detail": "Chicago Bulls 2 out (57 min) costs 0.2 pts, Indiana Pacers 3 out (61 min) costs 1.0 pts · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment · Indiana Pacers: official report not filed yet, ESPN injury list used"
+    "points": 1.56,
+    "detail": "Chicago Bulls 2 out (57 min) costs 0.2 pts, Indiana Pacers 4 out (85 min) costs 1.7 pts · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -8692,18 +8692,7 @@
      "value": 7.6,
      "cost": -1.59,
      "no_minutes": false,
-     "ppg": 18.8,
-     "source": "espn"
-    },
-    {
-     "player": "T.J. McConnell",
-     "mpg": 14.2,
-     "nth_out": 1,
-     "value": 1.5,
-     "cost": -0.32,
-     "no_minutes": false,
-     "ppg": 7.8,
-     "source": "espn"
+     "ppg": 18.8
     },
     {
      "player": "Ben Sheppard",
@@ -8712,8 +8701,25 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 7.0,
-     "source": "espn"
+     "ppg": 7.0
+    },
+    {
+     "player": "Quenton Jackson",
+     "mpg": 19.9,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 8.5
+    },
+    {
+     "player": "Johnny Furphy",
+     "mpg": 18.2,
+     "nth_out": 2,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 5.4
     }
    ]
   },
@@ -8725,6 +8731,13 @@
      "value": 3.1,
      "status": "Probable",
      "ppg": 13.6
+    },
+    {
+     "player": "Josh Giddey",
+     "mpg": 26.9,
+     "value": 0.0,
+     "status": "Questionable",
+     "ppg": 10.0
     }
    ],
    "away": []
@@ -8934,17 +8947,17 @@
      "apg": 1.8
     },
     {
-     "player": "Quenton Jackson",
-     "player_id": 1631245,
-     "position": "G",
+     "player": "Obi Toppin",
+     "player_id": 1630167,
+     "position": "F",
      "starter": false,
-     "games": 19,
+     "games": 16,
      "starts": 0,
      "start_rate": 0,
-     "mpg": 21.5,
-     "ppg": 8.9,
-     "rpg": 3.4,
-     "apg": 2.7
+     "mpg": 20.3,
+     "ppg": 11.2,
+     "rpg": 4.1,
+     "apg": 1.6
     }
    ]
   },
@@ -8956,10 +8969,10 @@
   "data_through": "2026-11-27",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 2.78,
+   "expected_margin": 2.46,
    "win_prob": {
-    "home": 57.6,
-    "away": 42.4
+    "home": 56.7,
+    "away": 43.3
    }
   },
   "transition_preview": {
@@ -8979,8 +8992,7 @@
    "creator": {
     "player": "Andrew Nembhard",
     "guards": [
-     "Aaron Nesmith",
-     "Quenton Jackson"
+     "Aaron Nesmith"
     ],
     "games": 13,
     "minutes": 32.1,
@@ -9021,6 +9033,12 @@
     "pick": "CHI",
     "prob": 60.4,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-28T14:02-05:00",
+    "pick": "CHI",
+    "prob": 62.3,
+    "reason": "Johnny Furphy (IND) now out; Quenton Jackson (IND) now out; T.J. McConnell (IND) no longer out; Josh Giddey (CHI) now questionable"
    }
   ]
  },
@@ -9648,18 +9666,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 76.4,
-   "away": 23.6
+   "home": 82.3,
+   "away": 17.7
   },
   "win_prob_band": {
-   "low": 76.4,
-   "high": 76.4,
+   "low": 82.3,
+   "high": 82.3,
    "gtd_count": 1
   },
-  "expected_margin": 10.18,
+  "expected_margin": 13.12,
   "expected_score": {
-   "home": 118.3,
-   "away": 108.1
+   "home": 119.7,
+   "away": 106.6
   },
   "margin_breakdown": [
    {
@@ -9684,8 +9702,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.39,
-    "detail": "Houston Rockets 1 out (13 min) costs 0.6 pts, Philadelphia 76ers 4 out (104 min) costs 0.2 pts · Philadelphia 76ers: official report not filed yet, ESPN injury list used"
+    "points": 2.55,
+    "detail": "Houston Rockets 1 out (13 min) costs 0.6 pts, Philadelphia 76ers 6 out (151 min) costs 3.2 pts"
    }
   ],
   "ratings": {
@@ -9728,8 +9746,7 @@
      "value": 7.5,
      "cost": -1.58,
      "no_minutes": false,
-     "ppg": 22.0,
-     "source": "espn"
+     "ppg": 22.0
     },
     {
      "player": "Joel Embiid",
@@ -9738,8 +9755,7 @@
      "value": 6.0,
      "cost": -1.26,
      "no_minutes": false,
-     "ppg": 19.9,
-     "source": "espn"
+     "ppg": 19.9
     },
     {
      "player": "LeBron James",
@@ -9748,8 +9764,25 @@
      "value": 2.2,
      "cost": -0.47,
      "no_minutes": false,
-     "ppg": 16.2,
-     "source": "espn"
+     "ppg": 16.2
+    },
+    {
+     "player": "Dean Wade",
+     "mpg": 24.3,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 4.4
+    },
+    {
+     "player": "Dominick Barlow",
+     "mpg": 22.4,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 7.1
     },
     {
      "player": "Ariel Hukporti",
@@ -9758,8 +9791,7 @@
      "value": 0.0,
      "cost": -0.0,
      "no_minutes": false,
-     "ppg": 2.2,
-     "source": "espn"
+     "ppg": 2.2
     }
    ]
   },
@@ -9767,11 +9799,11 @@
    "home": [],
    "away": [
     {
-     "player": "Dean Wade",
-     "mpg": 24.3,
+     "player": "Kentavious Caldwell-Pope",
+     "mpg": 22.6,
      "value": 0.0,
      "status": "Questionable",
-     "ppg": 4.4
+     "ppg": 5.7
     }
    ]
   },
@@ -9915,19 +9947,6 @@
      "apg": 4.4
     },
     {
-     "player": "Dean Wade",
-     "player_id": 1629731,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 26.7,
-     "ppg": 4.7,
-     "rpg": 4.4,
-     "apg": 1.7
-    },
-    {
      "player": "Kentavious Caldwell-Pope",
      "player_id": 203484,
      "position": "G",
@@ -9954,23 +9973,10 @@
      "apg": 1.2
     },
     {
-     "player": "Dominick Barlow",
-     "player_id": 1631230,
-     "position": "F",
-     "starter": false,
-     "games": 4,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 15.2,
-     "ppg": 9.8,
-     "rpg": 5.5,
-     "apg": 0.5
-    },
-    {
      "player": "Jabari Walker",
      "player_id": 1631133,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 16,
      "starts": 0,
      "start_rate": 0,
@@ -9991,6 +9997,32 @@
      "ppg": 1.9,
      "rpg": 3.8,
      "apg": 0.6
+    },
+    {
+     "player": "Labaron Philon Jr.",
+     "player_id": 1642889,
+     "position": "G",
+     "starter": false,
+     "games": 13,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 6.9,
+     "ppg": 2.8,
+     "rpg": 0.8,
+     "apg": 0.8
+    },
+    {
+     "player": "Justin Edwards",
+     "player_id": 1642348,
+     "position": "F",
+     "starter": false,
+     "games": 9,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 4.3,
+     "ppg": 1.7,
+     "rpg": 0.8,
+     "apg": 0.0
     }
    ]
   },
@@ -10026,7 +10058,7 @@
     "player": "Tyrese Maxey",
     "guards": [
      "VJ Edgecombe",
-     "Kentavious Caldwell-Pope"
+     "Anfernee Simons"
     ],
     "games": 18,
     "minutes": 35.8,
@@ -10073,6 +10105,12 @@
     "pick": "HOU",
     "prob": 76.4,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-28T14:02-05:00",
+    "pick": "HOU",
+    "prob": 82.3,
+    "reason": "Dean Wade (PHI) now out; Dominick Barlow (PHI) now out; Kentavious Caldwell-Pope (PHI) now questionable"
    }
   ]
  }
