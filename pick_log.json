@@ -43836,6 +43836,36 @@
       "away": 19.1,
       "home": 80.9
      }
+    },
+    {
+     "at": "2026-11-28T12:33-05:00",
+     "expected_margin": 12.66,
+     "gtd": {
+      "away": [
+       "Dean Wade"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Joel Embiid",
+       "LeBron James",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Steven Adams"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Steven Adams (HOU) now out",
+     "report": "2026-11-28T12:30-05:00",
+     "win_prob": {
+      "away": 19.1,
+      "home": 80.9
+     }
     }
    ]
   }

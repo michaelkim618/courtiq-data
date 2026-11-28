@@ -9596,7 +9596,7 @@
    {
     "label": "Absences",
     "points": 3.31,
-    "detail": "Philadelphia 76ers 4 out (104 min) costing 3.3 pts · Philadelphia 76ers: official report not filed yet, ESPN injury list used"
+    "detail": "Houston Rockets 1 out (13 min), Philadelphia 76ers 4 out (104 min) costing 3.3 pts · Philadelphia 76ers: official report not filed yet, ESPN injury list used"
    },
    {
     "label": "Returning Players",
@@ -9625,7 +9625,17 @@
    }
   },
   "absences": {
-   "home": [],
+   "home": [
+    {
+     "player": "Steven Adams",
+     "mpg": 13.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 3.7
+    }
+   ],
    "away": [
     {
      "player": "Jaylen Brown",
@@ -9959,6 +9969,12 @@
     "pick": "HOU",
     "prob": 80.9,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
+   },
+   {
+    "at": "2026-11-28T12:33-05:00",
+    "pick": "HOU",
+    "prob": 80.9,
+    "reason": "Steven Adams (HOU) now out"
    }
   ]
  }
