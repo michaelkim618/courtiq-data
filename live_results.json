@@ -2186,6 +2186,14 @@
  {
   "date": "2026-11-27",
   "season": "2026-2027",
+  "away": "DEN",
+  "home": "UTA",
+  "conf": 79.6,
+  "correct": true
+ },
+ {
+  "date": "2026-11-27",
+  "season": "2026-2027",
   "away": "MEM",
   "home": "MIN",
   "conf": 58.4,
@@ -2206,6 +2214,14 @@
   "home": "DET",
   "conf": 84.0,
   "correct": true
+ },
+ {
+  "date": "2026-11-27",
+  "season": "2026-2027",
+  "away": "NOP",
+  "home": "LAC",
+  "conf": 56.7,
+  "correct": false
  },
  {
   "date": "2026-11-27",
