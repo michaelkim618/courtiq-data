@@ -43223,6 +43223,35 @@
       "away": 43.0,
       "home": 57.0
      }
+    },
+    {
+     "at": "2026-11-28T01:18-05:00",
+     "expected_margin": 2.86,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Grayson Allen"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Nolan Traore",
+       "Moritz Wagner"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Dennis Schroder"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-28T01:15-05:00",
+     "win_prob": {
+      "away": 42.2,
+      "home": 57.8
+     }
     }
    ]
   },
@@ -43264,6 +43293,36 @@
      "win_prob": {
       "away": 41.3,
       "home": 58.7
+     }
+    },
+    {
+     "at": "2026-11-28T01:18-05:00",
+     "expected_margin": -0.48,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jalen Smith"
+      ]
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Indiana Pacers",
+     "pick_code": "IND",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-28T01:15-05:00",
+     "win_prob": {
+      "away": 51.3,
+      "home": 48.7
      }
     }
    ]
@@ -43307,6 +43366,37 @@
      "win_prob": {
       "away": 83.1,
       "home": 16.9
+     }
+    },
+    {
+     "at": "2026-11-28T01:18-05:00",
+     "expected_margin": -8.7,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Aday Mara",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Kasparas Jakucionis"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-28T01:15-05:00",
+     "win_prob": {
+      "away": 72.6,
+      "home": 27.4
      }
     }
    ]
@@ -43353,6 +43443,39 @@
       "away": 53.3,
       "home": 46.7
      }
+    },
+    {
+     "at": "2026-11-28T01:18-05:00",
+     "expected_margin": 1.34,
+     "gtd": {
+      "away": [
+       "Anthony Black"
+      ],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Kevin Porter Jr.",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins"
+      ]
+     },
+     "pick": "Washington Wizards",
+     "pick_code": "WAS",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%",
+     "report": "2026-11-28T01:15-05:00",
+     "win_prob": {
+      "away": 46.3,
+      "home": 53.7
+     }
     }
    ]
   },
@@ -43389,6 +43512,33 @@
      "win_prob": {
       "away": 20.9,
       "home": 79.1
+     }
+    },
+    {
+     "at": "2026-11-28T01:18-05:00",
+     "expected_margin": 10.83,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v1.8",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Joel Embiid",
+       "LeBron James",
+       "Dean Wade",
+       "Ariel Hukporti"
+      ],
+      "home": []
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5% · Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25",
+     "report": "2026-11-28T01:15-05:00",
+     "win_prob": {
+      "away": 22.8,
+      "home": 77.2
      }
     }
    ]
