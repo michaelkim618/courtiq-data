@@ -43308,6 +43308,35 @@
       "away": 34.7,
       "home": 65.3
      }
+    },
+    {
+     "at": "2026-11-28T13:02-05:00",
+     "expected_margin": 3.94,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Grayson Allen"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Nolan Traore",
+       "Moritz Wagner"
+      ],
+      "home": [
+       "Kon Knueppel",
+       "Dennis Schroder"
+      ]
+     },
+     "pick": "Charlotte Hornets",
+     "pick_code": "CHA",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-28T13:00-05:00",
+     "win_prob": {
+      "away": 39.0,
+      "home": 61.0
+     }
     }
    ]
   },
@@ -43440,6 +43469,36 @@
       "away": 42.4,
       "home": 57.6
      }
+    },
+    {
+     "at": "2026-11-28T13:02-05:00",
+     "expected_margin": 3.73,
+     "gtd": {
+      "away": [],
+      "home": [
+       "Jalen Smith"
+      ]
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard"
+      ],
+      "home": [
+       "Norman Powell",
+       "Caleb Wilson"
+      ]
+     },
+     "pick": "Chicago Bulls",
+     "pick_code": "CHI",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-28T13:00-05:00",
+     "win_prob": {
+      "away": 39.6,
+      "home": 60.4
+     }
     }
    ]
   },
@@ -43571,6 +43630,35 @@
      "win_prob": {
       "away": 78.3,
       "home": 21.7
+     }
+    },
+    {
+     "at": "2026-11-28T13:02-05:00",
+     "expected_margin": -13.84,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Aday Mara",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": []
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-28T13:00-05:00",
+     "win_prob": {
+      "away": 83.6,
+      "home": 16.4
      }
     }
    ]
@@ -43715,6 +43803,39 @@
      "win_prob": {
       "away": 46.3,
       "home": 53.7
+     }
+    },
+    {
+     "at": "2026-11-28T13:02-05:00",
+     "expected_margin": -1.19,
+     "gtd": {
+      "away": [
+       "Anthony Black"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Paolo Banchero",
+       "Kevin Porter Jr.",
+       "Noah Penda",
+       "Jonathan Isaac",
+       "Izaiyah Nelson"
+      ],
+      "home": [
+       "Tristan Vukcevic",
+       "Justin Champagnie",
+       "Jamir Watkins"
+      ]
+     },
+     "pick": "Orlando Magic",
+     "pick_code": "ORL",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-28T13:00-05:00",
+     "win_prob": {
+      "away": 53.4,
+      "home": 46.6
      }
     }
    ]
@@ -43865,6 +43986,36 @@
      "win_prob": {
       "away": 19.1,
       "home": 80.9
+     }
+    },
+    {
+     "at": "2026-11-28T13:02-05:00",
+     "expected_margin": 10.18,
+     "gtd": {
+      "away": [
+       "Dean Wade"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Joel Embiid",
+       "LeBron James",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Steven Adams"
+      ]
+     },
+     "pick": "Houston Rockets",
+     "pick_code": "HOU",
+     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances",
+     "report": "2026-11-28T13:00-05:00",
+     "win_prob": {
+      "away": 23.6,
+      "home": 76.4
      }
     }
    ]

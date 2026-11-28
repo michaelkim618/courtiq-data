@@ -7552,29 +7552,34 @@
    "streak": -2
   },
   "win_prob": {
-   "home": 53.7,
-   "away": 46.3
+   "home": 46.6,
+   "away": 53.4
   },
   "win_prob_band": {
-   "low": 53.7,
-   "high": 54.4,
+   "low": 46.6,
+   "high": 47.4,
    "gtd_count": 1
   },
-  "expected_margin": 1.34,
+  "expected_margin": -1.19,
   "expected_score": {
-   "home": 112.9,
-   "away": 111.6
+   "home": 111.7,
+   "away": 112.8
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": -2.8,
-    "detail": "Washington Wizards -5.9 vs Orlando Magic -3.1, proj. 99.3 possessions"
+    "label": "Player Ratings",
+    "points": -4.78,
+    "detail": "Washington Wizards vs Orlando Magic: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.22,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": -0.15,
+    "detail": "Washington Wizards -5.6 vs Orlando Magic -4.9 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -7583,8 +7588,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.84,
-    "detail": "Washington Wizards 3 out (52 min) costing 0.7 pts, Orlando Magic 4 out (80 min) costing 2.5 pts · Izaiyah Nelson out all season, already baked into team rating"
+    "points": 2.52,
+    "detail": "Washington Wizards 3 out (52 min), no change to the rotation, Orlando Magic 4 out (80 min) costs 2.5 pts · Paolo Banchero outside recent rotation: -1.98 pts scoring adjustment · Kevin Porter Jr. outside recent rotation: -0.54 pts scoring adjustment · Izaiyah Nelson out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -7917,33 +7922,41 @@
   },
   "actual_score": null,
   "actual_winner": null,
-  "model_winner": "Washington Wizards",
+  "model_winner": "Orlando Magic",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-27",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 1.34,
+   "win_prob": {
+    "home": 53.7,
+    "away": 46.3
+   }
+  },
   "transition_preview": {
-   "team": "ORL",
-   "opponent": "WAS",
+   "team": "WAS",
+   "opponent": "ORL",
    "games": [
-    17,
-    19
+    19,
+    17
    ],
-   "scored": 12.1,
-   "allowed": 15.7,
+   "scored": 12.5,
+   "allowed": 13.2,
    "league": 14.1,
    "supported": false,
-   "steals": 7.6,
-   "stolen_from_opponent": 8.6,
-   "opponent_turnovers": 14.7,
+   "steals": 7.4,
+   "stolen_from_opponent": 9.2,
+   "opponent_turnovers": 15.9,
    "creator": {
-    "player": "Franz Wagner",
+    "player": "Trae Young",
     "guards": [
-     "Desmond Bane",
-     "Jalen Suggs"
+     "Bilal Coulibaly",
+     "Tre Johnson"
     ],
-    "games": 9,
+    "games": 16,
     "minutes": 35,
-    "assists": 7.8
+    "assists": 9.2
    }
   },
   "tip_et": "2026-11-28T17:00-05:00",
@@ -7974,6 +7987,12 @@
     "pick": "WAS",
     "prob": 53.7,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-28T13:02-05:00",
+    "pick": "ORL",
+    "prob": 53.4,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -8076,29 +8095,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 65.3,
-   "away": 34.7
+   "home": 61.0,
+   "away": 39.0
   },
   "win_prob_band": {
-   "low": 63.5,
-   "high": 65.3,
+   "low": 59.1,
+   "high": 61.0,
    "gtd_count": 1
   },
-  "expected_margin": 5.71,
+  "expected_margin": 3.94,
   "expected_score": {
-   "home": 113.2,
-   "away": 107.5
+   "home": 112.3,
+   "away": 108.4
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 0.95,
-    "detail": "Charlotte Hornets -6.3 vs Brooklyn Nets -7.3, proj. 97.6 possessions"
+    "label": "Player Ratings",
+    "points": 1.97,
+    "detail": "Charlotte Hornets vs Brooklyn Nets: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.22,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": -0.18,
+    "detail": "Charlotte Hornets -9.8 vs Brooklyn Nets -9.0 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -8107,8 +8131,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.04,
-    "detail": "Charlotte Hornets 2 out (58 min) costing 0.8 pts, Brooklyn Nets 1 out (21 min) costing 0.8 pts · Brooklyn Nets: official report not filed yet, ESPN injury list used"
+    "points": -1.57,
+    "detail": "Charlotte Hornets 2 out (58 min), no change to the rotation, Brooklyn Nets 2 out (39 min) adds 1.6 pts (the player model rates a team better when a low-rated player sits)"
    }
   ],
   "ratings": {
@@ -8160,8 +8184,16 @@
      "value": 3.9,
      "cost": -0.82,
      "no_minutes": false,
-     "ppg": 13.4,
-     "source": "espn"
+     "ppg": 13.4
+    },
+    {
+     "player": "Moritz Wagner",
+     "mpg": 18.1,
+     "nth_out": 2,
+     "value": 1.8,
+     "cost": -0.39,
+     "no_minutes": false,
+     "ppg": 9.9
     }
    ]
   },
@@ -8171,7 +8203,7 @@
      "player": "Grayson Allen",
      "mpg": 26.3,
      "value": 3.3,
-     "status": "Questionable",
+     "status": "Probable",
      "ppg": 15.0
     }
    ],
@@ -8400,8 +8432,16 @@
   "actual_winner": null,
   "model_winner": "Charlotte Hornets",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-27",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 6.1,
+   "win_prob": {
+    "home": 66.3,
+    "away": 33.7
+   }
+  },
   "transition_preview": {
    "team": "BKN",
    "opponent": "CHA",
@@ -8455,6 +8495,12 @@
     "pick": "CHA",
     "prob": 65.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-28T13:02-05:00",
+    "pick": "CHA",
+    "prob": 61.0,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -8557,29 +8603,34 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 57.6,
-   "away": 42.4
+   "home": 60.4,
+   "away": 39.6
   },
   "win_prob_band": {
-   "low": 55.8,
-   "high": 57.6,
+   "low": 58.6,
+   "high": 60.4,
    "gtd_count": 1
   },
-  "expected_margin": 2.78,
+  "expected_margin": 3.73,
   "expected_score": {
-   "home": 117.6,
-   "away": 114.8
+   "home": 118.0,
+   "away": 114.3
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": -1.36,
-    "detail": "Chicago Bulls -5.7 vs Indiana Pacers -4.3, proj. 102.1 possessions"
+    "label": "Player Ratings",
+    "points": -0.47,
+    "detail": "Chicago Bulls vs Indiana Pacers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.22,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": -0.37,
+    "detail": "Chicago Bulls -6.1 vs Indiana Pacers -4.5 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -8588,8 +8639,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.66,
-    "detail": "Chicago Bulls 2 out (57 min) costing 2.6 pts, Indiana Pacers 3 out (61 min) costing 1.9 pts · Indiana Pacers: official report not filed yet, ESPN injury list used"
+    "points": 0.85,
+    "detail": "Chicago Bulls 2 out (57 min) costs 0.2 pts, Indiana Pacers 3 out (61 min) costs 1.0 pts · Tyrese Haliburton outside recent rotation: -1.59 pts scoring adjustment · Indiana Pacers: official report not filed yet, ESPN injury list used"
    }
   ],
   "ratings": {
@@ -8901,8 +8952,16 @@
   "actual_winner": null,
   "model_winner": "Chicago Bulls",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-27",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 2.78,
+   "win_prob": {
+    "home": 57.6,
+    "away": 42.4
+   }
+  },
   "transition_preview": {
    "team": "IND",
    "opponent": "CHI",
@@ -8956,6 +9015,12 @@
     "pick": "CHI",
     "prob": 57.6,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-28T13:02-05:00",
+    "pick": "CHI",
+    "prob": 60.4,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -9058,29 +9123,34 @@
    "streak": -3
   },
   "win_prob": {
-   "home": 21.7,
-   "away": 78.3
+   "home": 16.4,
+   "away": 83.6
   },
   "win_prob_band": {
-   "low": 21.7,
-   "high": 21.7,
+   "low": 16.4,
+   "high": 16.4,
    "gtd_count": 0
   },
-  "expected_margin": -11.34,
+  "expected_margin": -13.84,
   "expected_score": {
-   "home": 107.2,
-   "away": 118.6
+   "home": 106.0,
+   "away": 119.8
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": -13.06,
-    "detail": "Milwaukee Bucks -9.2 vs Oklahoma City Thunder +3.9, proj. 100.0 possessions"
+    "label": "Player Ratings",
+    "points": -8.64,
+    "detail": "Milwaukee Bucks vs Oklahoma City Thunder: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.22,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": -3.44,
+    "detail": "Milwaukee Bucks -11.2 vs Oklahoma City Thunder +2.7 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -9089,8 +9159,8 @@
    },
    {
     "label": "Absences",
-    "points": 1.92,
-    "detail": "Oklahoma City Thunder 6 out (131 min) costing 1.9 pts · Thomas Sorber out all season, already baked into team rating"
+    "points": -0.48,
+    "detail": "Oklahoma City Thunder 6 out (131 min) adds 0.5 pts (the player model rates a team better when a low-rated player sits) · Jalen Williams outside recent rotation: -1.10 pts scoring adjustment · Chet Holmgren outside recent rotation: -0.75 pts scoring adjustment · Thomas Sorber out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -9407,8 +9477,16 @@
   "actual_winner": null,
   "model_winner": "Oklahoma City Thunder",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-27",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": -11.34,
+   "win_prob": {
+    "home": 21.7,
+    "away": 78.3
+   }
+  },
   "transition_preview": {
    "team": "MIL",
    "opponent": "OKC",
@@ -9462,6 +9540,12 @@
     "pick": "OKC",
     "prob": 78.3,
     "reason": "Model update: opening team ratings now weigh the current roster 95%, last season 5%"
+   },
+   {
+    "at": "2026-11-28T13:02-05:00",
+    "pick": "OKC",
+    "prob": 83.6,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  },
@@ -9564,29 +9648,34 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 80.9,
-   "away": 19.1
+   "home": 76.4,
+   "away": 23.6
   },
   "win_prob_band": {
-   "low": 80.9,
-   "high": 80.9,
+   "low": 76.4,
+   "high": 76.4,
    "gtd_count": 1
   },
-  "expected_margin": 12.66,
+  "expected_margin": 10.18,
   "expected_score": {
-   "home": 119.5,
-   "away": 106.8
+   "home": 118.3,
+   "away": 108.1
   },
   "margin_breakdown": [
    {
-    "label": "Net Rating Diff",
-    "points": 4.04,
-    "detail": "Houston Rockets +6.6 vs Philadelphia 76ers +2.5, proj. 98.4 possessions"
+    "label": "Player Ratings",
+    "points": 5.63,
+    "detail": "Houston Rockets vs Philadelphia 76ers: each rostered player's value x his expected minutes, full strength"
    },
    {
     "label": "Home Advantage",
-    "points": 2.3,
-    "detail": "League-measured average"
+    "points": 1.22,
+    "detail": "Fitted with the player ratings"
+   },
+   {
+    "label": "Season Form",
+    "points": 1.22,
+    "detail": "Houston Rockets +8.1 vs Philadelphia 76ers +3.2 points per game so far, weighted by games played"
    },
    {
     "label": "Back-to-Back",
@@ -9595,13 +9684,8 @@
    },
    {
     "label": "Absences",
-    "points": 3.31,
-    "detail": "Houston Rockets 1 out (13 min), Philadelphia 76ers 4 out (104 min) costing 3.3 pts · Philadelphia 76ers: official report not filed yet, ESPN injury list used"
-   },
-   {
-    "label": "Returning Players",
-    "points": 0.51,
-    "detail": "Fred VanVleet (HOU) back after missing 2025-26, valued from 2024-25"
+    "points": -0.39,
+    "detail": "Houston Rockets 1 out (13 min) costs 0.6 pts, Philadelphia 76ers 4 out (104 min) costs 0.2 pts · Philadelphia 76ers: official report not filed yet, ESPN injury list used"
    }
   ],
   "ratings": {
@@ -9914,8 +9998,16 @@
   "actual_winner": null,
   "model_winner": "Houston Rockets",
   "model_correct": null,
-  "model_version": "nba-v1.8",
+  "model_version": "nba-v2.2",
   "data_through": "2026-11-27",
+  "team_model": {
+   "model_version": "nba-v1.8",
+   "expected_margin": 12.66,
+   "win_prob": {
+    "home": 80.9,
+    "away": 19.1
+   }
+  },
   "transition_preview": {
    "team": "PHI",
    "opponent": "HOU",
@@ -9975,6 +10067,12 @@
     "pick": "HOU",
     "prob": 80.9,
     "reason": "Steven Adams (HOU) now out"
+   },
+   {
+    "at": "2026-11-28T13:02-05:00",
+    "pick": "HOU",
+    "prob": 76.4,
+    "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
   ]
  }
