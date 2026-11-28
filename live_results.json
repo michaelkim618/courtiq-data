@@ -2162,6 +2162,14 @@
  {
   "date": "2026-11-27",
   "season": "2026-2027",
+  "away": "ATL",
+  "home": "BOS",
+  "conf": 73.0,
+  "correct": false
+ },
+ {
+  "date": "2026-11-27",
+  "season": "2026-2027",
   "away": "BKN",
   "home": "TOR",
   "conf": 55.2,
