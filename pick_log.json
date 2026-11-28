@@ -41027,6 +41027,11 @@
   "2026-11-27_ATL@BOS": {
    "away": "ATL",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T19:47-05:00",
+    "label": "7:45 PM ET",
+    "report": "2026-11-27T19:45-05:00"
+   },
    "home": "BOS",
    "late": false,
    "locked_at": null,
@@ -41742,6 +41747,39 @@
       "away": 30.5,
       "home": 69.5
      }
+    },
+    {
+     "at": "2026-11-27T19:47-05:00",
+     "expected_margin": 7.21,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Stephen Curry",
+       "Jimmy Butler III",
+       "Kristaps Porzingis",
+       "Moses Moody"
+      ],
+      "home": [
+       "Damian Lillard",
+       "Shaedon Sharpe",
+       "Ja Morant",
+       "Chris Youngblood",
+       "Vit Krejci",
+       "Hansen Yang"
+      ]
+     },
+     "pick": "Portland Trail Blazers",
+     "pick_code": "POR",
+     "reason": "Hansen Yang (POR) now out",
+     "report": "2026-11-27T19:45-05:00",
+     "win_prob": {
+      "away": 30.5,
+      "home": 69.5
+     }
     }
    ]
   },
@@ -42079,6 +42117,41 @@
      "win_prob": {
       "away": 55.1,
       "home": 44.9
+     }
+    },
+    {
+     "at": "2026-11-27T19:47-05:00",
+     "expected_margin": -3.0,
+     "gtd": {
+      "away": [
+       "Zach Edey"
+      ],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Cameron Boozer",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "LaMelo Ball",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Isaiah Stewart (MEM) now out",
+     "report": "2026-11-27T19:45-05:00",
+     "win_prob": {
+      "away": 58.4,
+      "home": 41.6
      }
     }
    ]

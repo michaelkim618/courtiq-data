@@ -2555,7 +2555,7 @@
   },
   "tip_et": "2026-11-27T20:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "7:45 PM ET"
   },
   "pick_updates": [
    {
@@ -2689,18 +2689,18 @@
    "streak": 2
   },
   "win_prob": {
-   "home": 44.9,
-   "away": 55.1
+   "home": 41.6,
+   "away": 58.4
   },
   "win_prob_band": {
-   "low": 44.9,
-   "high": 44.9,
+   "low": 41.6,
+   "high": 41.6,
    "gtd_count": 1
   },
-  "expected_margin": -1.81,
+  "expected_margin": -3.0,
   "expected_score": {
-   "home": 112.7,
-   "away": 114.6
+   "home": 112.1,
+   "away": 115.1
   },
   "margin_breakdown": [
    {
@@ -2725,8 +2725,8 @@
    },
    {
     "label": "Absences",
-    "points": -6.75,
-    "detail": "Minnesota Timberwolves 4 out (97 min) costs 4.3 pts, Memphis Grizzlies 4 out (82 min) adds 2.5 pts (the player model rates a team better when a low-rated player sits) · Anthony Edwards outside recent rotation: -2.49 pts scoring adjustment · Richie Saunders out all season, already baked into team rating"
+    "points": -7.94,
+    "detail": "Minnesota Timberwolves 4 out (97 min) costs 4.3 pts, Memphis Grizzlies 5 out (100 min) adds 3.7 pts (the player model rates a team better when a low-rated player sits) · Anthony Edwards outside recent rotation: -2.49 pts scoring adjustment · Richie Saunders out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -2797,6 +2797,15 @@
      "cost": -0.68,
      "no_minutes": false,
      "ppg": 16.1
+    },
+    {
+     "player": "Isaiah Stewart",
+     "mpg": 17.4,
+     "nth_out": 1,
+     "value": 2.1,
+     "cost": -0.44,
+     "no_minutes": false,
+     "ppg": 9.9
     },
     {
      "player": "GG Jackson",
@@ -3013,23 +3022,10 @@
      "apg": 0.9
     },
     {
-     "player": "Isaiah Stewart",
-     "player_id": 1630191,
-     "position": "F",
-     "starter": true,
-     "games": 14,
-     "starts": 5,
-     "start_rate": 36,
-     "mpg": 18.3,
-     "ppg": 10.6,
-     "rpg": 3.3,
-     "apg": 0.9
-    },
-    {
      "player": "Cam Spencer",
      "player_id": 1642285,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 19,
      "starts": 0,
      "start_rate": 0,
@@ -3063,6 +3059,19 @@
      "ppg": 7.8,
      "rpg": 3.4,
      "apg": 1.0
+    },
+    {
+     "player": "Kris Murray",
+     "player_id": 1631200,
+     "position": "F",
+     "starter": false,
+     "games": 15,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 13.1,
+     "ppg": 2.7,
+     "rpg": 1.6,
+     "apg": 0.8
     }
    ]
   },
@@ -3074,10 +3083,10 @@
   "data_through": "2026-11-25",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 1.75,
+   "expected_margin": 2.19,
    "win_prob": {
-    "home": 54.8,
-    "away": 45.2
+    "home": 56.0,
+    "away": 44.0
    }
   },
   "transition_preview": {
@@ -3139,6 +3148,12 @@
     "pick": "MEM",
     "prob": 55.1,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-27T19:47-05:00",
+    "pick": "MEM",
+    "prob": 58.4,
+    "reason": "Isaiah Stewart (MEM) now out"
    }
   ]
  },
@@ -5260,7 +5275,7 @@
    {
     "label": "Absences",
     "points": 0.05,
-    "detail": "Portland Trail Blazers 5 out (105 min) costs 4.2 pts, Golden State Warriors 4 out (104 min) costs 4.2 pts · Shaedon Sharpe outside recent rotation: -1.48 pts scoring adjustment · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment"
+    "detail": "Portland Trail Blazers 5 out (105 min) costs 4.2 pts, Golden State Warriors 4 out (104 min) costs 4.2 pts · Shaedon Sharpe outside recent rotation: -1.48 pts scoring adjustment · Jimmy Butler III outside recent rotation: -1.27 pts scoring adjustment · Hansen Yang out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -5329,6 +5344,14 @@
      "cost": -0.0,
      "no_minutes": false,
      "ppg": 3.4
+    },
+    {
+     "player": "Hansen Yang",
+     "mpg": 0.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": true
     }
    ],
    "away": [
@@ -5666,6 +5689,12 @@
     "pick": "POR",
     "prob": 69.5,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-27T19:47-05:00",
+    "pick": "POR",
+    "prob": 69.5,
+    "reason": "Hansen Yang (POR) now out"
    }
   ]
  }
