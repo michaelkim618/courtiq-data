@@ -3409,7 +3409,7 @@
  },
  {
   "date": "2026-11-27",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Memphis Grizzlies",
   "home": "Minnesota Timberwolves",
   "away_code": "MEM",
@@ -3665,229 +3665,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 19,
-    "away": 19
-   },
-   "home": [
-    {
-     "player": "Jaden McDaniels",
-     "player_id": 1630183,
-     "position": "F",
-     "starter": true,
-     "games": 19,
-     "starts": 19,
-     "start_rate": 100,
-     "mpg": 34.1,
-     "ppg": 19.2,
-     "rpg": 6.4,
-     "apg": 3.8
-    },
-    {
-     "player": "Jonathan Kuminga",
-     "player_id": 1630228,
-     "position": "F",
-     "starter": true,
-     "games": 18,
-     "starts": 18,
-     "start_rate": 100,
-     "mpg": 30.8,
-     "ppg": 13.0,
-     "rpg": 5.3,
-     "apg": 2.7
-    },
-    {
-     "player": "Rudy Gobert",
-     "player_id": 203497,
-     "position": "C",
-     "starter": true,
-     "games": 18,
-     "starts": 18,
-     "start_rate": 100,
-     "mpg": 29.4,
-     "ppg": 7.7,
-     "rpg": 10.4,
-     "apg": 1.6
-    },
-    {
-     "player": "Ayo Dosunmu",
-     "player_id": 1630245,
-     "position": "G",
-     "starter": true,
-     "games": 19,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 31.8,
-     "ppg": 18.1,
-     "rpg": 4.3,
-     "apg": 3.5
-    },
-    {
-     "player": "Terrence Shannon Jr",
-     "player_id": 1630545,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.8,
-     "ppg": 12.8,
-     "rpg": 3.2,
-     "apg": 3.0
-    },
-    {
-     "player": "Trey Lyles",
-     "player_id": 1626168,
-     "position": "F",
-     "starter": false,
-     "games": 19,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 19.1,
-     "ppg": 6.5,
-     "rpg": 4.2,
-     "apg": 1.2
-    },
-    {
-     "player": "Joan Beringer",
-     "player_id": 1642866,
-     "position": "F",
-     "starter": false,
-     "games": 19,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.9,
-     "ppg": 4.7,
-     "rpg": 6.1,
-     "apg": 0.4
-    },
-    {
-     "player": "Bones Hyland",
-     "player_id": 1630538,
-     "position": "G",
-     "starter": false,
-     "games": 19,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 14.3,
-     "ppg": 9.7,
-     "rpg": 1.3,
-     "apg": 2.9
-    }
-   ],
-   "away": [
-    {
-     "player": "Ty Jerome",
-     "player_id": 1629660,
-     "position": "G",
-     "starter": true,
-     "games": 14,
-     "starts": 14,
-     "start_rate": 100,
-     "mpg": 29.8,
-     "ppg": 24.5,
-     "rpg": 3.6,
-     "apg": 5.3
-    },
-    {
-     "player": "Cedric Coward",
-     "player_id": 1642907,
-     "position": "G",
-     "starter": true,
-     "games": 18,
-     "starts": 18,
-     "start_rate": 100,
-     "mpg": 28.7,
-     "ppg": 15.3,
-     "rpg": 8.2,
-     "apg": 3.2
-    },
-    {
-     "player": "Jaylen Wells",
-     "player_id": 1642377,
-     "position": "F",
-     "starter": true,
-     "games": 19,
-     "starts": 19,
-     "start_rate": 100,
-     "mpg": 26.4,
-     "ppg": 11.5,
-     "rpg": 3.2,
-     "apg": 1.2
-    },
-    {
-     "player": "Zach Edey",
-     "player_id": 1641744,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 20.3,
-     "ppg": 8.9,
-     "rpg": 7.1,
-     "apg": 0.9
-    },
-    {
-     "player": "Cam Spencer",
-     "player_id": 1642285,
-     "position": "G",
-     "starter": true,
-     "games": 19,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.9,
-     "ppg": 12.1,
-     "rpg": 2.8,
-     "apg": 5.6
-    },
-    {
-     "player": "Javon Small",
-     "player_id": 1642914,
-     "position": "G",
-     "starter": false,
-     "games": 11,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.5,
-     "ppg": 8.8,
-     "rpg": 3.0,
-     "apg": 5.1
-    },
-    {
-     "player": "Taylor Hendricks",
-     "player_id": 1641707,
-     "position": "F",
-     "starter": false,
-     "games": 14,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.3,
-     "ppg": 7.8,
-     "rpg": 3.4,
-     "apg": 1.0
-    },
-    {
-     "player": "Kris Murray",
-     "player_id": 1631200,
-     "position": "F",
-     "starter": false,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 13.1,
-     "ppg": 2.7,
-     "rpg": 1.6,
-     "apg": 0.8
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 109,
+   "away": 114
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Memphis Grizzlies",
   "model_winner": "Memphis Grizzlies",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
   "team_model": {
@@ -3970,7 +3755,363 @@
     "prob": 58.4,
     "reason": "Zach Edey (MEM) cleared to play"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Jonathan Kuminga",
+     "starter": true,
+     "min": 40,
+     "pts": 19,
+     "reb": 6,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "tov": 4,
+     "pm": 3
+    },
+    {
+     "name": "Ayo Dosunmu",
+     "starter": true,
+     "min": 37,
+     "pts": 27,
+     "reb": 4,
+     "ast": 8,
+     "stl": 3,
+     "blk": 1,
+     "tov": 3,
+     "pm": 4
+    },
+    {
+     "name": "Rudy Gobert",
+     "starter": true,
+     "min": 35,
+     "pts": 13,
+     "reb": 5,
+     "ast": 6,
+     "stl": 1,
+     "blk": 1,
+     "tov": 0,
+     "pm": 0
+    },
+    {
+     "name": "Terrence Shannon Jr.",
+     "starter": true,
+     "min": 30,
+     "pts": 14,
+     "reb": 6,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -4
+    },
+    {
+     "name": "Jaden McDaniels",
+     "starter": true,
+     "min": 29,
+     "pts": 13,
+     "reb": 8,
+     "ast": 2,
+     "stl": 2,
+     "blk": 2,
+     "tov": 4,
+     "pm": -5
+    },
+    {
+     "name": "Bones Hyland",
+     "starter": false,
+     "min": 28,
+     "pts": 16,
+     "reb": 4,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 4,
+     "pm": -6
+    },
+    {
+     "name": "Trey Lyles",
+     "starter": false,
+     "min": 23,
+     "pts": 5,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": -10
+    },
+    {
+     "name": "Joan Beringer",
+     "starter": false,
+     "min": 13,
+     "pts": 2,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "tov": 0,
+     "pm": -5
+    },
+    {
+     "name": "Zyon Pullin",
+     "starter": false,
+     "min": 5,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": -2
+    }
+   ],
+   "away": [
+    {
+     "name": "Kris Murray",
+     "starter": true,
+     "min": 29,
+     "pts": 6,
+     "reb": 6,
+     "ast": 2,
+     "stl": 3,
+     "blk": 2,
+     "tov": 2,
+     "pm": 3
+    },
+    {
+     "name": "Cedric Coward",
+     "starter": true,
+     "min": 28,
+     "pts": 22,
+     "reb": 3,
+     "ast": 3,
+     "stl": 2,
+     "blk": 2,
+     "tov": 2,
+     "pm": 4
+    },
+    {
+     "name": "Cam Spencer",
+     "starter": false,
+     "min": 28,
+     "pts": 16,
+     "reb": 6,
+     "ast": 4,
+     "stl": 3,
+     "blk": 2,
+     "tov": 2,
+     "pm": 17
+    },
+    {
+     "name": "Ty Jerome",
+     "starter": true,
+     "min": 27,
+     "pts": 18,
+     "reb": 1,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -12
+    },
+    {
+     "name": "Jaylen Wells",
+     "starter": true,
+     "min": 25,
+     "pts": 10,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -6
+    },
+    {
+     "name": "Taylor Hendricks",
+     "starter": false,
+     "min": 20,
+     "pts": 7,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 12
+    },
+    {
+     "name": "Lawson Lovering",
+     "starter": false,
+     "min": 20,
+     "pts": 2,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": 1
+    },
+    {
+     "name": "Olivier-Maxence Prosper",
+     "starter": false,
+     "min": 18,
+     "pts": 5,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": 2
+    },
+    {
+     "name": "Javon Small",
+     "starter": false,
+     "min": 17,
+     "pts": 19,
+     "reb": 1,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Quinten Post",
+     "starter": false,
+     "min": 14,
+     "pts": 4,
+     "reb": 5,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Zach Edey",
+     "starter": true,
+     "min": 12,
+     "pts": 5,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 13
+    }
+   ],
+   "transition": {
+    "away": {
+     "fb": 13,
+     "stl": 12,
+     "to": 15,
+     "players": {
+      "kris murray": [
+       29,
+       2
+      ],
+      "cedric coward": [
+       28,
+       3
+      ],
+      "jaylen wells": [
+       25,
+       2
+      ],
+      "zach edey": [
+       12,
+       0
+      ],
+      "ty jerome": [
+       27,
+       3
+      ],
+      "olivier maxence prosper": [
+       18,
+       0
+      ],
+      "taylor hendricks": [
+       20,
+       0
+      ],
+      "quinten post": [
+       14,
+       2
+      ],
+      "lawson lovering": [
+       20,
+       1
+      ],
+      "cam spencer": [
+       28,
+       4
+      ],
+      "javon small": [
+       17,
+       2
+      ]
+     }
+    },
+    "home": {
+     "fb": 10,
+     "stl": 8,
+     "to": 19,
+     "players": {
+      "jaden mcdaniels": [
+       29,
+       2
+      ],
+      "jonathan kuminga": [
+       40,
+       1
+      ],
+      "rudy gobert": [
+       35,
+       6
+      ],
+      "ayo dosunmu": [
+       37,
+       8
+      ],
+      "terrence shannon": [
+       30,
+       4
+      ],
+      "trey lyles": [
+       23,
+       2
+      ],
+      "joan beringer": [
+       13,
+       0
+      ],
+      "bones hyland": [
+       28,
+       4
+      ],
+      "zyon pullin": [
+       5,
+       0
+      ]
+     }
+    }
+   }
+  },
+  "leaders": {
+   "home": {
+    "name": "Ayo Dosunmu",
+    "pts": 27,
+    "reb": 4,
+    "ast": 8
+   },
+   "away": {
+    "name": "Cedric Coward",
+    "pts": 22,
+    "reb": 3,
+    "ast": 3
+   }
+  }
  },
  {
   "date": "2026-11-27",
