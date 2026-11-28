@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "slug": "2026-11-28-film-session-orl-was",
+      "title": "Film Session: ORL @ WAS",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Point Guard Expert",
+      "date": "2026-11-28",
+      "type": "daily",
+      "tag": "Preview",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "A point guard's read on ORL @ WAS — where the matchup is actually won, possession by possession.",
+      "post_kind": "feature"
+    },
+    {
       "slug": "2026-11-27-the-numbers-going-into-2026-11-27",
       "title": "The Numbers Going Into 2026-11-27",
       "author": "Stan",

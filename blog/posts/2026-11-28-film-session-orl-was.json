@@ -1,0 +1,32 @@
+{
+  "slug": "2026-11-28-film-session-orl-was",
+  "title": "Film Session: ORL @ WAS",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_color": "#D97706",
+  "author_role": "Point Guard Expert",
+  "date": "2026-11-28",
+  "type": "daily",
+  "tag": "Preview",
+  "tag_color": "#D97706",
+  "read_time": "3 min",
+  "summary": "A point guard's read on ORL @ WAS — where the matchup is actually won, possession by possession.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Reading the Floor\n\nORL @ WAS on 2026-11-28. Forget the final number for a second — here's where it actually comes from."
+    },
+    {
+      "type": "text",
+      "value": "- **Net Rating Diff**: -2.8 pts — Washington Wizards -5.9 vs Orlando Magic -3.1, proj. 99.3 possessions\n- **Home Advantage**: +2.3 pts — League-measured average\n- **Back-to-Back**: +0.0 pts — Both teams rested\n- **Absences**: +1.8 pts — Washington Wizards 3 out (52 min) costing 0.7 pts, Orlando Magic 4 out (80 min) costing 2.5 pts · Izaiyah Nelson out all season, already baked into team rating"
+    },
+    {
+      "type": "highlight_box",
+      "color": "#D97706",
+      "title": "ACE'S READ",
+      "value": "WAS in the driver's seat",
+      "sub": "Model margin: {:+.1f} (home − away). Doesn't mean the game is played that way — means that's who should be."
+    }
+  ],
+  "post_kind": "feature"
+}
