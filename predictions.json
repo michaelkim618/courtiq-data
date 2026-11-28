@@ -3108,7 +3108,7 @@
   },
   "tip_et": "2026-11-27T20:30-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "8:15 PM ET"
   },
   "pick_updates": [
    {
@@ -4761,18 +4761,18 @@
    "streak": -4
   },
   "win_prob": {
-   "home": 57.7,
-   "away": 42.3
+   "home": 56.7,
+   "away": 43.3
   },
   "win_prob_band": {
-   "low": 57.7,
-   "high": 57.7,
+   "low": 56.7,
+   "high": 56.7,
    "gtd_count": 0
   },
-  "expected_margin": 2.75,
+  "expected_margin": 2.39,
   "expected_score": {
-   "home": 115.9,
-   "away": 113.2
+   "home": 115.8,
+   "away": 113.4
   },
   "margin_breakdown": [
    {
@@ -4797,8 +4797,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.48,
-    "detail": "LA Clippers 1 out (22 min), no change to the rotation, New Orleans Pelicans 1 out (30 min) adds 0.5 pts (the player model rates a team better when a low-rated player sits) · Bradley Beal out all season, already baked into team rating"
+    "points": -0.84,
+    "detail": "LA Clippers 1 out (22 min), no change to the rotation, New Orleans Pelicans 2 out (46 min) adds 0.8 pts (the player model rates a team better when a low-rated player sits) · Bradley Beal out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -4850,6 +4850,15 @@
      "cost": -0.0,
      "no_minutes": false,
      "ppg": 13.6
+    },
+    {
+     "player": "Bennedict Mathurin",
+     "mpg": 16.1,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 6.9
     }
    ]
   },
@@ -5142,6 +5151,12 @@
     "pick": "LAC",
     "prob": 57.7,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-27T20:17-05:00",
+    "pick": "LAC",
+    "prob": 56.7,
+    "reason": "Bennedict Mathurin (NOP) now out"
    }
   ]
  },
