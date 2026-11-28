@@ -2695,7 +2695,7 @@
   "win_prob_band": {
    "low": 41.6,
    "high": 41.6,
-   "gtd_count": 1
+   "gtd_count": 0
   },
   "expected_margin": -3.0,
   "expected_score": {
@@ -2846,15 +2846,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Zach Edey",
-     "mpg": 20.2,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 8.7
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -3154,6 +3146,12 @@
     "pick": "MEM",
     "prob": 58.4,
     "reason": "Isaiah Stewart (MEM) now out"
+   },
+   {
+    "at": "2026-11-27T20:02-05:00",
+    "pick": "MEM",
+    "prob": 58.4,
+    "reason": "Zach Edey (MEM) cleared to play"
    }
   ]
  },
@@ -3256,18 +3254,18 @@
    "streak": 4
   },
   "win_prob": {
-   "home": 54.4,
-   "away": 45.6
+   "home": 65.9,
+   "away": 34.1
   },
   "win_prob_band": {
-   "low": 54.4,
-   "high": 59.2,
-   "gtd_count": 1
+   "low": 65.9,
+   "high": 65.9,
+   "gtd_count": 0
   },
-  "expected_margin": 1.56,
+  "expected_margin": 5.79,
   "expected_score": {
-   "home": 113.9,
-   "away": 112.4
+   "home": 116.0,
+   "away": 110.3
   },
   "margin_breakdown": [
    {
@@ -3292,8 +3290,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.29,
-    "detail": "Phoenix Suns 1 out (24 min), no change to the rotation, Dallas Mavericks 2 out (28 min) adds 0.3 pts (the player model rates a team better when a low-rated player sits) · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
+    "points": 3.94,
+    "detail": "Phoenix Suns 1 out (24 min), no change to the rotation, Dallas Mavericks 3 out (58 min) costs 3.9 pts · Dereck Lively II, Tarik Biberovic out all season, already baked into team rating"
    }
   ],
   "ratings": {
@@ -3329,6 +3327,15 @@
     }
    ],
    "away": [
+    {
+     "player": "Kyrie Irving",
+     "mpg": 29.7,
+     "nth_out": 1,
+     "value": 8.2,
+     "cost": -1.72,
+     "no_minutes": false,
+     "ppg": 21.4
+    },
     {
      "player": "Tobi Lawal",
      "mpg": 7.8,
@@ -3367,15 +3374,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Kyrie Irving",
-     "mpg": 29.7,
-     "value": 8.2,
-     "status": "Questionable",
-     "ppg": 21.4
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -3504,19 +3503,6 @@
      "apg": 6.7
     },
     {
-     "player": "Kyrie Irving",
-     "player_id": 202681,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 30.9,
-     "ppg": 21.3,
-     "rpg": 3.7,
-     "apg": 4.7
-    },
-    {
      "player": "P.J. Washington",
      "player_id": 1629023,
      "position": "F",
@@ -3559,7 +3545,7 @@
      "player": "Naji Marshall",
      "player_id": 1630230,
      "position": "F",
-     "starter": false,
+     "starter": true,
      "games": 15,
      "starts": 5,
      "start_rate": 33,
@@ -3593,6 +3579,19 @@
      "ppg": 6.6,
      "rpg": 3.6,
      "apg": 2.6
+    },
+    {
+     "player": "Walter Clayton Jr.",
+     "player_id": 1642383,
+     "position": "G",
+     "starter": false,
+     "games": 17,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.3,
+     "ppg": 7.6,
+     "rpg": 2.8,
+     "apg": 3.3
     }
    ]
   },
@@ -3604,10 +3603,10 @@
   "data_through": "2026-11-25",
   "team_model": {
    "model_version": "nba-v1.8",
-   "expected_margin": 0.59,
+   "expected_margin": 3.93,
    "win_prob": {
-    "home": 51.6,
-    "away": 48.4
+    "home": 60.7,
+    "away": 39.3
    }
   },
   "transition_preview": {
@@ -3627,11 +3626,12 @@
    "creator": {
     "player": "Cooper Flagg",
     "guards": [
+     "Walter Clayton Jr.",
      "Max Christie"
     ],
-    "games": 14,
+    "games": 13,
     "minutes": 32.9,
-    "assists": 7.1
+    "assists": 7.5
    }
   },
   "tip_et": "2026-11-27T21:00-05:00",
@@ -3668,6 +3668,12 @@
     "pick": "PHX",
     "prob": 54.4,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-27T20:02-05:00",
+    "pick": "PHX",
+    "prob": 65.9,
+    "reason": "Kyrie Irving (DAL) now out"
    }
   ]
  },

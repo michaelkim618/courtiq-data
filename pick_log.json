@@ -41034,7 +41034,7 @@
    },
    "home": "BOS",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-27T20:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-27T20:00-05:00",
    "tip_known": true,
@@ -41457,6 +41457,35 @@
      "win_prob": {
       "away": 45.6,
       "home": 54.4
+     }
+    },
+    {
+     "at": "2026-11-27T20:02-05:00",
+     "expected_margin": 5.79,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Kyrie Irving",
+       "Tobi Lawal",
+       "Sergio de Larrea",
+       "Dereck Lively II",
+       "Tarik Biberovic"
+      ],
+      "home": [
+       "Mark Williams"
+      ]
+     },
+     "pick": "Phoenix Suns",
+     "pick_code": "PHX",
+     "reason": "Kyrie Irving (DAL) now out",
+     "report": "2026-11-27T20:00-05:00",
+     "win_prob": {
+      "away": 34.1,
+      "home": 65.9
      }
     }
    ]
@@ -42149,6 +42178,39 @@
      "pick_code": "MEM",
      "reason": "Isaiah Stewart (MEM) now out",
      "report": "2026-11-27T19:45-05:00",
+     "win_prob": {
+      "away": 58.4,
+      "home": 41.6
+     }
+    },
+    {
+     "at": "2026-11-27T20:02-05:00",
+     "expected_margin": -3.0,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Cameron Boozer",
+       "Isaiah Stewart",
+       "GG Jackson",
+       "Jerami Grant",
+       "Scotty Pippen Jr.",
+       "Richie Saunders"
+      ],
+      "home": [
+       "Anthony Edwards",
+       "LaMelo Ball",
+       "Donte DiVincenzo",
+       "Jaylen Clark"
+      ]
+     },
+     "pick": "Memphis Grizzlies",
+     "pick_code": "MEM",
+     "reason": "Zach Edey (MEM) cleared to play",
+     "report": "2026-11-27T20:00-05:00",
      "win_prob": {
       "away": 58.4,
       "home": 41.6
