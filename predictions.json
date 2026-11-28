@@ -2100,7 +2100,7 @@
  },
  {
   "date": "2026-11-27",
-  "status": "Scheduled",
+  "status": "Final",
   "away": "Brooklyn Nets",
   "home": "Toronto Raptors",
   "away_code": "BKN",
@@ -2303,229 +2303,14 @@
    "home": [],
    "away": []
   },
-  "lineups": {
-   "season": "2026-27",
-   "games": {
-    "home": 17,
-    "away": 17
-   },
-   "home": [
-    {
-     "player": "Scottie Barnes",
-     "player_id": 1630567,
-     "position": "F",
-     "starter": true,
-     "games": 12,
-     "starts": 12,
-     "start_rate": 100,
-     "mpg": 34.3,
-     "ppg": 24.8,
-     "rpg": 7.0,
-     "apg": 5.0
-    },
-    {
-     "player": "Immanuel Quickley",
-     "player_id": 1630193,
-     "position": "G",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 32.1,
-     "ppg": 17.5,
-     "rpg": 3.5,
-     "apg": 6.0
-    },
-    {
-     "player": "Jakob Poeltl",
-     "player_id": 1627751,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 15,
-     "start_rate": 100,
-     "mpg": 24.2,
-     "ppg": 8.7,
-     "rpg": 7.1,
-     "apg": 1.7
-    },
-    {
-     "player": "Ja'Kobe Walter",
-     "player_id": 1642266,
-     "position": "G",
-     "starter": true,
-     "games": 17,
-     "starts": 6,
-     "start_rate": 35,
-     "mpg": 31.7,
-     "ppg": 12.1,
-     "rpg": 4.1,
-     "apg": 2.2
-    },
-    {
-     "player": "Collin Murray-Boyles",
-     "player_id": 1642867,
-     "position": "F",
-     "starter": true,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.6,
-     "ppg": 9.1,
-     "rpg": 5.0,
-     "apg": 1.7
-    },
-    {
-     "player": "Jamal Shead",
-     "player_id": 1642347,
-     "position": "G",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.3,
-     "ppg": 7.9,
-     "rpg": 1.8,
-     "apg": 6.3
-    },
-    {
-     "player": "Jamison Battle",
-     "player_id": 1642419,
-     "position": "F",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 18.4,
-     "ppg": 9.3,
-     "rpg": 2.0,
-     "apg": 0.4
-    },
-    {
-     "player": "Allen Graves",
-     "player_id": 1643512,
-     "position": "F",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 16.9,
-     "ppg": 5.6,
-     "rpg": 3.1,
-     "apg": 0.8
-    }
-   ],
-   "away": [
-    {
-     "player": "Julius Randle",
-     "player_id": 203944,
-     "position": "F",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 33.4,
-     "ppg": 21.9,
-     "rpg": 6.1,
-     "apg": 4.6
-    },
-    {
-     "player": "Michael Porter Jr.",
-     "player_id": 1629008,
-     "position": "F",
-     "starter": true,
-     "games": 16,
-     "starts": 16,
-     "start_rate": 100,
-     "mpg": 32.8,
-     "ppg": 19.1,
-     "rpg": 7.1,
-     "apg": 1.8
-    },
-    {
-     "player": "Day'Ron Sharpe",
-     "player_id": 1630549,
-     "position": "C",
-     "starter": true,
-     "games": 17,
-     "starts": 17,
-     "start_rate": 100,
-     "mpg": 24.4,
-     "ppg": 9.0,
-     "rpg": 7.6,
-     "apg": 4.1
-    },
-    {
-     "player": "Egor Dëmin",
-     "player_id": 1642856,
-     "position": "G",
-     "starter": true,
-     "games": 11,
-     "starts": 11,
-     "start_rate": 100,
-     "mpg": 24.1,
-     "ppg": 11.5,
-     "rpg": 2.5,
-     "apg": 2.9
-    },
-    {
-     "player": "Keon Ellis",
-     "player_id": 1631165,
-     "position": "G",
-     "starter": true,
-     "games": 16,
-     "starts": 12,
-     "start_rate": 75,
-     "mpg": 19.3,
-     "ppg": 4.6,
-     "rpg": 1.6,
-     "apg": 1.6
-    },
-    {
-     "player": "Mikel Brown Jr.",
-     "player_id": 1643414,
-     "position": "G",
-     "starter": false,
-     "games": 13,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 23.4,
-     "ppg": 11.9,
-     "rpg": 2.0,
-     "apg": 3.6
-    },
-    {
-     "player": "Danny Wolf",
-     "player_id": 1642874,
-     "position": "F",
-     "starter": false,
-     "games": 12,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 22.9,
-     "ppg": 9.8,
-     "rpg": 5.0,
-     "apg": 2.0
-    },
-    {
-     "player": "Noah Clowney",
-     "player_id": 1641730,
-     "position": "F",
-     "starter": false,
-     "games": 17,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.8,
-     "ppg": 7.5,
-     "rpg": 4.1,
-     "apg": 1.1
-    }
-   ]
+  "lineups": null,
+  "actual_score": {
+   "home": 124,
+   "away": 100
   },
-  "actual_score": null,
-  "actual_winner": null,
+  "actual_winner": "Toronto Raptors",
   "model_winner": "Toronto Raptors",
-  "model_correct": null,
+  "model_correct": true,
   "model_version": "nba-v2.2",
   "data_through": "2026-11-25",
   "team_model": {
@@ -2590,7 +2375,395 @@
     "prob": 55.2,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
    }
-  ]
+  ],
+  "box_score": {
+   "home": [
+    {
+     "name": "Immanuel Quickley",
+     "starter": true,
+     "min": 38,
+     "pts": 24,
+     "reb": 10,
+     "ast": 14,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 19
+    },
+    {
+     "name": "Scottie Barnes",
+     "starter": true,
+     "min": 36,
+     "pts": 34,
+     "reb": 1,
+     "ast": 5,
+     "stl": 0,
+     "blk": 3,
+     "tov": 3,
+     "pm": 14
+    },
+    {
+     "name": "Jakob Poeltl",
+     "starter": true,
+     "min": 35,
+     "pts": 17,
+     "reb": 9,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "tov": 0,
+     "pm": 15
+    },
+    {
+     "name": "Allen Graves",
+     "starter": true,
+     "min": 33,
+     "pts": 9,
+     "reb": 9,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 1,
+     "pm": 20
+    },
+    {
+     "name": "Collin Murray-Boyles",
+     "starter": false,
+     "min": 25,
+     "pts": 19,
+     "reb": 7,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "tov": 2,
+     "pm": 14
+    },
+    {
+     "name": "Ja'Kobe Walter",
+     "starter": true,
+     "min": 24,
+     "pts": 3,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 1,
+     "pm": 15
+    },
+    {
+     "name": "Jamison Battle",
+     "starter": false,
+     "min": 23,
+     "pts": 9,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 1,
+     "pm": 14
+    },
+    {
+     "name": "Jamal Shead",
+     "starter": false,
+     "min": 18,
+     "pts": 4,
+     "reb": 2,
+     "ast": 7,
+     "stl": 0,
+     "blk": 1,
+     "tov": 3,
+     "pm": 11
+    },
+    {
+     "name": "Alijah Martin",
+     "starter": false,
+     "min": 7,
+     "pts": 5,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -2
+    }
+   ],
+   "away": [
+    {
+     "name": "Julius Randle",
+     "starter": true,
+     "min": 31,
+     "pts": 21,
+     "reb": 5,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -12
+    },
+    {
+     "name": "Michael Porter Jr.",
+     "starter": true,
+     "min": 31,
+     "pts": 17,
+     "reb": 2,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "tov": 4,
+     "pm": -16
+    },
+    {
+     "name": "Mikel Brown Jr.",
+     "starter": true,
+     "min": 25,
+     "pts": 21,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -8
+    },
+    {
+     "name": "Danny Wolf",
+     "starter": true,
+     "min": 22,
+     "pts": 5,
+     "reb": 2,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "tov": 3,
+     "pm": -14
+    },
+    {
+     "name": "Noah Clowney",
+     "starter": false,
+     "min": 21,
+     "pts": 6,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "tov": 2,
+     "pm": -13
+    },
+    {
+     "name": "Grant Nelson",
+     "starter": false,
+     "min": 21,
+     "pts": 0,
+     "reb": 5,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -12
+    },
+    {
+     "name": "Day'Ron Sharpe",
+     "starter": true,
+     "min": 20,
+     "pts": 7,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 2,
+     "tov": 2,
+     "pm": -12
+    },
+    {
+     "name": "Egor Demin",
+     "starter": false,
+     "min": 17,
+     "pts": 7,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 2,
+     "pm": -15
+    },
+    {
+     "name": "Keon Ellis",
+     "starter": false,
+     "min": 17,
+     "pts": 0,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "tov": 0,
+     "pm": -13
+    },
+    {
+     "name": "Chaney Johnson",
+     "starter": false,
+     "min": 12,
+     "pts": 7,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -3
+    },
+    {
+     "name": "Ben Saraf",
+     "starter": false,
+     "min": 9,
+     "pts": 4,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "tov": 1,
+     "pm": -1
+    },
+    {
+     "name": "Josh Minott",
+     "starter": false,
+     "min": 9,
+     "pts": 3,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": -1
+    },
+    {
+     "name": "Terance Mann",
+     "starter": false,
+     "min": 7,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "tov": 0,
+     "pm": 0
+    }
+   ],
+   "transition": {
+    "away": {
+     "fb": 11,
+     "stl": 8,
+     "to": 16,
+     "players": {
+      "julius randle": [
+       31,
+       5
+      ],
+      "michael porter": [
+       31,
+       0
+      ],
+      "danny wolf": [
+       22,
+       3
+      ],
+      "dayron sharpe": [
+       20,
+       2
+      ],
+      "mikel brown": [
+       25,
+       2
+      ],
+      "josh minott": [
+       9,
+       0
+      ],
+      "grant nelson": [
+       21,
+       4
+      ],
+      "noah clowney": [
+       21,
+       3
+      ],
+      "chaney johnson": [
+       12,
+       0
+      ],
+      "terance mann": [
+       7,
+       0
+      ],
+      "keon ellis": [
+       17,
+       1
+      ],
+      "egor demin": [
+       17,
+       1
+      ],
+      "ben saraf": [
+       9,
+       2
+      ]
+     }
+    },
+    "home": {
+     "fb": 14,
+     "stl": 9,
+     "to": 14,
+     "players": {
+      "scottie barnes": [
+       36,
+       5
+      ],
+      "allen graves": [
+       33,
+       1
+      ],
+      "jakob poeltl": [
+       35,
+       2
+      ],
+      "immanuel quickley": [
+       38,
+       14
+      ],
+      "jakobe walter": [
+       24,
+       3
+      ],
+      "jamison battle": [
+       23,
+       0
+      ],
+      "collin murray boyles": [
+       25,
+       1
+      ],
+      "jamal shead": [
+       18,
+       7
+      ],
+      "alijah martin": [
+       7,
+       0
+      ]
+     }
+    }
+   }
+  },
+  "leaders": {
+   "home": {
+    "name": "Scottie Barnes",
+    "pts": 34,
+    "reb": 1,
+    "ast": 5
+   },
+   "away": {
+    "name": "Julius Randle",
+    "pts": 21,
+    "reb": 5,
+    "ast": 5
+   }
+  }
  },
  {
   "date": "2026-11-27",

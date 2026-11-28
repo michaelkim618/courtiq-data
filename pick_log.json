@@ -41191,6 +41191,13 @@
    "home": "TOR",
    "late": false,
    "locked_at": "2026-11-27T19:30-05:00",
+   "result": {
+    "score": {
+     "away": 100,
+     "home": 124
+    },
+    "winner": "home"
+   },
    "season": "2026-2027",
    "tip_et": "2026-11-27T19:30-05:00",
    "tip_known": true,
