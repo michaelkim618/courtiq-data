@@ -41498,6 +41498,11 @@
   "2026-11-27_DEN@UTA": {
    "away": "DEN",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T21:17-05:00",
+    "label": "9:15 PM ET",
+    "report": "2026-11-27T21:15-05:00"
+   },
    "home": "UTA",
    "late": false,
    "locked_at": null,
@@ -41643,6 +41648,11 @@
   "2026-11-27_GSW@POR": {
    "away": "GSW",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T21:17-05:00",
+    "label": "9:15 PM ET",
+    "report": "2026-11-27T21:15-05:00"
+   },
    "home": "POR",
    "late": false,
    "locked_at": null,
@@ -41845,6 +41855,11 @@
   "2026-11-27_LAL@SAS": {
    "away": "LAL",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T21:17-05:00",
+    "label": "9:15 PM ET",
+    "report": "2026-11-27T21:15-05:00"
+   },
    "home": "SAS",
    "late": false,
    "locked_at": null,
@@ -42675,6 +42690,11 @@
   "2026-11-27_NOP@LAC": {
    "away": "NOP",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T21:17-05:00",
+    "label": "9:15 PM ET",
+    "report": "2026-11-27T21:15-05:00"
+   },
    "home": "LAC",
    "late": false,
    "locked_at": null,
