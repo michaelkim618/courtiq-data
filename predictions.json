@@ -4271,18 +4271,18 @@
    "streak": -1
   },
   "win_prob": {
-   "home": 21.0,
-   "away": 79.0
+   "home": 20.4,
+   "away": 79.6
   },
   "win_prob_band": {
-   "low": 21.0,
-   "high": 21.0,
-   "gtd_count": 2
+   "low": 20.4,
+   "high": 20.4,
+   "gtd_count": 0
   },
-  "expected_margin": -11.39,
+  "expected_margin": -11.71,
   "expected_score": {
-   "home": 108.8,
-   "away": 120.2
+   "home": 108.6,
+   "away": 120.3
   },
   "margin_breakdown": [
    {
@@ -4307,8 +4307,8 @@
    },
    {
     "label": "Absences",
-    "points": -0.8,
-    "detail": "Utah Jazz 2 out (51 min) costs 0.8 pts · Lauri Markkanen outside recent rotation: -0.80 pts scoring adjustment"
+    "points": -1.12,
+    "detail": "Utah Jazz 3 out (70 min) costs 1.1 pts · Lauri Markkanen outside recent rotation: -0.80 pts scoring adjustment"
    }
   ],
   "ratings": {
@@ -4350,27 +4350,21 @@
      "cost": -0.8,
      "no_minutes": false,
      "ppg": 15.8
+    },
+    {
+     "player": "Mo Bamba",
+     "mpg": 19.0,
+     "nth_out": 1,
+     "value": 0.0,
+     "cost": -0.0,
+     "no_minutes": false,
+     "ppg": 8.1
     }
    ],
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Jusuf Nurkic",
-     "mpg": 25.9,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 11.0
-    },
-    {
-     "player": "Jaxson Hayes",
-     "mpg": 23.0,
-     "value": 0.0,
-     "status": "Questionable",
-     "ppg": 8.7
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4433,23 +4427,10 @@
      "apg": 1.5
     },
     {
-     "player": "Mo Bamba",
-     "player_id": 1628964,
-     "position": "C",
-     "starter": true,
-     "games": 15,
-     "starts": 0,
-     "start_rate": 0,
-     "mpg": 21.5,
-     "ppg": 8.5,
-     "rpg": 6.9,
-     "apg": 1.1
-    },
-    {
      "player": "Josh Green",
      "player_id": 1630182,
      "position": "G",
-     "starter": false,
+     "starter": true,
      "games": 17,
      "starts": 0,
      "start_rate": 0,
@@ -4483,6 +4464,19 @@
      "ppg": 4.1,
      "rpg": 2.9,
      "apg": 1.1
+    },
+    {
+     "player": "Brice Sensabaugh",
+     "player_id": 1641729,
+     "position": "F",
+     "starter": false,
+     "games": 19,
+     "starts": 0,
+     "start_rate": 0,
+     "mpg": 18.1,
+     "ppg": 10.5,
+     "rpg": 3.6,
+     "apg": 1.5
     }
    ],
    "away": [
@@ -4659,6 +4653,12 @@
     "pick": "DEN",
     "prob": 79.0,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-27T20:32-05:00",
+    "pick": "DEN",
+    "prob": 79.6,
+    "reason": "Mo Bamba (UTA) now out; Jaxson Hayes (UTA) cleared to play; Jusuf Nurkic (UTA) cleared to play"
    }
   ]
  },
