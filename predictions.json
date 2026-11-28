@@ -3636,7 +3636,7 @@
   },
   "tip_et": "2026-11-27T21:00-05:00",
   "injury_report": {
-   "final_check": null
+   "final_check": "8:45 PM ET"
   },
   "pick_updates": [
    {
@@ -3780,9 +3780,9 @@
    "away": 37.1
   },
   "win_prob_band": {
-   "low": 60.2,
+   "low": 62.9,
    "high": 62.9,
-   "gtd_count": 2
+   "gtd_count": 0
   },
   "expected_margin": 4.67,
   "expected_score": {
@@ -3859,22 +3859,7 @@
    "away": []
   },
   "gtd": {
-   "home": [
-    {
-     "player": "Dylan Harper",
-     "mpg": 29.2,
-     "value": 4.5,
-     "status": "Questionable",
-     "ppg": 17.5
-    },
-    {
-     "player": "De'Aaron Fox",
-     "mpg": 28.2,
-     "value": 0.3,
-     "status": "Questionable",
-     "ppg": 12.8
-    }
-   ],
+   "home": [],
    "away": []
   },
   "lineups": {
@@ -4169,6 +4154,12 @@
     "pick": "SAS",
     "prob": 62.9,
     "reason": "Model v2.2: Tier 1 rotation minutes use the last 30 player appearances"
+   },
+   {
+    "at": "2026-11-27T20:47-05:00",
+    "pick": "SAS",
+    "prob": 62.9,
+    "reason": "De'Aaron Fox (SAS) cleared to play; Dylan Harper (SAS) cleared to play"
    }
   ]
  },
