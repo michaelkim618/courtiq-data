@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T00:47-05:00",
+ "generated": "2026-11-27T21:47-05:00",
  "live_from": "2026-10-20",
  "days": [
   {
@@ -2593,13 +2593,33 @@
      "updated": true
     }
    ]
+  },
+  {
+   "date": "2026-11-27",
+   "games": 1,
+   "wins": 0,
+   "losses": 1,
+   "pct": 0.0,
+   "cum_wins": 181,
+   "cum_games": 271,
+   "cum_pct": 66.8,
+   "picks": [
+    {
+     "away": "MIA",
+     "home": "NYK",
+     "pick": "NYK",
+     "prob": 62.9,
+     "correct": false,
+     "updated": true
+    }
+   ]
   }
  ],
  "total": {
-  "games": 270,
+  "games": 271,
   "wins": 181,
-  "losses": 89,
-  "pct": 67.0
+  "losses": 90,
+  "pct": 66.8
  },
  "unscored": 0
 }

@@ -2158,5 +2158,13 @@
   "home": "POR",
   "conf": 51.9,
   "correct": true
+ },
+ {
+  "date": "2026-11-27",
+  "season": "2026-2027",
+  "away": "MIA",
+  "home": "NYK",
+  "conf": 62.9,
+  "correct": false
  }
 ]
