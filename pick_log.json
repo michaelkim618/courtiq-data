@@ -41178,6 +41178,11 @@
   "2026-11-27_BKN@TOR": {
    "away": "BKN",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-27T19:15-05:00"
+   },
    "home": "TOR",
    "late": false,
    "locked_at": null,
@@ -42320,6 +42325,11 @@
   "2026-11-27_MIL@DET": {
    "away": "MIL",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-27T19:15-05:00"
+   },
    "home": "DET",
    "late": false,
    "locked_at": null,
@@ -42587,6 +42597,11 @@
   "2026-11-27_PHI@IND": {
    "away": "PHI",
    "date": "2026-11-27",
+   "final_check": {
+    "at": "2026-11-27T19:17-05:00",
+    "label": "7:15 PM ET",
+    "report": "2026-11-27T19:15-05:00"
+   },
    "home": "IND",
    "late": false,
    "locked_at": null,
