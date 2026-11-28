@@ -43692,6 +43692,40 @@
       "away": 83.6,
       "home": 16.4
      }
+    },
+    {
+     "at": "2026-11-28T15:02-05:00",
+     "expected_margin": -14.27,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jalen Williams",
+       "Chet Holmgren",
+       "Aday Mara",
+       "Cason Wallace",
+       "Jaylin Williams",
+       "Nikola Topic",
+       "Thomas Sorber"
+      ],
+      "home": [
+       "Tyler Herro",
+       "Jaime Jaquez Jr.",
+       "Kasparas Jakucionis",
+       "Kyle Kuzma"
+      ]
+     },
+     "pick": "Oklahoma City Thunder",
+     "pick_code": "OKC",
+     "reason": "Jaime Jaquez Jr. (MIL) now out; Kasparas Jakucionis (MIL) now out; Kyle Kuzma (MIL) now out; Tyler Herro (MIL) now out",
+     "report": "2026-11-28T15:00-05:00",
+     "win_prob": {
+      "away": 84.4,
+      "home": 15.6
+     }
     }
    ]
   },
