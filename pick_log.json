@@ -42088,7 +42088,7 @@
    },
    "home": "NYK",
    "late": false,
-   "locked_at": null,
+   "locked_at": "2026-11-27T19:00-05:00",
    "season": "2026-2027",
    "tip_et": "2026-11-27T19:00-05:00",
    "tip_known": true,
@@ -42815,6 +42815,36 @@
      "pick_code": "PHI",
      "reason": "Dean Wade (PHI) now out",
      "report": "2026-11-27T18:30-05:00",
+     "win_prob": {
+      "away": 61.7,
+      "home": 38.3
+     }
+    },
+    {
+     "at": "2026-11-27T19:02-05:00",
+     "expected_margin": -4.2,
+     "gtd": {
+      "away": [],
+      "home": []
+     },
+     "model": "nba-v2.2",
+     "out": {
+      "away": [
+       "Jaylen Brown",
+       "Dean Wade",
+       "Ariel Hukporti"
+      ],
+      "home": [
+       "Tyrese Haliburton",
+       "T.J. McConnell",
+       "Ben Sheppard",
+       "Johnny Furphy"
+      ]
+     },
+     "pick": "Philadelphia 76ers",
+     "pick_code": "PHI",
+     "reason": "Joel Embiid (PHI) cleared to play",
+     "report": "2026-11-27T19:00-05:00",
      "win_prob": {
       "away": 61.7,
       "home": 38.3

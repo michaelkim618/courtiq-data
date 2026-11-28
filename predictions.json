@@ -1138,8 +1138,8 @@
   },
   "win_prob_band": {
    "low": 38.3,
-   "high": 41.6,
-   "gtd_count": 1
+   "high": 38.3,
+   "gtd_count": 0
   },
   "expected_margin": -4.2,
   "expected_score": {
@@ -1264,15 +1264,7 @@
   },
   "gtd": {
    "home": [],
-   "away": [
-    {
-     "player": "Joel Embiid",
-     "mpg": 31.2,
-     "value": 5.7,
-     "status": "Questionable",
-     "ppg": 19.5
-    }
-   ]
+   "away": []
   },
   "lineups": {
    "season": "2026-27",
@@ -1578,6 +1570,12 @@
     "pick": "PHI",
     "prob": 61.7,
     "reason": "Dean Wade (PHI) now out"
+   },
+   {
+    "at": "2026-11-27T19:02-05:00",
+    "pick": "PHI",
+    "prob": 61.7,
+    "reason": "Joel Embiid (PHI) cleared to play"
    }
   ]
  },
