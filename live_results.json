@@ -2194,6 +2194,22 @@
  {
   "date": "2026-11-27",
   "season": "2026-2027",
+  "away": "GSW",
+  "home": "POR",
+  "conf": 69.5,
+  "correct": true
+ },
+ {
+  "date": "2026-11-27",
+  "season": "2026-2027",
+  "away": "LAL",
+  "home": "SAS",
+  "conf": 62.9,
+  "correct": true
+ },
+ {
+  "date": "2026-11-27",
+  "season": "2026-2027",
   "away": "MEM",
   "home": "MIN",
   "conf": 58.4,
